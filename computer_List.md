@@ -19,8 +19,8 @@
 <meta name="currentBuildNumber" content="3.0.41936.0" />
 <meta name="currentSolrBuildNumber" content="3.0.33624.0" />
 <meta name="ServerName" content="www.costco.com " />
-<meta name="LocalAddress" content="xxx.xxx.xxx.34" />
-<meta name="LocalName" content="TP12" />
+<meta name="LocalAddress" content="xxx.xxx.xxx.48" />
+<meta name="LocalName" content="TP26" />
 
 <meta name="google-site-verification" content="" />
 
@@ -151,15 +151,15 @@
 									|					|  EXCLUDE products, kits, bundles, product level SKUs	
 			
 	--><!-- Search Profile : X_findProductsByCategory --><!-- Loooking for search term  --><!-- STRY0140041-Fix to set sortby filter to Bestmatch defaultly in category page and search results page(PLP)--><!-- To debug the url catalogNavigationView1
-         product result : 78
-         search url :  search/resources/store/10301/productview/byCategory/577607?profileName=X_findProductsByCategory&identifier=pc-laptops&pageNumber=1&displayUnpublishedProducts=0&searchType=1000&searchSource=S&pageSize=24&orderBy=BestMatch&responseFormat=json&filterTerm=&ffmCenterId=10151%3AStandard%3B50702%3A2DayDelivery%3B&manufacturer=&metaData=&searchTerm=*%3A*&catalogId=10701&advancedFacetList=&filterFacet=&physicalStoreIds=&minPrice=&contractId=4000000000000001002&contractId=60503&maxPrice=&langId=-1&filterType=&categoryId=577607 
+         product result : 84
+         search url :  search/resources/store/10301/productview/byCategory/577607?profileName=X_findProductsByCategory&identifier=pc-laptops&pageNumber=1&displayUnpublishedProducts=0&searchType=1000&searchSource=S&pageSize=24&orderBy=BestMatch&responseFormat=json&filterTerm=&ffmCenterId=10151%3AStandard%3B%3B&manufacturer=&metaData=&searchTerm=*%3A*&catalogId=10701&advancedFacetList=&filterFacet=&physicalStoreIds=&minPrice=&contractId=4000000000000001002&maxPrice=&langId=-1&filterType=&categoryId=577607 
     --><!-- isGroceryDept     --><!-- END SearchSetup.jspf-->
 		<link rel="next" href="https://www.costco.com/pc-laptops.html?currentPage=2&pageSize=24" />
 	<!-- END SearchResultsMetaData.jsp --><!-- STRY0136999-user hits bookmarked category URL it will redirect to No results  category page --><!-- stry0140598-bd-landing-pages-not-loading - BD rolled back part of holiday readiness and this line broke BD landing pages so we conditioned to be BC only  --><!-- Flow which decides when we have to show an empty category page based on various condition -->
 	
   
   <script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false"}]);</script>
-  <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="3C8QM-XUE3B-96T5C-HYEN8-AAN34",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"3C8QM-XUE3B-96T5C-HYEN8-AAN34",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="rlsyowixic5tsx2jntnq-f-eed8eff0d-clientnsv4-s.akamaihd.net",i={"ak.v":"28","ak.cp":"543943","ak.ai":parseInt("192072",10),"ak.ol":"0","ak.cr":17,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"2004261","ak.r":34194,"ak.a2":e,"ak.m":"a","ak.n":"essl","ak.bpcip":"138.229.135.0","ak.cport":36290,"ak.gh":"23.36.15.134","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1598647515","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==pXB2RcOmZjkWC6XtrdqVGJaRj49EYz/cNPntAEsN/kHboRqFxBLp03R3QC7B8tFR1Vzn4mTk0oFT8v7EFFnIYN+NiWlN3dfYaYny+PHz1J1W5i07VXU5qU7MJxxn8dqfHu3UjkwmV/lzK219jmsScbaQM9BSbESqh3gmn5qnA+hB0ayZgM/rIispWECfnVThLzreC8fLR7VnfJfvsIugoIJd1lRfMYpGxdv/uAUWVDrO8AsxXc4XrFt9iyGZgHq6MiHfaVX9PCCJA/8pNqtGs/2SIGDi7xw3K6z0z1P9yJsQ3hco/Ter+ZIgDZAFxRq0eYtk/r0LkGIPusojCx61DKqziMZcZdZZwa/IaVvTW/gHWNXmhiQR5qu/nmqdnC0B1JeW0+zzwdar0oI0tLnyWEF4xA24Hmca2O3rFkwnDMw=","ak.pv":"237","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var _={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!_.i){var a=BOOMR.subscribe;a("before_beacon",_.av,null,null),a("onbeacon",_.rv,null,null),_.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><script>bazadebezolkohpepadr="1753467014"</script><script type="text/javascript" src="https://www.costco.com/akam/11/6883cab5" defer></script></head>
+  <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="3C8QM-XUE3B-96T5C-HYEN8-AAN34",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"3C8QM-XUE3B-96T5C-HYEN8-AAN34",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="izpvp7fykvb5ox2o4mcq-f-b8f1e3354-clientnsv4-s.akamaihd.net",i={"ak.v":"28","ak.cp":"155150","ak.ai":parseInt("192072",10),"ak.ol":"0","ak.cr":29,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"4299e3d9","ak.r":13186,"ak.a2":e,"ak.m":"a","ak.n":"essl","ak.bpcip":"70.95.87.0","ak.cport":59795,"ak.gh":"184.84.242.7","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1599005445","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==2cprNJzSQnxe0yzSt5ZtVzD+tznguWsiuI6V7YcU/aa2UnJhZvHrzUmgmJs8OFi0EiiSOlN85gxA4jBPP2FnIptidiJoz7XgbMSlagSWCrPlmD4IWe9HC16MEPM+n0xYpDWFVn799zqM+05D2Rduazuhi4WcyFuT6GcK5O694eT+Vo9BTUcXzNvWrym1RMFvIjcAAEvyJYC5JXnMOaE+7kAe38vHMmqSJ81C7W5T+1p5QXaNfc+mZ6XOqTj+qGlHT34QeVf65AZNiT/tfR9/e21W7YXI4ShtUJacoaHmg8d9nxiWVvC0InHDo14vGLwiSqeLryUgxhFdVDw2ZWi1K994DuhvPZQ2PurYK/491zTfufOulOEwgVt7J8BVjjxPKYuumwS+WUOmJCCd2yfvXge3yuovoPtf/mGqunux+9o=","ak.pv":"237","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var _={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!_.i){var a=BOOMR.subscribe;a("before_beacon",_.av,null,null),a("onbeacon",_.rv,null,null),_.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><script>bazadebezolkohpepadr="1435441645"</script><script type="text/javascript" src="https://www.costco.com/akam/11/558f19c0" defer></script></head>
   <body>
   	<!-- Header --><!-- START Header.jsp --><!-- START Cache Header.jsp -->
 
@@ -1412,13 +1412,10 @@ var countries = [
     /* Homepage Large Banner [async] */
     var plc432992 = window.plc432992 || 0;
     AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432992, [0,0], 'placement_432992_'+opt.place, opt); }, opt: { place: plc432992++, keywords: abkw, domain: 'adbutler.costco.com', click:'CLICK_MACRO_PLACEHOLDER' }});
-    AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432992, [0,0], 'placement_432992_'+opt.place, opt); }, opt: { place: plc432992++, keywords: abkw, domain: 'adbutler.costco.com', click:'CLICK_MACRO_PLACEHOLDER' }});
-    AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432992, [0,0], 'placement_432992_'+opt.place, opt); }, opt: { place: plc432992++, keywords: abkw, domain: 'adbutler.costco.com', click:'CLICK_MACRO_PLACEHOLDER' }});
+
 
     /* Homepage Large Half Banners [async] - 432993 */
 var plc432993 = window.plc432993 || 0;
-AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432993, [0,0], 'placement_432993_'+opt.place, opt); }, opt: { place: plc432993++, keywords: abkw, domain: 'adbutler.costco.com', click:'CLICK_MACRO_PLACEHOLDER' }});
-AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432993, [0,0], 'placement_432993_'+opt.place, opt); }, opt: { place: plc432993++, keywords: abkw, domain: 'adbutler.costco.com', click:'CLICK_MACRO_PLACEHOLDER' }});
 AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432993, [0,0], 'placement_432993_'+opt.place, opt); }, opt: { place: plc432993++, keywords: abkw, domain: 'adbutler.costco.com', click:'CLICK_MACRO_PLACEHOLDER' }});
 AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432993, [0,0], 'placement_432993_'+opt.place, opt); }, opt: { place: plc432993++, keywords: abkw, domain: 'adbutler.costco.com', click:'CLICK_MACRO_PLACEHOLDER' }});
 
@@ -1433,11 +1430,12 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432993, [0,
 /* Homepage Medium Banners [async] - 432994 */
 var plc432994 = window.plc432994 || 0;
 AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432994, [0,0], 'placement_432994_'+opt.place, opt); }, opt: { place: plc432994++, keywords: abkw, domain: 'adbutler.costco.com', click:'CLICK_MACRO_PLACEHOLDER' }});
-AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432994, [0,0], 'placement_432994_'+opt.place, opt); }, opt: { place: plc432994++, keywords: abkw, domain: 'adbutler.costco.com', click:'CLICK_MACRO_PLACEHOLDER' }});
 
 
 /* Homepage Medium Half Banner [async] - 432995 */
 var plc432995 = window.plc432995 || 0;
+AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432995, [0,0], 'placement_432995_'+opt.place, opt); }, opt: { place: plc432995++, keywords: abkw, domain: 'adbutler.costco.com', click:'CLICK_MACRO_PLACEHOLDER' }});
+AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432995, [0,0], 'placement_432995_'+opt.place, opt); }, opt: { place: plc432995++, keywords: abkw, domain: 'adbutler.costco.com', click:'CLICK_MACRO_PLACEHOLDER' }});
 AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432995, [0,0], 'placement_432995_'+opt.place, opt); }, opt: { place: plc432995++, keywords: abkw, domain: 'adbutler.costco.com', click:'CLICK_MACRO_PLACEHOLDER' }});
 AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432995, [0,0], 'placement_432995_'+opt.place, opt); }, opt: { place: plc432995++, keywords: abkw, domain: 'adbutler.costco.com', click:'CLICK_MACRO_PLACEHOLDER' }});
 
@@ -2379,7 +2377,7 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432995, [0,
 				
 
 
-		<li><a href="https://www.costco.com/OrderStatusCmd?fromYear=2020&amp;fromMonth=2&amp;toYear=2020&amp;toMonth=7">My Orders</a></li>
+		<li><a href="https://www.costco.com/OrderStatusCmd?fromYear=2020&amp;fromMonth=3&amp;toYear=2020&amp;toMonth=8">My Orders</a></li>
 		<li><a href="https://www.costco.com/NonAjaxAccountListDisplayView?listId=.">Lists</a></li>
 		<li><a href="https://www.costco.com/MemberCommunicationPreferencesView?identifier=communication-preferences">Preferences</a></li>
 		
@@ -4061,6 +4059,8 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 				
 					<li data-parent="318609" data-id="30725"><a href="https://www.costco.com/outdoor-decorations.html" aria-expanded="false">Outdoor Decorations</a></li>
 				
+					<li data-parent="318609" data-id="30345"><a href="https://www.costco.com/trees.html" aria-expanded="false">Trees</a></li>
+				
 					<li data-parent="0" data-id="318609"><a href="https://www.costco.com/seasonal.html" aria-expanded="false">Holiday & Seasonal</a></li>
 					
 					<li data-parent="30148" data-id="66009"><a href="https://www.costco.com/french-door-refrigerators.html" aria-expanded="false">French Door Refrigerators</a></li>
@@ -4167,19 +4167,32 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 				
 					<li data-parent="0" data-id="30001"><a href="https://www.costco.com/appliances.html" aria-expanded="false">Appliances</a></li>
 					
-									<li data-espot-parent="30001"><!-- start flyout-appliances-2-200514 -->
-				<!--start image flyout -->
-				<a href="/appliances.html" style="text-decoration:none!important">
-					<div style="background-color:#26272e; max-width: 320px; max-height: 300px; overflow: hidden;" >
-						<!-- SL 1 -->
-						<div style="text-align: center; color:#ffffff; padding: 10% 1% 2% 1%; font-size: calc(12px + 0.6vw); font-weight: normal; line-height: 1.2em; height: 45%;">Shop Appliances Savings</div>
+									<li data-espot-parent="30001"><!-- start flyout-appliances-200831 -->
+
+
+
+
+<!--start image flyout -->
+				<a href="https://www.costco.com/lg-styler-wi-fi-enabled-steam-clothing-care-system.product.100428026.html" style="text-decoration:none!important">
+					<div style="background-color:#eeeeee; max-width: 320px; max-height: 300px;" >
 						<!-- image -->
-						<img style="background-color:#26272e; margin: auto;" src="https://mobilecontent.costco.com/live/resource/img/categories/flyout-appliances-200217-2.png" class="img-responsive" alt="">
+						<img src="https://mobilecontent.costco.com/live/resource/img/categories/appliances-flyout-200831-lg.jpg" class="img-responsive" alt="">
 					</div>
 				</a>
 				<!--end image flyout-->
 <div style="margin-bottom: 15px;"></div>
-<!-- end flyout-appliances-2-200514 --></li>
+
+<!-- start flyout-appliances-200831 -->
+
+   <a href="/CatalogSearch?dept=All&keyword=quicklabor20">
+      <img src="https://mobilecontent.costco.com/live/resource/img/categories/appliances-flyout-200831-default-quickship.jpg" class="img-responsive" alt="Quick Ship">
+    </a>
+<div style="margin-bottom: 15px;"></div>
+
+<!-- end flyout-appliances-200831 -->
+
+
+</li>
 								
 					<li data-parent="30003" data-id="30058"><a href="https://www.costco.com/diapers-wipes.html" aria-expanded="false">Baby Diapers, Wipes & Training Pants</a></li>
 				
@@ -4497,21 +4510,21 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 				
 					<li data-parent="0" data-id="30004"><a href="https://www.costco.com/computers.html" aria-expanded="false">Computers</a></li>
 					
-									<li data-espot-parent="30004"><!-- start flyout-computers-200817 -->
+									<li data-espot-parent="30004"><!-- start flyout-computers-200831 -->
 
 				
 				<!--start image flyout -->
-				<a href="https://www.costco.com/CatalogSearch?dept=All&keyword=NVIDIA+LAPTOPS" style="text-decoration:none!important">
+				<a href="https://www.costco.com/CatalogSearch?dept=All&keyword=computers0824ch" style="text-decoration:none!important">
 					<div style="max-width: 320px; max-height: 620px;" >
 						<!-- image -->
-						<img src="https://mobilecontent.costco.com/live/resource/img/categories/computers-flyout-200817-nvidia.jpg" class="img-responsive" alt="">
+						<img src="https://mobilecontent.costco.com/live/resource/img/categories/computer-flyout-200831-amd.jpg" class="img-responsive" alt="">
 					</div>
 				</a>
 				<!--end image flyout-->
 
 
 <div style="margin-bottom: 15px;"></div>
-<!-- end flyout-computers-200817 --></li>
+<!-- end flyout-computers-200831 --></li>
 								
 					<li data-parent="30164" data-id="593103"><a href="https://www.costco.com/75-inch-tvs-and-above.html" aria-expanded="false">75 in & Above TVs</a></li>
 				
@@ -4563,8 +4576,6 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 				
 					<li data-parent="30005" data-id="30041"><a href="https://www.costco.com/cameras-camcorders.html" aria-expanded="false">Cameras & Camcorders</a></li>
 				
-					<li data-parent="30171" data-id="1214103"><a href="https://www.costco.com/virtual-reality.html" aria-expanded="false">Virtual Reality</a></li>
-				
 					<li data-parent="30171" data-id="71001"><a href="https://www.costco.com/nintendo.html" aria-expanded="false">Nintendo Switch</a></li>
 				
 					<li data-parent="30171" data-id="71002"><a href="https://www.costco.com/xbox-one.html" aria-expanded="false">XBOX One</a></li>
@@ -4615,34 +4626,27 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 				
 					<li data-parent="0" data-id="30005"><a href="https://www.costco.com/electronics.html" aria-expanded="false">Electronics</a></li>
 					
-									<li data-espot-parent="30005"><!-- start flyout-electronics-default -->
-				<!--start coded flyout -->
-				<a href="https://www.costco.com/televisions.html?screen-size-class=60-in+65-in+75-in+77-in+82-in+85-in+86-in&refine=ads_f112001_ntk_cs%253A%252260%2Bin.%2522|ads_f112001_ntk_cs%253A%252265%2Bin.%2522|ads_f112001_ntk_cs%253A%252275%2Bin.%2522|ads_f112001_ntk_cs%253A%252277%2Bin.%2522|ads_f112001_ntk_cs%253A%252282%2Bin.%2522|ads_f112001_ntk_cs%253A%252285%2Bin.%2522|ads_f112001_ntk_cs%253A%252286%2Bin.%2522|" style="text-decoration:none!important">
-					<div style="background-color:#efefef; max-width: 320px; max-height: 300px; overflow: hidden;" >
-						<!-- SL 1 -->
-						<div style="text-align: center; color:#333333; padding: 10% 1% 2% 1%; font-size: calc(12px + 0.6vw); font-weight: normal; line-height: 1.2em; height: 45%;">Large Screen TVs</div>
-						<!-- image -->
-						<img style="background-color:#efefef; margin: auto;" src="https://mobilecontent.costco.com/live/resource/img/categories/flyout-electronics-200217-1.jpg" class="img-responsive" alt="">
-					</div>
-				</a>
-				<!--end coded flyout-->
-<div style="margin-bottom: 15px;"></div>
-<!-- end flyout-electronics-default --></li>
-								
-									<li data-espot-parent="30005"><!-- start flyout-electronics-default-2 -->
-				<!--start image flyout -->
-				<a href="https://www.costco.com/smart-home.html" style="text-decoration:none!important">
-					<div style="background-color:#03ab4b; max-width: 320px; max-height: 300px; overflow: hidden;" >
-						<!-- image -->
-						<img style="background-color:#03ab4b; margin:0 auto; width: 70%; padding-top: 20px;" src="https://mobilecontent.costco.com/live/resource/img/categories/flyout-electronics-200217-2.jpg" class="img-responsive" alt="">						
-						<!-- SL 1 -->
-						<div style="text-align: center; color:#ffffff; padding: 0% 1% 35% 1%; font-size: calc(14px + 0.8vw); font-weight: bold; line-height: 1.2em; height: 45%;">Smart Home</div>
+									<li data-espot-parent="30005"><!-- start flyout-electronics-200831 -->
 
+				
+				
+				
+				<!--start image flyout -->
+				<a href="https://www.costco.com/dji-mavic-mini-bundle---gray.product.100652321.html">
+					<div style="max-width: 320px; max-height: 620px; background: linear-gradient(#fafafa, #ffffff ); border:solid 1px #cccccc" >
+						
+						<div style="font-size: calc(18px + 0.5vw);line-height:1.25em; color:#333333; padding: 1em 0 .0 0;; text-align:center">DJI Mavic Mini Bundle</div>
+						<div style="font-size: calc(10px + 0.5vw);line-height:1.25em; color:#333333; padding-bottom:5px; padding-top:5px; text-align:center">Includes Charging Base and Extra Battery</div>
+
+						
+<div style="font-size: calc(6px + 0.5vw);line-height:1.5em; color:#333333;text-align:center; padding:0 .25em 4em .25em; "> While supplies last.</div>
+<div class="visible-xl" style="height:30px"></div>
+						<!-- image -->
+						<img src="https://mobilecontent.costco.com/live/resource/img/20w1108/20w1108-dji.png" class="img-responsive" alt="">
+						
 					</div>
 				</a>
-				<!--end image flyout-->
-<div style="margin-bottom: 15px;"></div>
-<!-- end flyout-electronics-default --></li>
+				<!--end image flyout--></li>
 								
 					<li data-parent="30070" data-id="30975"><a href="https://www.costco.com/wedding-event-flowers.html" aria-expanded="false">Wedding & Event Flowers</a></li>
 				
@@ -4850,6 +4854,8 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 					
 					<li data-parent="471603" data-id="687601"><a href="https://www.costco.com/meal-delivery-kits.html" aria-expanded="false">Meal Delivery Kits</a></li>
 				
+					<li data-parent="512124" data-id="1223603"><a href="https://www.costco.com/meat-substitutes.html" aria-expanded="false">Meat Substitutes</a></li>
+				
 					<li data-parent="512124" data-id="30261"><a href="https://www.costco.com/beef.html" aria-expanded="false">Beef</a></li>
 				
 					<li data-parent="512124" data-id="30785"><a href="https://www.costco.com/pork.html" aria-expanded="false">Pork</a></li>
@@ -4916,8 +4922,6 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 				
 					<li data-parent="379108" data-id="512125"><a href="https://www.costco.com/paper-products-food-storage.html" aria-expanded="false">Paper & Plastic Products</a></li>
 				
-					<li data-parent="30157" data-id="512109"><a href="https://www.costco.com/chips-pretzels.html" aria-expanded="false">Chips & Pretzels</a></li>
-				
 					<li data-parent="30157" data-id="512112"><a href="https://www.costco.com/trail-snack-mix.html" aria-expanded="false">Snack & Trail Mix</a></li>
 				
 					<li data-parent="30157" data-id="1216106"><a href="https://www.costco.com/dried-fruit.html" aria-expanded="false">Dried Fruit</a></li>
@@ -4929,8 +4933,6 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 					<li data-parent="30157" data-id="30783"><a href="https://www.costco.com/popcorn.html" aria-expanded="false">Popcorn</a></li>
 				
 					<li data-parent="379108" data-id="30157"><a href="https://www.costco.com/snacks.html" aria-expanded="false">Snacks & Nuts</a></li>
-				
-					<li data-parent="512114" data-id="30792"><a href="https://www.costco.com/prepared-food.html" aria-expanded="false">Packaged & Prepared Food</a></li>
 				
 					<li data-parent="512114" data-id="30880"><a href="https://www.costco.com/spices-seasonings.html" aria-expanded="false">Spices, Seasonings & Dried Herbs</a></li>
 				
@@ -5437,21 +5439,33 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 				
 					<li data-parent="0" data-id="30012"><a href="https://www.costco.com/home-and-decor.html" aria-expanded="false">Home & Kitchen</a></li>
 					
-									<li data-espot-parent="30012"><!-- start flyout-home-&-kitchen-200824 -->
-
-				
-				<!--start image flyout -->
-				<a href="https://www.costco.com/CatalogSearch?dept=All&keyword=organic0824ch" style="text-decoration:none!important">
-					<div style="max-width: 320px; max-height: 620px;" >
+									<li data-espot-parent="30012"><!-- start flyout-home-&-kitchen-default -->
+				<!--start coded flyout -->
+				<a href="https://www.costco.com/CatalogSearch?dept=All&keyword=homessentials19" style="text-decoration:none!important">
+					<div style="background-color:#efefef; max-width: 320px; max-height: 300px; overflow: hidden;" >
+						<!-- SL 1 -->
+						<div style="text-align: center; color:#333333; padding: 10% 1% 2% 1%; font-size: calc(12px + 0.6vw); font-weight: normal; line-height: 1.2em; height: 45%;">Home Essentials</div>
 						<!-- image -->
-						<img src="https://mobilecontent.costco.com/live/resource/img/categories/home-flyout-200820-towel.jpg" class="img-responsive" alt="">
+						<img style="background-color:#efefef; margin: auto;" src="https://mobilecontent.costco.com/live/resource/img/categories/flyout-home-200217-1.jpg" class="img-responsive" alt="">
+					</div>
+				</a>
+				<!--end coded flyout-->
+<div style="margin-bottom: 15px;"></div>
+<!-- end flyout-home-&-kitchen-default --></li>
+								
+									<li data-espot-parent="30012"><!-- start flyout-home-&-kitchen--n/a, new Default Flyout -->
+				<!--start image flyout -->
+				<a href="https://www.costco.com/bedding-ensembles.html" style="text-decoration:none!important">
+					<div style="background-color:#f0eeec; max-width: 320px; max-height: 300px; overflow: hidden;" >
+						<!-- SL 1 -->
+						<div style="text-align: center; color:#333333; padding: 10% 1% 2% 1%; font-size: calc(12px + 0.6vw); font-weight: normal; line-height: 1.2em; height: 45%;">Bedding Ensembles & Duvets</div>
+						<!-- image -->
+						<img style="background-color:#f0eeec; margin: auto;" src="https://mobilecontent.costco.com/live/resource/img/categories/home-kitchen-200622-default.jpg" class="img-responsive" alt="">
 					</div>
 				</a>
 				<!--end image flyout-->
-
-
 <div style="margin-bottom: 15px;"></div>
-<!-- end flyout-home-&-kitchen-200824 --></li>
+<!-- end flyout-home-&-kitchen--n/a, new Default Flyout --></li>
 								
 					<li data-parent="30108" data-id="490601"><a href="https://www.costco.com/diamond-rings.html" aria-expanded="false">Diamond & Engagement Rings</a></li>
 				
@@ -5672,6 +5686,8 @@ While Supplies Last">
 				
 					<li data-parent="30130" data-id="31326"><a href="https://www.costco.com/tapes-adhesives.html" aria-expanded="false">Tapes & Adhesives</a></li>
 				
+					<li data-parent="30130" data-id="31291"><a href="https://www.costco.com/scissors-trimmers.html" aria-expanded="false">Cutting & Measuring Tools</a></li>
+				
 					<li data-parent="30130" data-id="30618"><a href="https://www.costco.com/label-maker-supplies.html" aria-expanded="false">Label Makers & Laminating</a></li>
 				
 					<li data-parent="30130" data-id="30278"><a href="https://www.costco.com/boards-easels.html" aria-expanded="false">Boards, Easels & Presentation</a></li>
@@ -5744,21 +5760,12 @@ While Supplies Last">
 				
 					<li data-parent="0" data-id="30015"><a href="https://www.costco.com/office-products.html" aria-expanded="false">Office Products</a></li>
 					
-									<li data-espot-parent="30015"><!-- start flyout-office-products-200817 -->
-
-				
-				<!--start image flyout -->
-				<a href="https://www.costcologoproducts.com/estore/index.jsp?adCode=BNCLP081720&ad=BNCLP081720&CMID=hc-logo_cb_emGB_m06_zz-half_Learn-More" style="text-decoration:none!important">
-					<div style="max-width: 320px; max-height: 620px;" >
-						<!-- image -->
-						<img src="https://mobilecontent.costco.com/live/resource/img/categories/office-flyout-200817-custom-logo.jpg" class="img-responsive" alt="">
-					</div>
-				</a>
-				<!--end image flyout-->
-
-
+									<li data-espot-parent="30015"><!-- start flyout-office-products-200831 -->
+   <a href="https://www.costcochecks.com/home/q/x?AdCode=BNCFL033">
+      <img src="https://mobilecontent.costco.com/live/resource/img/categories/office-banner-200323-checks.jpg" class="img-responsive" alt="Harland Clarke Checks">
+    </a>
 <div style="margin-bottom: 15px;"></div>
-<!-- end flyout-office-products-200817 --></li>
+<!-- end flyout-office-products-200831 --></li>
 								
 					<li data-parent="30142" data-id="30831"><a href="https://www.costco.com/patio-furniture-collections.html" aria-expanded="false">Outdoor Patio Furniture Collections</a></li>
 				
@@ -5803,8 +5810,6 @@ While Supplies Last">
 					<li data-parent="30137" data-id="30731"><a href="https://www.costco.com/outdoor-games.html" aria-expanded="false">Outdoor Games</a></li>
 				
 					<li data-parent="30137" data-id="30774"><a href="https://www.costco.com/play-houses.html" aria-expanded="false">Outdoor Playhouses</a></li>
-				
-					<li data-parent="30137" data-id="30773"><a href="https://www.costco.com/playground-mulch.html" aria-expanded="false">Playground & Rubber Mulch</a></li>
 				
 					<li data-parent="30016" data-id="30137"><a href="https://www.costco.com/outdoor-outdoor-play.html" aria-expanded="false">Backyard Playground Equipment</a></li>
 				
@@ -5958,6 +5963,8 @@ While Supplies Last">
 				
 					<li data-parent="47004" data-id="577124"><a href="https://www.costco.com/scooters.html" aria-expanded="false">Scooters</a></li>
 				
+					<li data-parent="47004" data-id="47005"><a href="https://www.costco.com/skateboards.html" aria-expanded="false">Skateboards</a></li>
+				
 					<li data-parent="30017" data-id="47004"><a href="https://www.costco.com/bikes-boards.html" aria-expanded="false">Bikes, Scooters & Boards</a></li>
 				
 					<li data-parent="30161" data-id="98501"><a href="https://www.costco.com/golf-bags.html" aria-expanded="false">Golf Bags & Carts</a></li>
@@ -5993,8 +6000,6 @@ While Supplies Last">
 					<li data-parent="30017" data-id="403108"><a href="https://www.costco.com/tailgating.html" aria-expanded="false">Tailgating</a></li>
 				
 					<li data-parent="148505" data-id="30280"><a href="https://www.costco.com/boats-kayaks.html" aria-expanded="false">Boats & Kayaks</a></li>
-				
-					<li data-parent="148505" data-id="30741"><a href="https://www.costco.com/paddle-boards.html" aria-expanded="false">Paddle Boards</a></li>
 				
 					<li data-parent="148505" data-id="148506"><a href="https://www.costco.com/surfboards.html" aria-expanded="false">Surfboards</a></li>
 				
@@ -6062,6 +6067,8 @@ While Supplies Last">
 				
 					<li data-parent="30024" data-id="431601"><a href="https://www.costco.com/auto-lifts-jacks.html" aria-expanded="false">Lifts & Jacks</a></li>
 				
+					<li data-parent="30024" data-id="238004"><a href="https://www.costco.com/utility-carts.html" aria-expanded="false">Utility Carts</a></li>
+				
 					<li data-parent="30024" data-id="30917"><a href="https://www.costco.com/tools-equipment.html" aria-expanded="false">Tools & Equipment</a></li>
 				
 					<li data-parent="213503" data-id="30024"><a href="https://www.costco.com/automotive-garage.html" aria-expanded="false">Garage & Shop Accessories</a></li>
@@ -6076,43 +6083,29 @@ While Supplies Last">
 				
 					<li data-parent="0" data-id="213503"><a href="https://www.costco.com/auto-tires.html" aria-expanded="false">Tires & Auto</a></li>
 					
-									<li data-espot-parent="213503"><!-- start flyout-tires-200830 -->
+									<li data-espot-parent="213503"><!-- start flyout-tires-200828 -->
 
-				
-				<!--start coded flyout -->
-				<a href="https://tires.costco.com/" style="text-decoration:none!important; font-weight: font-weight: normal;">
-					<div style="max-width: 320px; max-height: 300px; overflow: hidden; border: 1px solid #cccccc;" >
-						<!-- SL 1 -->
-						<div style="text-align: center; background-color:#ffffff; padding: 2% 1% 2% 1%;">
-							<img src="https://mobilecontent.costco.com/live/resource/img/20w1088/20w1088-flyout-bridgestone-logo.png" alt="Bridgestone" class="img-responsive center-block" style="height: 30px;" />
-						</div>
-						<div style="background-color:#efefef; background-image: url('https://mobilecontent.costco.com/live/resource/img/20w1088/20w1088-flyout-bridgestone-bg.jpg'); background-size: cover; background-repeat: no-repeat; padding-left: 10px; padding-right: 10px">
-						<!-- image -->
-						<img src="https://mobilecontent.costco.com/live/resource/img/20w11148/20w11148-flyout-bridgestone-150.png" class="img-responsive center-block" alt="Save up to $150 Instantly*" />
-						<div class="body-copy-cozy" style="color:#E2211C; text-align: center;">[SAVE <strong>$110</strong> WHEN YOU SPEND* UP TO $699 OR <strong>$150</strong> WHEN YOU SPEND* $700] <br  class="hidden-xs hidden-ms hidden-md hidden-lg" /> ON A SET OF 4 BRIDGESTONE TIRES</div>
-						<div class="legal-copy" style="color:#333333; font-weight: bold; text-align: center; padding: 3% 1% 3% 1%">Valid 7/27/20 - 8/30/20</div>
-						</div>
-					</div>
-				</a>
-				<!--end coded flyout-->
-
+<!--start coded flyout -->
+<a href="https://tires.costco.com/" style="text-decoration:none!important; font-weight: font-weight: normal; ">
+   <div style="max-width: 320px; height: 600px; overflow: hidden;  background-color: #fee600;" >
+	  <!-- SL 1 -->
+	  <div style="text-align: center;">
+		 <img class="img-responsive center-block" src="https://mobilecontent.costco.com/live/resource/img/20w0119/20w0119-tire-michelin-stack-logo.svg" alt="Michelin" style="width:150px;" />
+		 <img src="https://mobilecontent.costco.com/live/resource/img/20w0926/20w0926-flyout-michelin-headline.svg" alt="Save up to $150 Instantly*" class="img-responsive" />
+		 <div class="h4-style-guide" style="color:#0D5BAB; font-weight: normal; font-style: italic; text-transform: uppercase; line-height: 105%">on select sets of 4 Michelin Tires</div>
+	  </div>
+	  <div style="text-align: center; padding:10px 20px;">
+	  <div><strong>$70 + 50% OFF Tire Installation</strong> (a $40 value) on set of 4 Michelin<sup>®</sup> tires.</div>
+	  <div class="h3-style-guide" style="font-weight: bold; color:#0D5BAB;">OR</div> 
+	  <div><strong>$110 + 50% OFF Tire Installation</strong> (a $40 value) on set of 4 Michelin<sup>®</sup> CrossClimate<sup>®</sup>2 tires.</div>
+		 <div class="legal-copy" style="text-align: center; color:#0D5BAB; margin-top: 5px;">Valid 8/31/20 - 9/29/20</div>
+	  </div>
+	  <img src="https://mobilecontent.costco.com/live/resource/img/20w1333/20w1333-cat-200831-michelin.png" style="width: 230px;" alt="" />
+   </div>
+</a>
+<!--end coded flyout-->
 <div style="margin-bottom: 15px;"></div>
-<!-- end flyout-tires-200830 --></li>
-								
-									<li data-espot-parent="213503"><!-- start flyout-tires-200824 -->
-				<!--start image flyout -->
-				<a href="https://www.costco.com/.product.11525150.html" style="text-decoration:none!important">
-					<div style="background-color:#eeeeee; max-width: 320px; max-height: 300px;" >
-						<!-- image -->
-						<img src="https://mobilecontent.costco.com/live/resource/img/categories/auto-flyout-200803-velox.jpg" class="img-responsive" alt="Velox">
-					</div>
-				</a>
-				<!--end image flyout-->
-				
-				
-
-<div style="margin-bottom: 15px;"></div>
-<!-- end flyout-tires-200824 --></li>
+<!-- end flyout-tires-200831 --></li>
 								
 					<li data-parent="372103" data-id="480605"><a href="https://www.costco.com/gift-books-sets.html" aria-expanded="false">Gift Books & Sets</a></li>
 				
@@ -6129,6 +6122,8 @@ While Supplies Last">
 					<li data-parent="30168" data-id="30927"><a href="https://www.costco.com/toys-educational.html" aria-expanded="false">Infant & Preschool</a></li>
 				
 					<li data-parent="30168" data-id="30929"><a href="https://www.costco.com/toys-outdoor-play.html" aria-expanded="false">Outdoor Play</a></li>
+				
+					<li data-parent="30168" data-id="30435"><a href="https://www.costco.com/electronics-tech-toys.html" aria-expanded="false">Electronics & Tech Toys</a></li>
 				
 					<li data-parent="30168" data-id="30779"><a href="https://www.costco.com/plush-toys.html" aria-expanded="false">Plush Toys</a></li>
 				
@@ -6297,18 +6292,6 @@ While Supplies Last">
   <img src="https://mobilecontent.costco.com/live/resource/img/homepage/feature-19w0508-grocery.jpg" style="width:100%;" alt="Same Day and 2 Day delivery. Costco Grocery.">
 </a>
 <!--end  flyout-popover-grocery-190226  -->
-</div>
-								
-						</div>
-					
-						<div data-espot-parent="Home_Ancillary_0" data-id="Home_Ancillary_0_2">
-							
-									<div class="col-xs-offset-6 col-xs-6" style="margin-top:-110px; padding-bottom: 10px;">
-<!--start  flyout-popover-mvm-200625  -->
-<a href="/CatalogSearch?dept=All&keyword=grocerymvm20">
-  <img src="//mobilecontent.costco.com/live/resource/img/homepage/20w11144-aug-mvm-popover.png" style="width:100%;" alt="Member-only Savings. Valid 8/5/20 - 8/30/20." style="padding-bottom:10px">
-</a>
-<!--end  flyout-popover-mvm-200625  -->
 </div>
 								
 						</div>
@@ -6626,12 +6609,12 @@ While Supplies Last">
 						<div data-espot-parent="Home_Ancillary_6" data-id="Home_Ancillary_6_1">
 							
 									<!--start popover travel -->
-<a href="https://www.costcotravel.com/Travel-Offers/20200801uAugSpotlight?utm_source=costco.com&utm_medium=espot&utm_campaign=mkt&utm_term=20200801uAugSpotlight&utm_content=20200803">
-  <div class="offer-tile row" style="background-image: url('https://mobilecontent.costco.com/live/resource/img/homepage/201317-travel-pop-up.jpg') ;background-size: 40%;">
+<a href="https://www.costcotravel.com/Rental-Cars?utm_source=costco.com&utm_medium=espot&utm_campaign=mkt&utm_term=Rental-Cars&utm_content=20200831">
+  <div class="offer-tile row" style="background-image: url('https://mobilecontent.costco.com/live/resource/img/static-us-pdf/20200217_Rental_DotCom_eSpot.jpg') ;background-size: 40%;">
     <div class="caption">
-      <h3>Costco Member<br>Exclusive Travel Deals</h3>
+      <h3>Rental Cars <br>for Every Occasion</h3>
       <p></p>
-      <p class="link">Book by 8/31/20<i class="co-chevron-right"></i></p>
+      <p class="link">Shop Now<i class="co-chevron-right"></i></p>
     </div>
   </div>
 </a>
@@ -6661,17 +6644,13 @@ While Supplies Last">
 					
 						<div data-espot-parent="Home_Ancillary_7" data-id="Home_Ancillary_7_1">
 							
-									<!--start popover membership--> 
-<a href="/RenewMembershipView">
-
-<div class="offer-tile pull-right" style="background-image: url('/wcsstore/CostcoUSBCCatalogAssetStore/homepage/flyout-bg-membership-170405.png');">
-  <div class="caption">
-    <h3>Renew Membership</h3>
-    <p></p>
-    <p class="link">Shop Now <i class="co-chevron-right"></i></p>
-  </div>
-</div>
-</a> 
+									<!--updated lcoutts-->
+<!--start popover membership-->
+<a href="/military-membership.html">
+    <div class="offer-tile pull-right" style="background-image: url('https://mobilecontent.costco.com/live/resource/img/homepage/NavBar-military-20w13147.jpg')">
+        <div class="caption"></div>
+    </div>
+</a>
 
 <!--end popover membership-->
 								
@@ -6745,12 +6724,6 @@ While Supplies Last">
   <img src="https://mobilecontent.costco.com/live/resource/img/homepage/feature-19w0508-grocery.jpg" style="width:100%;" alt="Same Day and 2 Day delivery. Costco Grocery.">
 </a>
 <!--end  flyout-popover-grocery-190226  -->
-</div><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><div data-bi-placement="Home_Ancillary_Popover_0"  class="col-xs-offset-6 col-xs-6" style="margin-top:-110px; padding-bottom: 10px;">
-<!--start  flyout-popover-mvm-200625  -->
-<a href="/CatalogSearch?dept=All&keyword=grocerymvm20">
-  <img src="//mobilecontent.costco.com/live/resource/img/homepage/20w11144-aug-mvm-popover.png" style="width:100%;" alt="Member-only Savings. Valid 8/5/20 - 8/30/20." style="padding-bottom:10px">
-</a>
-<!--end  flyout-popover-mvm-200625  -->
 </div><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- END ContentAreaRwdESpot.jsp Home_Ancillary_Popover_0 -->
 
 	</div>
@@ -7068,12 +7041,12 @@ While Supplies Last">
         </ol>
     </div>
 </div><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!--start popover travel -->
-<a href="https://www.costcotravel.com/Travel-Offers/20200801uAugSpotlight?utm_source=costco.com&utm_medium=espot&utm_campaign=mkt&utm_term=20200801uAugSpotlight&utm_content=20200803">
-  <div data-bi-placement="Home_Ancillary_Popover_6"  class="offer-tile row" style="background-image: url('https://mobilecontent.costco.com/live/resource/img/homepage/201317-travel-pop-up.jpg') ;background-size: 40%;">
+<a href="https://www.costcotravel.com/Rental-Cars?utm_source=costco.com&utm_medium=espot&utm_campaign=mkt&utm_term=Rental-Cars&utm_content=20200831">
+  <div data-bi-placement="Home_Ancillary_Popover_6"  class="offer-tile row" style="background-image: url('https://mobilecontent.costco.com/live/resource/img/static-us-pdf/20200217_Rental_DotCom_eSpot.jpg') ;background-size: 40%;">
     <div class="caption">
-      <h3>Costco Member<br>Exclusive Travel Deals</h3>
+      <h3>Rental Cars <br>for Every Occasion</h3>
       <p></p>
-      <p class="link">Book by 8/31/20<i class="co-chevron-right"></i></p>
+      <p class="link">Shop Now<i class="co-chevron-right"></i></p>
     </div>
   </div>
 </a>
@@ -7100,17 +7073,13 @@ While Supplies Last">
       <li class="sub-item"><a href="/membership-information.html">Why Become A Member</a></li>
     </ol>
   </div>
-</div><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!--start popover membership--> 
-<a href="/RenewMembershipView">
-
-<div data-bi-placement="Home_Ancillary_Popover_7"  class="offer-tile pull-right" style="background-image: url('/wcsstore/CostcoUSBCCatalogAssetStore/homepage/flyout-bg-membership-170405.png');">
-  <div class="caption">
-    <h3>Renew Membership</h3>
-    <p></p>
-    <p class="link">Shop Now <i class="co-chevron-right"></i></p>
-  </div>
-</div>
-</a> 
+</div><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!--updated lcoutts-->
+<!--start popover membership-->
+<a href="/military-membership.html">
+    <div data-bi-placement="Home_Ancillary_Popover_7"  class="offer-tile pull-right" style="background-image: url('https://mobilecontent.costco.com/live/resource/img/homepage/NavBar-military-20w13147.jpg')">
+        <div class="caption"></div>
+    </div>
+</a>
 
 <!--end popover membership--><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- END ContentAreaRwdESpot.jsp Home_Ancillary_Popover_7 -->
 
@@ -7211,7 +7180,7 @@ While Supplies Last">
 			
 				<ul class="custom_crumb hidden-xs hidden-sm " itemprop="breadcrumb" id="banner-list-actions">
 					<li><a href="https://www.costco.com/NonAjaxAccountListDisplayView?listId=." class="body-copy-link">Lists</a></li>
-					<li><a href="https://www.costco.com/OrderStatusCmd?fromYear=2020&fromMonth=2&toYear=2020&toMonth=7" class="body-copy-link">Reorder</a></li>
+					<li><a href="https://www.costco.com/OrderStatusCmd?fromYear=2020&fromMonth=3&toYear=2020&toMonth=8" class="body-copy-link">Reorder</a></li>
 				</ul>
 			</div>
 		</div>
@@ -7230,13 +7199,13 @@ While Supplies Last">
         
 <input type="hidden" id="hasGroceryPdts" value="false" />
 <input type="hidden" id="groceryDefaultHomepage" value="/grocery-household.html" />
-<input type="hidden" id="currentContractIds" value="4000000000000001002;60503" />
-<input type="hidden" id="currentFFMCenterIds" value="10151:Standard;50702:2DayDelivery;" />
+<input type="hidden" id="currentContractIds" value="4000000000000001002" />
+<input type="hidden" id="currentFFMCenterIds" value="10151:Standard;;" />
 <!-- BEGIN DepartmentSetup.jspf-->
 <input type="hidden" id="isBDAppVar" value="BC" />	
 <!-- Find sub categories catalogNavigationView1
       category result : 0 
-      byParentCategory URL :  search/resources/store/10301/categoryview/byParentCategory/577607?profileName=X_findSubCategories&catalogId=10701&contractId=4000000000000001002&contractId=60503&currency=&responseFormat=json&langId=-1&ffmCenterId=10151%3AStandard%3B50702%3A2DayDelivery%3B&categoryId=577607 
+      byParentCategory URL :  search/resources/store/10301/categoryview/byParentCategory/577607?profileName=X_findSubCategories&catalogId=10701&contractId=4000000000000001002&currency=&responseFormat=json&langId=-1&ffmCenterId=10151%3AStandard%3B%3B&categoryId=577607 
     -->
 
 <div class="container-fluid fixed-container page">
@@ -7376,7 +7345,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_3-0" type="checkbox" class="dimension" data-dimensionid="7773789580827367695840123504848325348481253253484841" parent-name="price" 
 	                                                       value="MIN_PRICE%3A%28%7B200+500%7D+500%29" name='$200 - $500' english-name='$200 - $500' title='$200 - $500' data-url="https://www.costco.com/pc-laptops.html?price=200-500&refine=MIN_PRICE%253A%2528%257B200%2B500%257D%2B500%2529|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_3-0" title='$200 - $500'> <span>$200 - $500</span> 
-							<span class="count">(6)</span> </label> 
+							<span class="count">(5)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -7384,7 +7353,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_3-1" type="checkbox" class="dimension" data-dimensionid="77737895808273676958401235348483249484848125324948484841" parent-name="price" 
 	                                                       value="MIN_PRICE%3A%28%7B500+1000%7D+1000%29" name='$500 - $1,000' english-name='$500 - $1,000' title='$500 - $1,000' data-url="https://www.costco.com/pc-laptops.html?price=500-1000&refine=MIN_PRICE%253A%2528%257B500%2B1000%257D%2B1000%2529|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_3-1" title='$500 - $1,000'> <span>$500 - $1,000</span> 
-							<span class="count">(33)</span> </label> 
+							<span class="count">(30)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -7392,7 +7361,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_3-2" type="checkbox" class="dimension" data-dimensionid="7773789580827367695840123494848483250484848125325048484841" parent-name="price" 
 	                                                       value="MIN_PRICE%3A%28%7B1000+2000%7D+2000%29" name='$1,000 - $2,000' english-name='$1,000 - $2,000' title='$1,000 - $2,000' data-url="https://www.costco.com/pc-laptops.html?price=1000-2000&refine=MIN_PRICE%253A%2528%257B1000%2B2000%257D%2B2000%2529|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_3-2" title='$1,000 - $2,000'> <span>$1,000 - $2,000</span> 
-							<span class="count">(34)</span> </label> 
+							<span class="count">(43)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -7400,7 +7369,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_3-3" type="checkbox" class="dimension" data-dimensionid="7773789580827367695840123504848483253484848125325348484841" parent-name="price" 
 	                                                       value="MIN_PRICE%3A%28%7B2000+5000%7D+5000%29" name='$2,000 - $5,000' english-name='$2,000 - $5,000' title='$2,000 - $5,000' data-url="https://www.costco.com/pc-laptops.html?price=2000-5000&refine=MIN_PRICE%253A%2528%257B2000%2B5000%257D%2B5000%2529|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_3-3" title='$2,000 - $5,000'> <span>$2,000 - $5,000</span> 
-							<span class="count">(5)</span> </label> 
+							<span class="count">(6)</span> </label> 
 	                                            </a>
 	                                                      
 	                        </div>
@@ -7423,7 +7392,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_4-0" type="checkbox" class="dimension" data-dimensionid="-7000000000000676503779965102101101327711710811610532659999101115115" parent-name="special offer" 
 	                                                       value="ads_f169001_ntk_cs%3A%22McAfee+Multi+Access%22" name='McAfee Multi Access' english-name='McAfee Multi Access' title='McAfee Multi Access' data-url="https://www.costco.com/pc-laptops.html?special-offer=mcafee-multi-access&refine=ads_f169001_ntk_cs%253A%2522McAfee%2BMulti%2BAccess%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_4-0" title='McAfee Multi Access'> <span>McAfee Multi Access</span> 
-							<span class="count">(59)</span> </label> 
+							<span class="count">(63)</span> </label> 
 	                                            </a>
 	                                                      
 	                        </div>
@@ -7446,79 +7415,71 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_5-0" type="checkbox" class="dimension" data-dimensionid="-700000000000011155366979910710810511632751011219811197114100" parent-name="features" 
 	                                                       value="ads_f142553_ntk_cs%3A%22Backlit+Keyboard%22" name='Backlit Keyboard' english-name='Backlit Keyboard' title='Backlit Keyboard' data-url="https://www.costco.com/pc-laptops.html?features=backlit-keyboard&refine=ads_f142553_ntk_cs%253A%2522Backlit%2BKeyboard%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_5-0" title='Backlit Keyboard'> <span>Backlit Keyboard</span> 
-							<span class="count">(57)</span> </label> 
-	                                            </a>
-	                                             
-		                                    
-											<a class="style-check " href="https://www.costco.com/pc-laptops.html?features=bluetooth-40&refine=ads_f142553_ntk_cs%253A%2522Bluetooth%2B4.0%2522|" style="color: #333">
-	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_5-1" type="checkbox" class="dimension" data-dimensionid="-70000000000001115536610811710111611111111610432524648" parent-name="features" 
-	                                                       value="ads_f142553_ntk_cs%3A%22Bluetooth+4.0%22" name='Bluetooth 4.0' english-name='Bluetooth 4.0' title='Bluetooth 4.0' data-url="https://www.costco.com/pc-laptops.html?features=bluetooth-40&refine=ads_f142553_ntk_cs%253A%2522Bluetooth%2B4.0%2522|" base-url="https://www.costco.com/pc-laptops.html">
-	                                                <label for="refinement_5-1" title='Bluetooth 4.0'> <span>Bluetooth 4.0</span> 
-							<span class="count">(1)</span> </label> 
+							<span class="count">(62)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
 											<a class="style-check " href="https://www.costco.com/pc-laptops.html?features=bluetooth-41&refine=ads_f142553_ntk_cs%253A%2522Bluetooth%2B4.1%2522|" style="color: #333">
-	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_5-2" type="checkbox" class="dimension" data-dimensionid="-70000000000001115536610811710111611111111610432524649" parent-name="features" 
+	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_5-1" type="checkbox" class="dimension" data-dimensionid="-70000000000001115536610811710111611111111610432524649" parent-name="features" 
 	                                                       value="ads_f142553_ntk_cs%3A%22Bluetooth+4.1%22" name='Bluetooth 4.1' english-name='Bluetooth 4.1' title='Bluetooth 4.1' data-url="https://www.costco.com/pc-laptops.html?features=bluetooth-41&refine=ads_f142553_ntk_cs%253A%2522Bluetooth%2B4.1%2522|" base-url="https://www.costco.com/pc-laptops.html">
-	                                                <label for="refinement_5-2" title='Bluetooth 4.1'> <span>Bluetooth 4.1</span> 
-							<span class="count">(9)</span> </label> 
+	                                                <label for="refinement_5-1" title='Bluetooth 4.1'> <span>Bluetooth 4.1</span> 
+							<span class="count">(10)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
 											<a class="style-check " href="https://www.costco.com/pc-laptops.html?features=bluetooth-42&refine=ads_f142553_ntk_cs%253A%2522Bluetooth%2B4.2%2522|" style="color: #333">
-	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_5-3" type="checkbox" class="dimension" data-dimensionid="-70000000000001115536610811710111611111111610432524650" parent-name="features" 
+	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_5-2" type="checkbox" class="dimension" data-dimensionid="-70000000000001115536610811710111611111111610432524650" parent-name="features" 
 	                                                       value="ads_f142553_ntk_cs%3A%22Bluetooth+4.2%22" name='Bluetooth 4.2' english-name='Bluetooth 4.2' title='Bluetooth 4.2' data-url="https://www.costco.com/pc-laptops.html?features=bluetooth-42&refine=ads_f142553_ntk_cs%253A%2522Bluetooth%2B4.2%2522|" base-url="https://www.costco.com/pc-laptops.html">
-	                                                <label for="refinement_5-3" title='Bluetooth 4.2'> <span>Bluetooth 4.2</span> 
+	                                                <label for="refinement_5-2" title='Bluetooth 4.2'> <span>Bluetooth 4.2</span> 
 							<span class="count">(6)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
 											<a class="style-check " href="https://www.costco.com/pc-laptops.html?features=bluetooth-50&refine=ads_f142553_ntk_cs%253A%2522Bluetooth%2B5.0%2522|" style="color: #333">
-	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_5-4" type="checkbox" class="dimension" data-dimensionid="-70000000000001115536610811710111611111111610432534648" parent-name="features" 
+	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_5-3" type="checkbox" class="dimension" data-dimensionid="-70000000000001115536610811710111611111111610432534648" parent-name="features" 
 	                                                       value="ads_f142553_ntk_cs%3A%22Bluetooth+5.0%22" name='Bluetooth 5.0' english-name='Bluetooth 5.0' title='Bluetooth 5.0' data-url="https://www.costco.com/pc-laptops.html?features=bluetooth-50&refine=ads_f142553_ntk_cs%253A%2522Bluetooth%2B5.0%2522|" base-url="https://www.costco.com/pc-laptops.html">
-	                                                <label for="refinement_5-4" title='Bluetooth 5.0'> <span>Bluetooth 5.0</span> 
-							<span class="count">(53)</span> </label> 
+	                                                <label for="refinement_5-3" title='Bluetooth 5.0'> <span>Bluetooth 5.0</span> 
+							<span class="count">(57)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
-											<a class="style-check hide" href="https://www.costco.com/pc-laptops.html?features=bluetooth-51&refine=ads_f142553_ntk_cs%253A%2522Bluetooth%2B5.1%2522|" style="color: #333">
-	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_5-5" type="checkbox" class="dimension" data-dimensionid="-70000000000001115536610811710111611111111610432534649" parent-name="features" 
+											<a class="style-check " href="https://www.costco.com/pc-laptops.html?features=bluetooth-51&refine=ads_f142553_ntk_cs%253A%2522Bluetooth%2B5.1%2522|" style="color: #333">
+	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_5-4" type="checkbox" class="dimension" data-dimensionid="-70000000000001115536610811710111611111111610432534649" parent-name="features" 
 	                                                       value="ads_f142553_ntk_cs%3A%22Bluetooth+5.1%22" name='Bluetooth 5.1' english-name='Bluetooth 5.1' title='Bluetooth 5.1' data-url="https://www.costco.com/pc-laptops.html?features=bluetooth-51&refine=ads_f142553_ntk_cs%253A%2522Bluetooth%2B5.1%2522|" base-url="https://www.costco.com/pc-laptops.html">
-	                                                <label for="refinement_5-5" title='Bluetooth 5.1'> <span>Bluetooth 5.1</span> 
-							<span class="count">(2)</span> </label> 
+	                                                <label for="refinement_5-4" title='Bluetooth 5.1'> <span>Bluetooth 5.1</span> 
+							<span class="count">(1)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
 											<a class="style-check hide" href="https://www.costco.com/pc-laptops.html?features=fingerprint-reader&refine=ads_f142553_ntk_cs%253A%2522Fingerprint%2BReader%2522|" style="color: #333">
-	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_5-6" type="checkbox" class="dimension" data-dimensionid="-700000000000011155370105110103101114112114105110116328210197100101114" parent-name="features" 
+	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_5-5" type="checkbox" class="dimension" data-dimensionid="-700000000000011155370105110103101114112114105110116328210197100101114" parent-name="features" 
 	                                                       value="ads_f142553_ntk_cs%3A%22Fingerprint+Reader%22" name='Fingerprint Reader' english-name='Fingerprint Reader' title='Fingerprint Reader' data-url="https://www.costco.com/pc-laptops.html?features=fingerprint-reader&refine=ads_f142553_ntk_cs%253A%2522Fingerprint%2BReader%2522|" base-url="https://www.costco.com/pc-laptops.html">
-	                                                <label for="refinement_5-6" title='Fingerprint Reader'> <span>Fingerprint Reader</span> 
-							<span class="count">(24)</span> </label> 
+	                                                <label for="refinement_5-5" title='Fingerprint Reader'> <span>Fingerprint Reader</span> 
+							<span class="count">(27)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
 											<a class="style-check hide" href="https://www.costco.com/pc-laptops.html?features=integrated-webcam&refine=ads_f142553_ntk_cs%253A%2522Integrated%2BWebcam%2522|" style="color: #333">
-	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_5-7" type="checkbox" class="dimension" data-dimensionid="-700000000000011155373110116101103114971161011003287101989997109" parent-name="features" 
+	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_5-6" type="checkbox" class="dimension" data-dimensionid="-700000000000011155373110116101103114971161011003287101989997109" parent-name="features" 
 	                                                       value="ads_f142553_ntk_cs%3A%22Integrated+Webcam%22" name='Integrated Webcam' english-name='Integrated Webcam' title='Integrated Webcam' data-url="https://www.costco.com/pc-laptops.html?features=integrated-webcam&refine=ads_f142553_ntk_cs%253A%2522Integrated%2BWebcam%2522|" base-url="https://www.costco.com/pc-laptops.html">
-	                                                <label for="refinement_5-7" title='Integrated Webcam'> <span>Integrated Webcam</span> 
-							<span class="count">(45)</span> </label> 
+	                                                <label for="refinement_5-6" title='Integrated Webcam'> <span>Integrated Webcam</span> 
+							<span class="count">(46)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
 											<a class="style-check hide" href="https://www.costco.com/pc-laptops.html?features=lightweight&refine=ads_f142553_ntk_cs%253A%2522Lightweight%2522|" style="color: #333">
-	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_5-8" type="checkbox" class="dimension" data-dimensionid="-700000000000011155376105103104116119101105103104116" parent-name="features" 
+	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_5-7" type="checkbox" class="dimension" data-dimensionid="-700000000000011155376105103104116119101105103104116" parent-name="features" 
 	                                                       value="ads_f142553_ntk_cs%3A%22Lightweight%22" name='Lightweight' english-name='Lightweight' title='Lightweight' data-url="https://www.costco.com/pc-laptops.html?features=lightweight&refine=ads_f142553_ntk_cs%253A%2522Lightweight%2522|" base-url="https://www.costco.com/pc-laptops.html">
-	                                                <label for="refinement_5-8" title='Lightweight'> <span>Lightweight</span> 
+	                                                <label for="refinement_5-7" title='Lightweight'> <span>Lightweight</span> 
 							<span class="count">(2)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
 											<a class="style-check hide" href="https://www.costco.com/pc-laptops.html?features=numeric-keypad&refine=ads_f142553_ntk_cs%253A%2522Numeric%2BKeypad%2522|" style="color: #333">
-	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_5-9" type="checkbox" class="dimension" data-dimensionid="-70000000000001115537811710910111410599327510112111297100" parent-name="features" 
+	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_5-8" type="checkbox" class="dimension" data-dimensionid="-70000000000001115537811710910111410599327510112111297100" parent-name="features" 
 	                                                       value="ads_f142553_ntk_cs%3A%22Numeric+Keypad%22" name='Numeric Keypad' english-name='Numeric Keypad' title='Numeric Keypad' data-url="https://www.costco.com/pc-laptops.html?features=numeric-keypad&refine=ads_f142553_ntk_cs%253A%2522Numeric%2BKeypad%2522|" base-url="https://www.costco.com/pc-laptops.html">
-	                                                <label for="refinement_5-9" title='Numeric Keypad'> <span>Numeric Keypad</span> 
-							<span class="count">(14)</span> </label> 
+	                                                <label for="refinement_5-8" title='Numeric Keypad'> <span>Numeric Keypad</span> 
+							<span class="count">(16)</span> </label> 
 	                                            </a>
 	                                                                                        
 	                                      <div><a class="more-options" onclick="COSTCO.Search.reveal_options.call(this);" href="javascript:void(0);">Show more options </a></div>
@@ -7543,7 +7504,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_6-0" type="checkbox" class="dimension" data-dimensionid="-7000000000000111552879711410110411111711510132801059910745117112" parent-name="delivery type" 
 	                                                       value="ads_f142552_ntk_cs%3A%22Warehouse+Pick-up%22" name='Warehouse Pick-up' english-name='Warehouse Pick-up' title='Warehouse Pick-up' data-url="https://www.costco.com/pc-laptops.html?delivery-type=warehouse-pick-up&refine=ads_f142552_ntk_cs%253A%2522Warehouse%2BPick-up%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_6-0" title='Warehouse Pick-up'> <span>Warehouse Pick-up</span> 
-							<span class="count">(77)</span> </label> 
+							<span class="count">(81)</span> </label> 
 	                                            </a>
 	                                                      
 	                        </div>
@@ -7582,7 +7543,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_7-2" type="checkbox" class="dimension" data-dimensionid="-70000000000000073994957504832120324948564832407011710810832726841" parent-name="resolution" 
 	                                                       value="ads_f115001_ntk_cs%3A%221920+x+1080+%28Full+HD%29%22" name='1920 x 1080 (Full HD)' english-name='1920 x 1080 (Full HD)' title='1920 x 1080 (Full HD)' data-url="https://www.costco.com/pc-laptops.html?resolution=1920-x-1080-full-hd&refine=ads_f115001_ntk_cs%253A%25221920%2Bx%2B1080%2B%2528Full%2BHD%2529%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_7-2" title='1920 x 1080 (Full HD)'> <span>1920 x 1080 (Full HD)</span> 
-							<span class="count">(51)</span> </label> 
+							<span class="count">(56)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -7590,7 +7551,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_7-3" type="checkbox" class="dimension" data-dimensionid="-70000000000000073994957504832120324950484832407011710810832726841" parent-name="resolution" 
 	                                                       value="ads_f115001_ntk_cs%3A%221920+x+1200+%28Full+HD%29%22" name='1920 x 1200 (Full HD)' english-name='1920 x 1200 (Full HD)' title='1920 x 1200 (Full HD)' data-url="https://www.costco.com/pc-laptops.html?resolution=1920-x-1200-full-hd&refine=ads_f115001_ntk_cs%253A%25221920%2Bx%2B1200%2B%2528Full%2BHD%2529%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_7-3" title='1920 x 1200 (Full HD)'> <span>1920 x 1200 (Full HD)</span> 
-							<span class="count">(1)</span> </label> 
+							<span class="count">(2)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -7679,7 +7640,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-0" type="checkbox" class="dimension" data-dimensionid="-7000000000000002519731101161011031149711610110032711149711210410599115" parent-name="graphic card" 
 	                                                       value="ads_f149001_ntk_cs%3A%22Integrated+Graphics%22" name='Integrated Graphics' english-name='Integrated Graphics' title='Integrated Graphics' data-url="https://www.costco.com/pc-laptops.html?graphic-card=integrated-graphics&refine=ads_f149001_ntk_cs%253A%2522Integrated%2BGraphics%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_8-0" title='Integrated Graphics'> <span>Integrated Graphics</span> 
-							<span class="count">(30)</span> </label> 
+							<span class="count">(32)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -7695,7 +7656,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-2" type="checkbox" class="dimension" data-dimensionid="-700000000000000251978867368736532711017011111499101327788505348" parent-name="graphic card" 
 	                                                       value="ads_f149001_ntk_cs%3A%22NVIDIA+GeForce+MX250%22" name='NVIDIA GeForce MX250' english-name='NVIDIA GeForce MX250' title='NVIDIA GeForce MX250' data-url="https://www.costco.com/pc-laptops.html?graphic-card=nvidia-geforce-mx250&refine=ads_f149001_ntk_cs%253A%2522NVIDIA%2BGeForce%2BMX250%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_8-2" title='NVIDIA GeForce MX250'> <span>NVIDIA GeForce MX250</span> 
-							<span class="count">(5)</span> </label> 
+							<span class="count">(6)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -7703,7 +7664,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-3" type="checkbox" class="dimension" data-dimensionid="-700000000000000251978867368736532711017011111499101328284883250485448" parent-name="graphic card" 
 	                                                       value="ads_f149001_ntk_cs%3A%22NVIDIA+GeForce+RTX+2060%22" name='NVIDIA GeForce RTX 2060' english-name='NVIDIA GeForce RTX 2060' title='NVIDIA GeForce RTX 2060' data-url="https://www.costco.com/pc-laptops.html?graphic-card=nvidia-geforce-rtx-2060&refine=ads_f149001_ntk_cs%253A%2522NVIDIA%2BGeForce%2BRTX%2B2060%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_8-3" title='NVIDIA GeForce RTX 2060'> <span>NVIDIA GeForce RTX 2060</span> 
-							<span class="count">(5)</span> </label> 
+							<span class="count">(6)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -7739,10 +7700,10 @@ While Supplies Last">
 	                                            </a>
 	                                             
 		                                    
-											<a class="style-check hide" href="https://www.costco.com/pc-laptops.html?graphic-card=nvidia-geforce-gtx-1650-max-q&refine=ads_f149001_ntk_cs%253A%2522NVIDIA%2BGeForce%2BGTX%2B1650%2BMax-Q%2522|" style="color: #333">
-	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-8" type="checkbox" class="dimension" data-dimensionid="-7000000000000002519788673687365327110170111114991013271848832495453483277971204581" parent-name="graphic card" 
-	                                                       value="ads_f149001_ntk_cs%3A%22NVIDIA+GeForce+GTX+1650+Max-Q%22" name='NVIDIA GeForce GTX 1650 Max-Q' english-name='NVIDIA GeForce GTX 1650 Max-Q' title='NVIDIA GeForce GTX 1650 Max-Q' data-url="https://www.costco.com/pc-laptops.html?graphic-card=nvidia-geforce-gtx-1650-max-q&refine=ads_f149001_ntk_cs%253A%2522NVIDIA%2BGeForce%2BGTX%2B1650%2BMax-Q%2522|" base-url="https://www.costco.com/pc-laptops.html">
-	                                                <label for="refinement_8-8" title='NVIDIA GeForce GTX 1650 Max-Q'> <span>NVIDIA GeForce GTX 1650 Max-Q</span> 
+											<a class="style-check hide" href="https://www.costco.com/pc-laptops.html?graphic-card=nvidia-geforce-gtx-1650&refine=ads_f149001_ntk_cs%253A%2522NVIDIA%2BGeForce%2BGTX%2B1650%2522|" style="color: #333">
+	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-8" type="checkbox" class="dimension" data-dimensionid="-700000000000000251978867368736532711017011111499101327184883249545348" parent-name="graphic card" 
+	                                                       value="ads_f149001_ntk_cs%3A%22NVIDIA+GeForce+GTX+1650%22" name='NVIDIA GeForce GTX 1650' english-name='NVIDIA GeForce GTX 1650' title='NVIDIA GeForce GTX 1650' data-url="https://www.costco.com/pc-laptops.html?graphic-card=nvidia-geforce-gtx-1650&refine=ads_f149001_ntk_cs%253A%2522NVIDIA%2BGeForce%2BGTX%2B1650%2522|" base-url="https://www.costco.com/pc-laptops.html">
+	                                                <label for="refinement_8-8" title='NVIDIA GeForce GTX 1650'> <span>NVIDIA GeForce GTX 1650</span> 
 							<span class="count">(2)</span> </label> 
 	                                            </a>
 	                                             
@@ -7763,42 +7724,42 @@ While Supplies Last">
 	                                            </a>
 	                                             
 		                                    
-											<a class="style-check hide" href="https://www.costco.com/pc-laptops.html?graphic-card=amd-radeon-vega-10&refine=ads_f149001_ntk_cs%253A%2522AMD%2BRadeon%2BVega%2B10%2522|" style="color: #333">
-	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-11" type="checkbox" class="dimension" data-dimensionid="-7000000000000002519657768328297100101111110328610110397324948" parent-name="graphic card" 
-	                                                       value="ads_f149001_ntk_cs%3A%22AMD+Radeon+Vega+10%22" name='AMD Radeon Vega 10' english-name='AMD Radeon Vega 10' title='AMD Radeon Vega 10' data-url="https://www.costco.com/pc-laptops.html?graphic-card=amd-radeon-vega-10&refine=ads_f149001_ntk_cs%253A%2522AMD%2BRadeon%2BVega%2B10%2522|" base-url="https://www.costco.com/pc-laptops.html">
-	                                                <label for="refinement_8-11" title='AMD Radeon Vega 10'> <span>AMD Radeon Vega 10</span> 
-							<span class="count">(1)</span> </label> 
-	                                            </a>
-	                                             
-		                                    
 											<a class="style-check hide" href="https://www.costco.com/pc-laptops.html?graphic-card=amd-radeon-vega-8&refine=ads_f149001_ntk_cs%253A%2522AMD%2BRadeon%2BVega%2B8%2522|" style="color: #333">
-	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-12" type="checkbox" class="dimension" data-dimensionid="-70000000000000025196577683282971001011111103286101103973256" parent-name="graphic card" 
+	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-11" type="checkbox" class="dimension" data-dimensionid="-70000000000000025196577683282971001011111103286101103973256" parent-name="graphic card" 
 	                                                       value="ads_f149001_ntk_cs%3A%22AMD+Radeon+Vega+8%22" name='AMD Radeon Vega 8' english-name='AMD Radeon Vega 8' title='AMD Radeon Vega 8' data-url="https://www.costco.com/pc-laptops.html?graphic-card=amd-radeon-vega-8&refine=ads_f149001_ntk_cs%253A%2522AMD%2BRadeon%2BVega%2B8%2522|" base-url="https://www.costco.com/pc-laptops.html">
-	                                                <label for="refinement_8-12" title='AMD Radeon Vega 8'> <span>AMD Radeon Vega 8</span> 
+	                                                <label for="refinement_8-11" title='AMD Radeon Vega 8'> <span>AMD Radeon Vega 8</span> 
 							<span class="count">(1)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
 											<a class="style-check hide" href="https://www.costco.com/pc-laptops.html?graphic-card=amd-radeon-vega-9&refine=ads_f149001_ntk_cs%253A%2522AMD%2BRadeon%2BVega%2B9%2522|" style="color: #333">
-	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-13" type="checkbox" class="dimension" data-dimensionid="-70000000000000025196577683282971001011111103286101103973257" parent-name="graphic card" 
+	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-12" type="checkbox" class="dimension" data-dimensionid="-70000000000000025196577683282971001011111103286101103973257" parent-name="graphic card" 
 	                                                       value="ads_f149001_ntk_cs%3A%22AMD+Radeon+Vega+9%22" name='AMD Radeon Vega 9' english-name='AMD Radeon Vega 9' title='AMD Radeon Vega 9' data-url="https://www.costco.com/pc-laptops.html?graphic-card=amd-radeon-vega-9&refine=ads_f149001_ntk_cs%253A%2522AMD%2BRadeon%2BVega%2B9%2522|" base-url="https://www.costco.com/pc-laptops.html">
-	                                                <label for="refinement_8-13" title='AMD Radeon Vega 9'> <span>AMD Radeon Vega 9</span> 
+	                                                <label for="refinement_8-12" title='AMD Radeon Vega 9'> <span>AMD Radeon Vega 9</span> 
 							<span class="count">(1)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
 											<a class="style-check hide" href="https://www.costco.com/pc-laptops.html?graphic-card=microsoft-sq1-adreno-685-gpu&refine=ads_f149001_ntk_cs%253A%2522Microsoft%2BSQ1%2BAdreno%2B685%2BGPU%2522|" style="color: #333">
-	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-14" type="checkbox" class="dimension" data-dimensionid="-700000000000000251977105991141111151111021163283814932651001141011101113254565332718085" parent-name="graphic card" 
+	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-13" type="checkbox" class="dimension" data-dimensionid="-700000000000000251977105991141111151111021163283814932651001141011101113254565332718085" parent-name="graphic card" 
 	                                                       value="ads_f149001_ntk_cs%3A%22Microsoft+SQ1+Adreno+685+GPU%22" name='Microsoft SQ1 Adreno 685 GPU' english-name='Microsoft SQ1 Adreno 685 GPU' title='Microsoft SQ1 Adreno 685 GPU' data-url="https://www.costco.com/pc-laptops.html?graphic-card=microsoft-sq1-adreno-685-gpu&refine=ads_f149001_ntk_cs%253A%2522Microsoft%2BSQ1%2BAdreno%2B685%2BGPU%2522|" base-url="https://www.costco.com/pc-laptops.html">
-	                                                <label for="refinement_8-14" title='Microsoft SQ1 Adreno 685 GPU'> <span>Microsoft SQ1 Adreno 685 GPU</span> 
+	                                                <label for="refinement_8-13" title='Microsoft SQ1 Adreno 685 GPU'> <span>Microsoft SQ1 Adreno 685 GPU</span> 
 							<span class="count">(1)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
 											<a class="style-check hide" href="https://www.costco.com/pc-laptops.html?graphic-card=nvidia-geforce-gtx-1050&refine=ads_f149001_ntk_cs%253A%2522NVIDIA%2BGeForce%2BGTX%2B1050%2522|" style="color: #333">
-	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-15" type="checkbox" class="dimension" data-dimensionid="-700000000000000251978867368736532711017011111499101327184883249485348" parent-name="graphic card" 
+	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-14" type="checkbox" class="dimension" data-dimensionid="-700000000000000251978867368736532711017011111499101327184883249485348" parent-name="graphic card" 
 	                                                       value="ads_f149001_ntk_cs%3A%22NVIDIA+GeForce+GTX+1050%22" name='NVIDIA GeForce GTX 1050' english-name='NVIDIA GeForce GTX 1050' title='NVIDIA GeForce GTX 1050' data-url="https://www.costco.com/pc-laptops.html?graphic-card=nvidia-geforce-gtx-1050&refine=ads_f149001_ntk_cs%253A%2522NVIDIA%2BGeForce%2BGTX%2B1050%2522|" base-url="https://www.costco.com/pc-laptops.html">
-	                                                <label for="refinement_8-15" title='NVIDIA GeForce GTX 1050'> <span>NVIDIA GeForce GTX 1050</span> 
+	                                                <label for="refinement_8-14" title='NVIDIA GeForce GTX 1050'> <span>NVIDIA GeForce GTX 1050</span> 
+							<span class="count">(1)</span> </label> 
+	                                            </a>
+	                                             
+		                                    
+											<a class="style-check hide" href="https://www.costco.com/pc-laptops.html?graphic-card=nvidia-geforce-gtx-1650-max-q&refine=ads_f149001_ntk_cs%253A%2522NVIDIA%2BGeForce%2BGTX%2B1650%2BMax-Q%2522|" style="color: #333">
+	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-15" type="checkbox" class="dimension" data-dimensionid="-7000000000000002519788673687365327110170111114991013271848832495453483277971204581" parent-name="graphic card" 
+	                                                       value="ads_f149001_ntk_cs%3A%22NVIDIA+GeForce+GTX+1650+Max-Q%22" name='NVIDIA GeForce GTX 1650 Max-Q' english-name='NVIDIA GeForce GTX 1650 Max-Q' title='NVIDIA GeForce GTX 1650 Max-Q' data-url="https://www.costco.com/pc-laptops.html?graphic-card=nvidia-geforce-gtx-1650-max-q&refine=ads_f149001_ntk_cs%253A%2522NVIDIA%2BGeForce%2BGTX%2B1650%2BMax-Q%2522|" base-url="https://www.costco.com/pc-laptops.html">
+	                                                <label for="refinement_8-15" title='NVIDIA GeForce GTX 1650 Max-Q'> <span>NVIDIA GeForce GTX 1650 Max-Q</span> 
 							<span class="count">(1)</span> </label> 
 	                                            </a>
 	                                             
@@ -7819,26 +7780,42 @@ While Supplies Last">
 	                                            </a>
 	                                             
 		                                    
+											<a class="style-check hide" href="https://www.costco.com/pc-laptops.html?graphic-card=nvidia-geforce-mx330&refine=ads_f149001_ntk_cs%253A%2522NVIDIA%2BGeForce%2BMX330%2522|" style="color: #333">
+	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-18" type="checkbox" class="dimension" data-dimensionid="-700000000000000251978867368736532711017011111499101327788515148" parent-name="graphic card" 
+	                                                       value="ads_f149001_ntk_cs%3A%22NVIDIA+GeForce+MX330%22" name='NVIDIA GeForce MX330' english-name='NVIDIA GeForce MX330' title='NVIDIA GeForce MX330' data-url="https://www.costco.com/pc-laptops.html?graphic-card=nvidia-geforce-mx330&refine=ads_f149001_ntk_cs%253A%2522NVIDIA%2BGeForce%2BMX330%2522|" base-url="https://www.costco.com/pc-laptops.html">
+	                                                <label for="refinement_8-18" title='NVIDIA GeForce MX330'> <span>NVIDIA GeForce MX330</span> 
+							<span class="count">(1)</span> </label> 
+	                                            </a>
+	                                             
+		                                    
 											<a class="style-check hide" href="https://www.costco.com/pc-laptops.html?graphic-card=nvidia-geforce-mx350&refine=ads_f149001_ntk_cs%253A%2522NVIDIA%2BGeForce%2BMX350%2522|" style="color: #333">
-	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-18" type="checkbox" class="dimension" data-dimensionid="-700000000000000251978867368736532711017011111499101327788515348" parent-name="graphic card" 
+	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-19" type="checkbox" class="dimension" data-dimensionid="-700000000000000251978867368736532711017011111499101327788515348" parent-name="graphic card" 
 	                                                       value="ads_f149001_ntk_cs%3A%22NVIDIA+GeForce+MX350%22" name='NVIDIA GeForce MX350' english-name='NVIDIA GeForce MX350' title='NVIDIA GeForce MX350' data-url="https://www.costco.com/pc-laptops.html?graphic-card=nvidia-geforce-mx350&refine=ads_f149001_ntk_cs%253A%2522NVIDIA%2BGeForce%2BMX350%2522|" base-url="https://www.costco.com/pc-laptops.html">
-	                                                <label for="refinement_8-18" title='NVIDIA GeForce MX350'> <span>NVIDIA GeForce MX350</span> 
+	                                                <label for="refinement_8-19" title='NVIDIA GeForce MX350'> <span>NVIDIA GeForce MX350</span> 
 							<span class="count">(1)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
 											<a class="style-check hide" href="https://www.costco.com/pc-laptops.html?graphic-card=nvidia-geforce-rtx-2070&refine=ads_f149001_ntk_cs%253A%2522NVIDIA%2BGeForce%2BRTX%2B2070%2522|" style="color: #333">
-	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-19" type="checkbox" class="dimension" data-dimensionid="-700000000000000251978867368736532711017011111499101328284883250485548" parent-name="graphic card" 
+	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-20" type="checkbox" class="dimension" data-dimensionid="-700000000000000251978867368736532711017011111499101328284883250485548" parent-name="graphic card" 
 	                                                       value="ads_f149001_ntk_cs%3A%22NVIDIA+GeForce+RTX+2070%22" name='NVIDIA GeForce RTX 2070' english-name='NVIDIA GeForce RTX 2070' title='NVIDIA GeForce RTX 2070' data-url="https://www.costco.com/pc-laptops.html?graphic-card=nvidia-geforce-rtx-2070&refine=ads_f149001_ntk_cs%253A%2522NVIDIA%2BGeForce%2BRTX%2B2070%2522|" base-url="https://www.costco.com/pc-laptops.html">
-	                                                <label for="refinement_8-19" title='NVIDIA GeForce RTX 2070'> <span>NVIDIA GeForce RTX 2070</span> 
+	                                                <label for="refinement_8-20" title='NVIDIA GeForce RTX 2070'> <span>NVIDIA GeForce RTX 2070</span> 
 							<span class="count">(1)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
 											<a class="style-check hide" href="https://www.costco.com/pc-laptops.html?graphic-card=nvidia-geforce-rtx-2070-super&refine=ads_f149001_ntk_cs%253A%2522NVIDIA%2BGeForce%2BRTX%2B2070%2BSUPER%2522|" style="color: #333">
-	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-20" type="checkbox" class="dimension" data-dimensionid="-700000000000000251978867368736532711017011111499101328284883250485548328385806982" parent-name="graphic card" 
+	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-21" type="checkbox" class="dimension" data-dimensionid="-700000000000000251978867368736532711017011111499101328284883250485548328385806982" parent-name="graphic card" 
 	                                                       value="ads_f149001_ntk_cs%3A%22NVIDIA+GeForce+RTX+2070+SUPER%22" name='NVIDIA GeForce RTX 2070 SUPER' english-name='NVIDIA GeForce RTX 2070 SUPER' title='NVIDIA GeForce RTX 2070 SUPER' data-url="https://www.costco.com/pc-laptops.html?graphic-card=nvidia-geforce-rtx-2070-super&refine=ads_f149001_ntk_cs%253A%2522NVIDIA%2BGeForce%2BRTX%2B2070%2BSUPER%2522|" base-url="https://www.costco.com/pc-laptops.html">
-	                                                <label for="refinement_8-20" title='NVIDIA GeForce RTX 2070 SUPER'> <span>NVIDIA GeForce RTX 2070 SUPER</span> 
+	                                                <label for="refinement_8-21" title='NVIDIA GeForce RTX 2070 SUPER'> <span>NVIDIA GeForce RTX 2070 SUPER</span> 
+							<span class="count">(1)</span> </label> 
+	                                            </a>
+	                                             
+		                                    
+											<a class="style-check hide" href="https://www.costco.com/pc-laptops.html?graphic-card=nvidia-geforce-rtx-2080-super&refine=ads_f149001_ntk_cs%253A%2522NVIDIA%2BGeForce%2BRTX%2B2080%2BSUPER%2522|" style="color: #333">
+	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_8-22" type="checkbox" class="dimension" data-dimensionid="-700000000000000251978867368736532711017011111499101328284883250485648328385806982" parent-name="graphic card" 
+	                                                       value="ads_f149001_ntk_cs%3A%22NVIDIA+GeForce+RTX+2080+SUPER%22" name='NVIDIA GeForce RTX 2080 SUPER' english-name='NVIDIA GeForce RTX 2080 SUPER' title='NVIDIA GeForce RTX 2080 SUPER' data-url="https://www.costco.com/pc-laptops.html?graphic-card=nvidia-geforce-rtx-2080-super&refine=ads_f149001_ntk_cs%253A%2522NVIDIA%2BGeForce%2BRTX%2B2080%2BSUPER%2522|" base-url="https://www.costco.com/pc-laptops.html">
+	                                                <label for="refinement_8-22" title='NVIDIA GeForce RTX 2080 SUPER'> <span>NVIDIA GeForce RTX 2080 SUPER</span> 
 							<span class="count">(1)</span> </label> 
 	                                            </a>
 	                                                                                        
@@ -7864,7 +7841,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_9-0" type="checkbox" class="dimension" data-dimensionid="-70000000000001115336599101114" parent-name="brand" 
 	                                                       value="ads_fbrand_ntk_cs%3A%22Acer%22" name='Acer' english-name='Acer' title='Acer' data-url="https://www.costco.com/pc-laptops.html?brand=acer&refine=ads_fbrand_ntk_cs%253A%2522Acer%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_9-0" title='Acer'> <span>Acer</span> 
-							<span class="count">(6)</span> </label> 
+							<span class="count">(4)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -7880,7 +7857,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_9-2" type="checkbox" class="dimension" data-dimensionid="-700000000000011153376101110111118111" parent-name="brand" 
 	                                                       value="ads_fbrand_ntk_cs%3A%22Lenovo%22" name='Lenovo' english-name='Lenovo' title='Lenovo' data-url="https://www.costco.com/pc-laptops.html?brand=lenovo&refine=ads_fbrand_ntk_cs%253A%2522Lenovo%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_9-2" title='Lenovo'> <span>Lenovo</span> 
-							<span class="count">(12)</span> </label> 
+							<span class="count">(13)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -7888,7 +7865,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_9-3" type="checkbox" class="dimension" data-dimensionid="-70000000000001115337280" parent-name="brand" 
 	                                                       value="ads_fbrand_ntk_cs%3A%22HP%22" name='HP' english-name='HP' title='HP' data-url="https://www.costco.com/pc-laptops.html?brand=hp&refine=ads_fbrand_ntk_cs%253A%2522HP%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_9-3" title='HP'> <span>HP</span> 
-							<span class="count">(19)</span> </label> 
+							<span class="count">(22)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -7896,7 +7873,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_9-4" type="checkbox" class="dimension" data-dimensionid="-700000000000011153368101108108" parent-name="brand" 
 	                                                       value="ads_fbrand_ntk_cs%3A%22Dell%22" name='Dell' english-name='Dell' title='Dell' data-url="https://www.costco.com/pc-laptops.html?brand=dell&refine=ads_fbrand_ntk_cs%253A%2522Dell%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_9-4" title='Dell'> <span>Dell</span> 
-							<span class="count">(15)</span> </label> 
+							<span class="count">(18)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -7912,7 +7889,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_9-6" type="checkbox" class="dimension" data-dimensionid="-7000000000000111533778373" parent-name="brand" 
 	                                                       value="ads_fbrand_ntk_cs%3A%22MSI%22" name='MSI' english-name='MSI' title='MSI' data-url="https://www.costco.com/pc-laptops.html?brand=msi&refine=ads_fbrand_ntk_cs%253A%2522MSI%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_9-6" title='MSI'> <span>MSI</span> 
-							<span class="count">(6)</span> </label> 
+							<span class="count">(7)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -7945,7 +7922,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_10-0" type="checkbox" class="dimension" data-dimensionid="-700000000000008802150451051104549" parent-name="computer type" 
 	                                                       value="ads_f34501_ntk_cs%3A%222-in-1%22" name='2-in-1' english-name='2-in-1' title='2-in-1' data-url="https://www.costco.com/pc-laptops.html?computer-type=2-in-1&refine=ads_f34501_ntk_cs%253A%25222-in-1%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_10-0" title='2-in-1'> <span>2-in-1</span> 
-							<span class="count">(18)</span> </label> 
+							<span class="count">(21)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -7953,7 +7930,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_10-1" type="checkbox" class="dimension" data-dimensionid="-70000000000000880217197109105110103" parent-name="computer type" 
 	                                                       value="ads_f34501_ntk_cs%3A%22Gaming%22" name='Gaming' english-name='Gaming' title='Gaming' data-url="https://www.costco.com/pc-laptops.html?computer-type=gaming&refine=ads_f34501_ntk_cs%253A%2522Gaming%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_10-1" title='Gaming'> <span>Gaming</span> 
-							<span class="count">(11)</span> </label> 
+							<span class="count">(14)</span> </label> 
 	                                            </a>
 	                                                      
 	                        </div>
@@ -7992,7 +7969,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_11-2" type="checkbox" class="dimension" data-dimensionid="-700000000000011152349328466" parent-name="hard drive size" 
 	                                                       value="ads_f142523_ntk_cs%3A%221+TB%22" name='1 TB' english-name='1 TB' title='1 TB' data-url="https://www.costco.com/pc-laptops.html?hard-drive-size=1-tb&refine=ads_f142523_ntk_cs%253A%25221%2BTB%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_11-2" title='1 TB'> <span>1 TB</span> 
-							<span class="count">(22)</span> </label> 
+							<span class="count">(23)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -8023,7 +8000,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_12-0" type="checkbox" class="dimension" data-dimensionid="-700000000000000805587105110100111119115327983" parent-name="operating system" 
 	                                                       value="ads_f117501_ntk_cs%3A%22Windows+OS%22" name='Windows OS' english-name='Windows OS' title='Windows OS' data-url="https://www.costco.com/pc-laptops.html?operating-system=windows-os&refine=ads_f117501_ntk_cs%253A%2522Windows%2BOS%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_12-0" title='Windows OS'> <span>Windows OS</span> 
-							<span class="count">(77)</span> </label> 
+							<span class="count">(83)</span> </label> 
 	                                            </a>
 	                                                      
 	                        </div>
@@ -8046,7 +8023,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_13-0" type="checkbox" class="dimension" data-dimensionid="-700000000000011153465776832821211221011103253" parent-name="processor" 
 	                                                       value="ads_f142534_ntk_cs%3A%22AMD+Ryzen+5%22" name='AMD Ryzen 5' english-name='AMD Ryzen 5' title='AMD Ryzen 5' data-url="https://www.costco.com/pc-laptops.html?processor=amd-ryzen-5&refine=ads_f142534_ntk_cs%253A%2522AMD%2BRyzen%2B5%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_13-0" title='AMD Ryzen 5'> <span>AMD Ryzen 5</span> 
-							<span class="count">(5)</span> </label> 
+							<span class="count">(4)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -8054,7 +8031,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_13-1" type="checkbox" class="dimension" data-dimensionid="-700000000000011153465776832821211221011103255" parent-name="processor" 
 	                                                       value="ads_f142534_ntk_cs%3A%22AMD+Ryzen+7%22" name='AMD Ryzen 7' english-name='AMD Ryzen 7' title='AMD Ryzen 7' data-url="https://www.costco.com/pc-laptops.html?processor=amd-ryzen-7&refine=ads_f142534_ntk_cs%253A%2522AMD%2BRyzen%2B7%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_13-1" title='AMD Ryzen 7'> <span>AMD Ryzen 7</span> 
-							<span class="count">(2)</span> </label> 
+							<span class="count">(1)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -8070,7 +8047,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_13-3" type="checkbox" class="dimension" data-dimensionid="-70000000000001115347311011610110832671111141013210553" parent-name="processor" 
 	                                                       value="ads_f142534_ntk_cs%3A%22Intel+Core+i5%22" name='Intel Core i5' english-name='Intel Core i5' title='Intel Core i5' data-url="https://www.costco.com/pc-laptops.html?processor=intel-core-i5&refine=ads_f142534_ntk_cs%253A%2522Intel%2BCore%2Bi5%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_13-3" title='Intel Core i5'> <span>Intel Core i5</span> 
-							<span class="count">(16)</span> </label> 
+							<span class="count">(18)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -8078,7 +8055,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_13-4" type="checkbox" class="dimension" data-dimensionid="-70000000000001115347311011610110832671111141013210555" parent-name="processor" 
 	                                                       value="ads_f142534_ntk_cs%3A%22Intel+Core+i7%22" name='Intel Core i7' english-name='Intel Core i7' title='Intel Core i7' data-url="https://www.costco.com/pc-laptops.html?processor=intel-core-i7&refine=ads_f142534_ntk_cs%253A%2522Intel%2BCore%2Bi7%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_13-4" title='Intel Core i7'> <span>Intel Core i7</span> 
-							<span class="count">(48)</span> </label> 
+							<span class="count">(54)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -8151,7 +8128,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_14-3" type="checkbox" class="dimension" data-dimensionid="-7000000000000111505495146523210511046" parent-name="screen size" 
 	                                                       value="ads_f142505_ntk_cs%3A%2213.4+in.%22" name='13.4 in.' english-name='13.4 in.' title='13.4 in.' data-url="https://www.costco.com/pc-laptops.html?screen-size=134-in&refine=ads_f142505_ntk_cs%253A%252213.4%2Bin.%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_14-3" title='13.4 in.'> <span>13.4 in.</span> 
-							<span class="count">(5)</span> </label> 
+							<span class="count">(6)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -8167,7 +8144,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_14-5" type="checkbox" class="dimension" data-dimensionid="-700000000000011150549523210511046" parent-name="screen size" 
 	                                                       value="ads_f142505_ntk_cs%3A%2214+in.%22" name='14 in.' english-name='14 in.' title='14 in.' data-url="https://www.costco.com/pc-laptops.html?screen-size=14-in&refine=ads_f142505_ntk_cs%253A%252214%2Bin.%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_14-5" title='14 in.'> <span>14 in.</span> 
-							<span class="count">(17)</span> </label> 
+							<span class="count">(18)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -8183,7 +8160,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_14-7" type="checkbox" class="dimension" data-dimensionid="-7000000000000111505495346543210511046" parent-name="screen size" 
 	                                                       value="ads_f142505_ntk_cs%3A%2215.6+in.%22" name='15.6 in.' english-name='15.6 in.' title='15.6 in.' data-url="https://www.costco.com/pc-laptops.html?screen-size=156-in&refine=ads_f142505_ntk_cs%253A%252215.6%2Bin.%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_14-7" title='15.6 in.'> <span>15.6 in.</span> 
-							<span class="count">(29)</span> </label> 
+							<span class="count">(31)</span> </label> 
 	                                            </a>
 	                                             
 		                                    
@@ -8207,7 +8184,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_14-10" type="checkbox" class="dimension" data-dimensionid="-7000000000000111505495546513210511046" parent-name="screen size" 
 	                                                       value="ads_f142505_ntk_cs%3A%2217.3+in.%22" name='17.3 in.' english-name='17.3 in.' title='17.3 in.' data-url="https://www.costco.com/pc-laptops.html?screen-size=173-in&refine=ads_f142505_ntk_cs%253A%252217.3%2Bin.%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_14-10" title='17.3 in.'> <span>17.3 in.</span> 
-							<span class="count">(12)</span> </label> 
+							<span class="count">(14)</span> </label> 
 	                                            </a>
 	                                                                                        
 	                                      <div><a class="more-options" onclick="COSTCO.Search.reveal_options.call(this);" href="javascript:void(0);">Show more options </a></div>
@@ -8240,7 +8217,7 @@ While Supplies Last">
 	                                                <input onclick="COSTCO.Search.buildRefinedURL(this)" id="refinement_15-1" type="checkbox" class="dimension" data-dimensionid="-7000000000000090817841111179910411599114101101110" parent-name="screen type" 
 	                                                       value="ads_f112501_ntk_cs%3A%22Touchscreen%22" name='Touchscreen' english-name='Touchscreen' title='Touchscreen' data-url="https://www.costco.com/pc-laptops.html?screen-type=touchscreen&refine=ads_f112501_ntk_cs%253A%2522Touchscreen%2522|" base-url="https://www.costco.com/pc-laptops.html">
 	                                                <label for="refinement_15-1" title='Touchscreen'> <span>Touchscreen</span> 
-							<span class="count">(49)</span> </label> 
+							<span class="count">(55)</span> </label> 
 	                                            </a>
 	                                                      
 	                        </div>
@@ -8395,7 +8372,7 @@ While Supplies Last">
 			<div class="table-row">
 				<div class="table-cell results">				    
 					<span>
-						Showing 1-24 of 78
+						Showing 1-24 of 84
 					</span>
 				</div>
 				<div class="table-cell list">
@@ -8487,7 +8464,7 @@ While Supplies Last">
 		</div>
 		<div class="table-cell results hidden-xs hidden-sm hidden-md">
 			<span>
-				Showing 1-24 of 78
+				Showing 1-24 of 84
 			</span>
 		</div>
 	</div>
@@ -8500,15 +8477,15 @@ While Supplies Last">
 <div class="product-list grid">
 	
 				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100568245 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100568245 and productInventory.ffmcenterid = 50702 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100579367 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/lenovo-flex-5-series-2-in-1-touchscreen-laptop---10th-gen-intel-core-i7-1065g7---1080p.product.100568245.html" item-index="0">
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/lenovo-ideapad-3-15.6%22-touchscreen-laptop---10th-gen-intel-core-i5-1035g1.product.100579367.html" item-index="0">
 	
 	<input type="hidden" id="grocerySection" value="false"/>
 
 	
 	<div class="omniture">
-		<div class="scProdId" sc.prodId="100568245"></div>
+		<div class="scProdId" sc.prodId="100579367"></div>
 	   	<div class="scMemberProductType" sc.memberProductType="na"></div>
 	</div>		
 	
@@ -8519,12 +8496,12 @@ While Supplies Last">
 </div>
 
 
-	<div class="thumbnail" itemid="100568245">	
+	<div class="thumbnail" itemid="100579367">	
 		<div class="product-img-holder link-behavior">
 			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
 				
 						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
-						 	src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1419404-847__1&recipeName=350" alt="Lenovo Flex 5 Series 2-in-1 Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p" title="Lenovo Flex 5 Series 2-in-1 Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p"
+						 	src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1430617-847__1&recipeName=350" alt="Lenovo IdeaPad 3 15.6&#034; Touchscreen Laptop - 10th Gen Intel Core i5-1035G1" title="Lenovo IdeaPad 3 15.6&#034; Touchscreen Laptop - 10th Gen Intel Core i5-1035G1"
 						 />
 					
 			</div>
@@ -8544,7 +8521,7 @@ While Supplies Last">
 					
 								<div class="row">
 									<div class="col-xs-12 menuicon-holder">
-										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/lenovo-flex-5-series-2-in-1-touchscreen-laptop---10th-gen-intel-core-i7-1065g7---1080p.product.100568245.html"
+										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/lenovo-ideapad-3-15.6-touchscreen-laptop---10th-gen-intel-core-i5-1035g1.product.100579367.html"
 											style="float:right;">
 										</i>
 									</div>
@@ -8558,39 +8535,41 @@ While Supplies Last">
 			   	
 					<div class="" >
 						
-								<div class="price" id="price-100568245" data-regionNav="DEFAULT">$749.99</div>
+								<div class="price" id="price-100579367" data-regionNav="DEFAULT">$499.99</div>
 								
 					</div>
 				
-					<p class="promo">$150 OFF</p>	
+					<p class="promo">$100 OFF</p>	
 						
 			 				
 				<p class="description">			
 					
-							<a href="https://www.costco.com/lenovo-flex-5-series-2-in-1-touchscreen-laptop---10th-gen-intel-core-i7-1065g7---1080p.product.100568245.html">Lenovo Flex 5 Series 2-in-1 Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p</a>
+							<a href="https://www.costco.com/lenovo-ideapad-3-15.6%22-touchscreen-laptop---10th-gen-intel-core-i5-1035g1.product.100579367.html">Lenovo IdeaPad 3 15.6" Touchscreen Laptop - 10th Gen Intel Core i5-1035G1</a>
 										
 				</p>
 				
 				
 					<ul class="product-features hidden-xs hidden-sm">
 						
-		                        <li>10th Gen Intel® Core™ i7-1065G7 Processor at 1.3 GHz</li> 
+		                        <li>10th Gen Intel® Core i5-1035G1 Processor at 1.0GHz</li> 
 		                
-		                        <li>Intel® Wi-Fi 6 (2x2) + and Bluetooth® 4.2 </li> 
+		                        <li> Standard Backlit Keyboard</li> 
 		                
-		                        <li>Integrated Webcam with Privacy Shutter 720p</li> 
+		                        <li> Intel® Wi-Fi 6 (2x2/160) Gig+ and Bluetooth® 5.0</li> 
 		                
-		                        <li>Backlit Keyboard with Fingerprint Reader</li> 
+		                        <li>Webcam with Privacy Shutter</li> 
+		                
+		                        <li> 2x 1.5W Speakers with Dolby® Audio</li> 
 		                
 					</ul>	
 				
 		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
 	
 	<div class="col-xs-12" 
-			aria-label="Rated 4.2 out of 5 stars based on 48 reviews.">
+			aria-label="Rated 4.1 out of 5 stars based on 63 reviews.">
 		
 		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,75.74940204620361px,20px,0);">
+			<ul class="stars overlay" style="clip: rect(0,73.14299869537354px,20px,0);">
 				<li>
 					<span class="fi-star"></span>
 				</li>
@@ -8625,17 +8604,17 @@ While Supplies Last">
 				</li>
 			</ul>
 		  	<span class="offscreen">
-		  		Rated 4.2 out of 5 stars based on 48 reviews. 
+		  		Rated 4.1 out of 5 stars based on 63 reviews. 
         	</span>
          	<div class="ratings-number">
-            	(48)
+            	(63)
           	</div>
 		</div>
 		
-			<meta itemprop="ratingValue" content="4.2083001136779785"/>
-			<meta itemprop="reviewCount" content="48"/>
+			<meta itemprop="ratingValue" content="4.063499927520752"/>
+			<meta itemprop="reviewCount" content="63"/>
 			<meta itemprop="bestRating" content="5"/>
-			<meta itemprop="itemReviewed" content="Lenovo Flex 5 Series 2-in-1 Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p"/>
+			<meta itemprop="itemReviewed" content="Lenovo IdeaPad 3 15.6&#034; Touchscreen Laptop - 10th Gen Intel Core i5-1035G1"/>
 		
 	</div>
 </div>
@@ -8646,9 +8625,9 @@ While Supplies Last">
 	
 
 <div class="style-check compare-container">
-    <input id="compare_100568245" type="checkbox" name="compare-product" value="true" data-description=""  
-    	onclick="COSTCO.compareProducts.toggleItem('100568245','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1419404-847__1&recipeName=350', this)" />
-    <label for="compare_100568245" class="mar_top">
+    <input id="compare_100579367" type="checkbox" name="compare-product" value="true" data-description=""  
+    	onclick="COSTCO.compareProducts.toggleItem('100579367','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1430617-847__1&recipeName=350', this)" />
+    <label for="compare_100579367" class="mar_top">
     	<span>Compare Product</span>
     </label>
 </div>
@@ -8663,10 +8642,10 @@ While Supplies Last">
 	<input type="hidden" id="signInDetails" name="signInDetails" value="" />
 	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
 			
-		<input type="hidden" id="catalogType_100568245" 
-			name="catalogType_100568245" value="" />
+		<input type="hidden" id="catalogType_100579367" 
+			name="catalogType_100579367" value="" />
 	
-	<input type="hidden" class="partNumb" name="partNumb" value="100568245" />
+	<input type="hidden" class="partNumb" name="partNumb" value="100579367" />
 		
 	<!--  Button Section -->
 	<div class="buttonSection hide" id="btnas">
@@ -8677,7 +8656,7 @@ While Supplies Last">
 		<div class="addbutton" id="quickAdd-0" style="display:none">
 		
 		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
-		<input type="hidden" class="partNumb" name="partNumb" value="100568245" />
+		<input type="hidden" class="partNumb" name="partNumb" value="100579367" />
 		
 		<input type="hidden" name="buyable" value="true" /> 
 	
@@ -8695,7 +8674,7 @@ While Supplies Last">
 			<input type="hidden" id="keyword" name="keyword" value="" />
 			
 			
-				<input type="hidden" class="catEntryId" name="catEntryId" value="1838206" />
+				<input type="hidden" class="catEntryId" name="catEntryId" value="1880834" />
 			
 			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
 			
@@ -8708,7 +8687,7 @@ While Supplies Last">
 									<button id="sub-0" type="button" class="btn disabled"
 											data-type="minus" data-field="" value="" tabindex="0"
 											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '0', '100568245','', false)">
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '0', '100579367','', false)">
 										<i class="co-collapse"></i>
 									</button>
 									<input id="value-0" data-txt-qty type="text" 
@@ -8721,7 +8700,7 @@ While Supplies Last">
 											class="btn" data-type="plus" data-field="" 
 											value="" tabindex="0"
 											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'0', '100568245','', true)">
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'0', '100579367','', true)">
 										<i class="co-expand"></i>
 									</button>
 								</div>		
@@ -8733,7 +8712,7 @@ While Supplies Last">
 									
 									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
 									<button id="addbutton-0" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'0', '100568245','')">Add</button>
+										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'0', '100579367','')">Add</button>
 								</div>
 							</div>
 							<div>
@@ -8754,29 +8733,29 @@ While Supplies Last">
 	
 </div>
 
-<input type="hidden" id="isTwoDayItem_100568245" value="false" />
+<input type="hidden" id="isTwoDayItem_100579367" value="false" />
 
-<input type="hidden" id="in_Stock_100568245" value="2" />
+<input type="hidden" id="in_Stock_100579367" value="2" />
 
 
-<input type="hidden" id="product_sku_100568245" value="" />
-<input type="hidden" id="product_name_100568245" value="Lenovo Flex 5 Series 2-in-1 Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p" />
+<input type="hidden" id="product_sku_100579367" value="" />
+<input type="hidden" id="product_name_100579367" value="Lenovo IdeaPad 3 15.6" Touchscreen Laptop - 10th Gen Intel Core i5-1035G1" />
 
 <!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
 						
 				</div>
 				
 				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100571102 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100571102 and productInventory.ffmcenterid = 50702 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = Standard -->
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100511826 and productInventory.ffmcenterid = 10151 --><!-- InStock = 0 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/hp-17.3%22-laptop---10th-gen-intel-core-i5-1035g1---1080p.product.100571102.html" item-index="1">
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/hp-pavilion-15.6%22-touchscreen-laptop---10th-gen-intel-core-i7-1065g7---1080p.product.100511826.html" item-index="1">
 	
 	<input type="hidden" id="grocerySection" value="false"/>
 
 	
 	<div class="omniture">
-		<div class="scProdId" sc.prodId="100571102"></div>
-	   	<div class="scMemberProductType" sc.memberProductType="na"></div>
+		<div class="scProdId" sc.prodId="100511826"></div>
+	   	<div class="scMemberProductType" sc.memberProductType="member-only"></div>
 	</div>		
 	
 	
@@ -8786,13 +8765,15 @@ While Supplies Last">
 </div>
 
 
-	<div class="thumbnail" itemid="100571102">	
+	<div class="thumbnail" itemid="100511826">	
 		<div class="product-img-holder link-behavior">
 			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
 				
 						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
-						 	src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1423042-847__1&recipeName=350" alt="HP 17.3&#034; Laptop - 10th Gen Intel Core i5-1035G1 - 1080p" title="HP 17.3&#034; Laptop - 10th Gen Intel Core i5-1035G1 - 1080p"
+						 	src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1373149-847__1&recipeName=350" alt="HP Pavilion 15.6&#034; Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p" title="HP Pavilion 15.6&#034; Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p"
 						 />
+					
+						<img class="product-out-stock-overlay" src="/wcsstore/CostcoGLOBALSAS/images/OOS-overlay-en.png" alt="Out of Stock" title="Out of Stock"/>
 					
 			</div>
 			
@@ -8809,53 +8790,55 @@ While Supplies Last">
 			<div class="row custom_row">
 				<div class="col-xs-12 badge-class">
 					
-								<div class="row">
-									<div class="col-xs-12 menuicon-holder">
-										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/hp-17.3-laptop---10th-gen-intel-core-i5-1035g1---1080p.product.100571102.html"
-											style="float:right;">
-										</i>
-									</div>
-								</div>
-							
 				</div>
 			</div>
 			<div class="caption">
 			   
 				<p class="map-item hide">Sign In For Price</p>
-			   	
-					<div class="" >
+			   
+					<p class="member-only"><span class="co-c"></span>Member Only Item </p> 
+					
+					<div class="moi" style="display:none;">
 						
-								<div class="price" id="price-100571102" data-regionNav="DEFAULT">$599.99</div>
+								<div class="price" id="price-100511826" data-regionNav="DEFAULT">$599.99</div>
 								
 					</div>
+				
+					<p class="promo">$200 OFF</p>	
 						
 			 				
 				<p class="description">			
 					
-							<a href="https://www.costco.com/hp-17.3%22-laptop---10th-gen-intel-core-i5-1035g1---1080p.product.100571102.html">HP 17.3" Laptop - 10th Gen Intel Core i5-1035G1 - 1080p</a>
+							<a href="https://www.costco.com/hp-pavilion-15.6%22-touchscreen-laptop---10th-gen-intel-core-i7-1065g7---1080p.product.100511826.html">HP Pavilion 15.6" Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p</a>
 										
 				</p>
 				
 				
 					<ul class="product-features hidden-xs hidden-sm">
 						
-		                        <li>10th Gen Intel® Core i5-1035G1 Processor</li> 
+		                        <li>10th Gen Intel® Core™ i7-1065G7 Processor at 1.3 GHz</li> 
 		                
-		                        <li>802.11b/g/n/ac + Bluetooth 4.2</li> 
+		                        <li>
+Full-Size Island-Style Backlit Keyboard with Numeric Keypad and Imagepad with Multi-Touch Gesture Support</li> 
 		                
-		                        <li>HP TrueVision HD Camera with Integrated Digital Microphones</li> 
+		                        <li>
+Intel® Wi-Fi 6 (2x2/160) Gig+ and Bluetooth® 5.0</li> 
 		                
-		                        <li>Full-sized Island-style Backlit Keyboard with Numeric Keypad</li> 
+		                        <li>
+B&O Play Audio with Dual Speakers</li> 
+		                
+		                        <li> 
+HP WideVision HD Webcam with Integrated Dual Digital Microphone</li> 
 		                
 					</ul>	
 				
 		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
 	
 	<div class="col-xs-12" 
-			aria-label="Rated 4.4 out of 5 stars based on 417 reviews.">
+			aria-label="Rated 4.2 out of 5 stars based on 565 reviews.">
 		
 		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,79.38179969787598px,20px,0);">
+			<ul class="stars overlay" style="clip: rect(0,75.72779846191406px,20px,0);">
 				<li>
 					<span class="fi-star"></span>
 				</li>
@@ -8890,17 +8873,17 @@ While Supplies Last">
 				</li>
 			</ul>
 		  	<span class="offscreen">
-		  		Rated 4.4 out of 5 stars based on 417 reviews. 
+		  		Rated 4.2 out of 5 stars based on 565 reviews. 
         	</span>
          	<div class="ratings-number">
-            	(417)
+            	(565)
           	</div>
 		</div>
 		
-			<meta itemprop="ratingValue" content="4.410099983215332"/>
-			<meta itemprop="reviewCount" content="417"/>
+			<meta itemprop="ratingValue" content="4.207099914550781"/>
+			<meta itemprop="reviewCount" content="565"/>
 			<meta itemprop="bestRating" content="5"/>
-			<meta itemprop="itemReviewed" content="HP 17.3&#034; Laptop - 10th Gen Intel Core i5-1035G1 - 1080p"/>
+			<meta itemprop="itemReviewed" content="HP Pavilion 15.6&#034; Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p"/>
 		
 	</div>
 </div>
@@ -8911,9 +8894,9 @@ While Supplies Last">
 	
 
 <div class="style-check compare-container">
-    <input id="compare_100571102" type="checkbox" name="compare-product" value="true" data-description=""  
-    	onclick="COSTCO.compareProducts.toggleItem('100571102','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1423042-847__1&recipeName=350', this)" />
-    <label for="compare_100571102" class="mar_top">
+    <input id="compare_100511826" type="checkbox" name="compare-product" value="true" data-description=""  
+    	onclick="COSTCO.compareProducts.toggleItem('100511826','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1373149-847__1&recipeName=350', this)" />
+    <label for="compare_100511826" class="mar_top">
     	<span>Compare Product</span>
     </label>
 </div>
@@ -8925,13 +8908,13 @@ While Supplies Last">
 	<input type="hidden" id="tobaccoInState" value="false" />
 	
 	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="signInDetails" name="signInDetails" value="" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
+	<input type="hidden" id="signInDetails" name="signInDetails" value="signin-details" />
+	<input type="hidden" id="in_Stock" name="in_Stock" value="0" />
 			
-		<input type="hidden" id="catalogType_100571102" 
-			name="catalogType_100571102" value="" />
+		<input type="hidden" id="catalogType_100511826" 
+			name="catalogType_100511826" value="" />
 	
-	<input type="hidden" class="partNumb" name="partNumb" value="100571102" />
+	<input type="hidden" class="partNumb" name="partNumb" value="100511826" />
 		
 	<!--  Button Section -->
 	<div class="buttonSection hide" id="btnas">
@@ -8942,75 +8925,23 @@ While Supplies Last">
 		<div class="addbutton" id="quickAdd-1" style="display:none">
 		
 		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
-		<input type="hidden" class="partNumb" name="partNumb" value="100571102" />
+		<input type="hidden" class="partNumb" name="partNumb" value="100511826" />
 		
 		<input type="hidden" name="buyable" value="true" /> 
 	
-		
-	
-			<form id="AddToCartForm-1" name="OrderItemAddForm" autocomplete="off">
-			<input type="hidden" name="backURL" value="" />
-			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
-			<input type="hidden" id="langId" name="langId" value="-1" />
-			<input type="hidden" id="storeId" name="storeId" value="10301" />
-			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
-			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
-			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
-			<input type="hidden" id="refinementValue" name="refinementValue" value="577607" />
-			<input type="hidden" id="keyword" name="keyword" value="" />
-			
-			
-				<input type="hidden" class="catEntryId" name="catEntryId" value="1849664" />
-			
-			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
-			
-				
-				<div class="row">
-					<div class="col-xs-12">
-							<div class="product-quick-buy">
-							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-1">
-									<button id="sub-1" type="button" class="btn disabled"
-											data-type="minus" data-field="" value="" tabindex="0"
-											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '1', '100571102','', false)">
-										<i class="co-collapse"></i>
-									</button>
-									<input id="value-1" data-txt-qty type="text" 
-										    class="form-control" name="quantity-1" value="1"
-											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
-											aria-label = "Quantity to Add" 
-											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
-											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-1" type="button" 
-											class="btn" data-type="plus" data-field="" 
-											value="" tabindex="0"
-											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'1', '100571102','', true)">
-										<i class="co-expand"></i>
-									</button>
-								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-1">
-									<input type="hidden" id="minquantity-1"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-1"class="maxQuantity" name="maxQuantity" value="999" />
-									<input type="hidden" name="orderItemId-1" value="" id="orderItemId-1" />
-									<input type="hidden" name="quantity-1" value="1" id="quantity-1" />
-									
-									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-1" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'1', '100571102','')">Add</button>
-								</div>
-							</div>
-							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-1" style="display:none"></div>
-								<span class="span-error" id="errordiv-1" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-1" style="display:none"></span>
-							</div>		
-						</div>
+	<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 0    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->   
+	<div class="row">
+		<div class="col-xs-12">
+			<div class="product-quick-buy">
+				<div class="product-quick-buy-inner">	
+					<div class="product-quick-buy-btn btn-out-stock-holder" style="margin:0">
+						<button class="btn btn-primary btn-block primary-slim disabled" tabindex="0" disabled>Out of Stock</button>
 					</div>
-				</div>			
-			</form>
-		<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 2    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->
+				</div>	
+			</div>
+		</div>
+	</div>
+
 </div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
 		</div>
 		
@@ -9019,13 +8950,13 @@ While Supplies Last">
 	
 </div>
 
-<input type="hidden" id="isTwoDayItem_100571102" value="false" />
+<input type="hidden" id="isTwoDayItem_100511826" value="false" />
 
-<input type="hidden" id="in_Stock_100571102" value="2" />
+<input type="hidden" id="in_Stock_100511826" value="0" />
 
 
-<input type="hidden" id="product_sku_100571102" value="" />
-<input type="hidden" id="product_name_100571102" value="HP 17.3" Laptop - 10th Gen Intel Core i5-1035G1 - 1080p" />
+<input type="hidden" id="product_sku_100511826" value="" />
+<input type="hidden" id="product_name_100511826" value="HP Pavilion 15.6" Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p" />
 
 <!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
 						
@@ -9035,7 +8966,7 @@ While Supplies Last">
 				 	<hr class="visible-xs-block visible-sm-block visible-md-block "> 
 				
 				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100511758 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100511758 and productInventory.ffmcenterid = 50702 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100511758 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
 
 <div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/hp-pavilion-15.6%22-touchscreen-laptop---10th-gen-intel-core-i7-1065g7---4gb-geforce-mx250---1080p---windows-10-professional.product.100511758.html" item-index="2">
 	
@@ -9093,11 +9024,9 @@ While Supplies Last">
 			   	
 					<div class="" >
 						
-								<div class="price" id="price-100511758" data-regionNav="DEFAULT">$899.99</div>
+								<div class="price" id="price-100511758" data-regionNav="DEFAULT">$1,099.99</div>
 								
 					</div>
-				
-					<p class="promo">$200 OFF</p>	
 						
 			 				
 				<p class="description">			
@@ -9124,10 +9053,10 @@ While Supplies Last">
 		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
 	
 	<div class="col-xs-12" 
-			aria-label="Rated 4.3 out of 5 stars based on 691 reviews.">
+			aria-label="Rated 4.3 out of 5 stars based on 700 reviews.">
 		
 		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,78.0696029663086px,20px,0);">
+			<ul class="stars overlay" style="clip: rect(0,78.09480285644531px,20px,0);">
 				<li>
 					<span class="fi-star"></span>
 				</li>
@@ -9162,15 +9091,15 @@ While Supplies Last">
 				</li>
 			</ul>
 		  	<span class="offscreen">
-		  		Rated 4.3 out of 5 stars based on 691 reviews. 
+		  		Rated 4.3 out of 5 stars based on 700 reviews. 
         	</span>
          	<div class="ratings-number">
-            	(691)
+            	(700)
           	</div>
 		</div>
 		
-			<meta itemprop="ratingValue" content="4.337200164794922"/>
-			<meta itemprop="reviewCount" content="691"/>
+			<meta itemprop="ratingValue" content="4.338600158691406"/>
+			<meta itemprop="reviewCount" content="700"/>
 			<meta itemprop="bestRating" content="5"/>
 			<meta itemprop="itemReviewed" content="HP Pavilion 15.6&#034; Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 4GB GeForce MX250 - 1080p - Windows 10 Professional"/>
 		
@@ -9307,15 +9236,15 @@ While Supplies Last">
 					<hr class="visible-lg-block ">
 				
 				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100517984 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100517984 and productInventory.ffmcenterid = 50702 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100579343 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/dell-inspiron-17-laptop---10th-gen-intel-core-i7-1065g7---geforce-mx230---1080p.product.100517984.html" item-index="3">
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/msi-gl75-leopard-gaming-laptop---10th-gen-intel-core-i7-10750h---geforce-gtx-1660ti---144hz-1080p-display.product.100579343.html" item-index="3">
 	
 	<input type="hidden" id="grocerySection" value="false"/>
 
 	
 	<div class="omniture">
-		<div class="scProdId" sc.prodId="100517984"></div>
+		<div class="scProdId" sc.prodId="100579343"></div>
 	   	<div class="scMemberProductType" sc.memberProductType="na"></div>
 	</div>		
 	
@@ -9326,12 +9255,12 @@ While Supplies Last">
 </div>
 
 
-	<div class="thumbnail" itemid="100517984">	
+	<div class="thumbnail" itemid="100579343">	
 		<div class="product-img-holder link-behavior">
 			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
 				
 						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
-						 	src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1373095-847__1&recipeName=350" alt="Dell Inspiron 17 Laptop - 10th Gen Intel Core i7-1065G7 - GeForce MX230 - 1080p" title="Dell Inspiron 17 Laptop - 10th Gen Intel Core i7-1065G7 - GeForce MX230 - 1080p"
+						 	src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1430689-847__1&recipeName=350" alt="MSI GL75 Leopard Gaming Laptop - 10th Gen Intel Core i7-10750H - GeForce GTX 1660Ti - 144Hz 1080p Display" title="MSI GL75 Leopard Gaming Laptop - 10th Gen Intel Core i7-10750H - GeForce GTX 1660Ti - 144Hz 1080p Display"
 						 />
 					
 			</div>
@@ -9351,7 +9280,7 @@ While Supplies Last">
 					
 								<div class="row">
 									<div class="col-xs-12 menuicon-holder">
-										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/dell-inspiron-17-laptop---10th-gen-intel-core-i7-1065g7---geforce-mx230---1080p.product.100517984.html"
+										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/msi-gl75-leopard-gaming-laptop---10th-gen-intel-core-i7-10750h---geforce-gtx-1660ti---144hz-1080p-display.product.100579343.html"
 											style="float:right;">
 										</i>
 									</div>
@@ -9365,39 +9294,41 @@ While Supplies Last">
 			   	
 					<div class="" >
 						
-								<div class="price" id="price-100517984" data-regionNav="DEFAULT">$899.99</div>
+								<div class="price" id="price-100579343" data-regionNav="DEFAULT">$999.99</div>
 								
 					</div>
 				
-					<p class="promo">$100 OFF</p>	
+					<p class="promo">$200 OFF & Marvel's Avenger Game Code</p>	
 						
 			 				
 				<p class="description">			
 					
-							<a href="https://www.costco.com/dell-inspiron-17-laptop---10th-gen-intel-core-i7-1065g7---geforce-mx230---1080p.product.100517984.html">Dell Inspiron 17 Laptop - 10th Gen Intel Core i7-1065G7 - GeForce MX230 - 1080p</a>
+							<a href="https://www.costco.com/msi-gl75-leopard-gaming-laptop---10th-gen-intel-core-i7-10750h---geforce-gtx-1660ti---144hz-1080p-display.product.100579343.html">MSI GL75 Leopard Gaming Laptop - 10th Gen Intel Core i7-10750H - GeForce GTX 1660Ti - 144Hz 1080p Display</a>
 										
 				</p>
 				
 				
 					<ul class="product-features hidden-xs hidden-sm">
 						
-		                        <li>10th Gen Intel® Core™ i7-1065G7 Processor 1.3GHz</li> 
+		                        <li>10th Gen Intel® Core™ i7-10750H Processor 2.6GHz</li> 
 		                
-		                        <li> 802.11 Wireless-AC Qualcomm DW1810 LAN + Bluetooth® 4.1</li> 
+		                        <li> 6GB NVIDIA GeForce® GTX 1660Ti Graphics</li> 
 		                
-		                        <li> 2GB NVIDIA® GeForce® MX230 Graphics</li> 
+		                        <li> 17.3" FHD 144Hz 3ms 100% sRGB Display</li> 
 		                
-		                        <li> Integrated Widescreen HD 720p Webcam with Dual Digital Microphone Array</li> 
+		                        <li> 1x Mini-Display Port mDP v1.2</li> 
+		                
+		                        <li> Single Backlight with Anti-Ghosting Key + Silver Lining</li> 
 		                
 					</ul>	
 				
 		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
 	
 	<div class="col-xs-12" 
-			aria-label="Rated 4.3 out of 5 stars based on 1057 reviews.">
+			aria-label="Rated 4.5 out of 5 stars based on 102 reviews.">
 		
 		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,76.78439998626709px,20px,0);">
+			<ul class="stars overlay" style="clip: rect(0,81.17639923095703px,20px,0);">
 				<li>
 					<span class="fi-star"></span>
 				</li>
@@ -9432,17 +9363,17 @@ While Supplies Last">
 				</li>
 			</ul>
 		  	<span class="offscreen">
-		  		Rated 4.3 out of 5 stars based on 1057 reviews. 
+		  		Rated 4.5 out of 5 stars based on 102 reviews. 
         	</span>
          	<div class="ratings-number">
-            	(1057)
+            	(102)
           	</div>
 		</div>
 		
-			<meta itemprop="ratingValue" content="4.2657999992370605"/>
-			<meta itemprop="reviewCount" content="1057"/>
+			<meta itemprop="ratingValue" content="4.509799957275391"/>
+			<meta itemprop="reviewCount" content="102"/>
 			<meta itemprop="bestRating" content="5"/>
-			<meta itemprop="itemReviewed" content="Dell Inspiron 17 Laptop - 10th Gen Intel Core i7-1065G7 - GeForce MX230 - 1080p"/>
+			<meta itemprop="itemReviewed" content="MSI GL75 Leopard Gaming Laptop - 10th Gen Intel Core i7-10750H - GeForce GTX 1660Ti - 144Hz 1080p Display"/>
 		
 	</div>
 </div>
@@ -9453,9 +9384,9 @@ While Supplies Last">
 	
 
 <div class="style-check compare-container">
-    <input id="compare_100517984" type="checkbox" name="compare-product" value="true" data-description=""  
-    	onclick="COSTCO.compareProducts.toggleItem('100517984','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1373095-847__1&recipeName=350', this)" />
-    <label for="compare_100517984" class="mar_top">
+    <input id="compare_100579343" type="checkbox" name="compare-product" value="true" data-description=""  
+    	onclick="COSTCO.compareProducts.toggleItem('100579343','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1430689-847__1&recipeName=350', this)" />
+    <label for="compare_100579343" class="mar_top">
     	<span>Compare Product</span>
     </label>
 </div>
@@ -9470,10 +9401,10 @@ While Supplies Last">
 	<input type="hidden" id="signInDetails" name="signInDetails" value="" />
 	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
 			
-		<input type="hidden" id="catalogType_100517984" 
-			name="catalogType_100517984" value="" />
+		<input type="hidden" id="catalogType_100579343" 
+			name="catalogType_100579343" value="" />
 	
-	<input type="hidden" class="partNumb" name="partNumb" value="100517984" />
+	<input type="hidden" class="partNumb" name="partNumb" value="100579343" />
 		
 	<!--  Button Section -->
 	<div class="buttonSection hide" id="btnas">
@@ -9484,7 +9415,7 @@ While Supplies Last">
 		<div class="addbutton" id="quickAdd-3" style="display:none">
 		
 		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
-		<input type="hidden" class="partNumb" name="partNumb" value="100517984" />
+		<input type="hidden" class="partNumb" name="partNumb" value="100579343" />
 		
 		<input type="hidden" name="buyable" value="true" /> 
 	
@@ -9502,7 +9433,7 @@ While Supplies Last">
 			<input type="hidden" id="keyword" name="keyword" value="" />
 			
 			
-				<input type="hidden" class="catEntryId" name="catEntryId" value="1652788" />
+				<input type="hidden" class="catEntryId" name="catEntryId" value="1877966" />
 			
 			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
 			
@@ -9515,7 +9446,7 @@ While Supplies Last">
 									<button id="sub-3" type="button" class="btn disabled"
 											data-type="minus" data-field="" value="" tabindex="0"
 											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '3', '100517984','', false)">
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '3', '100579343','', false)">
 										<i class="co-collapse"></i>
 									</button>
 									<input id="value-3" data-txt-qty type="text" 
@@ -9528,7 +9459,7 @@ While Supplies Last">
 											class="btn" data-type="plus" data-field="" 
 											value="" tabindex="0"
 											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'3', '100517984','', true)">
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'3', '100579343','', true)">
 										<i class="co-expand"></i>
 									</button>
 								</div>		
@@ -9540,7 +9471,7 @@ While Supplies Last">
 									
 									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
 									<button id="addbutton-3" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'3', '100517984','')">Add</button>
+										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'3', '100579343','')">Add</button>
 								</div>
 							</div>
 							<div>
@@ -9561,13 +9492,13 @@ While Supplies Last">
 	
 </div>
 
-<input type="hidden" id="isTwoDayItem_100517984" value="false" />
+<input type="hidden" id="isTwoDayItem_100579343" value="false" />
 
-<input type="hidden" id="in_Stock_100517984" value="2" />
+<input type="hidden" id="in_Stock_100579343" value="2" />
 
 
-<input type="hidden" id="product_sku_100517984" value="" />
-<input type="hidden" id="product_name_100517984" value="Dell Inspiron 17 Laptop - 10th Gen Intel Core i7-1065G7 - GeForce MX230 - 1080p" />
+<input type="hidden" id="product_sku_100579343" value="" />
+<input type="hidden" id="product_name_100579343" value="MSI GL75 Leopard Gaming Laptop - 10th Gen Intel Core i7-10750H - GeForce GTX 1660Ti - 144Hz 1080p Display" />
 
 <!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
 						
@@ -9580,9 +9511,274 @@ While Supplies Last">
 					<hr class="visible-xl-block ">
 				
 				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100511864 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100511864 and productInventory.ffmcenterid = 50702 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100571102 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = Standard -->
 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/hp-17.3%22-touchscreen-laptop---amd-ryzen-5-3500u.product.100511864.html" item-index="4">
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/hp-17.3%22-laptop---10th-gen-intel-core-i5-1035g1---1080p.product.100571102.html" item-index="4">
+	
+	<input type="hidden" id="grocerySection" value="false"/>
+
+	
+	<div class="omniture">
+		<div class="scProdId" sc.prodId="100571102"></div>
+	   	<div class="scMemberProductType" sc.memberProductType="na"></div>
+	</div>		
+	
+	
+
+<div class="pills-section">
+	
+</div>
+
+
+	<div class="thumbnail" itemid="100571102">	
+		<div class="product-img-holder link-behavior">
+			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
+				
+						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
+						 	src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1423042-847__1&recipeName=350" alt="HP 17.3&#034; Laptop - 10th Gen Intel Core i5-1035G1 - 1080p" title="HP 17.3&#034; Laptop - 10th Gen Intel Core i5-1035G1 - 1080p"
+						 />
+					
+			</div>
+			
+			
+			
+		</div>
+		
+		
+		
+			
+			 
+		
+		<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">	
+			<div class="row custom_row">
+				<div class="col-xs-12 badge-class">
+					
+								<div class="row">
+									<div class="col-xs-12 menuicon-holder">
+										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/hp-17.3-laptop---10th-gen-intel-core-i5-1035g1---1080p.product.100571102.html"
+											style="float:right;">
+										</i>
+									</div>
+								</div>
+							
+				</div>
+			</div>
+			<div class="caption">
+			   
+				<p class="map-item hide">Sign In For Price</p>
+			   	
+					<div class="" >
+						
+								<div class="price" id="price-100571102" data-regionNav="DEFAULT">$599.99</div>
+								
+					</div>
+						
+			 				
+				<p class="description">			
+					
+							<a href="https://www.costco.com/hp-17.3%22-laptop---10th-gen-intel-core-i5-1035g1---1080p.product.100571102.html">HP 17.3" Laptop - 10th Gen Intel Core i5-1035G1 - 1080p</a>
+										
+				</p>
+				
+				
+					<ul class="product-features hidden-xs hidden-sm">
+						
+		                        <li>10th Gen Intel® Core i5-1035G1 Processor</li> 
+		                
+		                        <li>802.11b/g/n/ac + Bluetooth 4.2</li> 
+		                
+		                        <li>HP TrueVision HD Camera with Integrated Digital Microphones</li> 
+		                
+		                        <li>Full-sized Island-style Backlit Keyboard with Numeric Keypad</li> 
+		                
+					</ul>	
+				
+		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+	
+	<div class="col-xs-12" 
+			aria-label="Rated 4.4 out of 5 stars based on 443 reviews.">
+		
+		<div class="stars">
+			<ul class="stars overlay" style="clip: rect(0,79.92359733581543px,20px,0);">
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+			</ul>
+			<ul class="stars underlay">
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+			</ul>
+		  	<span class="offscreen">
+		  		Rated 4.4 out of 5 stars based on 443 reviews. 
+        	</span>
+         	<div class="ratings-number">
+            	(443)
+          	</div>
+		</div>
+		
+			<meta itemprop="ratingValue" content="4.440199851989746"/>
+			<meta itemprop="reviewCount" content="443"/>
+			<meta itemprop="bestRating" content="5"/>
+			<meta itemprop="itemReviewed" content="HP 17.3&#034; Laptop - 10th Gen Intel Core i5-1035G1 - 1080p"/>
+		
+	</div>
+</div>
+
+			</div>
+		</div>
+	</div>
+	
+
+<div class="style-check compare-container">
+    <input id="compare_100571102" type="checkbox" name="compare-product" value="true" data-description=""  
+    	onclick="COSTCO.compareProducts.toggleItem('100571102','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1423042-847__1&recipeName=350', this)" />
+    <label for="compare_100571102" class="mar_top">
+    	<span>Compare Product</span>
+    </label>
+</div>
+
+	<input type="hidden" id="tobaccoProd" value="" />
+	<input type="hidden" id="ebbProd" value="" />
+	<input type="hidden" id="deptNumber" value="" />
+	
+	<input type="hidden" id="tobaccoInState" value="false" />
+	
+	<input type="hidden" id="add_Button" name="add_Button" value="true" />
+	<input type="hidden" id="signInDetails" name="signInDetails" value="" />
+	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
+			
+		<input type="hidden" id="catalogType_100571102" 
+			name="catalogType_100571102" value="" />
+	
+	<input type="hidden" class="partNumb" name="partNumb" value="100571102" />
+		
+	<!--  Button Section -->
+	<div class="buttonSection hide" id="btnas">
+		<div id="plp-add-to-cart" >
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
+<input type="hidden" id="endIndex" name="resultCnt" value="23" />
+
+		<div class="addbutton" id="quickAdd-4" style="display:none">
+		
+		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
+		<input type="hidden" class="partNumb" name="partNumb" value="100571102" />
+		
+		<input type="hidden" name="buyable" value="true" /> 
+	
+		
+	
+			<form id="AddToCartForm-4" name="OrderItemAddForm" autocomplete="off">
+			<input type="hidden" name="backURL" value="" />
+			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
+			<input type="hidden" id="langId" name="langId" value="-1" />
+			<input type="hidden" id="storeId" name="storeId" value="10301" />
+			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
+			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
+			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
+			<input type="hidden" id="refinementValue" name="refinementValue" value="577607" />
+			<input type="hidden" id="keyword" name="keyword" value="" />
+			
+			
+				<input type="hidden" class="catEntryId" name="catEntryId" value="1849664" />
+			
+			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
+			
+				
+				<div class="row">
+					<div class="col-xs-12">
+							<div class="product-quick-buy">
+							<div class="product-quick-buy-inner">
+								<div class="product-quick-buy-txt" id="add-div-4">
+									<button id="sub-4" type="button" class="btn disabled"
+											data-type="minus" data-field="" value="" tabindex="0"
+											aria-label = "Decrease Quantity to Add"
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '4', '100571102','', false)">
+										<i class="co-collapse"></i>
+									</button>
+									<input id="value-4" data-txt-qty type="text" 
+										    class="form-control" name="quantity-4" value="1"
+											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
+											aria-label = "Quantity to Add" 
+											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
+											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
+									<button id="add-4" type="button" 
+											class="btn" data-type="plus" data-field="" 
+											value="" tabindex="0"
+											aria-label = "Increase Quantity to Add"
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'4', '100571102','', true)">
+										<i class="co-expand"></i>
+									</button>
+								</div>		
+								<div class="product-quick-buy-btn" id="addButtonContainer-4">
+									<input type="hidden" id="minquantity-4"class="minQuantity" name="minQuantity" value="1" />
+									<input type="hidden" id="maxQuantity-4"class="maxQuantity" name="maxQuantity" value="999" />
+									<input type="hidden" name="orderItemId-4" value="" id="orderItemId-4" />
+									<input type="hidden" name="quantity-4" value="1" id="quantity-4" />
+									
+									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
+									<button id="addbutton-4" class="btn btn-primary btn-block primary-slim" tabindex="0"
+										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'4', '100571102','')">Add</button>
+								</div>
+							</div>
+							<div>
+								<div class="item-in-cart text-center" id="item-in-cart-4" style="display:none"></div>
+								<span class="span-error" id="errordiv-4" style="display:none"></span>
+								<span class="span-error" id="qtyerrordiv-4" style="display:none"></span>
+							</div>		
+						</div>
+					</div>
+				</div>			
+			</form>
+		<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 2    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->
+</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
+		</div>
+		
+	</div>
+	<!--  End of Button Section -->	
+	
+</div>
+
+<input type="hidden" id="isTwoDayItem_100571102" value="false" />
+
+<input type="hidden" id="in_Stock_100571102" value="2" />
+
+
+<input type="hidden" id="product_sku_100571102" value="" />
+<input type="hidden" id="product_name_100571102" value="HP 17.3" Laptop - 10th Gen Intel Core i5-1035G1 - 1080p" />
+
+<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
+						
+				</div>
+				
+				<div class="col-xs-6 col-lg-3 product">	
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100511864 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
+
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/hp-17.3%22-touchscreen-laptop---amd-ryzen-5-3500u.product.100511864.html" item-index="5">
 	
 	<input type="hidden" id="grocerySection" value="false"/>
 
@@ -9667,10 +9863,10 @@ While Supplies Last">
 		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
 	
 	<div class="col-xs-12" 
-			aria-label="Rated 4.3 out of 5 stars based on 1416 reviews.">
+			aria-label="Rated 4.3 out of 5 stars based on 1422 reviews.">
 		
 		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,77.98680210113525px,20px,0);">
+			<ul class="stars overlay" style="clip: rect(0,78.03720188140869px,20px,0);">
 				<li>
 					<span class="fi-star"></span>
 				</li>
@@ -9705,15 +9901,15 @@ While Supplies Last">
 				</li>
 			</ul>
 		  	<span class="offscreen">
-		  		Rated 4.3 out of 5 stars based on 1416 reviews. 
+		  		Rated 4.3 out of 5 stars based on 1422 reviews. 
         	</span>
          	<div class="ratings-number">
-            	(1416)
+            	(1422)
           	</div>
 		</div>
 		
-			<meta itemprop="ratingValue" content="4.332600116729736"/>
-			<meta itemprop="reviewCount" content="1416"/>
+			<meta itemprop="ratingValue" content="4.335400104522705"/>
+			<meta itemprop="reviewCount" content="1422"/>
 			<meta itemprop="bestRating" content="5"/>
 			<meta itemprop="itemReviewed" content="HP 17.3&#034; Touchscreen Laptop - AMD Ryzen 5 3500U"/>
 		
@@ -9754,7 +9950,7 @@ While Supplies Last">
 			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
 <input type="hidden" id="endIndex" name="resultCnt" value="23" />
 
-		<div class="addbutton" id="quickAdd-4" style="display:none">
+		<div class="addbutton" id="quickAdd-5" style="display:none">
 		
 		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
 		<input type="hidden" class="partNumb" name="partNumb" value="100511864" />
@@ -9782,10 +9978,281 @@ While Supplies Last">
 						
 				</div>
 				
+					<div class="clearfix visible-xs-block visible-sm-block visible-md-block" data-row-split></div>
+				 	<hr class="visible-xs-block visible-sm-block visible-md-block "> 
+				
+					<div class="clearfix visible-lg-block" data-row-split></div>
+					<hr class="visible-lg-block ">
+				
 				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100579348 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100579348 and productInventory.ffmcenterid = 50702 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100517984 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/lenovo-flex-5-14%22-2-in-1-touchscreen-laptop---10th-gen-intel-core-i5-1035g1---1080p.product.100579348.html" item-index="5">
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/dell-inspiron-17-laptop---10th-gen-intel-core-i7-1065g7---geforce-mx230---1080p.product.100517984.html" item-index="6">
+	
+	<input type="hidden" id="grocerySection" value="false"/>
+
+	
+	<div class="omniture">
+		<div class="scProdId" sc.prodId="100517984"></div>
+	   	<div class="scMemberProductType" sc.memberProductType="na"></div>
+	</div>		
+	
+	
+
+<div class="pills-section">
+	
+</div>
+
+
+	<div class="thumbnail" itemid="100517984">	
+		<div class="product-img-holder link-behavior">
+			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
+				
+						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
+						 	src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1373095-847__1&recipeName=350" alt="Dell Inspiron 17 Laptop - 10th Gen Intel Core i7-1065G7 - GeForce MX230 - 1080p" title="Dell Inspiron 17 Laptop - 10th Gen Intel Core i7-1065G7 - GeForce MX230 - 1080p"
+						 />
+					
+			</div>
+			
+			
+			
+		</div>
+		
+		
+		
+			
+			 
+		
+		<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">	
+			<div class="row custom_row">
+				<div class="col-xs-12 badge-class">
+					
+								<div class="row">
+									<div class="col-xs-12 menuicon-holder">
+										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/dell-inspiron-17-laptop---10th-gen-intel-core-i7-1065g7---geforce-mx230---1080p.product.100517984.html"
+											style="float:right;">
+										</i>
+									</div>
+								</div>
+							
+				</div>
+			</div>
+			<div class="caption">
+			   
+				<p class="map-item hide">Sign In For Price</p>
+			   	
+					<div class="" >
+						
+								<div class="price" id="price-100517984" data-regionNav="DEFAULT">$999.99</div>
+								
+					</div>
+						
+			 				
+				<p class="description">			
+					
+							<a href="https://www.costco.com/dell-inspiron-17-laptop---10th-gen-intel-core-i7-1065g7---geforce-mx230---1080p.product.100517984.html">Dell Inspiron 17 Laptop - 10th Gen Intel Core i7-1065G7 - GeForce MX230 - 1080p</a>
+										
+				</p>
+				
+				
+					<ul class="product-features hidden-xs hidden-sm">
+						
+		                        <li>10th Gen Intel® Core™ i7-1065G7 Processor 1.3GHz</li> 
+		                
+		                        <li> 802.11 Wireless-AC Qualcomm DW1810 LAN + Bluetooth® 4.1</li> 
+		                
+		                        <li> 2GB NVIDIA® GeForce® MX230 Graphics</li> 
+		                
+		                        <li> Integrated Widescreen HD 720p Webcam with Dual Digital Microphone Array</li> 
+		                
+					</ul>	
+				
+		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+	
+	<div class="col-xs-12" 
+			aria-label="Rated 4.3 out of 5 stars based on 1067 reviews.">
+		
+		<div class="stars">
+			<ul class="stars overlay" style="clip: rect(0,76.77360248565674px,20px,0);">
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+			</ul>
+			<ul class="stars underlay">
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+			</ul>
+		  	<span class="offscreen">
+		  		Rated 4.3 out of 5 stars based on 1067 reviews. 
+        	</span>
+         	<div class="ratings-number">
+            	(1067)
+          	</div>
+		</div>
+		
+			<meta itemprop="ratingValue" content="4.265200138092041"/>
+			<meta itemprop="reviewCount" content="1067"/>
+			<meta itemprop="bestRating" content="5"/>
+			<meta itemprop="itemReviewed" content="Dell Inspiron 17 Laptop - 10th Gen Intel Core i7-1065G7 - GeForce MX230 - 1080p"/>
+		
+	</div>
+</div>
+
+			</div>
+		</div>
+	</div>
+	
+
+<div class="style-check compare-container">
+    <input id="compare_100517984" type="checkbox" name="compare-product" value="true" data-description=""  
+    	onclick="COSTCO.compareProducts.toggleItem('100517984','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1373095-847__1&recipeName=350', this)" />
+    <label for="compare_100517984" class="mar_top">
+    	<span>Compare Product</span>
+    </label>
+</div>
+
+	<input type="hidden" id="tobaccoProd" value="" />
+	<input type="hidden" id="ebbProd" value="" />
+	<input type="hidden" id="deptNumber" value="" />
+	
+	<input type="hidden" id="tobaccoInState" value="false" />
+	
+	<input type="hidden" id="add_Button" name="add_Button" value="true" />
+	<input type="hidden" id="signInDetails" name="signInDetails" value="" />
+	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
+			
+		<input type="hidden" id="catalogType_100517984" 
+			name="catalogType_100517984" value="" />
+	
+	<input type="hidden" class="partNumb" name="partNumb" value="100517984" />
+		
+	<!--  Button Section -->
+	<div class="buttonSection hide" id="btnas">
+		<div id="plp-add-to-cart" >
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
+<input type="hidden" id="endIndex" name="resultCnt" value="23" />
+
+		<div class="addbutton" id="quickAdd-6" style="display:none">
+		
+		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
+		<input type="hidden" class="partNumb" name="partNumb" value="100517984" />
+		
+		<input type="hidden" name="buyable" value="true" /> 
+	
+		
+	
+			<form id="AddToCartForm-6" name="OrderItemAddForm" autocomplete="off">
+			<input type="hidden" name="backURL" value="" />
+			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
+			<input type="hidden" id="langId" name="langId" value="-1" />
+			<input type="hidden" id="storeId" name="storeId" value="10301" />
+			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
+			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
+			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
+			<input type="hidden" id="refinementValue" name="refinementValue" value="577607" />
+			<input type="hidden" id="keyword" name="keyword" value="" />
+			
+			
+				<input type="hidden" class="catEntryId" name="catEntryId" value="1652788" />
+			
+			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
+			
+				
+				<div class="row">
+					<div class="col-xs-12">
+							<div class="product-quick-buy">
+							<div class="product-quick-buy-inner">
+								<div class="product-quick-buy-txt" id="add-div-6">
+									<button id="sub-6" type="button" class="btn disabled"
+											data-type="minus" data-field="" value="" tabindex="0"
+											aria-label = "Decrease Quantity to Add"
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '6', '100517984','', false)">
+										<i class="co-collapse"></i>
+									</button>
+									<input id="value-6" data-txt-qty type="text" 
+										    class="form-control" name="quantity-6" value="1"
+											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
+											aria-label = "Quantity to Add" 
+											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
+											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
+									<button id="add-6" type="button" 
+											class="btn" data-type="plus" data-field="" 
+											value="" tabindex="0"
+											aria-label = "Increase Quantity to Add"
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'6', '100517984','', true)">
+										<i class="co-expand"></i>
+									</button>
+								</div>		
+								<div class="product-quick-buy-btn" id="addButtonContainer-6">
+									<input type="hidden" id="minquantity-6"class="minQuantity" name="minQuantity" value="1" />
+									<input type="hidden" id="maxQuantity-6"class="maxQuantity" name="maxQuantity" value="999" />
+									<input type="hidden" name="orderItemId-6" value="" id="orderItemId-6" />
+									<input type="hidden" name="quantity-6" value="1" id="quantity-6" />
+									
+									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
+									<button id="addbutton-6" class="btn btn-primary btn-block primary-slim" tabindex="0"
+										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'6', '100517984','')">Add</button>
+								</div>
+							</div>
+							<div>
+								<div class="item-in-cart text-center" id="item-in-cart-6" style="display:none"></div>
+								<span class="span-error" id="errordiv-6" style="display:none"></span>
+								<span class="span-error" id="qtyerrordiv-6" style="display:none"></span>
+							</div>		
+						</div>
+					</div>
+				</div>			
+			</form>
+		<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 2    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->
+</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
+		</div>
+		
+	</div>
+	<!--  End of Button Section -->	
+	
+</div>
+
+<input type="hidden" id="isTwoDayItem_100517984" value="false" />
+
+<input type="hidden" id="in_Stock_100517984" value="2" />
+
+
+<input type="hidden" id="product_sku_100517984" value="" />
+<input type="hidden" id="product_name_100517984" value="Dell Inspiron 17 Laptop - 10th Gen Intel Core i7-1065G7 - GeForce MX230 - 1080p" />
+
+<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
+						
+				</div>
+				
+				<div class="col-xs-6 col-lg-3 product">	
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100579348 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
+
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/lenovo-flex-5-14%22-2-in-1-touchscreen-laptop---10th-gen-intel-core-i5-1035g1---1080p.product.100579348.html" item-index="7">
 	
 	<input type="hidden" id="grocerySection" value="false"/>
 
@@ -9870,10 +10337,10 @@ While Supplies Last">
 		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
 	
 	<div class="col-xs-12" 
-			aria-label="Rated 4.3 out of 5 stars based on 123 reviews.">
+			aria-label="Rated 4.3 out of 5 stars based on 135 reviews.">
 		
 		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,77.85360145568848px,20px,0);">
+			<ul class="stars overlay" style="clip: rect(0,77.73300075531006px,20px,0);">
 				<li>
 					<span class="fi-star"></span>
 				</li>
@@ -9908,15 +10375,15 @@ While Supplies Last">
 				</li>
 			</ul>
 		  	<span class="offscreen">
-		  		Rated 4.3 out of 5 stars based on 123 reviews. 
+		  		Rated 4.3 out of 5 stars based on 135 reviews. 
         	</span>
          	<div class="ratings-number">
-            	(123)
+            	(135)
           	</div>
 		</div>
 		
-			<meta itemprop="ratingValue" content="4.325200080871582"/>
-			<meta itemprop="reviewCount" content="123"/>
+			<meta itemprop="ratingValue" content="4.31850004196167"/>
+			<meta itemprop="reviewCount" content="135"/>
 			<meta itemprop="bestRating" content="5"/>
 			<meta itemprop="itemReviewed" content="Lenovo Flex 5 14&#034; 2-in-1 Touchscreen Laptop - 10th Gen Intel Core i5-1035G1 - 1080p"/>
 		
@@ -9957,7 +10424,7 @@ While Supplies Last">
 			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
 <input type="hidden" id="endIndex" name="resultCnt" value="23" />
 
-		<div class="addbutton" id="quickAdd-5" style="display:none">
+		<div class="addbutton" id="quickAdd-7" style="display:none">
 		
 		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
 		<input type="hidden" class="partNumb" name="partNumb" value="100579348" />
@@ -9966,7 +10433,7 @@ While Supplies Last">
 	
 		
 	
-			<form id="AddToCartForm-5" name="OrderItemAddForm" autocomplete="off">
+			<form id="AddToCartForm-7" name="OrderItemAddForm" autocomplete="off">
 			<input type="hidden" name="backURL" value="" />
 			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
 			<input type="hidden" id="langId" name="langId" value="-1" />
@@ -9987,42 +10454,42 @@ While Supplies Last">
 					<div class="col-xs-12">
 							<div class="product-quick-buy">
 							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-5">
-									<button id="sub-5" type="button" class="btn disabled"
+								<div class="product-quick-buy-txt" id="add-div-7">
+									<button id="sub-7" type="button" class="btn disabled"
 											data-type="minus" data-field="" value="" tabindex="0"
 											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '5', '100579348','', false)">
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '7', '100579348','', false)">
 										<i class="co-collapse"></i>
 									</button>
-									<input id="value-5" data-txt-qty type="text" 
-										    class="form-control" name="quantity-5" value="1"
+									<input id="value-7" data-txt-qty type="text" 
+										    class="form-control" name="quantity-7" value="1"
 											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
 											aria-label = "Quantity to Add" 
 											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
 											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-5" type="button" 
+									<button id="add-7" type="button" 
 											class="btn" data-type="plus" data-field="" 
 											value="" tabindex="0"
 											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'5', '100579348','', true)">
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'7', '100579348','', true)">
 										<i class="co-expand"></i>
 									</button>
 								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-5">
-									<input type="hidden" id="minquantity-5"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-5"class="maxQuantity" name="maxQuantity" value="999" />
-									<input type="hidden" name="orderItemId-5" value="" id="orderItemId-5" />
-									<input type="hidden" name="quantity-5" value="1" id="quantity-5" />
+								<div class="product-quick-buy-btn" id="addButtonContainer-7">
+									<input type="hidden" id="minquantity-7"class="minQuantity" name="minQuantity" value="1" />
+									<input type="hidden" id="maxQuantity-7"class="maxQuantity" name="maxQuantity" value="999" />
+									<input type="hidden" name="orderItemId-7" value="" id="orderItemId-7" />
+									<input type="hidden" name="quantity-7" value="1" id="quantity-7" />
 									
 									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-5" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'5', '100579348','')">Add</button>
+									<button id="addbutton-7" class="btn btn-primary btn-block primary-slim" tabindex="0"
+										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'7', '100579348','')">Add</button>
 								</div>
 							</div>
 							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-5" style="display:none"></div>
-								<span class="span-error" id="errordiv-5" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-5" style="display:none"></span>
+								<div class="item-in-cart text-center" id="item-in-cart-7" style="display:none"></div>
+								<span class="span-error" id="errordiv-7" style="display:none"></span>
+								<span class="span-error" id="qtyerrordiv-7" style="display:none"></span>
 							</div>		
 						</div>
 					</div>
@@ -10052,13 +10519,223 @@ While Supplies Last">
 					<div class="clearfix visible-xs-block visible-sm-block visible-md-block" data-row-split></div>
 				 	<hr class="visible-xs-block visible-sm-block visible-md-block "> 
 				
+					<div class="clearfix visible-xl-block" data-row-split></div>
+					<hr class="visible-xl-block ">
+				
+				<div class="col-xs-6 col-lg-3 product">	
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100568245 and productInventory.ffmcenterid = 10151 --><!-- InStock = 0 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
+
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/lenovo-flex-5-series-2-in-1-touchscreen-laptop---10th-gen-intel-core-i7-1065g7---1080p.product.100568245.html" item-index="8">
+	
+	<input type="hidden" id="grocerySection" value="false"/>
+
+	
+	<div class="omniture">
+		<div class="scProdId" sc.prodId="100568245"></div>
+	   	<div class="scMemberProductType" sc.memberProductType="na"></div>
+	</div>		
+	
+	
+
+<div class="pills-section">
+	
+</div>
+
+
+	<div class="thumbnail" itemid="100568245">	
+		<div class="product-img-holder link-behavior">
+			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
+				
+						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
+						 	src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1419404-847__1&recipeName=350" alt="Lenovo Flex 5 Series 2-in-1 Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p" title="Lenovo Flex 5 Series 2-in-1 Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p"
+						 />
+					
+						<img class="product-out-stock-overlay" src="/wcsstore/CostcoGLOBALSAS/images/OOS-overlay-en.png" alt="Out of Stock" title="Out of Stock"/>
+					
+			</div>
+			
+			
+			
+		</div>
+		
+		
+		
+			
+			 
+		
+		<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">	
+			<div class="row custom_row">
+				<div class="col-xs-12 badge-class">
+					
+				</div>
+			</div>
+			<div class="caption">
+			   
+				<p class="map-item hide">Sign In For Price</p>
+			   	
+					<div class="" >
+						
+								<div class="price" id="price-100568245" data-regionNav="DEFAULT">$899.99</div>
+								
+					</div>
+						
+			 				
+				<p class="description">			
+					
+							<a href="https://www.costco.com/lenovo-flex-5-series-2-in-1-touchscreen-laptop---10th-gen-intel-core-i7-1065g7---1080p.product.100568245.html">Lenovo Flex 5 Series 2-in-1 Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p</a>
+										
+				</p>
+				
+				
+					<ul class="product-features hidden-xs hidden-sm">
+						
+		                        <li>10th Gen Intel® Core™ i7-1065G7 Processor at 1.3 GHz</li> 
+		                
+		                        <li>Intel® Wi-Fi 6 (2x2) + and Bluetooth® 4.2 </li> 
+		                
+		                        <li>Integrated Webcam with Privacy Shutter 720p</li> 
+		                
+		                        <li>Backlit Keyboard with Fingerprint Reader</li> 
+		                
+					</ul>	
+				
+		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+	
+	<div class="col-xs-12" 
+			aria-label="Rated 4.3 out of 5 stars based on 67 reviews.">
+		
+		<div class="stars">
+			<ul class="stars overlay" style="clip: rect(0,76.83660221099854px,20px,0);">
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+			</ul>
+			<ul class="stars underlay">
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+			</ul>
+		  	<span class="offscreen">
+		  		Rated 4.3 out of 5 stars based on 67 reviews. 
+        	</span>
+         	<div class="ratings-number">
+            	(67)
+          	</div>
+		</div>
+		
+			<meta itemprop="ratingValue" content="4.268700122833252"/>
+			<meta itemprop="reviewCount" content="67"/>
+			<meta itemprop="bestRating" content="5"/>
+			<meta itemprop="itemReviewed" content="Lenovo Flex 5 Series 2-in-1 Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p"/>
+		
+	</div>
+</div>
+
+			</div>
+		</div>
+	</div>
+	
+
+<div class="style-check compare-container">
+    <input id="compare_100568245" type="checkbox" name="compare-product" value="true" data-description=""  
+    	onclick="COSTCO.compareProducts.toggleItem('100568245','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1419404-847__1&recipeName=350', this)" />
+    <label for="compare_100568245" class="mar_top">
+    	<span>Compare Product</span>
+    </label>
+</div>
+
+	<input type="hidden" id="tobaccoProd" value="" />
+	<input type="hidden" id="ebbProd" value="" />
+	<input type="hidden" id="deptNumber" value="" />
+	
+	<input type="hidden" id="tobaccoInState" value="false" />
+	
+	<input type="hidden" id="add_Button" name="add_Button" value="true" />
+	<input type="hidden" id="signInDetails" name="signInDetails" value="" />
+	<input type="hidden" id="in_Stock" name="in_Stock" value="0" />
+			
+		<input type="hidden" id="catalogType_100568245" 
+			name="catalogType_100568245" value="" />
+	
+	<input type="hidden" class="partNumb" name="partNumb" value="100568245" />
+		
+	<!--  Button Section -->
+	<div class="buttonSection hide" id="btnas">
+		<div id="plp-add-to-cart" >
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
+<input type="hidden" id="endIndex" name="resultCnt" value="23" />
+
+		<div class="addbutton" id="quickAdd-8" style="display:none">
+		
+		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
+		<input type="hidden" class="partNumb" name="partNumb" value="100568245" />
+		
+		<input type="hidden" name="buyable" value="true" /> 
+	
+	<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 0    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->   
+	<div class="row">
+		<div class="col-xs-12">
+			<div class="product-quick-buy">
+				<div class="product-quick-buy-inner">	
+					<div class="product-quick-buy-btn btn-out-stock-holder" style="margin:0">
+						<button class="btn btn-primary btn-block primary-slim disabled" tabindex="0" disabled>Out of Stock</button>
+					</div>
+				</div>	
+			</div>
+		</div>
+	</div>
+
+</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
+		</div>
+		
+	</div>
+	<!--  End of Button Section -->	
+	
+</div>
+
+<input type="hidden" id="isTwoDayItem_100568245" value="false" />
+
+<input type="hidden" id="in_Stock_100568245" value="0" />
+
+
+<input type="hidden" id="product_sku_100568245" value="" />
+<input type="hidden" id="product_name_100568245" value="Lenovo Flex 5 Series 2-in-1 Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p" />
+
+<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
+						
+				</div>
+				
 					<div class="clearfix visible-lg-block" data-row-split></div>
 					<hr class="visible-lg-block ">
 				
 				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100568642 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100568642 and productInventory.ffmcenterid = 50702 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100568642 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/hp-14%22-laptop---10th-gen-intel-core-i3-1005g1---1080p.product.100568642.html" item-index="6">
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/hp-14%22-laptop---10th-gen-intel-core-i3-1005g1---1080p.product.100568642.html" item-index="9">
 	
 	<input type="hidden" id="grocerySection" value="false"/>
 
@@ -10145,10 +10822,10 @@ While Supplies Last">
 		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
 	
 	<div class="col-xs-12" 
-			aria-label="Rated 4.4 out of 5 stars based on 348 reviews.">
+			aria-label="Rated 4.3 out of 5 stars based on 366 reviews.">
 		
 		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,78.31079578399658px,20px,0);">
+			<ul class="stars overlay" style="clip: rect(0,78.29459953308105px,20px,0);">
 				<li>
 					<span class="fi-star"></span>
 				</li>
@@ -10183,15 +10860,15 @@ While Supplies Last">
 				</li>
 			</ul>
 		  	<span class="offscreen">
-		  		Rated 4.4 out of 5 stars based on 348 reviews. 
+		  		Rated 4.3 out of 5 stars based on 366 reviews. 
         	</span>
          	<div class="ratings-number">
-            	(348)
+            	(366)
           	</div>
 		</div>
 		
-			<meta itemprop="ratingValue" content="4.350599765777588"/>
-			<meta itemprop="reviewCount" content="348"/>
+			<meta itemprop="ratingValue" content="4.349699974060059"/>
+			<meta itemprop="reviewCount" content="366"/>
 			<meta itemprop="bestRating" content="5"/>
 			<meta itemprop="itemReviewed" content="HP 14&#034; Laptop - 10th Gen Intel Core i3-1005G1 - 1080p"/>
 		
@@ -10232,7 +10909,7 @@ While Supplies Last">
 			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
 <input type="hidden" id="endIndex" name="resultCnt" value="23" />
 
-		<div class="addbutton" id="quickAdd-6" style="display:none">
+		<div class="addbutton" id="quickAdd-9" style="display:none">
 		
 		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
 		<input type="hidden" class="partNumb" name="partNumb" value="100568642" />
@@ -10260,10 +10937,13 @@ While Supplies Last">
 						
 				</div>
 				
+					<div class="clearfix visible-xs-block visible-sm-block visible-md-block" data-row-split></div>
+				 	<hr class="visible-xs-block visible-sm-block visible-md-block "> 
+				
 				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100579386 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100579386 and productInventory.ffmcenterid = 50702 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100579386 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/hp-15.6%22-touchscreen-laptop---10-gen-intel-i5-1035g1.product.100579386.html" item-index="7">
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/hp-15.6%22-touchscreen-laptop---10-gen-intel-i5-1035g1.product.100579386.html" item-index="10">
 	
 	<input type="hidden" id="grocerySection" value="false"/>
 
@@ -10348,10 +11028,10 @@ While Supplies Last">
 		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
 	
 	<div class="col-xs-12" 
-			aria-label="Rated 4.3 out of 5 stars based on 457 reviews.">
+			aria-label="Rated 4.3 out of 5 stars based on 469 reviews.">
 		
 		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,77.23799800872803px,20px,0);">
+			<ul class="stars overlay" style="clip: rect(0,77.41080093383789px,20px,0);">
 				<li>
 					<span class="fi-star"></span>
 				</li>
@@ -10386,15 +11066,15 @@ While Supplies Last">
 				</li>
 			</ul>
 		  	<span class="offscreen">
-		  		Rated 4.3 out of 5 stars based on 457 reviews. 
+		  		Rated 4.3 out of 5 stars based on 469 reviews. 
         	</span>
          	<div class="ratings-number">
-            	(457)
+            	(469)
           	</div>
 		</div>
 		
-			<meta itemprop="ratingValue" content="4.290999889373779"/>
-			<meta itemprop="reviewCount" content="457"/>
+			<meta itemprop="ratingValue" content="4.300600051879883"/>
+			<meta itemprop="reviewCount" content="469"/>
 			<meta itemprop="bestRating" content="5"/>
 			<meta itemprop="itemReviewed" content="HP 15.6&#034; Touchscreen Laptop - 10 Gen Intel i5-1035G1"/>
 		
@@ -10435,7 +11115,7 @@ While Supplies Last">
 			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
 <input type="hidden" id="endIndex" name="resultCnt" value="23" />
 
-		<div class="addbutton" id="quickAdd-7" style="display:none">
+		<div class="addbutton" id="quickAdd-10" style="display:none">
 		
 		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
 		<input type="hidden" class="partNumb" name="partNumb" value="100579386" />
@@ -10444,7 +11124,7 @@ While Supplies Last">
 	
 		
 	
-			<form id="AddToCartForm-7" name="OrderItemAddForm" autocomplete="off">
+			<form id="AddToCartForm-10" name="OrderItemAddForm" autocomplete="off">
 			<input type="hidden" name="backURL" value="" />
 			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
 			<input type="hidden" id="langId" name="langId" value="-1" />
@@ -10465,42 +11145,42 @@ While Supplies Last">
 					<div class="col-xs-12">
 							<div class="product-quick-buy">
 							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-7">
-									<button id="sub-7" type="button" class="btn disabled"
+								<div class="product-quick-buy-txt" id="add-div-10">
+									<button id="sub-10" type="button" class="btn disabled"
 											data-type="minus" data-field="" value="" tabindex="0"
 											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '7', '100579386','', false)">
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '10', '100579386','', false)">
 										<i class="co-collapse"></i>
 									</button>
-									<input id="value-7" data-txt-qty type="text" 
-										    class="form-control" name="quantity-7" value="1"
+									<input id="value-10" data-txt-qty type="text" 
+										    class="form-control" name="quantity-10" value="1"
 											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
 											aria-label = "Quantity to Add" 
 											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
 											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-7" type="button" 
+									<button id="add-10" type="button" 
 											class="btn" data-type="plus" data-field="" 
 											value="" tabindex="0"
 											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'7', '100579386','', true)">
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'10', '100579386','', true)">
 										<i class="co-expand"></i>
 									</button>
 								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-7">
-									<input type="hidden" id="minquantity-7"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-7"class="maxQuantity" name="maxQuantity" value="999" />
-									<input type="hidden" name="orderItemId-7" value="" id="orderItemId-7" />
-									<input type="hidden" name="quantity-7" value="1" id="quantity-7" />
+								<div class="product-quick-buy-btn" id="addButtonContainer-10">
+									<input type="hidden" id="minquantity-10"class="minQuantity" name="minQuantity" value="1" />
+									<input type="hidden" id="maxQuantity-10"class="maxQuantity" name="maxQuantity" value="999" />
+									<input type="hidden" name="orderItemId-10" value="" id="orderItemId-10" />
+									<input type="hidden" name="quantity-10" value="1" id="quantity-10" />
 									
 									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-7" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'7', '100579386','')">Add</button>
+									<button id="addbutton-10" class="btn btn-primary btn-block primary-slim" tabindex="0"
+										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'10', '100579386','')">Add</button>
 								</div>
 							</div>
 							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-7" style="display:none"></div>
-								<span class="span-error" id="errordiv-7" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-7" style="display:none"></span>
+								<div class="item-in-cart text-center" id="item-in-cart-10" style="display:none"></div>
+								<span class="span-error" id="errordiv-10" style="display:none"></span>
+								<span class="span-error" id="qtyerrordiv-10" style="display:none"></span>
 							</div>		
 						</div>
 					</div>
@@ -10527,22 +11207,16 @@ While Supplies Last">
 						
 				</div>
 				
-					<div class="clearfix visible-xs-block visible-sm-block visible-md-block" data-row-split></div>
-				 	<hr class="visible-xs-block visible-sm-block visible-md-block "> 
-				
-					<div class="clearfix visible-xl-block" data-row-split></div>
-					<hr class="visible-xl-block ">
-				
 				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100567300 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100567300 and productInventory.ffmcenterid = 50702 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100512042 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/lenovo-ideapad-5-15.6%22-touchscreen-laptop---10th-gen-intel-core-i7-1065g7---1080p.product.100567300.html" item-index="8">
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/hp-pavilion-15.6%22-touchscreen-laptop---10th-gen-intel-core-i7---geforce-mx250---fog-blue.product.100512042.html" item-index="11">
 	
 	<input type="hidden" id="grocerySection" value="false"/>
 
 	
 	<div class="omniture">
-		<div class="scProdId" sc.prodId="100567300"></div>
+		<div class="scProdId" sc.prodId="100512042"></div>
 	   	<div class="scMemberProductType" sc.memberProductType="na"></div>
 	</div>		
 	
@@ -10553,12 +11227,12 @@ While Supplies Last">
 </div>
 
 
-	<div class="thumbnail" itemid="100567300">	
+	<div class="thumbnail" itemid="100512042">	
 		<div class="product-img-holder link-behavior">
 			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
 				
 						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
-						 	src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1418489-847__1&recipeName=350" alt="Lenovo IdeaPad 5 15.6&#034; Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p" title="Lenovo IdeaPad 5 15.6&#034; Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p"
+						 	src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1373588-847__1&recipeName=350" alt="HP Pavilion 15.6&#034; Touchscreen Laptop - 10th Gen Intel Core i7 - GeForce MX250 - Fog Blue" title="HP Pavilion 15.6&#034; Touchscreen Laptop - 10th Gen Intel Core i7 - GeForce MX250 - Fog Blue"
 						 />
 					
 			</div>
@@ -10578,7 +11252,7 @@ While Supplies Last">
 					
 								<div class="row">
 									<div class="col-xs-12 menuicon-holder">
-										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/lenovo-ideapad-5-15.6-touchscreen-laptop---10th-gen-intel-core-i7-1065g7---1080p.product.100567300.html"
+										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/hp-pavilion-15.6-touchscreen-laptop---10th-gen-intel-core-i7---geforce-mx250---fog-blue.product.100512042.html"
 											style="float:right;">
 										</i>
 									</div>
@@ -10592,37 +11266,41 @@ While Supplies Last">
 			   	
 					<div class="" >
 						
-								<div class="price" id="price-100567300" data-regionNav="DEFAULT">$699.99</div>
+								<div class="price" id="price-100512042" data-regionNav="DEFAULT">$799.99</div>
 								
 					</div>
+				
+					<p class="promo">$100 OFF</p>	
 						
 			 				
 				<p class="description">			
 					
-							<a href="https://www.costco.com/lenovo-ideapad-5-15.6%22-touchscreen-laptop---10th-gen-intel-core-i7-1065g7---1080p.product.100567300.html">Lenovo IdeaPad 5 15.6" Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p</a>
+							<a href="https://www.costco.com/hp-pavilion-15.6%22-touchscreen-laptop---10th-gen-intel-core-i7---geforce-mx250---fog-blue.product.100512042.html">HP Pavilion 15.6" Touchscreen Laptop - 10th Gen Intel Core i7 - GeForce MX250 - Fog Blue</a>
 										
 				</p>
 				
 				
 					<ul class="product-features hidden-xs hidden-sm">
 						
-		                        <li>10th Gen Intel® Core i7-1065G7 Processor 1.3GHz</li> 
+		                        <li>10th Gen Intel Core i7-1065G7 Processor at 1.3GHz</li> 
 		                
-		                        <li> Intel Wi-Fi 6 (2x2) + Bluetooth 5.1 </li> 
+		                        <li>4GB NVIDIA GeForce MX250 Graphics</li> 
 		                
-		                        <li> Standard Backlit Keyboard with Fingerprint Reader</li> 
+		                        <li> Full-size Island-style Cloud Blue Backlit Keyboard with Numeric Keypad</li> 
 		                
-		                        <li>Abyss Blue Chassis</li> 
+		                        <li>Intel® Wi-Fi 6 (2x2/160) Gig+ and Bluetooth 5.0</li> 
+		                
+		                        <li> B&O Play Audio with Dual Speakers</li> 
 		                
 					</ul>	
 				
 		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
 	
 	<div class="col-xs-12" 
-			aria-label="Rated 4.3 out of 5 stars based on 95 reviews.">
+			aria-label="Rated 4 out of 5 stars based on 459 reviews.">
 		
 		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,77.11560344696045px,20px,0);">
+			<ul class="stars overlay" style="clip: rect(0,72.31319618225098px,20px,0);">
 				<li>
 					<span class="fi-star"></span>
 				</li>
@@ -10657,17 +11335,17 @@ While Supplies Last">
 				</li>
 			</ul>
 		  	<span class="offscreen">
-		  		Rated 4.3 out of 5 stars based on 95 reviews. 
+		  		Rated 4 out of 5 stars based on 459 reviews. 
         	</span>
          	<div class="ratings-number">
-            	(95)
+            	(459)
           	</div>
 		</div>
 		
-			<meta itemprop="ratingValue" content="4.284200191497803"/>
-			<meta itemprop="reviewCount" content="95"/>
+			<meta itemprop="ratingValue" content="4.017399787902832"/>
+			<meta itemprop="reviewCount" content="459"/>
 			<meta itemprop="bestRating" content="5"/>
-			<meta itemprop="itemReviewed" content="Lenovo IdeaPad 5 15.6&#034; Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p"/>
+			<meta itemprop="itemReviewed" content="HP Pavilion 15.6&#034; Touchscreen Laptop - 10th Gen Intel Core i7 - GeForce MX250 - Fog Blue"/>
 		
 	</div>
 </div>
@@ -10678,9 +11356,9 @@ While Supplies Last">
 	
 
 <div class="style-check compare-container">
-    <input id="compare_100567300" type="checkbox" name="compare-product" value="true" data-description=""  
-    	onclick="COSTCO.compareProducts.toggleItem('100567300','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1418489-847__1&recipeName=350', this)" />
-    <label for="compare_100567300" class="mar_top">
+    <input id="compare_100512042" type="checkbox" name="compare-product" value="true" data-description=""  
+    	onclick="COSTCO.compareProducts.toggleItem('100512042','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1373588-847__1&recipeName=350', this)" />
+    <label for="compare_100512042" class="mar_top">
     	<span>Compare Product</span>
     </label>
 </div>
@@ -10695,10 +11373,10 @@ While Supplies Last">
 	<input type="hidden" id="signInDetails" name="signInDetails" value="" />
 	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
 			
-		<input type="hidden" id="catalogType_100567300" 
-			name="catalogType_100567300" value="" />
+		<input type="hidden" id="catalogType_100512042" 
+			name="catalogType_100512042" value="" />
 	
-	<input type="hidden" class="partNumb" name="partNumb" value="100567300" />
+	<input type="hidden" class="partNumb" name="partNumb" value="100512042" />
 		
 	<!--  Button Section -->
 	<div class="buttonSection hide" id="btnas">
@@ -10706,16 +11384,16 @@ While Supplies Last">
 			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
 <input type="hidden" id="endIndex" name="resultCnt" value="23" />
 
-		<div class="addbutton" id="quickAdd-8" style="display:none">
+		<div class="addbutton" id="quickAdd-11" style="display:none">
 		
 		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
-		<input type="hidden" class="partNumb" name="partNumb" value="100567300" />
+		<input type="hidden" class="partNumb" name="partNumb" value="100512042" />
 		
 		<input type="hidden" name="buyable" value="true" /> 
 	
 		
 	
-			<form id="AddToCartForm-8" name="OrderItemAddForm" autocomplete="off">
+			<form id="AddToCartForm-11" name="OrderItemAddForm" autocomplete="off">
 			<input type="hidden" name="backURL" value="" />
 			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
 			<input type="hidden" id="langId" name="langId" value="-1" />
@@ -10727,7 +11405,7 @@ While Supplies Last">
 			<input type="hidden" id="keyword" name="keyword" value="" />
 			
 			
-				<input type="hidden" class="catEntryId" name="catEntryId" value="1835120" />
+				<input type="hidden" class="catEntryId" name="catEntryId" value="1629004" />
 			
 			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
 			
@@ -10736,42 +11414,42 @@ While Supplies Last">
 					<div class="col-xs-12">
 							<div class="product-quick-buy">
 							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-8">
-									<button id="sub-8" type="button" class="btn disabled"
+								<div class="product-quick-buy-txt" id="add-div-11">
+									<button id="sub-11" type="button" class="btn disabled"
 											data-type="minus" data-field="" value="" tabindex="0"
 											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '8', '100567300','', false)">
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '11', '100512042','', false)">
 										<i class="co-collapse"></i>
 									</button>
-									<input id="value-8" data-txt-qty type="text" 
-										    class="form-control" name="quantity-8" value="1"
+									<input id="value-11" data-txt-qty type="text" 
+										    class="form-control" name="quantity-11" value="1"
 											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
 											aria-label = "Quantity to Add" 
 											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
 											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-8" type="button" 
+									<button id="add-11" type="button" 
 											class="btn" data-type="plus" data-field="" 
 											value="" tabindex="0"
 											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'8', '100567300','', true)">
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'11', '100512042','', true)">
 										<i class="co-expand"></i>
 									</button>
 								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-8">
-									<input type="hidden" id="minquantity-8"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-8"class="maxQuantity" name="maxQuantity" value="999" />
-									<input type="hidden" name="orderItemId-8" value="" id="orderItemId-8" />
-									<input type="hidden" name="quantity-8" value="1" id="quantity-8" />
+								<div class="product-quick-buy-btn" id="addButtonContainer-11">
+									<input type="hidden" id="minquantity-11"class="minQuantity" name="minQuantity" value="1" />
+									<input type="hidden" id="maxQuantity-11"class="maxQuantity" name="maxQuantity" value="999" />
+									<input type="hidden" name="orderItemId-11" value="" id="orderItemId-11" />
+									<input type="hidden" name="quantity-11" value="1" id="quantity-11" />
 									
 									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-8" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'8', '100567300','')">Add</button>
+									<button id="addbutton-11" class="btn btn-primary btn-block primary-slim" tabindex="0"
+										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'11', '100512042','')">Add</button>
 								</div>
 							</div>
 							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-8" style="display:none"></div>
-								<span class="span-error" id="errordiv-8" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-8" style="display:none"></span>
+								<div class="item-in-cart text-center" id="item-in-cart-11" style="display:none"></div>
+								<span class="span-error" id="errordiv-11" style="display:none"></span>
+								<span class="span-error" id="qtyerrordiv-11" style="display:none"></span>
 							</div>		
 						</div>
 					</div>
@@ -10786,13 +11464,830 @@ While Supplies Last">
 	
 </div>
 
-<input type="hidden" id="isTwoDayItem_100567300" value="false" />
+<input type="hidden" id="isTwoDayItem_100512042" value="false" />
 
-<input type="hidden" id="in_Stock_100567300" value="2" />
+<input type="hidden" id="in_Stock_100512042" value="2" />
 
 
-<input type="hidden" id="product_sku_100567300" value="" />
-<input type="hidden" id="product_name_100567300" value="Lenovo IdeaPad 5 15.6" Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p" />
+<input type="hidden" id="product_sku_100512042" value="" />
+<input type="hidden" id="product_name_100512042" value="HP Pavilion 15.6" Touchscreen Laptop - 10th Gen Intel Core i7 - GeForce MX250 - Fog Blue" />
+
+<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
+						
+				</div>
+				
+					<div class="clearfix visible-xs-block visible-sm-block visible-md-block" data-row-split></div>
+				 	<hr class="visible-xs-block visible-sm-block visible-md-block "> 
+				
+					<div class="clearfix visible-lg-block" data-row-split></div>
+					<hr class="visible-lg-block ">
+				
+					<div class="clearfix visible-xl-block" data-row-split></div>
+					<hr class="visible-xl-block ">
+				
+				<div class="col-xs-6 col-lg-3 product">	
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100579393 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
+
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/new-dell-xps-13-touchscreen-laptop---10th-gen-intel-core-i7-1065g7---4k-ultra-hd---windows-10-professional.product.100579393.html" item-index="12">
+	
+	<input type="hidden" id="grocerySection" value="false"/>
+
+	
+	<div class="omniture">
+		<div class="scProdId" sc.prodId="100579393"></div>
+	   	<div class="scMemberProductType" sc.memberProductType="na"></div>
+	</div>		
+	
+	
+
+<div class="pills-section">
+	
+</div>
+
+
+	<div class="thumbnail" itemid="100579393">	
+		<div class="product-img-holder link-behavior">
+			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
+				
+						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
+						 	data-src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1430469-847__1&recipeName=350" alt="New Dell XPS 13 Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 4K Ultra HD - Windows 10 Professional" title="New Dell XPS 13 Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 4K Ultra HD - Windows 10 Professional"
+						 />
+					
+			</div>
+			
+			
+			
+		</div>
+		
+		
+		
+			
+			 
+		
+		<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">	
+			<div class="row custom_row">
+				<div class="col-xs-12 badge-class">
+					
+								<div class="row">
+									<div class="col-xs-12 menuicon-holder">
+										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/new-dell-xps-13-touchscreen-laptop---10th-gen-intel-core-i7-1065g7---4k-ultra-hd---windows-10-professional.product.100579393.html"
+											style="float:right;">
+										</i>
+									</div>
+								</div>
+							
+				</div>
+			</div>
+			<div class="caption">
+			   
+				<p class="map-item hide">Sign In For Price</p>
+			   	
+					<div class="" >
+						
+								<div class="price" id="price-100579393" data-regionNav="DEFAULT">$1,699.99</div>
+								
+					</div>
+				
+					<p class="promo">$300 OFF</p>	
+						
+			 				
+				<p class="description">			
+					
+							<a href="https://www.costco.com/new-dell-xps-13-touchscreen-laptop---10th-gen-intel-core-i7-1065g7---4k-ultra-hd---windows-10-professional.product.100579393.html">New Dell XPS 13 Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 4K Ultra HD - Windows 10 Professional</a>
+										
+				</p>
+				
+				
+					<ul class="product-features hidden-xs hidden-sm">
+						
+		                        <li>10th Gen Intel® Core™ i7-1065G7 Processor 1.30Ghz</li> 
+		                
+		                        <li> 13.4" Touchscreen InfinityEdge Anti-Reflective 500-Nit 4K Ultra HD (3840 x 2400) Display</li> 
+		                
+		                        <li> KILLER™ AX1650 (2x2) Wi-Fi 6 Gig+ and Bluetooth® 5.0</li> 
+		                
+		                        <li> Microsoft® Windows 10 Professional (64-bit)</li> 
+		                
+		                        <li> Fingerprint Reader</li> 
+		                
+					</ul>	
+				
+		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+	
+	<div class="col-xs-12" 
+			aria-label="Rated 4.6 out of 5 stars based on 14 reviews.">
+		
+		<div class="stars">
+			<ul class="stars overlay" style="clip: rect(0,82.2852029800415px,20px,0);">
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+			</ul>
+			<ul class="stars underlay">
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+			</ul>
+		  	<span class="offscreen">
+		  		Rated 4.6 out of 5 stars based on 14 reviews. 
+        	</span>
+         	<div class="ratings-number">
+            	(14)
+          	</div>
+		</div>
+		
+			<meta itemprop="ratingValue" content="4.571400165557861"/>
+			<meta itemprop="reviewCount" content="14"/>
+			<meta itemprop="bestRating" content="5"/>
+			<meta itemprop="itemReviewed" content="New Dell XPS 13 Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 4K Ultra HD - Windows 10 Professional"/>
+		
+	</div>
+</div>
+
+			</div>
+		</div>
+	</div>
+	
+
+<div class="style-check compare-container">
+    <input id="compare_100579393" type="checkbox" name="compare-product" value="true" data-description=""  
+    	onclick="COSTCO.compareProducts.toggleItem('100579393','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1430469-847__1&recipeName=350', this)" />
+    <label for="compare_100579393" class="mar_top">
+    	<span>Compare Product</span>
+    </label>
+</div>
+
+	<input type="hidden" id="tobaccoProd" value="" />
+	<input type="hidden" id="ebbProd" value="" />
+	<input type="hidden" id="deptNumber" value="" />
+	
+	<input type="hidden" id="tobaccoInState" value="false" />
+	
+	<input type="hidden" id="add_Button" name="add_Button" value="true" />
+	<input type="hidden" id="signInDetails" name="signInDetails" value="" />
+	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
+			
+		<input type="hidden" id="catalogType_100579393" 
+			name="catalogType_100579393" value="" />
+	
+	<input type="hidden" class="partNumb" name="partNumb" value="100579393" />
+		
+	<!--  Button Section -->
+	<div class="buttonSection hide" id="btnas">
+		<div id="plp-add-to-cart" >
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
+<input type="hidden" id="endIndex" name="resultCnt" value="23" />
+
+		<div class="addbutton" id="quickAdd-12" style="display:none">
+		
+		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
+		<input type="hidden" class="partNumb" name="partNumb" value="100579393" />
+		
+		<input type="hidden" name="buyable" value="true" /> 
+	
+		
+	
+			<form id="AddToCartForm-12" name="OrderItemAddForm" autocomplete="off">
+			<input type="hidden" name="backURL" value="" />
+			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
+			<input type="hidden" id="langId" name="langId" value="-1" />
+			<input type="hidden" id="storeId" name="storeId" value="10301" />
+			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
+			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
+			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
+			<input type="hidden" id="refinementValue" name="refinementValue" value="577607" />
+			<input type="hidden" id="keyword" name="keyword" value="" />
+			
+			
+				<input type="hidden" class="catEntryId" name="catEntryId" value="1880886" />
+			
+			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
+			
+				
+				<div class="row">
+					<div class="col-xs-12">
+							<div class="product-quick-buy">
+							<div class="product-quick-buy-inner">
+								<div class="product-quick-buy-txt" id="add-div-12">
+									<button id="sub-12" type="button" class="btn disabled"
+											data-type="minus" data-field="" value="" tabindex="0"
+											aria-label = "Decrease Quantity to Add"
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '12', '100579393','', false)">
+										<i class="co-collapse"></i>
+									</button>
+									<input id="value-12" data-txt-qty type="text" 
+										    class="form-control" name="quantity-12" value="1"
+											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
+											aria-label = "Quantity to Add" 
+											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
+											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
+									<button id="add-12" type="button" 
+											class="btn" data-type="plus" data-field="" 
+											value="" tabindex="0"
+											aria-label = "Increase Quantity to Add"
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'12', '100579393','', true)">
+										<i class="co-expand"></i>
+									</button>
+								</div>		
+								<div class="product-quick-buy-btn" id="addButtonContainer-12">
+									<input type="hidden" id="minquantity-12"class="minQuantity" name="minQuantity" value="1" />
+									<input type="hidden" id="maxQuantity-12"class="maxQuantity" name="maxQuantity" value="999" />
+									<input type="hidden" name="orderItemId-12" value="" id="orderItemId-12" />
+									<input type="hidden" name="quantity-12" value="1" id="quantity-12" />
+									
+									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
+									<button id="addbutton-12" class="btn btn-primary btn-block primary-slim" tabindex="0"
+										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'12', '100579393','')">Add</button>
+								</div>
+							</div>
+							<div>
+								<div class="item-in-cart text-center" id="item-in-cart-12" style="display:none"></div>
+								<span class="span-error" id="errordiv-12" style="display:none"></span>
+								<span class="span-error" id="qtyerrordiv-12" style="display:none"></span>
+							</div>		
+						</div>
+					</div>
+				</div>			
+			</form>
+		<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 2    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->
+</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
+		</div>
+		
+	</div>
+	<!--  End of Button Section -->	
+	
+</div>
+
+<input type="hidden" id="isTwoDayItem_100579393" value="false" />
+
+<input type="hidden" id="in_Stock_100579393" value="2" />
+
+
+<input type="hidden" id="product_sku_100579393" value="" />
+<input type="hidden" id="product_name_100579393" value="New Dell XPS 13 Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 4K Ultra HD - Windows 10 Professional" />
+
+<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
+						
+				</div>
+				
+				<div class="col-xs-6 col-lg-3 product">	
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100575638 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
+
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/acer-swift-3-14%22-laptop---ryzen-5-4500u---1080p.product.100575638.html" item-index="13">
+	
+	<input type="hidden" id="grocerySection" value="false"/>
+
+	
+	<div class="omniture">
+		<div class="scProdId" sc.prodId="100575638"></div>
+	   	<div class="scMemberProductType" sc.memberProductType="na"></div>
+	</div>		
+	
+	
+
+<div class="pills-section">
+	
+</div>
+
+
+	<div class="thumbnail" itemid="100575638">	
+		<div class="product-img-holder link-behavior">
+			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
+				
+						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
+						 	data-src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1430179-847__1&recipeName=350" alt="Acer Swift 3 14&#034; Laptop - Ryzen 5 4500U - 1080p" title="Acer Swift 3 14&#034; Laptop - Ryzen 5 4500U - 1080p"
+						 />
+					
+			</div>
+			
+			
+			
+		</div>
+		
+		
+		
+			
+			 
+		
+		<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">	
+			<div class="row custom_row">
+				<div class="col-xs-12 badge-class">
+					
+								<div class="row">
+									<div class="col-xs-12 menuicon-holder">
+										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/acer-swift-3-14-laptop---ryzen-5-4500u---1080p.product.100575638.html"
+											style="float:right;">
+										</i>
+									</div>
+								</div>
+							
+				</div>
+			</div>
+			<div class="caption">
+			   
+				<p class="map-item hide">Sign In For Price</p>
+			   	
+					<div class="" >
+						
+								<div class="price" id="price-100575638" data-regionNav="DEFAULT">$499.99</div>
+								
+					</div>
+				
+					<p class="promo">$100 OFF</p>	
+						
+			 				
+				<p class="description">			
+					
+							<a href="https://www.costco.com/acer-swift-3-14%22-laptop---ryzen-5-4500u---1080p.product.100575638.html">Acer Swift 3 14" Laptop - Ryzen 5 4500U - 1080p</a>
+										
+				</p>
+				
+				
+					<ul class="product-features hidden-xs hidden-sm">
+						
+		                        <li>AMD Ryzen™ 5 4500U (6-Core) Processor at 2.3GHz</li> 
+		                
+		                        <li> Intel® Wi-Fi 6 (2x2/160) Gig+ and Bluetooth® 5.0</li> 
+		                
+		                        <li> 14" Widescreen IPS LED-backlit FHD (1920 x 1080) Display</li> 
+		                
+		                        <li> 1x USB 3.2 Gen 2 Type-C</li> 
+		                
+		                        <li> Fingerprint Reader</li> 
+		                
+					</ul>	
+				
+		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+	
+	<div class="col-xs-12" 
+			aria-label="Rated 4.4 out of 5 stars based on 32 reviews.">
+		
+		<div class="stars">
+			<ul class="stars overlay" style="clip: rect(0,79.311598777771px,20px,0);">
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+			</ul>
+			<ul class="stars underlay">
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+			</ul>
+		  	<span class="offscreen">
+		  		Rated 4.4 out of 5 stars based on 32 reviews. 
+        	</span>
+         	<div class="ratings-number">
+            	(32)
+          	</div>
+		</div>
+		
+			<meta itemprop="ratingValue" content="4.406199932098389"/>
+			<meta itemprop="reviewCount" content="32"/>
+			<meta itemprop="bestRating" content="5"/>
+			<meta itemprop="itemReviewed" content="Acer Swift 3 14&#034; Laptop - Ryzen 5 4500U - 1080p"/>
+		
+	</div>
+</div>
+
+			</div>
+		</div>
+	</div>
+	
+
+<div class="style-check compare-container">
+    <input id="compare_100575638" type="checkbox" name="compare-product" value="true" data-description=""  
+    	onclick="COSTCO.compareProducts.toggleItem('100575638','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1430179-847__1&recipeName=350', this)" />
+    <label for="compare_100575638" class="mar_top">
+    	<span>Compare Product</span>
+    </label>
+</div>
+
+	<input type="hidden" id="tobaccoProd" value="" />
+	<input type="hidden" id="ebbProd" value="" />
+	<input type="hidden" id="deptNumber" value="" />
+	
+	<input type="hidden" id="tobaccoInState" value="false" />
+	
+	<input type="hidden" id="add_Button" name="add_Button" value="true" />
+	<input type="hidden" id="signInDetails" name="signInDetails" value="" />
+	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
+			
+		<input type="hidden" id="catalogType_100575638" 
+			name="catalogType_100575638" value="" />
+	
+	<input type="hidden" class="partNumb" name="partNumb" value="100575638" />
+		
+	<!--  Button Section -->
+	<div class="buttonSection hide" id="btnas">
+		<div id="plp-add-to-cart" >
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
+<input type="hidden" id="endIndex" name="resultCnt" value="23" />
+
+		<div class="addbutton" id="quickAdd-13" style="display:none">
+		
+		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
+		<input type="hidden" class="partNumb" name="partNumb" value="100575638" />
+		
+		<input type="hidden" name="buyable" value="true" /> 
+	
+		
+	
+			<form id="AddToCartForm-13" name="OrderItemAddForm" autocomplete="off">
+			<input type="hidden" name="backURL" value="" />
+			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
+			<input type="hidden" id="langId" name="langId" value="-1" />
+			<input type="hidden" id="storeId" name="storeId" value="10301" />
+			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
+			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
+			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
+			<input type="hidden" id="refinementValue" name="refinementValue" value="577607" />
+			<input type="hidden" id="keyword" name="keyword" value="" />
+			
+			
+				<input type="hidden" class="catEntryId" name="catEntryId" value="1873076" />
+			
+			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
+			
+				
+				<div class="row">
+					<div class="col-xs-12">
+							<div class="product-quick-buy">
+							<div class="product-quick-buy-inner">
+								<div class="product-quick-buy-txt" id="add-div-13">
+									<button id="sub-13" type="button" class="btn disabled"
+											data-type="minus" data-field="" value="" tabindex="0"
+											aria-label = "Decrease Quantity to Add"
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '13', '100575638','', false)">
+										<i class="co-collapse"></i>
+									</button>
+									<input id="value-13" data-txt-qty type="text" 
+										    class="form-control" name="quantity-13" value="1"
+											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
+											aria-label = "Quantity to Add" 
+											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
+											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
+									<button id="add-13" type="button" 
+											class="btn" data-type="plus" data-field="" 
+											value="" tabindex="0"
+											aria-label = "Increase Quantity to Add"
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'13', '100575638','', true)">
+										<i class="co-expand"></i>
+									</button>
+								</div>		
+								<div class="product-quick-buy-btn" id="addButtonContainer-13">
+									<input type="hidden" id="minquantity-13"class="minQuantity" name="minQuantity" value="1" />
+									<input type="hidden" id="maxQuantity-13"class="maxQuantity" name="maxQuantity" value="999" />
+									<input type="hidden" name="orderItemId-13" value="" id="orderItemId-13" />
+									<input type="hidden" name="quantity-13" value="1" id="quantity-13" />
+									
+									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
+									<button id="addbutton-13" class="btn btn-primary btn-block primary-slim" tabindex="0"
+										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'13', '100575638','')">Add</button>
+								</div>
+							</div>
+							<div>
+								<div class="item-in-cart text-center" id="item-in-cart-13" style="display:none"></div>
+								<span class="span-error" id="errordiv-13" style="display:none"></span>
+								<span class="span-error" id="qtyerrordiv-13" style="display:none"></span>
+							</div>		
+						</div>
+					</div>
+				</div>			
+			</form>
+		<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 2    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->
+</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
+		</div>
+		
+	</div>
+	<!--  End of Button Section -->	
+	
+</div>
+
+<input type="hidden" id="isTwoDayItem_100575638" value="false" />
+
+<input type="hidden" id="in_Stock_100575638" value="2" />
+
+
+<input type="hidden" id="product_sku_100575638" value="" />
+<input type="hidden" id="product_name_100575638" value="Acer Swift 3 14" Laptop - Ryzen 5 4500U - 1080p" />
+
+<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
+						
+				</div>
+				
+					<div class="clearfix visible-xs-block visible-sm-block visible-md-block" data-row-split></div>
+				 	<hr class="visible-xs-block visible-sm-block visible-md-block "> 
+				
+				<div class="col-xs-6 col-lg-3 product">	
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100511587 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
+
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/hp-14%22-laptop-intel-pentium---windows-10-in-s-mode---1080p---microsoft-office-365-personal-(1-year-subscription).product.100511587.html" item-index="14">
+	
+	<input type="hidden" id="grocerySection" value="false"/>
+
+	
+	<div class="omniture">
+		<div class="scProdId" sc.prodId="100511587"></div>
+	   	<div class="scMemberProductType" sc.memberProductType="na"></div>
+	</div>		
+	
+	
+
+<div class="pills-section">
+	
+</div>
+
+
+	<div class="thumbnail" itemid="100511587">	
+		<div class="product-img-holder link-behavior">
+			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
+				
+						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
+						 	data-src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1372954-847__1&recipeName=350" alt="HP 14&#034; Laptop Intel Pentium - Windows 10 in S Mode - 1080p - Microsoft Office 365 Personal (1-Year Subscription)" title="HP 14&#034; Laptop Intel Pentium - Windows 10 in S Mode - 1080p - Microsoft Office 365 Personal (1-Year Subscription)"
+						 />
+					
+			</div>
+			
+			
+			
+		</div>
+		
+		
+		
+			
+			 
+		
+		<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">	
+			<div class="row custom_row">
+				<div class="col-xs-12 badge-class">
+					
+								<div class="row">
+									<div class="col-xs-12 menuicon-holder">
+										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/hp-14-laptop-intel-pentium---windows-10-in-s-mode---1080p---microsoft-office-365-personal-1-year-subscription.product.100511587.html"
+											style="float:right;">
+										</i>
+									</div>
+								</div>
+							
+				</div>
+			</div>
+			<div class="caption">
+			   
+				<p class="map-item hide">Sign In For Price</p>
+			   	
+					<div class="" >
+						
+								<div class="price" id="price-100511587" data-regionNav="DEFAULT">$299.99</div>
+								
+					</div>
+						
+			 				
+				<p class="description">			
+					
+							<a href="https://www.costco.com/hp-14%22-laptop-intel-pentium---windows-10-in-s-mode---1080p---microsoft-office-365-personal-(1-year-subscription).product.100511587.html">HP 14" Laptop Intel Pentium - Windows 10 in S Mode - 1080p - Microsoft Office 365 Personal (1-Year Subscription)</a>
+										
+				</p>
+				
+				
+					<ul class="product-features hidden-xs hidden-sm">
+						
+		                        <li>Includes Microsoft Office 365 Personal (1-Year Subscription)</li> 
+		                
+		                        <li> Realtek Wireless-AC WLAN 2x2 + Bluetooth® 5.0</li> 
+		                
+		                        <li> HD Audio with Stereo Speakers</li> 
+		                
+		                        <li> HP TrueVision HD Webcam with Integrated Dual Array Digital Microphones</li> 
+		                
+		                        <li> Microsoft® Windows 10 Home in S Mode (64 bit)</li> 
+		                
+					</ul>	
+				
+		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+	
+	<div class="col-xs-12" 
+			aria-label="Rated 4.1 out of 5 stars based on 816 reviews.">
+		
+		<div class="stars">
+			<ul class="stars overlay" style="clip: rect(0,74.14019680023193px,20px,0);">
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+			</ul>
+			<ul class="stars underlay">
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+			</ul>
+		  	<span class="offscreen">
+		  		Rated 4.1 out of 5 stars based on 816 reviews. 
+        	</span>
+         	<div class="ratings-number">
+            	(816)
+          	</div>
+		</div>
+		
+			<meta itemprop="ratingValue" content="4.118899822235107"/>
+			<meta itemprop="reviewCount" content="816"/>
+			<meta itemprop="bestRating" content="5"/>
+			<meta itemprop="itemReviewed" content="HP 14&#034; Laptop Intel Pentium - Windows 10 in S Mode - 1080p - Microsoft Office 365 Personal (1-Year Subscription)"/>
+		
+	</div>
+</div>
+
+			</div>
+		</div>
+	</div>
+	
+
+<div class="style-check compare-container">
+    <input id="compare_100511587" type="checkbox" name="compare-product" value="true" data-description=""  
+    	onclick="COSTCO.compareProducts.toggleItem('100511587','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1372954-847__1&recipeName=350', this)" />
+    <label for="compare_100511587" class="mar_top">
+    	<span>Compare Product</span>
+    </label>
+</div>
+
+	<input type="hidden" id="tobaccoProd" value="" />
+	<input type="hidden" id="ebbProd" value="" />
+	<input type="hidden" id="deptNumber" value="" />
+	
+	<input type="hidden" id="tobaccoInState" value="false" />
+	
+	<input type="hidden" id="add_Button" name="add_Button" value="true" />
+	<input type="hidden" id="signInDetails" name="signInDetails" value="" />
+	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
+			
+		<input type="hidden" id="catalogType_100511587" 
+			name="catalogType_100511587" value="" />
+	
+	<input type="hidden" class="partNumb" name="partNumb" value="100511587" />
+		
+	<!--  Button Section -->
+	<div class="buttonSection hide" id="btnas">
+		<div id="plp-add-to-cart" >
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
+<input type="hidden" id="endIndex" name="resultCnt" value="23" />
+
+		<div class="addbutton" id="quickAdd-14" style="display:none">
+		
+		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
+		<input type="hidden" class="partNumb" name="partNumb" value="100511587" />
+		
+		<input type="hidden" name="buyable" value="true" /> 
+	
+		
+	
+			<form id="AddToCartForm-14" name="OrderItemAddForm" autocomplete="off">
+			<input type="hidden" name="backURL" value="" />
+			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
+			<input type="hidden" id="langId" name="langId" value="-1" />
+			<input type="hidden" id="storeId" name="storeId" value="10301" />
+			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
+			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
+			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
+			<input type="hidden" id="refinementValue" name="refinementValue" value="577607" />
+			<input type="hidden" id="keyword" name="keyword" value="" />
+			
+			
+				<input type="hidden" class="catEntryId" name="catEntryId" value="1627012" />
+			
+			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
+			
+				
+				<div class="row">
+					<div class="col-xs-12">
+							<div class="product-quick-buy">
+							<div class="product-quick-buy-inner">
+								<div class="product-quick-buy-txt" id="add-div-14">
+									<button id="sub-14" type="button" class="btn disabled"
+											data-type="minus" data-field="" value="" tabindex="0"
+											aria-label = "Decrease Quantity to Add"
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '14', '100511587','', false)">
+										<i class="co-collapse"></i>
+									</button>
+									<input id="value-14" data-txt-qty type="text" 
+										    class="form-control" name="quantity-14" value="1"
+											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
+											aria-label = "Quantity to Add" 
+											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
+											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
+									<button id="add-14" type="button" 
+											class="btn" data-type="plus" data-field="" 
+											value="" tabindex="0"
+											aria-label = "Increase Quantity to Add"
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'14', '100511587','', true)">
+										<i class="co-expand"></i>
+									</button>
+								</div>		
+								<div class="product-quick-buy-btn" id="addButtonContainer-14">
+									<input type="hidden" id="minquantity-14"class="minQuantity" name="minQuantity" value="1" />
+									<input type="hidden" id="maxQuantity-14"class="maxQuantity" name="maxQuantity" value="999" />
+									<input type="hidden" name="orderItemId-14" value="" id="orderItemId-14" />
+									<input type="hidden" name="quantity-14" value="1" id="quantity-14" />
+									
+									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
+									<button id="addbutton-14" class="btn btn-primary btn-block primary-slim" tabindex="0"
+										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'14', '100511587','')">Add</button>
+								</div>
+							</div>
+							<div>
+								<div class="item-in-cart text-center" id="item-in-cart-14" style="display:none"></div>
+								<span class="span-error" id="errordiv-14" style="display:none"></span>
+								<span class="span-error" id="qtyerrordiv-14" style="display:none"></span>
+							</div>		
+						</div>
+					</div>
+				</div>			
+			</form>
+		<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 2    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->
+</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
+		</div>
+		
+	</div>
+	<!--  End of Button Section -->	
+	
+</div>
+
+<input type="hidden" id="isTwoDayItem_100511587" value="false" />
+
+<input type="hidden" id="in_Stock_100511587" value="2" />
+
+
+<input type="hidden" id="product_sku_100511587" value="" />
+<input type="hidden" id="product_name_100511587" value="HP 14" Laptop Intel Pentium - Windows 10 in S Mode - 1080p - Microsoft Office 365 Personal (1-Year Subscription)" />
 
 <!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
 						
@@ -10802,9 +12297,766 @@ While Supplies Last">
 					<hr class="visible-lg-block ">
 				
 				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100579292 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100579292 and productInventory.ffmcenterid = 50702 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100579296 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/lenovo-ideapad-3-15.6%22-touchscreen-laptop---10th-gen-intel-core-i3-1005g1.product.100579292.html" item-index="9">
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/hp-14%22-laptop---10th-gen-intel-core-i5-1035g1---1080p.product.100579296.html" item-index="15">
+	
+	<input type="hidden" id="grocerySection" value="false"/>
+
+	
+	<div class="omniture">
+		<div class="scProdId" sc.prodId="100579296"></div>
+	   	<div class="scMemberProductType" sc.memberProductType="na"></div>
+	</div>		
+	
+	
+
+<div class="pills-section">
+	
+</div>
+
+
+	<div class="thumbnail" itemid="100579296">	
+		<div class="product-img-holder link-behavior">
+			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
+				
+						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
+						 	data-src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1430502-847__1&recipeName=350" alt="HP 14&#034; Laptop - 10th Gen Intel Core i5-1035G1 - 1080p" title="HP 14&#034; Laptop - 10th Gen Intel Core i5-1035G1 - 1080p"
+						 />
+					
+			</div>
+			
+			
+			
+		</div>
+		
+		
+		
+			
+			 
+		
+		<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">	
+			<div class="row custom_row">
+				<div class="col-xs-12 badge-class">
+					
+								<div class="row">
+									<div class="col-xs-12 menuicon-holder">
+										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/hp-14-laptop---10th-gen-intel-core-i5-1035g1---1080p.product.100579296.html"
+											style="float:right;">
+										</i>
+									</div>
+								</div>
+							
+				</div>
+			</div>
+			<div class="caption">
+			   
+				<p class="map-item hide">Sign In For Price</p>
+			   	
+					<div class="" >
+						
+								<div class="price" id="price-100579296" data-regionNav="DEFAULT">$599.99</div>
+								
+					</div>
+						
+			 				
+				<p class="description">			
+					
+							<a href="https://www.costco.com/hp-14%22-laptop---10th-gen-intel-core-i5-1035g1---1080p.product.100579296.html">HP 14" Laptop - 10th Gen Intel Core i5-1035G1 - 1080p</a>
+										
+				</p>
+				
+				
+					<ul class="product-features hidden-xs hidden-sm">
+						
+		                        <li>10th Gen Intel® Core™ i5-1035G1 Processor at 1.0GHz</li> 
+		                
+		                        <li>12GB DDR4 2666 SDRAM</li> 
+		                
+		                        <li> Full-size Island-style Backlit Keyboard</li> 
+		                
+		                        <li> 802.11 Wireless-AC WLAN + Bluetooth® 4.2</li> 
+		                
+		                        <li> 1x HDMI 1.4b</li> 
+		                
+					</ul>	
+				
+		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+	
+	<div class="col-xs-12" 
+			aria-label="Rated 4.3 out of 5 stars based on 242 reviews.">
+		
+		<div class="stars">
+			<ul class="stars overlay" style="clip: rect(0,76.76100254058838px,20px,0);">
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+			</ul>
+			<ul class="stars underlay">
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+			</ul>
+		  	<span class="offscreen">
+		  		Rated 4.3 out of 5 stars based on 242 reviews. 
+        	</span>
+         	<div class="ratings-number">
+            	(242)
+          	</div>
+		</div>
+		
+			<meta itemprop="ratingValue" content="4.264500141143799"/>
+			<meta itemprop="reviewCount" content="242"/>
+			<meta itemprop="bestRating" content="5"/>
+			<meta itemprop="itemReviewed" content="HP 14&#034; Laptop - 10th Gen Intel Core i5-1035G1 - 1080p"/>
+		
+	</div>
+</div>
+
+			</div>
+		</div>
+	</div>
+	
+
+<div class="style-check compare-container">
+    <input id="compare_100579296" type="checkbox" name="compare-product" value="true" data-description=""  
+    	onclick="COSTCO.compareProducts.toggleItem('100579296','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1430502-847__1&recipeName=350', this)" />
+    <label for="compare_100579296" class="mar_top">
+    	<span>Compare Product</span>
+    </label>
+</div>
+
+	<input type="hidden" id="tobaccoProd" value="" />
+	<input type="hidden" id="ebbProd" value="" />
+	<input type="hidden" id="deptNumber" value="" />
+	
+	<input type="hidden" id="tobaccoInState" value="false" />
+	
+	<input type="hidden" id="add_Button" name="add_Button" value="true" />
+	<input type="hidden" id="signInDetails" name="signInDetails" value="" />
+	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
+			
+		<input type="hidden" id="catalogType_100579296" 
+			name="catalogType_100579296" value="" />
+	
+	<input type="hidden" class="partNumb" name="partNumb" value="100579296" />
+		
+	<!--  Button Section -->
+	<div class="buttonSection hide" id="btnas">
+		<div id="plp-add-to-cart" >
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
+<input type="hidden" id="endIndex" name="resultCnt" value="23" />
+
+		<div class="addbutton" id="quickAdd-15" style="display:none">
+		
+		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
+		<input type="hidden" class="partNumb" name="partNumb" value="100579296" />
+		
+		<input type="hidden" name="buyable" value="true" /> 
+	
+		
+	
+			<form id="AddToCartForm-15" name="OrderItemAddForm" autocomplete="off">
+			<input type="hidden" name="backURL" value="" />
+			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
+			<input type="hidden" id="langId" name="langId" value="-1" />
+			<input type="hidden" id="storeId" name="storeId" value="10301" />
+			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
+			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
+			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
+			<input type="hidden" id="refinementValue" name="refinementValue" value="577607" />
+			<input type="hidden" id="keyword" name="keyword" value="" />
+			
+			
+				<input type="hidden" class="catEntryId" name="catEntryId" value="1880450" />
+			
+			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
+			
+				
+				<div class="row">
+					<div class="col-xs-12">
+							<div class="product-quick-buy">
+							<div class="product-quick-buy-inner">
+								<div class="product-quick-buy-txt" id="add-div-15">
+									<button id="sub-15" type="button" class="btn disabled"
+											data-type="minus" data-field="" value="" tabindex="0"
+											aria-label = "Decrease Quantity to Add"
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '15', '100579296','', false)">
+										<i class="co-collapse"></i>
+									</button>
+									<input id="value-15" data-txt-qty type="text" 
+										    class="form-control" name="quantity-15" value="1"
+											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
+											aria-label = "Quantity to Add" 
+											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
+											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
+									<button id="add-15" type="button" 
+											class="btn" data-type="plus" data-field="" 
+											value="" tabindex="0"
+											aria-label = "Increase Quantity to Add"
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'15', '100579296','', true)">
+										<i class="co-expand"></i>
+									</button>
+								</div>		
+								<div class="product-quick-buy-btn" id="addButtonContainer-15">
+									<input type="hidden" id="minquantity-15"class="minQuantity" name="minQuantity" value="1" />
+									<input type="hidden" id="maxQuantity-15"class="maxQuantity" name="maxQuantity" value="999" />
+									<input type="hidden" name="orderItemId-15" value="" id="orderItemId-15" />
+									<input type="hidden" name="quantity-15" value="1" id="quantity-15" />
+									
+									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
+									<button id="addbutton-15" class="btn btn-primary btn-block primary-slim" tabindex="0"
+										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'15', '100579296','')">Add</button>
+								</div>
+							</div>
+							<div>
+								<div class="item-in-cart text-center" id="item-in-cart-15" style="display:none"></div>
+								<span class="span-error" id="errordiv-15" style="display:none"></span>
+								<span class="span-error" id="qtyerrordiv-15" style="display:none"></span>
+							</div>		
+						</div>
+					</div>
+				</div>			
+			</form>
+		<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 2    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->
+</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
+		</div>
+		
+	</div>
+	<!--  End of Button Section -->	
+	
+</div>
+
+<input type="hidden" id="isTwoDayItem_100579296" value="false" />
+
+<input type="hidden" id="in_Stock_100579296" value="2" />
+
+
+<input type="hidden" id="product_sku_100579296" value="" />
+<input type="hidden" id="product_name_100579296" value="HP 14" Laptop - 10th Gen Intel Core i5-1035G1 - 1080p" />
+
+<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
+						
+				</div>
+				
+					<div class="clearfix visible-xs-block visible-sm-block visible-md-block" data-row-split></div>
+				 	<hr class="visible-xs-block visible-sm-block visible-md-block "> 
+				
+					<div class="clearfix visible-xl-block" data-row-split></div>
+					<hr class="visible-xl-block ">
+				
+				<div class="col-xs-6 col-lg-3 product">	
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100681899 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
+
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/dell-inspiron-15-3000-series---10th-gen-intel-core-i3-1005g1.product.100681899.html" item-index="16">
+	
+	<input type="hidden" id="grocerySection" value="false"/>
+
+	
+	<div class="omniture">
+		<div class="scProdId" sc.prodId="100681899"></div>
+	   	<div class="scMemberProductType" sc.memberProductType="na"></div>
+	</div>		
+	
+	
+
+<div class="pills-section">
+	
+</div>
+
+
+	<div class="thumbnail" itemid="100681899">	
+		<div class="product-img-holder link-behavior">
+			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
+				
+						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
+						 	data-src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1475222-847__1&recipeName=350" alt="Dell Inspiron 15 3000 Series - 10th Gen Intel Core i3-1005G1" title="Dell Inspiron 15 3000 Series - 10th Gen Intel Core i3-1005G1"
+						 />
+					
+			</div>
+			
+			
+			
+		</div>
+		
+		
+		
+			
+			 
+		
+		<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">	
+			<div class="row custom_row">
+				<div class="col-xs-12 badge-class">
+					
+								<div class="row">
+									<div class="col-xs-12 menuicon-holder">
+										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/dell-inspiron-15-3000-series---10th-gen-intel-core-i3-1005g1.product.100681899.html"
+											style="float:right;">
+										</i>
+									</div>
+								</div>
+							
+				</div>
+			</div>
+			<div class="caption">
+			   
+				<p class="map-item hide">Sign In For Price</p>
+			   	
+					<div class="" >
+						
+								<div class="price" id="price-100681899" data-regionNav="DEFAULT">$449.99</div>
+								
+					</div>
+						
+			 				
+				<p class="description">			
+					
+							<a href="https://www.costco.com/dell-inspiron-15-3000-series---10th-gen-intel-core-i3-1005g1.product.100681899.html">Dell Inspiron 15 3000 Series - 10th Gen Intel Core i3-1005G1</a>
+										
+				</p>
+				
+				
+					<ul class="product-features hidden-xs hidden-sm">
+						
+		                        <li>10th Gen Intel® Core™ i3-1005G1 Processor 1.2GHz</li> 
+		                
+		                        <li>
+15.6" Anti-Glare LED-Backlit HD (1366 x 768) Display</li> 
+		                
+		                        <li>
+Wireless Qualcomm 802.11ac and Bluetooth 4.1</li> 
+		                
+		                        <li>
+Integrated Widescreen HD 720p Webcam with Dual Digital Microphone Array</li> 
+		                
+		                        <li>
+1x SD Card reader</li> 
+		                
+					</ul>	
+				
+		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+	
+	<div class="col-xs-12" 
+			aria-label="Rated 1 out of 5 stars based on 1 reviews.">
+		
+		<div class="stars">
+			<ul class="stars overlay" style="clip: rect(0,18.0px,20px,0);">
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+			</ul>
+			<ul class="stars underlay">
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+			</ul>
+		  	<span class="offscreen">
+		  		Rated 1 out of 5 stars based on 1 reviews. 
+        	</span>
+         	<div class="ratings-number">
+            	(1)
+          	</div>
+		</div>
+		
+			<meta itemprop="ratingValue" content="1.0"/>
+			<meta itemprop="reviewCount" content="1"/>
+			<meta itemprop="bestRating" content="5"/>
+			<meta itemprop="itemReviewed" content="Dell Inspiron 15 3000 Series - 10th Gen Intel Core i3-1005G1"/>
+		
+	</div>
+</div>
+
+			</div>
+		</div>
+	</div>
+	
+
+<div class="style-check compare-container">
+    <input id="compare_100681899" type="checkbox" name="compare-product" value="true" data-description=""  
+    	onclick="COSTCO.compareProducts.toggleItem('100681899','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1475222-847__1&recipeName=350', this)" />
+    <label for="compare_100681899" class="mar_top">
+    	<span>Compare Product</span>
+    </label>
+</div>
+
+	<input type="hidden" id="tobaccoProd" value="" />
+	<input type="hidden" id="ebbProd" value="" />
+	<input type="hidden" id="deptNumber" value="" />
+	
+	<input type="hidden" id="tobaccoInState" value="false" />
+	
+	<input type="hidden" id="add_Button" name="add_Button" value="true" />
+	<input type="hidden" id="signInDetails" name="signInDetails" value="" />
+	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
+			
+		<input type="hidden" id="catalogType_100681899" 
+			name="catalogType_100681899" value="" />
+	
+	<input type="hidden" class="partNumb" name="partNumb" value="100681899" />
+		
+	<!--  Button Section -->
+	<div class="buttonSection hide" id="btnas">
+		<div id="plp-add-to-cart" >
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
+<input type="hidden" id="endIndex" name="resultCnt" value="23" />
+
+		<div class="addbutton" id="quickAdd-16" style="display:none">
+		
+		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
+		<input type="hidden" class="partNumb" name="partNumb" value="100681899" />
+		
+		<input type="hidden" name="buyable" value="true" /> 
+	
+		
+	
+			<form id="AddToCartForm-16" name="OrderItemAddForm" autocomplete="off">
+			<input type="hidden" name="backURL" value="" />
+			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
+			<input type="hidden" id="langId" name="langId" value="-1" />
+			<input type="hidden" id="storeId" name="storeId" value="10301" />
+			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
+			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
+			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
+			<input type="hidden" id="refinementValue" name="refinementValue" value="577607" />
+			<input type="hidden" id="keyword" name="keyword" value="" />
+			
+			
+				<input type="hidden" class="catEntryId" name="catEntryId" value="2131216" />
+			
+			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
+			
+				
+				<div class="row">
+					<div class="col-xs-12">
+							<div class="product-quick-buy">
+							<div class="product-quick-buy-inner">
+								<div class="product-quick-buy-txt" id="add-div-16">
+									<button id="sub-16" type="button" class="btn disabled"
+											data-type="minus" data-field="" value="" tabindex="0"
+											aria-label = "Decrease Quantity to Add"
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '16', '100681899','', false)">
+										<i class="co-collapse"></i>
+									</button>
+									<input id="value-16" data-txt-qty type="text" 
+										    class="form-control" name="quantity-16" value="1"
+											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
+											aria-label = "Quantity to Add" 
+											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
+											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
+									<button id="add-16" type="button" 
+											class="btn" data-type="plus" data-field="" 
+											value="" tabindex="0"
+											aria-label = "Increase Quantity to Add"
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'16', '100681899','', true)">
+										<i class="co-expand"></i>
+									</button>
+								</div>		
+								<div class="product-quick-buy-btn" id="addButtonContainer-16">
+									<input type="hidden" id="minquantity-16"class="minQuantity" name="minQuantity" value="1" />
+									<input type="hidden" id="maxQuantity-16"class="maxQuantity" name="maxQuantity" value="999" />
+									<input type="hidden" name="orderItemId-16" value="" id="orderItemId-16" />
+									<input type="hidden" name="quantity-16" value="1" id="quantity-16" />
+									
+									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
+									<button id="addbutton-16" class="btn btn-primary btn-block primary-slim" tabindex="0"
+										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'16', '100681899','')">Add</button>
+								</div>
+							</div>
+							<div>
+								<div class="item-in-cart text-center" id="item-in-cart-16" style="display:none"></div>
+								<span class="span-error" id="errordiv-16" style="display:none"></span>
+								<span class="span-error" id="qtyerrordiv-16" style="display:none"></span>
+							</div>		
+						</div>
+					</div>
+				</div>			
+			</form>
+		<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 2    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->
+</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
+		</div>
+		
+	</div>
+	<!--  End of Button Section -->	
+	
+</div>
+
+<input type="hidden" id="isTwoDayItem_100681899" value="false" />
+
+<input type="hidden" id="in_Stock_100681899" value="2" />
+
+
+<input type="hidden" id="product_sku_100681899" value="" />
+<input type="hidden" id="product_name_100681899" value="Dell Inspiron 15 3000 Series - 10th Gen Intel Core i3-1005G1" />
+
+<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
+						
+				</div>
+				
+				<div class="col-xs-6 col-lg-3 product">	
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100579402 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
+
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/hp-14%22-laptop---10th-gen-intel-core-i7-1065g7---1080p---microsoft-365-personal-(12-month)-bundle.product.100579402.html" item-index="17">
+	
+	<input type="hidden" id="grocerySection" value="false"/>
+
+	
+	<div class="omniture">
+		<div class="scProdId" sc.prodId="100579402"></div>
+	   	<div class="scMemberProductType" sc.memberProductType="member-only"></div>
+	</div>		
+	
+	
+
+<div class="pills-section">
+	
+</div>
+
+
+	<div class="thumbnail" itemid="100579402">	
+		<div class="product-img-holder link-behavior">
+			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
+				
+						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
+						 	data-src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1481793-847__1&recipeName=350" alt="HP 14&#034; Laptop - 10th Gen Intel Core i7-1065G7 - 1080p - Microsoft 365 Personal (12-Month) Bundle" title="HP 14&#034; Laptop - 10th Gen Intel Core i7-1065G7 - 1080p - Microsoft 365 Personal (12-Month) Bundle"
+						 />
+					
+			</div>
+			
+			
+			
+		</div>
+		
+		
+		
+			
+			 
+		
+		<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">	
+			<div class="row custom_row">
+				<div class="col-xs-12 badge-class">
+					
+								<div class="row">
+									<div class="col-xs-12 menuicon-holder">
+										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/hp-14-laptop---10th-gen-intel-core-i7-1065g7---1080p---microsoft-365-personal-12-month-bundle.product.100579402.html"
+											style="float:right;">
+										</i>
+									</div>
+								</div>
+							
+				</div>
+			</div>
+			<div class="caption">
+			   
+				<p class="map-item hide">Sign In For Price</p>
+			   
+					<p class="member-only"><span class="co-c"></span>Member Only Item </p> 
+					
+					<div class="moi" style="display:none;">
+						
+								<div class="price" id="price-100579402" data-regionNav="DEFAULT">$749.99</div>
+								
+					</div>
+				
+					<p class="promo">Microsoft 365 Personal Bundle (12-Month Subscription)</p>	
+						
+			 				
+				<p class="description">			
+					
+							<a href="https://www.costco.com/hp-14%22-laptop---10th-gen-intel-core-i7-1065g7---1080p---microsoft-365-personal-(12-month)-bundle.product.100579402.html">HP 14" Laptop - 10th Gen Intel Core i7-1065G7 - 1080p - Microsoft 365 Personal (12-Month) Bundle</a>
+										
+				</p>
+				
+				
+					<ul class="product-features hidden-xs hidden-sm">
+						
+		                        <li>Includes Microsoft Office 365 Personal (12-Month Subscription)</li> 
+		                
+		                        <li> 10th Gen Intel® Core™ i7-1065G7 Processor at 1.3GHz</li> 
+		                
+		                        <li> Full-size Island-style Backlit Keyboard</li> 
+		                
+		                        <li> 802.11 Wireless-AC WLAN + Bluetooth® 4.2</li> 
+		                
+		                        <li> 1x HDMI 1.4b</li> 
+		                
+					</ul>	
+				
+		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+	
+	<div class="col-xs-12" 
+			aria-label="Rated 4.3 out of 5 stars based on 223 reviews.">
+		
+		<div class="stars">
+			<ul class="stars overlay" style="clip: rect(0,77.81219673156738px,20px,0);">
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+				<li>
+					<span class="fi-star"></span>
+				</li>
+			</ul>
+			<ul class="stars underlay">
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+				<li>
+					<span class="fi-star back-star"></span>
+				</li>
+			</ul>
+		  	<span class="offscreen">
+		  		Rated 4.3 out of 5 stars based on 223 reviews. 
+        	</span>
+         	<div class="ratings-number">
+            	(223)
+          	</div>
+		</div>
+		
+			<meta itemprop="ratingValue" content="4.32289981842041"/>
+			<meta itemprop="reviewCount" content="223"/>
+			<meta itemprop="bestRating" content="5"/>
+			<meta itemprop="itemReviewed" content="HP 14&#034; Laptop - 10th Gen Intel Core i7-1065G7 - 1080p - Microsoft 365 Personal (12-Month) Bundle"/>
+		
+	</div>
+</div>
+
+			</div>
+		</div>
+	</div>
+	
+
+<div class="style-check compare-container">
+    <input id="compare_100579402" type="checkbox" name="compare-product" value="true" data-description=""  
+    	onclick="COSTCO.compareProducts.toggleItem('100579402','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1481793-847__1&recipeName=350', this)" />
+    <label for="compare_100579402" class="mar_top">
+    	<span>Compare Product</span>
+    </label>
+</div>
+
+	<input type="hidden" id="tobaccoProd" value="" />
+	<input type="hidden" id="ebbProd" value="" />
+	<input type="hidden" id="deptNumber" value="" />
+	
+	<input type="hidden" id="tobaccoInState" value="false" />
+	
+	<input type="hidden" id="add_Button" name="add_Button" value="true" />
+	<input type="hidden" id="signInDetails" name="signInDetails" value="signin-details" />
+	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
+			
+		<input type="hidden" id="catalogType_100579402" 
+			name="catalogType_100579402" value="" />
+	
+	<input type="hidden" class="partNumb" name="partNumb" value="100579402" />
+		
+	<!--  Button Section -->
+	<div class="buttonSection hide" id="btnas">
+		<div id="plp-add-to-cart" >
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
+<input type="hidden" id="endIndex" name="resultCnt" value="23" />
+
+		<div class="addbutton" id="quickAdd-17" style="display:none">
+		
+		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
+		<input type="hidden" class="partNumb" name="partNumb" value="100579402" />
+		
+		<input type="hidden" name="buyable" value="true" /> 
+	
+	<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 2    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->
+</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
+		</div>
+		
+	</div>
+	<!--  End of Button Section -->	
+	
+</div>
+
+<input type="hidden" id="isTwoDayItem_100579402" value="false" />
+
+<input type="hidden" id="in_Stock_100579402" value="2" />
+
+
+<input type="hidden" id="product_sku_100579402" value="" />
+<input type="hidden" id="product_name_100579402" value="HP 14" Laptop - 10th Gen Intel Core i7-1065G7 - 1080p - Microsoft 365 Personal (12-Month) Bundle" />
+
+<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
+						
+				</div>
+				
+					<div class="clearfix visible-xs-block visible-sm-block visible-md-block" data-row-split></div>
+				 	<hr class="visible-xs-block visible-sm-block visible-md-block "> 
+				
+					<div class="clearfix visible-lg-block" data-row-split></div>
+					<hr class="visible-lg-block ">
+				
+				<div class="col-xs-6 col-lg-3 product">	
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100579292 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
+
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/lenovo-ideapad-3-15.6%22-touchscreen-laptop---10th-gen-intel-core-i3-1005g1.product.100579292.html" item-index="18">
 	
 	<input type="hidden" id="grocerySection" value="false"/>
 
@@ -10826,7 +13078,7 @@ While Supplies Last">
 			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
 				
 						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
-						 	src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1430612-847__1&recipeName=350" alt="Lenovo IdeaPad 3 15.6&#034; Touchscreen Laptop - 10th Gen Intel Core i3-1005G1" title="Lenovo IdeaPad 3 15.6&#034; Touchscreen Laptop - 10th Gen Intel Core i3-1005G1"
+						 	data-src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1430612-847__1&recipeName=350" alt="Lenovo IdeaPad 3 15.6&#034; Touchscreen Laptop - 10th Gen Intel Core i3-1005G1" title="Lenovo IdeaPad 3 15.6&#034; Touchscreen Laptop - 10th Gen Intel Core i3-1005G1"
 						 />
 					
 			</div>
@@ -10860,11 +13112,9 @@ While Supplies Last">
 			   	
 					<div class="" >
 						
-								<div class="price" id="price-100579292" data-regionNav="DEFAULT">$499.99</div>
+								<div class="price" id="price-100579292" data-regionNav="DEFAULT">$549.99</div>
 								
 					</div>
-				
-					<p class="promo">$50 OFF</p>	
 						
 			 				
 				<p class="description">			
@@ -10978,7 +13228,7 @@ While Supplies Last">
 			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
 <input type="hidden" id="endIndex" name="resultCnt" value="23" />
 
-		<div class="addbutton" id="quickAdd-9" style="display:none">
+		<div class="addbutton" id="quickAdd-18" style="display:none">
 		
 		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
 		<input type="hidden" class="partNumb" name="partNumb" value="100579292" />
@@ -10987,7 +13237,7 @@ While Supplies Last">
 	
 		
 	
-			<form id="AddToCartForm-9" name="OrderItemAddForm" autocomplete="off">
+			<form id="AddToCartForm-18" name="OrderItemAddForm" autocomplete="off">
 			<input type="hidden" name="backURL" value="" />
 			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
 			<input type="hidden" id="langId" name="langId" value="-1" />
@@ -11008,42 +13258,42 @@ While Supplies Last">
 					<div class="col-xs-12">
 							<div class="product-quick-buy">
 							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-9">
-									<button id="sub-9" type="button" class="btn disabled"
+								<div class="product-quick-buy-txt" id="add-div-18">
+									<button id="sub-18" type="button" class="btn disabled"
 											data-type="minus" data-field="" value="" tabindex="0"
 											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '9', '100579292','', false)">
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '18', '100579292','', false)">
 										<i class="co-collapse"></i>
 									</button>
-									<input id="value-9" data-txt-qty type="text" 
-										    class="form-control" name="quantity-9" value="1"
+									<input id="value-18" data-txt-qty type="text" 
+										    class="form-control" name="quantity-18" value="1"
 											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
 											aria-label = "Quantity to Add" 
 											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
 											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-9" type="button" 
+									<button id="add-18" type="button" 
 											class="btn" data-type="plus" data-field="" 
 											value="" tabindex="0"
 											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'9', '100579292','', true)">
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'18', '100579292','', true)">
 										<i class="co-expand"></i>
 									</button>
 								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-9">
-									<input type="hidden" id="minquantity-9"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-9"class="maxQuantity" name="maxQuantity" value="999" />
-									<input type="hidden" name="orderItemId-9" value="" id="orderItemId-9" />
-									<input type="hidden" name="quantity-9" value="1" id="quantity-9" />
+								<div class="product-quick-buy-btn" id="addButtonContainer-18">
+									<input type="hidden" id="minquantity-18"class="minQuantity" name="minQuantity" value="1" />
+									<input type="hidden" id="maxQuantity-18"class="maxQuantity" name="maxQuantity" value="999" />
+									<input type="hidden" name="orderItemId-18" value="" id="orderItemId-18" />
+									<input type="hidden" name="quantity-18" value="1" id="quantity-18" />
 									
 									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-9" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'9', '100579292','')">Add</button>
+									<button id="addbutton-18" class="btn btn-primary btn-block primary-slim" tabindex="0"
+										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'18', '100579292','')">Add</button>
 								</div>
 							</div>
 							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-9" style="display:none"></div>
-								<span class="span-error" id="errordiv-9" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-9" style="display:none"></span>
+								<div class="item-in-cart text-center" id="item-in-cart-18" style="display:none"></div>
+								<span class="span-error" id="errordiv-18" style="display:none"></span>
+								<span class="span-error" id="qtyerrordiv-18" style="display:none"></span>
 							</div>		
 						</div>
 					</div>
@@ -11070,760 +13320,10 @@ While Supplies Last">
 						
 				</div>
 				
-					<div class="clearfix visible-xs-block visible-sm-block visible-md-block" data-row-split></div>
-				 	<hr class="visible-xs-block visible-sm-block visible-md-block "> 
-				
 				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100512520 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100512520 and productInventory.ffmcenterid = 50702 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100579444 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/new-microsoft-surface-pro-7-bundle---10th-gen-intel-core-i5---2736-x-1824-display---windows-10---platinum.product.100512520.html" item-index="10">
-	
-	<input type="hidden" id="grocerySection" value="false"/>
-
-	
-	<div class="omniture">
-		<div class="scProdId" sc.prodId="100512520"></div>
-	   	<div class="scMemberProductType" sc.memberProductType="member-only"></div>
-	</div>		
-	
-	
-
-<div class="pills-section">
-	
-</div>
-
-
-	<div class="thumbnail" itemid="100512520">	
-		<div class="product-img-holder link-behavior">
-			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-				
-						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
-						 	src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1373999-847__1&recipeName=350" alt="New Microsoft Surface Pro 7 Bundle - 10th Gen Intel Core i5 - 2736 x 1824 Display - Windows 10 - Platinum" title="New Microsoft Surface Pro 7 Bundle - 10th Gen Intel Core i5 - 2736 x 1824 Display - Windows 10 - Platinum"
-						 />
-					
-			</div>
-			
-			
-			
-		</div>
-		
-		
-		
-			
-			 
-		
-		<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">	
-			<div class="row custom_row">
-				<div class="col-xs-12 badge-class">
-					
-								<div class="row">
-									<div class="col-xs-12 menuicon-holder">
-										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/new-microsoft-surface-pro-7-bundle---10th-gen-intel-core-i5---2736-x-1824-display---windows-10---platinum.product.100512520.html"
-											style="float:right;">
-										</i>
-									</div>
-								</div>
-							
-				</div>
-			</div>
-			<div class="caption">
-			   
-				<p class="map-item hide">Sign In For Price</p>
-			   
-					<p class="member-only"><span class="co-c"></span>Member Only Item </p> 
-					
-					<div class="moi" style="display:none;">
-						
-								<div class="price" id="price-100512520" data-regionNav="DEFAULT">$949.99</div>
-								
-					</div>
-				
-					<p class="promo">$350 OFF</p>	
-						
-			 				
-				<p class="description">			
-					
-							<a href="https://www.costco.com/new-microsoft-surface-pro-7-bundle---10th-gen-intel-core-i5---2736-x-1824-display---windows-10---platinum.product.100512520.html">New Microsoft Surface Pro 7 Bundle - 10th Gen Intel Core i5 - 2736 x 1824 Display - Windows 10 - Platinum</a>
-										
-				</p>
-				
-				
-					<ul class="product-features hidden-xs hidden-sm">
-						
-		                        <li>10th Gen Intel Core i5 Processor</li> 
-		                
-		                        <li>Intel Iris Plus Graphics</li> 
-		                
-		                        <li>Intel® Wi-Fi 6 (2x2/160) Gig+</li> 
-		                
-		                        <li> 1x Type-C Port</li> 
-		                
-					</ul>	
-				
-		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
-	
-	<div class="col-xs-12" 
-			aria-label="Rated 4.5 out of 5 stars based on 112 reviews.">
-		
-		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,80.19719982147217px,20px,0);">
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-			</ul>
-			<ul class="stars underlay">
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-			</ul>
-		  	<span class="offscreen">
-		  		Rated 4.5 out of 5 stars based on 112 reviews. 
-        	</span>
-         	<div class="ratings-number">
-            	(112)
-          	</div>
-		</div>
-		
-			<meta itemprop="ratingValue" content="4.455399990081787"/>
-			<meta itemprop="reviewCount" content="112"/>
-			<meta itemprop="bestRating" content="5"/>
-			<meta itemprop="itemReviewed" content="New Microsoft Surface Pro 7 Bundle - 10th Gen Intel Core i5 - 2736 x 1824 Display - Windows 10 - Platinum"/>
-		
-	</div>
-</div>
-
-			</div>
-		</div>
-	</div>
-	
-
-<div class="style-check compare-container">
-    <input id="compare_100512520" type="checkbox" name="compare-product" value="true" data-description=""  
-    	onclick="COSTCO.compareProducts.toggleItem('100512520','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1373999-847__1&recipeName=350', this)" />
-    <label for="compare_100512520" class="mar_top">
-    	<span>Compare Product</span>
-    </label>
-</div>
-
-	<input type="hidden" id="tobaccoProd" value="" />
-	<input type="hidden" id="ebbProd" value="" />
-	<input type="hidden" id="deptNumber" value="" />
-	
-	<input type="hidden" id="tobaccoInState" value="false" />
-	
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="signInDetails" name="signInDetails" value="signin-details" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
-			
-		<input type="hidden" id="catalogType_100512520" 
-			name="catalogType_100512520" value="" />
-	
-	<input type="hidden" class="partNumb" name="partNumb" value="100512520" />
-		
-	<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
-<input type="hidden" id="endIndex" name="resultCnt" value="23" />
-
-		<div class="addbutton" id="quickAdd-10" style="display:none">
-		
-		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
-		<input type="hidden" class="partNumb" name="partNumb" value="100512520" />
-		
-		<input type="hidden" name="buyable" value="true" /> 
-	
-	<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 2    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>
-	<!--  End of Button Section -->	
-	
-</div>
-
-<input type="hidden" id="isTwoDayItem_100512520" value="false" />
-
-<input type="hidden" id="in_Stock_100512520" value="2" />
-
-
-<input type="hidden" id="product_sku_100512520" value="" />
-<input type="hidden" id="product_name_100512520" value="New Microsoft Surface Pro 7 Bundle - 10th Gen Intel Core i5 - 2736 x 1824 Display - Windows 10 - Platinum" />
-
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
-						
-				</div>
-				
-				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100681899 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100681899 and productInventory.ffmcenterid = 50702 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
-
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/dell-inspiron-15-3000-series---10th-gen-intel-core-i3-1005g1.product.100681899.html" item-index="11">
-	
-	<input type="hidden" id="grocerySection" value="false"/>
-
-	
-	<div class="omniture">
-		<div class="scProdId" sc.prodId="100681899"></div>
-	   	<div class="scMemberProductType" sc.memberProductType="na"></div>
-	</div>		
-	
-	
-
-<div class="pills-section">
-	
-</div>
-
-
-	<div class="thumbnail" itemid="100681899">	
-		<div class="product-img-holder link-behavior">
-			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-				
-						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
-						 	src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1475222-847__1&recipeName=350" alt="Dell Inspiron 15 3000 Series - 10th Gen Intel Core i3-1005G1" title="Dell Inspiron 15 3000 Series - 10th Gen Intel Core i3-1005G1"
-						 />
-					
-			</div>
-			
-			
-			
-		</div>
-		
-		
-		
-			
-			 
-		
-		<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">	
-			<div class="row custom_row">
-				<div class="col-xs-12 badge-class">
-					
-								<div class="row">
-									<div class="col-xs-12 menuicon-holder">
-										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/dell-inspiron-15-3000-series---10th-gen-intel-core-i3-1005g1.product.100681899.html"
-											style="float:right;">
-										</i>
-									</div>
-								</div>
-							
-				</div>
-			</div>
-			<div class="caption">
-			   
-				<p class="map-item hide">Sign In For Price</p>
-			   	
-					<div class="" >
-						
-								<div class="price" id="price-100681899" data-regionNav="DEFAULT">$449.99</div>
-								
-					</div>
-						
-			 				
-				<p class="description">			
-					
-							<a href="https://www.costco.com/dell-inspiron-15-3000-series---10th-gen-intel-core-i3-1005g1.product.100681899.html">Dell Inspiron 15 3000 Series - 10th Gen Intel Core i3-1005G1</a>
-										
-				</p>
-				
-				
-					<ul class="product-features hidden-xs hidden-sm">
-						
-		                        <li>10th Gen Intel® Core™ i3-1005G1 Processor 1.2GHz</li> 
-		                
-		                        <li>
-15.6" Anti-Glare LED-Backlit HD (1366 x 768) Display</li> 
-		                
-		                        <li>
-Wireless Qualcomm 802.11ac and Bluetooth 4.1</li> 
-		                
-		                        <li>
-Integrated Widescreen HD 720p Webcam with Dual Digital Microphone Array</li> 
-		                
-		                        <li>
-1x SD Card reader</li> 
-		                
-					</ul>	
-				
-		<div class="ratings row">
-	
-	<div class="col-xs-12" 
-			aria-label="Rated 0 out of 5 stars based on 0 reviews.">
-		
-		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,0.0px,20px,0);">
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-			</ul>
-			<ul class="stars underlay">
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-			</ul>
-		  	<span class="offscreen">
-		  		Rated 0 out of 5 stars based on 0 reviews. 
-        	</span>
-         	<div class="ratings-number">
-            	(0)
-          	</div>
-		</div>
-		
-	</div>
-</div>
-
-			</div>
-		</div>
-	</div>
-	
-
-<div class="style-check compare-container">
-    <input id="compare_100681899" type="checkbox" name="compare-product" value="true" data-description=""  
-    	onclick="COSTCO.compareProducts.toggleItem('100681899','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1475222-847__1&recipeName=350', this)" />
-    <label for="compare_100681899" class="mar_top">
-    	<span>Compare Product</span>
-    </label>
-</div>
-
-	<input type="hidden" id="tobaccoProd" value="" />
-	<input type="hidden" id="ebbProd" value="" />
-	<input type="hidden" id="deptNumber" value="" />
-	
-	<input type="hidden" id="tobaccoInState" value="false" />
-	
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="signInDetails" name="signInDetails" value="" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
-			
-		<input type="hidden" id="catalogType_100681899" 
-			name="catalogType_100681899" value="" />
-	
-	<input type="hidden" class="partNumb" name="partNumb" value="100681899" />
-		
-	<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
-<input type="hidden" id="endIndex" name="resultCnt" value="23" />
-
-		<div class="addbutton" id="quickAdd-11" style="display:none">
-		
-		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
-		<input type="hidden" class="partNumb" name="partNumb" value="100681899" />
-		
-		<input type="hidden" name="buyable" value="true" /> 
-	
-		
-	
-			<form id="AddToCartForm-11" name="OrderItemAddForm" autocomplete="off">
-			<input type="hidden" name="backURL" value="" />
-			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
-			<input type="hidden" id="langId" name="langId" value="-1" />
-			<input type="hidden" id="storeId" name="storeId" value="10301" />
-			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
-			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
-			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
-			<input type="hidden" id="refinementValue" name="refinementValue" value="577607" />
-			<input type="hidden" id="keyword" name="keyword" value="" />
-			
-			
-				<input type="hidden" class="catEntryId" name="catEntryId" value="2131216" />
-			
-			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
-			
-				
-				<div class="row">
-					<div class="col-xs-12">
-							<div class="product-quick-buy">
-							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-11">
-									<button id="sub-11" type="button" class="btn disabled"
-											data-type="minus" data-field="" value="" tabindex="0"
-											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '11', '100681899','', false)">
-										<i class="co-collapse"></i>
-									</button>
-									<input id="value-11" data-txt-qty type="text" 
-										    class="form-control" name="quantity-11" value="1"
-											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
-											aria-label = "Quantity to Add" 
-											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
-											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-11" type="button" 
-											class="btn" data-type="plus" data-field="" 
-											value="" tabindex="0"
-											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'11', '100681899','', true)">
-										<i class="co-expand"></i>
-									</button>
-								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-11">
-									<input type="hidden" id="minquantity-11"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-11"class="maxQuantity" name="maxQuantity" value="999" />
-									<input type="hidden" name="orderItemId-11" value="" id="orderItemId-11" />
-									<input type="hidden" name="quantity-11" value="1" id="quantity-11" />
-									
-									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-11" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'11', '100681899','')">Add</button>
-								</div>
-							</div>
-							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-11" style="display:none"></div>
-								<span class="span-error" id="errordiv-11" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-11" style="display:none"></span>
-							</div>		
-						</div>
-					</div>
-				</div>			
-			</form>
-		<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 2    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>
-	<!--  End of Button Section -->	
-	
-</div>
-
-<input type="hidden" id="isTwoDayItem_100681899" value="false" />
-
-<input type="hidden" id="in_Stock_100681899" value="2" />
-
-
-<input type="hidden" id="product_sku_100681899" value="" />
-<input type="hidden" id="product_name_100681899" value="Dell Inspiron 15 3000 Series - 10th Gen Intel Core i3-1005G1" />
-
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
-						
-				</div>
-				
-					<div class="clearfix visible-xs-block visible-sm-block visible-md-block" data-row-split></div>
-				 	<hr class="visible-xs-block visible-sm-block visible-md-block "> 
-				
-					<div class="clearfix visible-lg-block" data-row-split></div>
-					<hr class="visible-lg-block ">
-				
-					<div class="clearfix visible-xl-block" data-row-split></div>
-					<hr class="visible-xl-block ">
-				
-				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100567028 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100567028 and productInventory.ffmcenterid = 50702 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
-
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/lg-gram-14%22-2-in-1-touchscreen-laptop---10th-gen-intel-core-i7---1080p.product.100567028.html" item-index="12">
-	
-	<input type="hidden" id="grocerySection" value="false"/>
-
-	
-	<div class="omniture">
-		<div class="scProdId" sc.prodId="100567028"></div>
-	   	<div class="scMemberProductType" sc.memberProductType="na"></div>
-	</div>		
-	
-	
-
-<div class="pills-section">
-	
-</div>
-
-
-	<div class="thumbnail" itemid="100567028">	
-		<div class="product-img-holder link-behavior">
-			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-				
-						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
-						 	data-src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1418073-847__1&recipeName=350" alt="LG gram 14&#034; 2-in-1 Touchscreen Laptop - 10th Gen Intel Core i7 - 1080p" title="LG gram 14&#034; 2-in-1 Touchscreen Laptop - 10th Gen Intel Core i7 - 1080p"
-						 />
-					
-			</div>
-			
-			
-			
-		</div>
-		
-		
-		
-			
-			 
-		
-		<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">	
-			<div class="row custom_row">
-				<div class="col-xs-12 badge-class">
-					
-								<div class="row">
-									<div class="col-xs-12 menuicon-holder">
-										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/lg-gram-14-2-in-1-touchscreen-laptop---10th-gen-intel-core-i7---1080p.product.100567028.html"
-											style="float:right;">
-										</i>
-									</div>
-								</div>
-							
-				</div>
-			</div>
-			<div class="caption">
-			   
-				<p class="map-item hide">Sign In For Price</p>
-			   	
-					<div class="" >
-						
-								<div class="price" id="price-100567028" data-regionNav="DEFAULT">$1,399.99</div>
-								
-					</div>
-						
-			 				
-				<p class="description">			
-					
-							<a href="https://www.costco.com/lg-gram-14%22-2-in-1-touchscreen-laptop---10th-gen-intel-core-i7---1080p.product.100567028.html">LG gram 14" 2-in-1 Touchscreen Laptop - 10th Gen Intel Core i7 - 1080p</a>
-										
-				</p>
-				
-				
-					<ul class="product-features hidden-xs hidden-sm">
-						
-		                        <li>10th Gen Intel® Core™ i7-10510U Processor 1.8GHz</li> 
-		                
-		                        <li> Up to 20.5 Hours Battery Life</li> 
-		                
-		                        <li> Intel® Wi-Fi 6 AX201 WLAN 2x2 + Bluetooth 5.0</li> 
-		                
-		                        <li> 14" Touchscreen IPS LCD FHD (1920 x 1080) Display</li> 
-		                
-		                        <li> Includes Stylus Pen</li> 
-		                
-					</ul>	
-				
-		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
-	
-	<div class="col-xs-12" 
-			aria-label="Rated 4.4 out of 5 stars based on 44 reviews.">
-		
-		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,78.95520401000977px,20px,0);">
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-			</ul>
-			<ul class="stars underlay">
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-			</ul>
-		  	<span class="offscreen">
-		  		Rated 4.4 out of 5 stars based on 44 reviews. 
-        	</span>
-         	<div class="ratings-number">
-            	(44)
-          	</div>
-		</div>
-		
-			<meta itemprop="ratingValue" content="4.38640022277832"/>
-			<meta itemprop="reviewCount" content="44"/>
-			<meta itemprop="bestRating" content="5"/>
-			<meta itemprop="itemReviewed" content="LG gram 14&#034; 2-in-1 Touchscreen Laptop - 10th Gen Intel Core i7 - 1080p"/>
-		
-	</div>
-</div>
-
-			</div>
-		</div>
-	</div>
-	
-
-<div class="style-check compare-container">
-    <input id="compare_100567028" type="checkbox" name="compare-product" value="true" data-description=""  
-    	onclick="COSTCO.compareProducts.toggleItem('100567028','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1418073-847__1&recipeName=350', this)" />
-    <label for="compare_100567028" class="mar_top">
-    	<span>Compare Product</span>
-    </label>
-</div>
-
-	<input type="hidden" id="tobaccoProd" value="" />
-	<input type="hidden" id="ebbProd" value="" />
-	<input type="hidden" id="deptNumber" value="" />
-	
-	<input type="hidden" id="tobaccoInState" value="false" />
-	
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="signInDetails" name="signInDetails" value="" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
-			
-		<input type="hidden" id="catalogType_100567028" 
-			name="catalogType_100567028" value="" />
-	
-	<input type="hidden" class="partNumb" name="partNumb" value="100567028" />
-		
-	<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
-<input type="hidden" id="endIndex" name="resultCnt" value="23" />
-
-		<div class="addbutton" id="quickAdd-12" style="display:none">
-		
-		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
-		<input type="hidden" class="partNumb" name="partNumb" value="100567028" />
-		
-		<input type="hidden" name="buyable" value="true" /> 
-	
-		
-	
-			<form id="AddToCartForm-12" name="OrderItemAddForm" autocomplete="off">
-			<input type="hidden" name="backURL" value="" />
-			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
-			<input type="hidden" id="langId" name="langId" value="-1" />
-			<input type="hidden" id="storeId" name="storeId" value="10301" />
-			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
-			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
-			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
-			<input type="hidden" id="refinementValue" name="refinementValue" value="577607" />
-			<input type="hidden" id="keyword" name="keyword" value="" />
-			
-			
-				<input type="hidden" class="catEntryId" name="catEntryId" value="1835516" />
-			
-			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
-			
-				
-				<div class="row">
-					<div class="col-xs-12">
-							<div class="product-quick-buy">
-							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-12">
-									<button id="sub-12" type="button" class="btn disabled"
-											data-type="minus" data-field="" value="" tabindex="0"
-											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '12', '100567028','', false)">
-										<i class="co-collapse"></i>
-									</button>
-									<input id="value-12" data-txt-qty type="text" 
-										    class="form-control" name="quantity-12" value="1"
-											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
-											aria-label = "Quantity to Add" 
-											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
-											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-12" type="button" 
-											class="btn" data-type="plus" data-field="" 
-											value="" tabindex="0"
-											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'12', '100567028','', true)">
-										<i class="co-expand"></i>
-									</button>
-								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-12">
-									<input type="hidden" id="minquantity-12"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-12"class="maxQuantity" name="maxQuantity" value="999" />
-									<input type="hidden" name="orderItemId-12" value="" id="orderItemId-12" />
-									<input type="hidden" name="quantity-12" value="1" id="quantity-12" />
-									
-									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-12" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'12', '100567028','')">Add</button>
-								</div>
-							</div>
-							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-12" style="display:none"></div>
-								<span class="span-error" id="errordiv-12" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-12" style="display:none"></span>
-							</div>		
-						</div>
-					</div>
-				</div>			
-			</form>
-		<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 2    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>
-	<!--  End of Button Section -->	
-	
-</div>
-
-<input type="hidden" id="isTwoDayItem_100567028" value="false" />
-
-<input type="hidden" id="in_Stock_100567028" value="2" />
-
-
-<input type="hidden" id="product_sku_100567028" value="" />
-<input type="hidden" id="product_name_100567028" value="LG gram 14" 2-in-1 Touchscreen Laptop - 10th Gen Intel Core i7 - 1080p" />
-
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
-						
-				</div>
-				
-				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100579444 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100579444 and productInventory.ffmcenterid = 50702 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
-
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/dell-inspiron-15-3000-touchscreen-laptop---10th-gen-intel-core-i7-1065g7---1080p.product.100579444.html" item-index="13">
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/dell-inspiron-15-3000-touchscreen-laptop---10th-gen-intel-core-i7-1065g7---1080p.product.100579444.html" item-index="19">
 	
 	<input type="hidden" id="grocerySection" value="false"/>
 
@@ -11908,10 +13408,10 @@ Integrated Widescreen HD 720p Webcam with Dual Digital Microphone Array</li>
 		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
 	
 	<div class="col-xs-12" 
-			aria-label="Rated 4 out of 5 stars based on 285 reviews.">
+			aria-label="Rated 4 out of 5 stars based on 293 reviews.">
 		
 		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,72.31499862670898px,20px,0);">
+			<ul class="stars overlay" style="clip: rect(0,72.3077974319458px,20px,0);">
 				<li>
 					<span class="fi-star"></span>
 				</li>
@@ -11946,15 +13446,15 @@ Integrated Widescreen HD 720p Webcam with Dual Digital Microphone Array</li>
 				</li>
 			</ul>
 		  	<span class="offscreen">
-		  		Rated 4 out of 5 stars based on 285 reviews. 
+		  		Rated 4 out of 5 stars based on 293 reviews. 
         	</span>
          	<div class="ratings-number">
-            	(285)
+            	(293)
           	</div>
 		</div>
 		
-			<meta itemprop="ratingValue" content="4.017499923706055"/>
-			<meta itemprop="reviewCount" content="285"/>
+			<meta itemprop="ratingValue" content="4.017099857330322"/>
+			<meta itemprop="reviewCount" content="293"/>
 			<meta itemprop="bestRating" content="5"/>
 			<meta itemprop="itemReviewed" content="Dell Inspiron 15 3000 Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p"/>
 		
@@ -11995,7 +13495,7 @@ Integrated Widescreen HD 720p Webcam with Dual Digital Microphone Array</li>
 			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
 <input type="hidden" id="endIndex" name="resultCnt" value="23" />
 
-		<div class="addbutton" id="quickAdd-13" style="display:none">
+		<div class="addbutton" id="quickAdd-19" style="display:none">
 		
 		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
 		<input type="hidden" class="partNumb" name="partNumb" value="100579444" />
@@ -12004,7 +13504,7 @@ Integrated Widescreen HD 720p Webcam with Dual Digital Microphone Array</li>
 	
 		
 	
-			<form id="AddToCartForm-13" name="OrderItemAddForm" autocomplete="off">
+			<form id="AddToCartForm-19" name="OrderItemAddForm" autocomplete="off">
 			<input type="hidden" name="backURL" value="" />
 			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
 			<input type="hidden" id="langId" name="langId" value="-1" />
@@ -12025,42 +13525,42 @@ Integrated Widescreen HD 720p Webcam with Dual Digital Microphone Array</li>
 					<div class="col-xs-12">
 							<div class="product-quick-buy">
 							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-13">
-									<button id="sub-13" type="button" class="btn disabled"
+								<div class="product-quick-buy-txt" id="add-div-19">
+									<button id="sub-19" type="button" class="btn disabled"
 											data-type="minus" data-field="" value="" tabindex="0"
 											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '13', '100579444','', false)">
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '19', '100579444','', false)">
 										<i class="co-collapse"></i>
 									</button>
-									<input id="value-13" data-txt-qty type="text" 
-										    class="form-control" name="quantity-13" value="1"
+									<input id="value-19" data-txt-qty type="text" 
+										    class="form-control" name="quantity-19" value="1"
 											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
 											aria-label = "Quantity to Add" 
 											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
 											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-13" type="button" 
+									<button id="add-19" type="button" 
 											class="btn" data-type="plus" data-field="" 
 											value="" tabindex="0"
 											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'13', '100579444','', true)">
+											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'19', '100579444','', true)">
 										<i class="co-expand"></i>
 									</button>
 								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-13">
-									<input type="hidden" id="minquantity-13"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-13"class="maxQuantity" name="maxQuantity" value="999" />
-									<input type="hidden" name="orderItemId-13" value="" id="orderItemId-13" />
-									<input type="hidden" name="quantity-13" value="1" id="quantity-13" />
+								<div class="product-quick-buy-btn" id="addButtonContainer-19">
+									<input type="hidden" id="minquantity-19"class="minQuantity" name="minQuantity" value="1" />
+									<input type="hidden" id="maxQuantity-19"class="maxQuantity" name="maxQuantity" value="999" />
+									<input type="hidden" name="orderItemId-19" value="" id="orderItemId-19" />
+									<input type="hidden" name="quantity-19" value="1" id="quantity-19" />
 									
 									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-13" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'13', '100579444','')">Add</button>
+									<button id="addbutton-19" class="btn btn-primary btn-block primary-slim" tabindex="0"
+										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'19', '100579444','')">Add</button>
 								</div>
 							</div>
 							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-13" style="display:none"></div>
-								<span class="span-error" id="errordiv-13" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-13" style="display:none"></span>
+								<div class="item-in-cart text-center" id="item-in-cart-19" style="display:none"></div>
+								<span class="span-error" id="errordiv-19" style="display:none"></span>
+								<span class="span-error" id="qtyerrordiv-19" style="display:none"></span>
 							</div>		
 						</div>
 					</div>
@@ -12090,503 +13590,19 @@ Integrated Widescreen HD 720p Webcam with Dual Digital Microphone Array</li>
 					<div class="clearfix visible-xs-block visible-sm-block visible-md-block" data-row-split></div>
 				 	<hr class="visible-xs-block visible-sm-block visible-md-block "> 
 				
-				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100512042 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100512042 and productInventory.ffmcenterid = 50702 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
-
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/hp-pavilion-15.6%22-touchscreen-laptop---10th-gen-intel-core-i7---geforce-mx250---fog-blue.product.100512042.html" item-index="14">
-	
-	<input type="hidden" id="grocerySection" value="false"/>
-
-	
-	<div class="omniture">
-		<div class="scProdId" sc.prodId="100512042"></div>
-	   	<div class="scMemberProductType" sc.memberProductType="na"></div>
-	</div>		
-	
-	
-
-<div class="pills-section">
-	
-</div>
-
-
-	<div class="thumbnail" itemid="100512042">	
-		<div class="product-img-holder link-behavior">
-			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-				
-						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
-						 	data-src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1373588-847__1&recipeName=350" alt="HP Pavilion 15.6&#034; Touchscreen Laptop - 10th Gen Intel Core i7 - GeForce MX250 - Fog Blue" title="HP Pavilion 15.6&#034; Touchscreen Laptop - 10th Gen Intel Core i7 - GeForce MX250 - Fog Blue"
-						 />
-					
-			</div>
-			
-			
-			
-		</div>
-		
-		
-		
-			
-			 
-		
-		<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">	
-			<div class="row custom_row">
-				<div class="col-xs-12 badge-class">
-					
-								<div class="row">
-									<div class="col-xs-12 menuicon-holder">
-										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/hp-pavilion-15.6-touchscreen-laptop---10th-gen-intel-core-i7---geforce-mx250---fog-blue.product.100512042.html"
-											style="float:right;">
-										</i>
-									</div>
-								</div>
-							
-				</div>
-			</div>
-			<div class="caption">
-			   
-				<p class="map-item hide">Sign In For Price</p>
-			   	
-					<div class="" >
-						
-								<div class="price" id="price-100512042" data-regionNav="DEFAULT">$799.99</div>
-								
-					</div>
-				
-					<p class="promo">$100 OFF</p>	
-						
-			 				
-				<p class="description">			
-					
-							<a href="https://www.costco.com/hp-pavilion-15.6%22-touchscreen-laptop---10th-gen-intel-core-i7---geforce-mx250---fog-blue.product.100512042.html">HP Pavilion 15.6" Touchscreen Laptop - 10th Gen Intel Core i7 - GeForce MX250 - Fog Blue</a>
-										
-				</p>
-				
-				
-					<ul class="product-features hidden-xs hidden-sm">
-						
-		                        <li>10th Gen Intel Core i7-1065G7 Processor at 1.3GHz</li> 
-		                
-		                        <li>4GB NVIDIA GeForce MX250 Graphics</li> 
-		                
-		                        <li> Full-size Island-style Cloud Blue Backlit Keyboard with Numeric Keypad</li> 
-		                
-		                        <li>Intel® Wi-Fi 6 (2x2/160) Gig+ and Bluetooth 5.0</li> 
-		                
-		                        <li> B&O Play Audio with Dual Speakers</li> 
-		                
-					</ul>	
-				
-		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
-	
-	<div class="col-xs-12" 
-			aria-label="Rated 4 out of 5 stars based on 444 reviews.">
-		
-		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,72.08099842071533px,20px,0);">
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-			</ul>
-			<ul class="stars underlay">
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-			</ul>
-		  	<span class="offscreen">
-		  		Rated 4 out of 5 stars based on 444 reviews. 
-        	</span>
-         	<div class="ratings-number">
-            	(444)
-          	</div>
-		</div>
-		
-			<meta itemprop="ratingValue" content="4.004499912261963"/>
-			<meta itemprop="reviewCount" content="444"/>
-			<meta itemprop="bestRating" content="5"/>
-			<meta itemprop="itemReviewed" content="HP Pavilion 15.6&#034; Touchscreen Laptop - 10th Gen Intel Core i7 - GeForce MX250 - Fog Blue"/>
-		
-	</div>
-</div>
-
-			</div>
-		</div>
-	</div>
-	
-
-<div class="style-check compare-container">
-    <input id="compare_100512042" type="checkbox" name="compare-product" value="true" data-description=""  
-    	onclick="COSTCO.compareProducts.toggleItem('100512042','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1373588-847__1&recipeName=350', this)" />
-    <label for="compare_100512042" class="mar_top">
-    	<span>Compare Product</span>
-    </label>
-</div>
-
-	<input type="hidden" id="tobaccoProd" value="" />
-	<input type="hidden" id="ebbProd" value="" />
-	<input type="hidden" id="deptNumber" value="" />
-	
-	<input type="hidden" id="tobaccoInState" value="false" />
-	
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="signInDetails" name="signInDetails" value="" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
-			
-		<input type="hidden" id="catalogType_100512042" 
-			name="catalogType_100512042" value="" />
-	
-	<input type="hidden" class="partNumb" name="partNumb" value="100512042" />
-		
-	<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
-<input type="hidden" id="endIndex" name="resultCnt" value="23" />
-
-		<div class="addbutton" id="quickAdd-14" style="display:none">
-		
-		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
-		<input type="hidden" class="partNumb" name="partNumb" value="100512042" />
-		
-		<input type="hidden" name="buyable" value="true" /> 
-	
-		
-	
-			<form id="AddToCartForm-14" name="OrderItemAddForm" autocomplete="off">
-			<input type="hidden" name="backURL" value="" />
-			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
-			<input type="hidden" id="langId" name="langId" value="-1" />
-			<input type="hidden" id="storeId" name="storeId" value="10301" />
-			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
-			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
-			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
-			<input type="hidden" id="refinementValue" name="refinementValue" value="577607" />
-			<input type="hidden" id="keyword" name="keyword" value="" />
-			
-			
-				<input type="hidden" class="catEntryId" name="catEntryId" value="1629004" />
-			
-			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
-			
-				
-				<div class="row">
-					<div class="col-xs-12">
-							<div class="product-quick-buy">
-							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-14">
-									<button id="sub-14" type="button" class="btn disabled"
-											data-type="minus" data-field="" value="" tabindex="0"
-											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '14', '100512042','', false)">
-										<i class="co-collapse"></i>
-									</button>
-									<input id="value-14" data-txt-qty type="text" 
-										    class="form-control" name="quantity-14" value="1"
-											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
-											aria-label = "Quantity to Add" 
-											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
-											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-14" type="button" 
-											class="btn" data-type="plus" data-field="" 
-											value="" tabindex="0"
-											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'14', '100512042','', true)">
-										<i class="co-expand"></i>
-									</button>
-								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-14">
-									<input type="hidden" id="minquantity-14"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-14"class="maxQuantity" name="maxQuantity" value="999" />
-									<input type="hidden" name="orderItemId-14" value="" id="orderItemId-14" />
-									<input type="hidden" name="quantity-14" value="1" id="quantity-14" />
-									
-									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-14" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'14', '100512042','')">Add</button>
-								</div>
-							</div>
-							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-14" style="display:none"></div>
-								<span class="span-error" id="errordiv-14" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-14" style="display:none"></span>
-							</div>		
-						</div>
-					</div>
-				</div>			
-			</form>
-		<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 2    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>
-	<!--  End of Button Section -->	
-	
-</div>
-
-<input type="hidden" id="isTwoDayItem_100512042" value="false" />
-
-<input type="hidden" id="in_Stock_100512042" value="2" />
-
-
-<input type="hidden" id="product_sku_100512042" value="" />
-<input type="hidden" id="product_name_100512042" value="HP Pavilion 15.6" Touchscreen Laptop - 10th Gen Intel Core i7 - GeForce MX250 - Fog Blue" />
-
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
-						
-				</div>
-				
-					<div class="clearfix visible-lg-block" data-row-split></div>
-					<hr class="visible-lg-block ">
-				
-				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100579449 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100579449 and productInventory.ffmcenterid = 50702 --><!-- InStock = 0 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
-
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/asus-14%22-zenbook-ux434flc-laptop---10th-gen-intel-core-i7-10510u---1080p---royal-blue.product.100579449.html" item-index="15">
-	
-	<input type="hidden" id="grocerySection" value="false"/>
-
-	
-	<div class="omniture">
-		<div class="scProdId" sc.prodId="100579449"></div>
-	   	<div class="scMemberProductType" sc.memberProductType="na"></div>
-	</div>		
-	
-	
-
-<div class="pills-section">
-	
-</div>
-
-
-	<div class="thumbnail" itemid="100579449">	
-		<div class="product-img-holder link-behavior">
-			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-				
-						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
-						 	data-src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1430429-847__1&recipeName=350" alt="ASUS 14&#034; Zenbook UX434FLC Laptop - 10th Gen Intel Core i7-10510U - 1080p - Royal Blue" title="ASUS 14&#034; Zenbook UX434FLC Laptop - 10th Gen Intel Core i7-10510U - 1080p - Royal Blue"
-						 />
-					
-						<img class="product-out-stock-overlay" src="/wcsstore/CostcoGLOBALSAS/images/OOS-overlay-en.png" alt="Out of Stock" title="Out of Stock"/>
-					
-			</div>
-			
-			
-			
-		</div>
-		
-		
-		
-			
-			 
-		
-		<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">	
-			<div class="row custom_row">
-				<div class="col-xs-12 badge-class">
-					
-				</div>
-			</div>
-			<div class="caption">
-			   
-				<p class="map-item hide">Sign In For Price</p>
-			   	
-					<div class="" >
-						
-								<div class="price" id="price-100579449" data-regionNav="DEFAULT">$1,299.99</div>
-								
-					</div>
-						
-			 				
-				<p class="description">			
-					
-							<a href="https://www.costco.com/asus-14%22-zenbook-ux434flc-laptop---10th-gen-intel-core-i7-10510u---1080p---royal-blue.product.100579449.html">ASUS 14" Zenbook UX434FLC Laptop - 10th Gen Intel Core i7-10510U - 1080p - Royal Blue</a>
-										
-				</p>
-				
-				
-					<ul class="product-features hidden-xs hidden-sm">
-						
-		                        <li>10th Gen  Intel® Core™ i7-10510U Processor 1.8GHz</li> 
-		                
-		                        <li> ScreenPad™2.0 with 5.65" Touchscreen Display that Works Seamlessly with the Main Display</li> 
-		                
-		                        <li> 1TB PCIe® NVMe ™ M.2 Solid State Drive</li> 
-		                
-		                        <li> 802.11ax (2x2) Wi-Fi 6 Gig + and Bluetooth® 5.0</li> 
-		                
-		                        <li> Backlit Chiclet Keyboard with ScreenPad™2.0</li> 
-		                
-					</ul>	
-				
-		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
-	
-	<div class="col-xs-12" 
-			aria-label="Rated 4.4 out of 5 stars based on 46 reviews.">
-		
-		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,78.6527967453003px,20px,0);">
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-			</ul>
-			<ul class="stars underlay">
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-			</ul>
-		  	<span class="offscreen">
-		  		Rated 4.4 out of 5 stars based on 46 reviews. 
-        	</span>
-         	<div class="ratings-number">
-            	(46)
-          	</div>
-		</div>
-		
-			<meta itemprop="ratingValue" content="4.36959981918335"/>
-			<meta itemprop="reviewCount" content="46"/>
-			<meta itemprop="bestRating" content="5"/>
-			<meta itemprop="itemReviewed" content="ASUS 14&#034; Zenbook UX434FLC Laptop - 10th Gen Intel Core i7-10510U - 1080p - Royal Blue"/>
-		
-	</div>
-</div>
-
-			</div>
-		</div>
-	</div>
-	
-
-<div class="style-check compare-container">
-    <input id="compare_100579449" type="checkbox" name="compare-product" value="true" data-description=""  
-    	onclick="COSTCO.compareProducts.toggleItem('100579449','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1430429-847__1&recipeName=350', this)" />
-    <label for="compare_100579449" class="mar_top">
-    	<span>Compare Product</span>
-    </label>
-</div>
-
-	<input type="hidden" id="tobaccoProd" value="" />
-	<input type="hidden" id="ebbProd" value="" />
-	<input type="hidden" id="deptNumber" value="" />
-	
-	<input type="hidden" id="tobaccoInState" value="false" />
-	
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="signInDetails" name="signInDetails" value="" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="0" />
-			
-		<input type="hidden" id="catalogType_100579449" 
-			name="catalogType_100579449" value="" />
-	
-	<input type="hidden" class="partNumb" name="partNumb" value="100579449" />
-		
-	<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
-<input type="hidden" id="endIndex" name="resultCnt" value="23" />
-
-		<div class="addbutton" id="quickAdd-15" style="display:none">
-		
-		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
-		<input type="hidden" class="partNumb" name="partNumb" value="100579449" />
-		
-		<input type="hidden" name="buyable" value="true" /> 
-	
-	<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 0    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->   
-	<div class="row">
-		<div class="col-xs-12">
-			<div class="product-quick-buy">
-				<div class="product-quick-buy-inner">	
-					<div class="product-quick-buy-btn btn-out-stock-holder" style="margin:0">
-						<button class="btn btn-primary btn-block primary-slim disabled" tabindex="0" disabled>Out of Stock</button>
-					</div>
-				</div>	
-			</div>
-		</div>
-	</div>
-
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>
-	<!--  End of Button Section -->	
-	
-</div>
-
-<input type="hidden" id="isTwoDayItem_100579449" value="false" />
-
-<input type="hidden" id="in_Stock_100579449" value="0" />
-
-
-<input type="hidden" id="product_sku_100579449" value="" />
-<input type="hidden" id="product_name_100579449" value="ASUS 14" Zenbook UX434FLC Laptop - 10th Gen Intel Core i7-10510U - 1080p - Royal Blue" />
-
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
-						
-				</div>
-				
-					<div class="clearfix visible-xs-block visible-sm-block visible-md-block" data-row-split></div>
-				 	<hr class="visible-xs-block visible-sm-block visible-md-block "> 
-				
 					<div class="clearfix visible-xl-block" data-row-split></div>
 					<hr class="visible-xl-block ">
 				
 				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100568605 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100568605 and productInventory.ffmcenterid = 50702 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100512541 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/msi-ge75-raider-gaming-laptop---10th-gen-intel-core-i7-10750h---geforce-rtx-2060---1080p.product.100568605.html" item-index="16">
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/new-microsoft-surface-pro-7-bundle---10th-gen-intel-core-i7---2736-x-1824-display---windows-10---black.product.100512541.html" item-index="20">
 	
 	<input type="hidden" id="grocerySection" value="false"/>
 
 	
 	<div class="omniture">
-		<div class="scProdId" sc.prodId="100568605"></div>
+		<div class="scProdId" sc.prodId="100512541"></div>
 	   	<div class="scMemberProductType" sc.memberProductType="member-only"></div>
 	</div>		
 	
@@ -12597,12 +13613,12 @@ Integrated Widescreen HD 720p Webcam with Dual Digital Microphone Array</li>
 </div>
 
 
-	<div class="thumbnail" itemid="100568605">	
+	<div class="thumbnail" itemid="100512541">	
 		<div class="product-img-holder link-behavior">
 			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
 				
 						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
-						 	data-src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1420049-847__1&recipeName=350" alt="MSI GE75 Raider Gaming Laptop - 10th Gen Intel Core i7-10750H - GeForce RTX 2060 - 1080p" title="MSI GE75 Raider Gaming Laptop - 10th Gen Intel Core i7-10750H - GeForce RTX 2060 - 1080p"
+						 	data-src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1374007-847__1&recipeName=350" alt="New Microsoft Surface Pro 7 Bundle - 10th Gen Intel Core i7 - 2736 x 1824 Display - Windows 10 - Black" title="New Microsoft Surface Pro 7 Bundle - 10th Gen Intel Core i7 - 2736 x 1824 Display - Windows 10 - Black"
 						 />
 					
 			</div>
@@ -12622,7 +13638,7 @@ Integrated Widescreen HD 720p Webcam with Dual Digital Microphone Array</li>
 					
 								<div class="row">
 									<div class="col-xs-12 menuicon-holder">
-										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/msi-ge75-raider-gaming-laptop---10th-gen-intel-core-i7-10750h---geforce-rtx-2060---1080p.product.100568605.html"
+										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/new-microsoft-surface-pro-7-bundle---10th-gen-intel-core-i7---2736-x-1824-display---windows-10---black.product.100512541.html"
 											style="float:right;">
 										</i>
 									</div>
@@ -12638,37 +13654,37 @@ Integrated Widescreen HD 720p Webcam with Dual Digital Microphone Array</li>
 					
 					<div class="moi" style="display:none;">
 						
-								<div class="price" id="price-100568605" data-regionNav="DEFAULT">$1,399.99</div>
+								<div class="price" id="price-100512541" data-regionNav="DEFAULT">$1,599.99</div>
 								
 					</div>
 						
 			 				
 				<p class="description">			
 					
-							<a href="https://www.costco.com/msi-ge75-raider-gaming-laptop---10th-gen-intel-core-i7-10750h---geforce-rtx-2060---1080p.product.100568605.html">MSI GE75 Raider Gaming Laptop - 10th Gen Intel Core i7-10750H - GeForce RTX 2060 - 1080p</a>
+							<a href="https://www.costco.com/new-microsoft-surface-pro-7-bundle---10th-gen-intel-core-i7---2736-x-1824-display---windows-10---black.product.100512541.html">New Microsoft Surface Pro 7 Bundle - 10th Gen Intel Core i7 - 2736 x 1824 Display - Windows 10 - Black</a>
 										
 				</p>
 				
 				
 					<ul class="product-features hidden-xs hidden-sm">
 						
-		                        <li>10th Gen Intel® Core™ i7-10750H Processor</li> 
+		                        <li>10th Gen Intel Core i7 Processor</li> 
 		                
-		                        <li> 6GB NVIDIA GeForce® RTX 2060 Graphics</li> 
+		                        <li>Intel Iris Plus Graphics</li> 
 		                
-		                        <li> 17.3" FHD 144Hz 3ms Display</li> 
+		                        <li>Intel® Wi-Fi 6 (2x2/160) Gig+</li> 
 		                
-		                        <li> Steel Series RGB Backlight Keyboard with Anti-Ghost Key + Silver Lining</li> 
+		                        <li> 1x Type-C Port</li> 
 		                
 					</ul>	
 				
 		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
 	
 	<div class="col-xs-12" 
-			aria-label="Rated 4.9 out of 5 stars based on 2378 reviews.">
+			aria-label="Rated 4.5 out of 5 stars based on 628 reviews.">
 		
 		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,87.42599773406982px,20px,0);">
+			<ul class="stars overlay" style="clip: rect(0,81.34380340576172px,20px,0);">
 				<li>
 					<span class="fi-star"></span>
 				</li>
@@ -12703,17 +13719,17 @@ Integrated Widescreen HD 720p Webcam with Dual Digital Microphone Array</li>
 				</li>
 			</ul>
 		  	<span class="offscreen">
-		  		Rated 4.9 out of 5 stars based on 2378 reviews. 
+		  		Rated 4.5 out of 5 stars based on 628 reviews. 
         	</span>
          	<div class="ratings-number">
-            	(2378)
+            	(628)
           	</div>
 		</div>
 		
-			<meta itemprop="ratingValue" content="4.85699987411499"/>
-			<meta itemprop="reviewCount" content="2378"/>
+			<meta itemprop="ratingValue" content="4.519100189208984"/>
+			<meta itemprop="reviewCount" content="628"/>
 			<meta itemprop="bestRating" content="5"/>
-			<meta itemprop="itemReviewed" content="MSI GE75 Raider Gaming Laptop - 10th Gen Intel Core i7-10750H - GeForce RTX 2060 - 1080p"/>
+			<meta itemprop="itemReviewed" content="New Microsoft Surface Pro 7 Bundle - 10th Gen Intel Core i7 - 2736 x 1824 Display - Windows 10 - Black"/>
 		
 	</div>
 </div>
@@ -12724,9 +13740,9 @@ Integrated Widescreen HD 720p Webcam with Dual Digital Microphone Array</li>
 	
 
 <div class="style-check compare-container">
-    <input id="compare_100568605" type="checkbox" name="compare-product" value="true" data-description=""  
-    	onclick="COSTCO.compareProducts.toggleItem('100568605','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1420049-847__1&recipeName=350', this)" />
-    <label for="compare_100568605" class="mar_top">
+    <input id="compare_100512541" type="checkbox" name="compare-product" value="true" data-description=""  
+    	onclick="COSTCO.compareProducts.toggleItem('100512541','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1374007-847__1&recipeName=350', this)" />
+    <label for="compare_100512541" class="mar_top">
     	<span>Compare Product</span>
     </label>
 </div>
@@ -12741,10 +13757,10 @@ Integrated Widescreen HD 720p Webcam with Dual Digital Microphone Array</li>
 	<input type="hidden" id="signInDetails" name="signInDetails" value="signin-details" />
 	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
 			
-		<input type="hidden" id="catalogType_100568605" 
-			name="catalogType_100568605" value="" />
+		<input type="hidden" id="catalogType_100512541" 
+			name="catalogType_100512541" value="" />
 	
-	<input type="hidden" class="partNumb" name="partNumb" value="100568605" />
+	<input type="hidden" class="partNumb" name="partNumb" value="100512541" />
 		
 	<!--  Button Section -->
 	<div class="buttonSection hide" id="btnas">
@@ -12752,10 +13768,10 @@ Integrated Widescreen HD 720p Webcam with Dual Digital Microphone Array</li>
 			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
 <input type="hidden" id="endIndex" name="resultCnt" value="23" />
 
-		<div class="addbutton" id="quickAdd-16" style="display:none">
+		<div class="addbutton" id="quickAdd-20" style="display:none">
 		
 		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
-		<input type="hidden" class="partNumb" name="partNumb" value="100568605" />
+		<input type="hidden" class="partNumb" name="partNumb" value="100512541" />
 		
 		<input type="hidden" name="buyable" value="true" /> 
 	
@@ -12768,567 +13784,25 @@ Integrated Widescreen HD 720p Webcam with Dual Digital Microphone Array</li>
 	
 </div>
 
-<input type="hidden" id="isTwoDayItem_100568605" value="false" />
+<input type="hidden" id="isTwoDayItem_100512541" value="false" />
 
-<input type="hidden" id="in_Stock_100568605" value="2" />
-
-
-<input type="hidden" id="product_sku_100568605" value="" />
-<input type="hidden" id="product_name_100568605" value="MSI GE75 Raider Gaming Laptop - 10th Gen Intel Core i7-10750H - GeForce RTX 2060 - 1080p" />
-
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
-						
-				</div>
-				
-				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100536334 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100536334 and productInventory.ffmcenterid = 50702 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
-
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/lg-gram-17-in.-laptop%2c-10th-gen-intel-core-i7%2c-16gb-ram%2c-512gb-ssd.product.100536334.html" item-index="17">
-	
-	<input type="hidden" id="grocerySection" value="false"/>
-
-	
-	<div class="omniture">
-		<div class="scProdId" sc.prodId="100536334"></div>
-	   	<div class="scMemberProductType" sc.memberProductType="na"></div>
-	</div>		
-	
-	
-
-<div class="pills-section">
-	
-</div>
+<input type="hidden" id="in_Stock_100512541" value="2" />
 
 
-	<div class="thumbnail" itemid="100536334">	
-		<div class="product-img-holder link-behavior">
-			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-				
-						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
-						 	data-src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1407683-847__1&recipeName=350" alt="LG Gram 17 in. Laptop, 10th Gen Intel Core i7, 16GB RAM, 512GB SSD" title="LG Gram 17 in. Laptop, 10th Gen Intel Core i7, 16GB RAM, 512GB SSD"
-						 />
-					
-			</div>
-			
-			
-			
-		</div>
-		
-		
-		
-			
-			 
-		
-		<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">	
-			<div class="row custom_row">
-				<div class="col-xs-12 badge-class">
-					
-								<div class="row">
-									<div class="col-xs-12 menuicon-holder">
-										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/lg-gram-17-in.-laptop-10th-gen-intel-core-i7-16gb-ram-512gb-ssd.product.100536334.html"
-											style="float:right;">
-										</i>
-									</div>
-								</div>
-							
-				</div>
-			</div>
-			<div class="caption">
-			   
-				<p class="map-item hide">Sign In For Price</p>
-			   	
-					<div class="" >
-						
-								<div class="price" id="price-100536334" data-regionNav="DEFAULT">$1,249.99</div>
-								
-					</div>
-				
-					<p class="promo">$250 OFF</p>	
-						
-			 				
-				<p class="description">			
-					
-							<a href="https://www.costco.com/lg-gram-17-in.-laptop%2c-10th-gen-intel-core-i7%2c-16gb-ram%2c-512gb-ssd.product.100536334.html">LG Gram 17 in. Laptop, 10th Gen Intel Core i7, 16GB RAM, 512GB SSD</a>
-										
-				</p>
-				
-				
-					<ul class="product-features hidden-xs hidden-sm">
-						
-		                        <li>10th Gen Intel® Core™ i7-1065G7 Processor 1.3GHz</li> 
-		                
-		                        <li>
-1x USB 3.1 Type-C with Thunderbolt™ 3 Interface</li> 
-		                
-		                        <li>
-Ultra Thin and Light, 2.98 lbs</li> 
-		                
-		                        <li> IPS LCD WQXGA (2560 x 1600) Display</li> 
-		                
-		                        <li>
-Backlit Keyboard</li> 
-		                
-					</ul>	
-				
-		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
-	
-	<div class="col-xs-12" 
-			aria-label="Rated 4.5 out of 5 stars based on 144 reviews.">
-		
-		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,80.24940204620361px,20px,0);">
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-			</ul>
-			<ul class="stars underlay">
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-			</ul>
-		  	<span class="offscreen">
-		  		Rated 4.5 out of 5 stars based on 144 reviews. 
-        	</span>
-         	<div class="ratings-number">
-            	(144)
-          	</div>
-		</div>
-		
-			<meta itemprop="ratingValue" content="4.4583001136779785"/>
-			<meta itemprop="reviewCount" content="144"/>
-			<meta itemprop="bestRating" content="5"/>
-			<meta itemprop="itemReviewed" content="LG Gram 17 in. Laptop, 10th Gen Intel Core i7, 16GB RAM, 512GB SSD"/>
-		
-	</div>
-</div>
-
-			</div>
-		</div>
-	</div>
-	
-
-<div class="style-check compare-container">
-    <input id="compare_100536334" type="checkbox" name="compare-product" value="true" data-description=""  
-    	onclick="COSTCO.compareProducts.toggleItem('100536334','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1407683-847__1&recipeName=350', this)" />
-    <label for="compare_100536334" class="mar_top">
-    	<span>Compare Product</span>
-    </label>
-</div>
-
-	<input type="hidden" id="tobaccoProd" value="" />
-	<input type="hidden" id="ebbProd" value="" />
-	<input type="hidden" id="deptNumber" value="" />
-	
-	<input type="hidden" id="tobaccoInState" value="false" />
-	
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="signInDetails" name="signInDetails" value="" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
-			
-		<input type="hidden" id="catalogType_100536334" 
-			name="catalogType_100536334" value="" />
-	
-	<input type="hidden" class="partNumb" name="partNumb" value="100536334" />
-		
-	<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
-<input type="hidden" id="endIndex" name="resultCnt" value="23" />
-
-		<div class="addbutton" id="quickAdd-17" style="display:none">
-		
-		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
-		<input type="hidden" class="partNumb" name="partNumb" value="100536334" />
-		
-		<input type="hidden" name="buyable" value="true" /> 
-	
-		
-	
-			<form id="AddToCartForm-17" name="OrderItemAddForm" autocomplete="off">
-			<input type="hidden" name="backURL" value="" />
-			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
-			<input type="hidden" id="langId" name="langId" value="-1" />
-			<input type="hidden" id="storeId" name="storeId" value="10301" />
-			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
-			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
-			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
-			<input type="hidden" id="refinementValue" name="refinementValue" value="577607" />
-			<input type="hidden" id="keyword" name="keyword" value="" />
-			
-			
-				<input type="hidden" class="catEntryId" name="catEntryId" value="1757648" />
-			
-			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
-			
-				
-				<div class="row">
-					<div class="col-xs-12">
-							<div class="product-quick-buy">
-							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-17">
-									<button id="sub-17" type="button" class="btn disabled"
-											data-type="minus" data-field="" value="" tabindex="0"
-											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '17', '100536334','', false)">
-										<i class="co-collapse"></i>
-									</button>
-									<input id="value-17" data-txt-qty type="text" 
-										    class="form-control" name="quantity-17" value="1"
-											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
-											aria-label = "Quantity to Add" 
-											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
-											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-17" type="button" 
-											class="btn" data-type="plus" data-field="" 
-											value="" tabindex="0"
-											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'17', '100536334','', true)">
-										<i class="co-expand"></i>
-									</button>
-								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-17">
-									<input type="hidden" id="minquantity-17"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-17"class="maxQuantity" name="maxQuantity" value="999" />
-									<input type="hidden" name="orderItemId-17" value="" id="orderItemId-17" />
-									<input type="hidden" name="quantity-17" value="1" id="quantity-17" />
-									
-									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-17" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'17', '100536334','')">Add</button>
-								</div>
-							</div>
-							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-17" style="display:none"></div>
-								<span class="span-error" id="errordiv-17" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-17" style="display:none"></span>
-							</div>		
-						</div>
-					</div>
-				</div>			
-			</form>
-		<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 2    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>
-	<!--  End of Button Section -->	
-	
-</div>
-
-<input type="hidden" id="isTwoDayItem_100536334" value="false" />
-
-<input type="hidden" id="in_Stock_100536334" value="2" />
-
-
-<input type="hidden" id="product_sku_100536334" value="" />
-<input type="hidden" id="product_name_100536334" value="LG Gram 17 in. Laptop, 10th Gen Intel Core i7, 16GB RAM, 512GB SSD" />
+<input type="hidden" id="product_sku_100512541" value="" />
+<input type="hidden" id="product_name_100512541" value="New Microsoft Surface Pro 7 Bundle - 10th Gen Intel Core i7 - 2736 x 1824 Display - Windows 10 - Black" />
 
 <!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
 						
 				</div>
-				
-					<div class="clearfix visible-xs-block visible-sm-block visible-md-block" data-row-split></div>
-				 	<hr class="visible-xs-block visible-sm-block visible-md-block "> 
 				
 					<div class="clearfix visible-lg-block" data-row-split></div>
 					<hr class="visible-lg-block ">
 				
 				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100579296 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100579296 and productInventory.ffmcenterid = 50702 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100512527 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/hp-14%22-laptop---10th-gen-intel-core-i5-1035g1---1080p.product.100579296.html" item-index="18">
-	
-	<input type="hidden" id="grocerySection" value="false"/>
-
-	
-	<div class="omniture">
-		<div class="scProdId" sc.prodId="100579296"></div>
-	   	<div class="scMemberProductType" sc.memberProductType="na"></div>
-	</div>		
-	
-	
-
-<div class="pills-section">
-	
-</div>
-
-
-	<div class="thumbnail" itemid="100579296">	
-		<div class="product-img-holder link-behavior">
-			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-				
-						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
-						 	data-src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1430502-847__1&recipeName=350" alt="HP 14&#034; Laptop - 10th Gen Intel Core i5-1035G1 - 1080p" title="HP 14&#034; Laptop - 10th Gen Intel Core i5-1035G1 - 1080p"
-						 />
-					
-			</div>
-			
-			
-			
-		</div>
-		
-		
-		
-			
-			 
-		
-		<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">	
-			<div class="row custom_row">
-				<div class="col-xs-12 badge-class">
-					
-								<div class="row">
-									<div class="col-xs-12 menuicon-holder">
-										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/hp-14-laptop---10th-gen-intel-core-i5-1035g1---1080p.product.100579296.html"
-											style="float:right;">
-										</i>
-									</div>
-								</div>
-							
-				</div>
-			</div>
-			<div class="caption">
-			   
-				<p class="map-item hide">Sign In For Price</p>
-			   	
-					<div class="" >
-						
-								<div class="price" id="price-100579296" data-regionNav="DEFAULT">$599.99</div>
-								
-					</div>
-						
-			 				
-				<p class="description">			
-					
-							<a href="https://www.costco.com/hp-14%22-laptop---10th-gen-intel-core-i5-1035g1---1080p.product.100579296.html">HP 14" Laptop - 10th Gen Intel Core i5-1035G1 - 1080p</a>
-										
-				</p>
-				
-				
-					<ul class="product-features hidden-xs hidden-sm">
-						
-		                        <li>10th Gen Intel® Core™ i5-1035G1 Processor at 1.0GHz</li> 
-		                
-		                        <li>12GB DDR4 2666 SDRAM</li> 
-		                
-		                        <li> Full-size Island-style Backlit Keyboard</li> 
-		                
-		                        <li> 802.11 Wireless-AC WLAN + Bluetooth® 4.2</li> 
-		                
-		                        <li> 1x HDMI 1.4b</li> 
-		                
-					</ul>	
-				
-		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
-	
-	<div class="col-xs-12" 
-			aria-label="Rated 4.3 out of 5 stars based on 232 reviews.">
-		
-		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,77.04360008239746px,20px,0);">
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-			</ul>
-			<ul class="stars underlay">
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-			</ul>
-		  	<span class="offscreen">
-		  		Rated 4.3 out of 5 stars based on 232 reviews. 
-        	</span>
-         	<div class="ratings-number">
-            	(232)
-          	</div>
-		</div>
-		
-			<meta itemprop="ratingValue" content="4.280200004577637"/>
-			<meta itemprop="reviewCount" content="232"/>
-			<meta itemprop="bestRating" content="5"/>
-			<meta itemprop="itemReviewed" content="HP 14&#034; Laptop - 10th Gen Intel Core i5-1035G1 - 1080p"/>
-		
-	</div>
-</div>
-
-			</div>
-		</div>
-	</div>
-	
-
-<div class="style-check compare-container">
-    <input id="compare_100579296" type="checkbox" name="compare-product" value="true" data-description=""  
-    	onclick="COSTCO.compareProducts.toggleItem('100579296','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1430502-847__1&recipeName=350', this)" />
-    <label for="compare_100579296" class="mar_top">
-    	<span>Compare Product</span>
-    </label>
-</div>
-
-	<input type="hidden" id="tobaccoProd" value="" />
-	<input type="hidden" id="ebbProd" value="" />
-	<input type="hidden" id="deptNumber" value="" />
-	
-	<input type="hidden" id="tobaccoInState" value="false" />
-	
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="signInDetails" name="signInDetails" value="" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
-			
-		<input type="hidden" id="catalogType_100579296" 
-			name="catalogType_100579296" value="" />
-	
-	<input type="hidden" class="partNumb" name="partNumb" value="100579296" />
-		
-	<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
-<input type="hidden" id="endIndex" name="resultCnt" value="23" />
-
-		<div class="addbutton" id="quickAdd-18" style="display:none">
-		
-		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
-		<input type="hidden" class="partNumb" name="partNumb" value="100579296" />
-		
-		<input type="hidden" name="buyable" value="true" /> 
-	
-		
-	
-			<form id="AddToCartForm-18" name="OrderItemAddForm" autocomplete="off">
-			<input type="hidden" name="backURL" value="" />
-			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
-			<input type="hidden" id="langId" name="langId" value="-1" />
-			<input type="hidden" id="storeId" name="storeId" value="10301" />
-			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
-			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
-			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
-			<input type="hidden" id="refinementValue" name="refinementValue" value="577607" />
-			<input type="hidden" id="keyword" name="keyword" value="" />
-			
-			
-				<input type="hidden" class="catEntryId" name="catEntryId" value="1880450" />
-			
-			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
-			
-				
-				<div class="row">
-					<div class="col-xs-12">
-							<div class="product-quick-buy">
-							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-18">
-									<button id="sub-18" type="button" class="btn disabled"
-											data-type="minus" data-field="" value="" tabindex="0"
-											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '18', '100579296','', false)">
-										<i class="co-collapse"></i>
-									</button>
-									<input id="value-18" data-txt-qty type="text" 
-										    class="form-control" name="quantity-18" value="1"
-											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
-											aria-label = "Quantity to Add" 
-											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
-											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-18" type="button" 
-											class="btn" data-type="plus" data-field="" 
-											value="" tabindex="0"
-											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'18', '100579296','', true)">
-										<i class="co-expand"></i>
-									</button>
-								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-18">
-									<input type="hidden" id="minquantity-18"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-18"class="maxQuantity" name="maxQuantity" value="999" />
-									<input type="hidden" name="orderItemId-18" value="" id="orderItemId-18" />
-									<input type="hidden" name="quantity-18" value="1" id="quantity-18" />
-									
-									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-18" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'18', '100579296','')">Add</button>
-								</div>
-							</div>
-							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-18" style="display:none"></div>
-								<span class="span-error" id="errordiv-18" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-18" style="display:none"></span>
-							</div>		
-						</div>
-					</div>
-				</div>			
-			</form>
-		<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 2    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>
-	<!--  End of Button Section -->	
-	
-</div>
-
-<input type="hidden" id="isTwoDayItem_100579296" value="false" />
-
-<input type="hidden" id="in_Stock_100579296" value="2" />
-
-
-<input type="hidden" id="product_sku_100579296" value="" />
-<input type="hidden" id="product_name_100579296" value="HP 14" Laptop - 10th Gen Intel Core i5-1035G1 - 1080p" />
-
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
-						
-				</div>
-				
-				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100512527 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100512527 and productInventory.ffmcenterid = 50702 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
-
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/new-microsoft-surface-laptop-3---10th-gen-intel-core-i5---2256-x-1504-display---windows-10---black.product.100512527.html" item-index="19">
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/new-microsoft-surface-laptop-3---10th-gen-intel-core-i5---2256-x-1504-display---windows-10---black.product.100512527.html" item-index="21">
 	
 	<input type="hidden" id="grocerySection" value="false"/>
 
@@ -13386,11 +13860,9 @@ Backlit Keyboard</li>
 					
 					<div class="moi" style="display:none;">
 						
-								<div class="price" id="price-100512527" data-regionNav="DEFAULT">$899.99</div>
+								<div class="price" id="price-100512527" data-regionNav="DEFAULT">$1,199.99</div>
 								
 					</div>
-				
-					<p class="promo">$300 OFF</p>	
 						
 			 				
 				<p class="description">			
@@ -13504,7 +13976,7 @@ Backlit Keyboard</li>
 			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
 <input type="hidden" id="endIndex" name="resultCnt" value="23" />
 
-		<div class="addbutton" id="quickAdd-19" style="display:none">
+		<div class="addbutton" id="quickAdd-21" style="display:none">
 		
 		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
 		<input type="hidden" class="partNumb" name="partNumb" value="100512527" />
@@ -13535,19 +14007,16 @@ Backlit Keyboard</li>
 					<div class="clearfix visible-xs-block visible-sm-block visible-md-block" data-row-split></div>
 				 	<hr class="visible-xs-block visible-sm-block visible-md-block "> 
 				
-					<div class="clearfix visible-xl-block" data-row-split></div>
-					<hr class="visible-xl-block ">
-				
 				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100579402 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100579402 and productInventory.ffmcenterid = 50702 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100568605 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/hp-14%22-laptop---10th-gen-intel-core-i7-1065g7---1080p---microsoft-365-personal-(12-month)-bundle.product.100579402.html" item-index="20">
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/msi-ge75-raider-gaming-laptop---10th-gen-intel-core-i7-10750h---geforce-rtx-2060---1080p.product.100568605.html" item-index="22">
 	
 	<input type="hidden" id="grocerySection" value="false"/>
 
 	
 	<div class="omniture">
-		<div class="scProdId" sc.prodId="100579402"></div>
+		<div class="scProdId" sc.prodId="100568605"></div>
 	   	<div class="scMemberProductType" sc.memberProductType="member-only"></div>
 	</div>		
 	
@@ -13558,12 +14027,12 @@ Backlit Keyboard</li>
 </div>
 
 
-	<div class="thumbnail" itemid="100579402">	
+	<div class="thumbnail" itemid="100568605">	
 		<div class="product-img-holder link-behavior">
 			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
 				
 						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
-						 	data-src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1481793-847__1&recipeName=350" alt="HP 14&#034; Laptop - 10th Gen Intel Core i7-1065G7 - 1080p - Microsoft 365 Personal (12-Month) Bundle" title="HP 14&#034; Laptop - 10th Gen Intel Core i7-1065G7 - 1080p - Microsoft 365 Personal (12-Month) Bundle"
+						 	data-src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1420049-847__1&recipeName=350" alt="MSI GE75 Raider Gaming Laptop - 10th Gen Intel Core i7-10750H - GeForce RTX 2060 - 1080p" title="MSI GE75 Raider Gaming Laptop - 10th Gen Intel Core i7-10750H - GeForce RTX 2060 - 1080p"
 						 />
 					
 			</div>
@@ -13583,7 +14052,7 @@ Backlit Keyboard</li>
 					
 								<div class="row">
 									<div class="col-xs-12 menuicon-holder">
-										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/hp-14-laptop---10th-gen-intel-core-i7-1065g7---1080p---microsoft-365-personal-12-month-bundle.product.100579402.html"
+										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/msi-ge75-raider-gaming-laptop---10th-gen-intel-core-i7-10750h---geforce-rtx-2060---1080p.product.100568605.html"
 											style="float:right;">
 										</i>
 									</div>
@@ -13599,41 +14068,37 @@ Backlit Keyboard</li>
 					
 					<div class="moi" style="display:none;">
 						
-								<div class="price" id="price-100579402" data-regionNav="DEFAULT">$749.99</div>
+								<div class="price" id="price-100568605" data-regionNav="DEFAULT">$1,399.99</div>
 								
 					</div>
-				
-					<p class="promo">Microsoft 365 Personal Bundle (12-Month Subscription)</p>	
 						
 			 				
 				<p class="description">			
 					
-							<a href="https://www.costco.com/hp-14%22-laptop---10th-gen-intel-core-i7-1065g7---1080p---microsoft-365-personal-(12-month)-bundle.product.100579402.html">HP 14" Laptop - 10th Gen Intel Core i7-1065G7 - 1080p - Microsoft 365 Personal (12-Month) Bundle</a>
+							<a href="https://www.costco.com/msi-ge75-raider-gaming-laptop---10th-gen-intel-core-i7-10750h---geforce-rtx-2060---1080p.product.100568605.html">MSI GE75 Raider Gaming Laptop - 10th Gen Intel Core i7-10750H - GeForce RTX 2060 - 1080p</a>
 										
 				</p>
 				
 				
 					<ul class="product-features hidden-xs hidden-sm">
 						
-		                        <li>Includes Microsoft Office 365 Personal (12-Month Subscription)</li> 
+		                        <li>10th Gen Intel® Core™ i7-10750H Processor</li> 
 		                
-		                        <li> 10th Gen Intel® Core™ i7-1065G7 Processor at 1.3GHz</li> 
+		                        <li> 6GB NVIDIA GeForce® RTX 2060 Graphics</li> 
 		                
-		                        <li> Full-size Island-style Backlit Keyboard</li> 
+		                        <li> 17.3" FHD 144Hz 3ms Display</li> 
 		                
-		                        <li> 802.11 Wireless-AC WLAN + Bluetooth® 4.2</li> 
-		                
-		                        <li> 1x HDMI 1.4b</li> 
+		                        <li> Steel Series RGB Backlight Keyboard with Anti-Ghost Key + Silver Lining</li> 
 		                
 					</ul>	
 				
 		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
 	
 	<div class="col-xs-12" 
-			aria-label="Rated 4.3 out of 5 stars based on 222 reviews.">
+			aria-label="Rated 4.9 out of 5 stars based on 2464 reviews.">
 		
 		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,77.75639820098877px,20px,0);">
+			<ul class="stars overlay" style="clip: rect(0,87.43680381774902px,20px,0);">
 				<li>
 					<span class="fi-star"></span>
 				</li>
@@ -13668,17 +14133,17 @@ Backlit Keyboard</li>
 				</li>
 			</ul>
 		  	<span class="offscreen">
-		  		Rated 4.3 out of 5 stars based on 222 reviews. 
+		  		Rated 4.9 out of 5 stars based on 2464 reviews. 
         	</span>
          	<div class="ratings-number">
-            	(222)
+            	(2464)
           	</div>
 		</div>
 		
-			<meta itemprop="ratingValue" content="4.319799900054932"/>
-			<meta itemprop="reviewCount" content="222"/>
+			<meta itemprop="ratingValue" content="4.857600212097168"/>
+			<meta itemprop="reviewCount" content="2464"/>
 			<meta itemprop="bestRating" content="5"/>
-			<meta itemprop="itemReviewed" content="HP 14&#034; Laptop - 10th Gen Intel Core i7-1065G7 - 1080p - Microsoft 365 Personal (12-Month) Bundle"/>
+			<meta itemprop="itemReviewed" content="MSI GE75 Raider Gaming Laptop - 10th Gen Intel Core i7-10750H - GeForce RTX 2060 - 1080p"/>
 		
 	</div>
 </div>
@@ -13689,9 +14154,9 @@ Backlit Keyboard</li>
 	
 
 <div class="style-check compare-container">
-    <input id="compare_100579402" type="checkbox" name="compare-product" value="true" data-description=""  
-    	onclick="COSTCO.compareProducts.toggleItem('100579402','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1481793-847__1&recipeName=350', this)" />
-    <label for="compare_100579402" class="mar_top">
+    <input id="compare_100568605" type="checkbox" name="compare-product" value="true" data-description=""  
+    	onclick="COSTCO.compareProducts.toggleItem('100568605','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1420049-847__1&recipeName=350', this)" />
+    <label for="compare_100568605" class="mar_top">
     	<span>Compare Product</span>
     </label>
 </div>
@@ -13706,423 +14171,10 @@ Backlit Keyboard</li>
 	<input type="hidden" id="signInDetails" name="signInDetails" value="signin-details" />
 	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
 			
-		<input type="hidden" id="catalogType_100579402" 
-			name="catalogType_100579402" value="" />
+		<input type="hidden" id="catalogType_100568605" 
+			name="catalogType_100568605" value="" />
 	
-	<input type="hidden" class="partNumb" name="partNumb" value="100579402" />
-		
-	<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
-<input type="hidden" id="endIndex" name="resultCnt" value="23" />
-
-		<div class="addbutton" id="quickAdd-20" style="display:none">
-		
-		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
-		<input type="hidden" class="partNumb" name="partNumb" value="100579402" />
-		
-		<input type="hidden" name="buyable" value="true" /> 
-	
-	<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 2    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>
-	<!--  End of Button Section -->	
-	
-</div>
-
-<input type="hidden" id="isTwoDayItem_100579402" value="false" />
-
-<input type="hidden" id="in_Stock_100579402" value="2" />
-
-
-<input type="hidden" id="product_sku_100579402" value="" />
-<input type="hidden" id="product_name_100579402" value="HP 14" Laptop - 10th Gen Intel Core i7-1065G7 - 1080p - Microsoft 365 Personal (12-Month) Bundle" />
-
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
-						
-				</div>
-				
-					<div class="clearfix visible-lg-block" data-row-split></div>
-					<hr class="visible-lg-block ">
-				
-				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100567298 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100567298 and productInventory.ffmcenterid = 50702 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
-
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/lenovo-thinkpad-x1-yoga-2-in-1-touchscreen-laptop---10th-gen-intel-core-i7---1080p.product.100567298.html" item-index="21">
-	
-	<input type="hidden" id="grocerySection" value="false"/>
-
-	
-	<div class="omniture">
-		<div class="scProdId" sc.prodId="100567298"></div>
-	   	<div class="scMemberProductType" sc.memberProductType="member-only"></div>
-	</div>		
-	
-	
-
-<div class="pills-section">
-	
-</div>
-
-
-	<div class="thumbnail" itemid="100567298">	
-		<div class="product-img-holder link-behavior">
-			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-				
-						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
-						 	data-src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1418606-847__1&recipeName=350" alt="Lenovo ThinkPad X1 Yoga 2-in-1 Touchscreen Laptop - 10th Gen Intel Core i7 - 1080p" title="Lenovo ThinkPad X1 Yoga 2-in-1 Touchscreen Laptop - 10th Gen Intel Core i7 - 1080p"
-						 />
-					
-			</div>
-			
-			
-			
-		</div>
-		
-		
-		
-			
-			 
-		
-		<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">	
-			<div class="row custom_row">
-				<div class="col-xs-12 badge-class">
-					
-								<div class="row">
-									<div class="col-xs-12 menuicon-holder">
-										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/lenovo-thinkpad-x1-yoga-2-in-1-touchscreen-laptop---10th-gen-intel-core-i7---1080p.product.100567298.html"
-											style="float:right;">
-										</i>
-									</div>
-								</div>
-							
-				</div>
-			</div>
-			<div class="caption">
-			   
-				<p class="map-item hide">Sign In For Price</p>
-			   
-					<p class="member-only"><span class="co-c"></span>Member Only Item </p> 
-					
-					<div class="moi" style="display:none;">
-						
-								<div class="price" id="price-100567298" data-regionNav="DEFAULT">$1,499.99</div>
-								
-					</div>
-				
-					<p class="promo">$200 OFF</p>	
-						
-			 				
-				<p class="description">			
-					
-							<a href="https://www.costco.com/lenovo-thinkpad-x1-yoga-2-in-1-touchscreen-laptop---10th-gen-intel-core-i7---1080p.product.100567298.html">Lenovo ThinkPad X1 Yoga 2-in-1 Touchscreen Laptop - 10th Gen Intel Core i7 - 1080p</a>
-										
-				</p>
-				
-				
-					<ul class="product-features hidden-xs hidden-sm">
-						
-		                        <li>10th Gen Intel® Core™ i7-10510U Processor at 1.8GHz</li> 
-		                
-		                        <li>
-802.11 Wireless-AC 2x2 + Bluetooth® 5.0</li> 
-		                
-		                        <li>  
-Integrated Webcam with Privacy Shutter 720p</li> 
-		                
-		                        <li>  
-Backlit Keyboard with Fingerprint Reader</li> 
-		                
-					</ul>	
-				
-		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
-	
-	<div class="col-xs-12" 
-			aria-label="Rated 5 out of 5 stars based on 1 reviews.">
-		
-		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,90.0px,20px,0);">
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-			</ul>
-			<ul class="stars underlay">
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-			</ul>
-		  	<span class="offscreen">
-		  		Rated 5 out of 5 stars based on 1 reviews. 
-        	</span>
-         	<div class="ratings-number">
-            	(1)
-          	</div>
-		</div>
-		
-			<meta itemprop="ratingValue" content="5.0"/>
-			<meta itemprop="reviewCount" content="1"/>
-			<meta itemprop="bestRating" content="5"/>
-			<meta itemprop="itemReviewed" content="Lenovo ThinkPad X1 Yoga 2-in-1 Touchscreen Laptop - 10th Gen Intel Core i7 - 1080p"/>
-		
-	</div>
-</div>
-
-			</div>
-		</div>
-	</div>
-	
-
-<div class="style-check compare-container">
-    <input id="compare_100567298" type="checkbox" name="compare-product" value="true" data-description=""  
-    	onclick="COSTCO.compareProducts.toggleItem('100567298','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1418606-847__1&recipeName=350', this)" />
-    <label for="compare_100567298" class="mar_top">
-    	<span>Compare Product</span>
-    </label>
-</div>
-
-	<input type="hidden" id="tobaccoProd" value="" />
-	<input type="hidden" id="ebbProd" value="" />
-	<input type="hidden" id="deptNumber" value="" />
-	
-	<input type="hidden" id="tobaccoInState" value="false" />
-	
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="signInDetails" name="signInDetails" value="signin-details" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
-			
-		<input type="hidden" id="catalogType_100567298" 
-			name="catalogType_100567298" value="" />
-	
-	<input type="hidden" class="partNumb" name="partNumb" value="100567298" />
-		
-	<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="0" />
-<input type="hidden" id="endIndex" name="resultCnt" value="23" />
-
-		<div class="addbutton" id="quickAdd-21" style="display:none">
-		
-		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
-		<input type="hidden" class="partNumb" name="partNumb" value="100567298" />
-		
-		<input type="hidden" name="buyable" value="true" /> 
-	
-	<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 2    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>
-	<!--  End of Button Section -->	
-	
-</div>
-
-<input type="hidden" id="isTwoDayItem_100567298" value="false" />
-
-<input type="hidden" id="in_Stock_100567298" value="2" />
-
-
-<input type="hidden" id="product_sku_100567298" value="" />
-<input type="hidden" id="product_name_100567298" value="Lenovo ThinkPad X1 Yoga 2-in-1 Touchscreen Laptop - 10th Gen Intel Core i7 - 1080p" />
-
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
-						
-				</div>
-				
-					<div class="clearfix visible-xs-block visible-sm-block visible-md-block" data-row-split></div>
-				 	<hr class="visible-xs-block visible-sm-block visible-md-block "> 
-				
-				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100512562 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100512562 and productInventory.ffmcenterid = 50702 --><!-- InStock = 0 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
-
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/new-microsoft-surface-pro-7-bundle---10th-gen-intel-core-i5---2736-x-1824-display---windows-10---black.product.100512562.html" item-index="22">
-	
-	<input type="hidden" id="grocerySection" value="false"/>
-
-	
-	<div class="omniture">
-		<div class="scProdId" sc.prodId="100512562"></div>
-	   	<div class="scMemberProductType" sc.memberProductType="member-only"></div>
-	</div>		
-	
-	
-
-<div class="pills-section">
-	
-</div>
-
-
-	<div class="thumbnail" itemid="100512562">	
-		<div class="product-img-holder link-behavior">
-			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-				
-						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
-						 	data-src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1373995-847__1&recipeName=350" alt="New Microsoft Surface Pro 7 Bundle - 10th Gen Intel Core i5 - 2736 x 1824 Display - Windows 10 - Black" title="New Microsoft Surface Pro 7 Bundle - 10th Gen Intel Core i5 - 2736 x 1824 Display - Windows 10 - Black"
-						 />
-					
-						<img class="product-out-stock-overlay" src="/wcsstore/CostcoGLOBALSAS/images/OOS-overlay-en.png" alt="Out of Stock" title="Out of Stock"/>
-					
-			</div>
-			
-			
-			
-		</div>
-		
-		
-		
-			
-			 
-		
-		<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">	
-			<div class="row custom_row">
-				<div class="col-xs-12 badge-class">
-					
-				</div>
-			</div>
-			<div class="caption">
-			   
-				<p class="map-item hide">Sign In For Price</p>
-			   
-					<p class="member-only"><span class="co-c"></span>Member Only Item </p> 
-					
-					<div class="moi" style="display:none;">
-						
-								<div class="price" id="price-100512562" data-regionNav="DEFAULT">$949.99</div>
-								
-					</div>
-				
-					<p class="promo">$350 OFF</p>	
-						
-			 				
-				<p class="description">			
-					
-							<a href="https://www.costco.com/new-microsoft-surface-pro-7-bundle---10th-gen-intel-core-i5---2736-x-1824-display---windows-10---black.product.100512562.html">New Microsoft Surface Pro 7 Bundle - 10th Gen Intel Core i5 - 2736 x 1824 Display - Windows 10 - Black</a>
-										
-				</p>
-				
-				
-					<ul class="product-features hidden-xs hidden-sm">
-						
-		                        <li>10th Gen Intel Core i5 Processor</li> 
-		                
-		                        <li>Intel Iris Plus Graphics</li> 
-		                
-		                        <li>Intel® Wi-Fi 6 (2x2/160) Gig+</li> 
-		                
-		                        <li>1x Type-C Port</li> 
-		                
-					</ul>	
-				
-		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
-	
-	<div class="col-xs-12" 
-			aria-label="Rated 4.6 out of 5 stars based on 228 reviews.">
-		
-		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,83.05199718475342px,20px,0);">
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-				<li>
-					<span class="fi-star"></span>
-				</li>
-			</ul>
-			<ul class="stars underlay">
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-				<li>
-					<span class="fi-star back-star"></span>
-				</li>
-			</ul>
-		  	<span class="offscreen">
-		  		Rated 4.6 out of 5 stars based on 228 reviews. 
-        	</span>
-         	<div class="ratings-number">
-            	(228)
-          	</div>
-		</div>
-		
-			<meta itemprop="ratingValue" content="4.613999843597412"/>
-			<meta itemprop="reviewCount" content="228"/>
-			<meta itemprop="bestRating" content="5"/>
-			<meta itemprop="itemReviewed" content="New Microsoft Surface Pro 7 Bundle - 10th Gen Intel Core i5 - 2736 x 1824 Display - Windows 10 - Black"/>
-		
-	</div>
-</div>
-
-			</div>
-		</div>
-	</div>
-	
-
-<div class="style-check compare-container">
-    <input id="compare_100512562" type="checkbox" name="compare-product" value="true" data-description=""  
-    	onclick="COSTCO.compareProducts.toggleItem('100512562','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1373995-847__1&recipeName=350', this)" />
-    <label for="compare_100512562" class="mar_top">
-    	<span>Compare Product</span>
-    </label>
-</div>
-
-	<input type="hidden" id="tobaccoProd" value="" />
-	<input type="hidden" id="ebbProd" value="" />
-	<input type="hidden" id="deptNumber" value="" />
-	
-	<input type="hidden" id="tobaccoInState" value="false" />
-	
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="signInDetails" name="signInDetails" value="signin-details" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="0" />
-			
-		<input type="hidden" id="catalogType_100512562" 
-			name="catalogType_100512562" value="" />
-	
-	<input type="hidden" class="partNumb" name="partNumb" value="100512562" />
+	<input type="hidden" class="partNumb" name="partNumb" value="100568605" />
 		
 	<!--  Button Section -->
 	<div class="buttonSection hide" id="btnas">
@@ -14133,23 +14185,11 @@ Backlit Keyboard with Fingerprint Reader</li>
 		<div class="addbutton" id="quickAdd-22" style="display:none">
 		
 		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
-		<input type="hidden" class="partNumb" name="partNumb" value="100512562" />
+		<input type="hidden" class="partNumb" name="partNumb" value="100568605" />
 		
 		<input type="hidden" name="buyable" value="true" /> 
 	
-	<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 0    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->   
-	<div class="row">
-		<div class="col-xs-12">
-			<div class="product-quick-buy">
-				<div class="product-quick-buy-inner">	
-					<div class="product-quick-buy-btn btn-out-stock-holder" style="margin:0">
-						<button class="btn btn-primary btn-block primary-slim disabled" tabindex="0" disabled>Out of Stock</button>
-					</div>
-				</div>	
-			</div>
-		</div>
-	</div>
-
+	<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 2    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->
 </div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
 		</div>
 		
@@ -14158,28 +14198,28 @@ Backlit Keyboard with Fingerprint Reader</li>
 	
 </div>
 
-<input type="hidden" id="isTwoDayItem_100512562" value="false" />
+<input type="hidden" id="isTwoDayItem_100568605" value="false" />
 
-<input type="hidden" id="in_Stock_100512562" value="0" />
+<input type="hidden" id="in_Stock_100568605" value="2" />
 
 
-<input type="hidden" id="product_sku_100512562" value="" />
-<input type="hidden" id="product_name_100512562" value="New Microsoft Surface Pro 7 Bundle - 10th Gen Intel Core i5 - 2736 x 1824 Display - Windows 10 - Black" />
+<input type="hidden" id="product_sku_100568605" value="" />
+<input type="hidden" id="product_name_100568605" value="MSI GE75 Raider Gaming Laptop - 10th Gen Intel Core i7-10750H - GeForce RTX 2060 - 1080p" />
 
 <!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
 						
 				</div>
 				
 				<div class="col-xs-6 col-lg-3 product">	
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100512499 and productInventory.ffmcenterid = 10151 --><!-- PartNumberBC = 100512499 and productInventory.ffmcenterid = 50702 --><!-- InStock = 0 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId = 50702 and userData.programTypes = ["Google","Standard"] -->
+			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf --><!-- PartNumberBC = 100571731 and productInventory.ffmcenterid = 10151 --><!-- InStock = 2 and ProductSKU =  and IsPurchasable = 1 and depotCatalogEnableFlag = true --><!-- standardData.ffmCenterId = 10151 and twoDayData.ffmCenterId =  and userData.programTypes = ["Google","Standard"] -->
 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/new-microsoft-surface-pro-7-bundle---10th-gen-intel-core-i5---12.3%22-touchscreen---ice-blue.product.100512499.html" item-index="23">
+<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/hp-envy-x360-15.6%22-touchscreen-2-in-1-laptop---amd-ryzen-5-4500u---1080p.product.100571731.html" item-index="23">
 	
 	<input type="hidden" id="grocerySection" value="false"/>
 
 	
 	<div class="omniture">
-		<div class="scProdId" sc.prodId="100512499"></div>
+		<div class="scProdId" sc.prodId="100571731"></div>
 	   	<div class="scMemberProductType" sc.memberProductType="member-only"></div>
 	</div>		
 	
@@ -14190,15 +14230,13 @@ Backlit Keyboard with Fingerprint Reader</li>
 </div>
 
 
-	<div class="thumbnail" itemid="100512499">	
+	<div class="thumbnail" itemid="100571731">	
 		<div class="product-img-holder link-behavior">
 			<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
 				
 						<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'"
-						 	data-src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1373998-847__1&recipeName=350" alt="New Microsoft Surface Pro 7 Bundle - 10th Gen Intel Core i5 - 12.3&#034; Touchscreen - Ice Blue" title="New Microsoft Surface Pro 7 Bundle - 10th Gen Intel Core i5 - 12.3&#034; Touchscreen - Ice Blue"
+						 	data-src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1423738-847__1&recipeName=350" alt="HP Envy x360 15.6&#034; Touchscreen 2-in-1 Laptop - AMD Ryzen 5 4500U - 1080p" title="HP Envy x360 15.6&#034; Touchscreen 2-in-1 Laptop - AMD Ryzen 5 4500U - 1080p"
 						 />
-					
-						<img class="product-out-stock-overlay" src="/wcsstore/CostcoGLOBALSAS/images/OOS-overlay-en.png" alt="Out of Stock" title="Out of Stock"/>
 					
 			</div>
 			
@@ -14215,6 +14253,14 @@ Backlit Keyboard with Fingerprint Reader</li>
 			<div class="row custom_row">
 				<div class="col-xs-12 badge-class">
 					
+								<div class="row">
+									<div class="col-xs-12 menuicon-holder">
+										<i tabindex="0" class="co-lists menuicon-image" aria-haspopup="true" aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/hp-envy-x360-15.6-touchscreen-2-in-1-laptop---amd-ryzen-5-4500u---1080p.product.100571731.html"
+											style="float:right;">
+										</i>
+									</div>
+								</div>
+							
 				</div>
 			</div>
 			<div class="caption">
@@ -14225,39 +14271,39 @@ Backlit Keyboard with Fingerprint Reader</li>
 					
 					<div class="moi" style="display:none;">
 						
-								<div class="price" id="price-100512499" data-regionNav="DEFAULT">$949.99</div>
+								<div class="price" id="price-100571731" data-regionNav="DEFAULT">$799.99</div>
 								
 					</div>
-				
-					<p class="promo">$350 OFF</p>	
 						
 			 				
 				<p class="description">			
 					
-							<a href="https://www.costco.com/new-microsoft-surface-pro-7-bundle---10th-gen-intel-core-i5---12.3%22-touchscreen---ice-blue.product.100512499.html">New Microsoft Surface Pro 7 Bundle - 10th Gen Intel Core i5 - 12.3" Touchscreen - Ice Blue</a>
+							<a href="https://www.costco.com/hp-envy-x360-15.6%22-touchscreen-2-in-1-laptop---amd-ryzen-5-4500u---1080p.product.100571731.html">HP Envy x360 15.6" Touchscreen 2-in-1 Laptop - AMD Ryzen 5 4500U - 1080p</a>
 										
 				</p>
 				
 				
 					<ul class="product-features hidden-xs hidden-sm">
 						
-		                        <li>10th Gen Intel® Core™ i5 Processor</li> 
+		                        <li>AMD Ryzen™ 5 4500U Processor at 2.375 GHz</li> 
 		                
-		                        <li> Intel® Iris™ Plus Graphics</li> 
+		                        <li> Intel Wi-Fi 6 (2x2) + Bluetooth® 5.0</li> 
 		                
-		                        <li> Intel® Wi-Fi 6 (2x2/160) Gig+</li> 
+		                        <li> Full-sized Island-style Backlit Keyboard with Numeric Keypad</li> 
 		                
-		                        <li> 1x Type-C Port</li> 
+		                        <li> Fingerprint Reader</li> 
+		                
+		                        <li> 1x HDMI</li> 
 		                
 					</ul>	
 				
 		<div class="ratings row" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
 	
 	<div class="col-xs-12" 
-			aria-label="Rated 4.4 out of 5 stars based on 160 reviews.">
+			aria-label="Rated 4 out of 5 stars based on 185 reviews.">
 		
 		<div class="stars">
-			<ul class="stars overlay" style="clip: rect(0,78.41339778900146px,20px,0);">
+			<ul class="stars overlay" style="clip: rect(0,72.48599910736084px,20px,0);">
 				<li>
 					<span class="fi-star"></span>
 				</li>
@@ -14292,17 +14338,17 @@ Backlit Keyboard with Fingerprint Reader</li>
 				</li>
 			</ul>
 		  	<span class="offscreen">
-		  		Rated 4.4 out of 5 stars based on 160 reviews. 
+		  		Rated 4 out of 5 stars based on 185 reviews. 
         	</span>
          	<div class="ratings-number">
-            	(160)
+            	(185)
           	</div>
 		</div>
 		
-			<meta itemprop="ratingValue" content="4.356299877166748"/>
-			<meta itemprop="reviewCount" content="160"/>
+			<meta itemprop="ratingValue" content="4.0269999504089355"/>
+			<meta itemprop="reviewCount" content="185"/>
 			<meta itemprop="bestRating" content="5"/>
-			<meta itemprop="itemReviewed" content="New Microsoft Surface Pro 7 Bundle - 10th Gen Intel Core i5 - 12.3&#034; Touchscreen - Ice Blue"/>
+			<meta itemprop="itemReviewed" content="HP Envy x360 15.6&#034; Touchscreen 2-in-1 Laptop - AMD Ryzen 5 4500U - 1080p"/>
 		
 	</div>
 </div>
@@ -14313,9 +14359,9 @@ Backlit Keyboard with Fingerprint Reader</li>
 	
 
 <div class="style-check compare-container">
-    <input id="compare_100512499" type="checkbox" name="compare-product" value="true" data-description=""  
-    	onclick="COSTCO.compareProducts.toggleItem('100512499','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1373998-847__1&recipeName=350', this)" />
-    <label for="compare_100512499" class="mar_top">
+    <input id="compare_100571731" type="checkbox" name="compare-product" value="true" data-description=""  
+    	onclick="COSTCO.compareProducts.toggleItem('100571731','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1423738-847__1&recipeName=350', this)" />
+    <label for="compare_100571731" class="mar_top">
     	<span>Compare Product</span>
     </label>
 </div>
@@ -14328,12 +14374,12 @@ Backlit Keyboard with Fingerprint Reader</li>
 	
 	<input type="hidden" id="add_Button" name="add_Button" value="true" />
 	<input type="hidden" id="signInDetails" name="signInDetails" value="signin-details" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="0" />
+	<input type="hidden" id="in_Stock" name="in_Stock" value="2" />
 			
-		<input type="hidden" id="catalogType_100512499" 
-			name="catalogType_100512499" value="" />
+		<input type="hidden" id="catalogType_100571731" 
+			name="catalogType_100571731" value="" />
 	
-	<input type="hidden" class="partNumb" name="partNumb" value="100512499" />
+	<input type="hidden" class="partNumb" name="partNumb" value="100571731" />
 		
 	<!--  Button Section -->
 	<div class="buttonSection hide" id="btnas">
@@ -14344,23 +14390,11 @@ Backlit Keyboard with Fingerprint Reader</li>
 		<div class="addbutton" id="quickAdd-23" style="display:none">
 		
 		<input type="hidden" class="itemNumber" name="itemNumber" value="" />
-		<input type="hidden" class="partNumb" name="partNumb" value="100512499" />
+		<input type="hidden" class="partNumb" name="partNumb" value="100571731" />
 		
 		<input type="hidden" name="buyable" value="true" /> 
 	
-	<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 0    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->   
-	<div class="row">
-		<div class="col-xs-12">
-			<div class="product-quick-buy">
-				<div class="product-quick-buy-inner">	
-					<div class="product-quick-buy-btn btn-out-stock-holder" style="margin:0">
-						<button class="btn btn-primary btn-block primary-slim disabled" tabindex="0" disabled>Out of Stock</button>
-					</div>
-				</div>	
-			</div>
-		</div>
-	</div>
-
+	<!-- dataSource: SEARCH_ENGINE    --><!-- inStock: 2    --><!-- productTileBean.inStock     --><!-- productTileBean.costcoEntitledItems     -->
 </div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
 		</div>
 		
@@ -14369,13 +14403,13 @@ Backlit Keyboard with Fingerprint Reader</li>
 	
 </div>
 
-<input type="hidden" id="isTwoDayItem_100512499" value="false" />
+<input type="hidden" id="isTwoDayItem_100571731" value="false" />
 
-<input type="hidden" id="in_Stock_100512499" value="0" />
+<input type="hidden" id="in_Stock_100571731" value="2" />
 
 
-<input type="hidden" id="product_sku_100512499" value="" />
-<input type="hidden" id="product_name_100512499" value="New Microsoft Surface Pro 7 Bundle - 10th Gen Intel Core i5 - 12.3" Touchscreen - Ice Blue" />
+<input type="hidden" id="product_sku_100571731" value="" />
+<input type="hidden" id="product_name_100571731" value="HP Envy x360 15.6" Touchscreen 2-in-1 Laptop - AMD Ryzen 5 4500U - 1080p" />
 
 <!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTileSearchResults.jspf -->
 						
@@ -14507,7 +14541,7 @@ Backlit Keyboard with Fingerprint Reader</li>
 			function loadCriteo() {
 				var eventSpecificParams = {
 					event : 'viewCategory',
-					item : [100568245,100571102,100511758,100517984,100511864,100579348,100568642,100579386,100567300,100579292,100512520,100681899,100567028,100579444,100512042,100579449,100568605,100536334,100579296,100512527,100579402,100567298,100512562,100512499],
+					item : [100579367,100511826,100511758,100579343,100571102,100511864,100517984,100579348,100568245,100568642,100579386,100512042,100579393,100575638,100511587,100579296,100681899,100579402,100579292,100579444,100512541,100512527,100568605,100571731],
 					pageId : COSTCO.util.isMobile() ? 'viewMerch_M' : 'viewMerch',
 					pageNumber : '',
 					keywords : '',
@@ -15841,5 +15875,5 @@ $('#Home_Ancillary_3').parent().hide()
   </div>
 </div>
 	<input type="hidden" id="depotCatalogEnableFlag" value="true" />
-  <noscript><img src="https://www.costco.com/akam/11/pixel_6883cab5?a=dD00Nzc2ZWZjZDdhNjg0MThiZTA2NDc4ODAzNGRkNzFjNDZmNzlkYTJjJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript></body>
+  <noscript><img src="https://www.costco.com/akam/11/pixel_558f19c0?a=dD0yZmYzNTllNGUzN2UwNDEyMzVjYWE4MzAyZmFkZGRiY2IxNTQzMWRiJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript></body>
 </html>
