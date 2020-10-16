@@ -1,4 +1,3 @@
-print("hello World")
 import requests
 
 HEADERS = {'user-agent': ('Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0')}
@@ -14,7 +13,7 @@ elif http.status_code == 404:
 else:
     print("didnt work at all")
 
-file_object = open("computer_List.md","w+")
+file_object = open("new_LaptopList2.md","w+")
 file_object.write(http.text)
 file_object.close
 print('done')

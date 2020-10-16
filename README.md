@@ -26,3 +26,11 @@ Day 4:
 - solidify excell recording list pattern
     want name(x), link(x), price + date(y) 
 - need a initial program that checks if excel page exists?
+
+
+Day 20:
+- Major swap by introducing ItemData class to have a specific type of object for the data storage
+- Great idea 1: able to handle product catagories with more than one page of product, which instead of loading page 1, then page 2, then page 3
+               the code could automatically handle next page without user posting the link of page 2
+- Great idea 2: add spec for products (Q: does all products have specs?) (this is applicable for computers/PC)
+- New Goal: GUI

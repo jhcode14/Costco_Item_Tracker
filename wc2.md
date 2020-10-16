@@ -6,45 +6,68 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <title>
-    	Welcome to Costco Wholesale
-    </title>
-    <!-- START HomeSeoMetaData.jsp -->
+    <!-- START SeoMetaData.jsp -->
 <meta http-equiv="content-language" content="en-us"/>
 <meta name="currentBuildNumber" content="3.0.41936.0" />
 <meta name="currentSolrBuildNumber" content="3.0.33624.0" />
 <meta name="ServerName" content="www.costco.com " />
-<meta name="LocalAddress" content="xxx.xxx.xxx.84" />
-<meta name="LocalName" content="TP33" />
+<meta name="LocalAddress" content="xxx.xxx.xxx.90" />
+<meta name="LocalName" content="TP39" />
 
 <meta name="google-site-verification" content="" />
 
-<meta name="apple-itunes-app" content="app-id=535509415">
 
-<link rel="canonical" href="http://www.costco.com" />
 <link rel="icon"  type="image/vnd.microsoft.icon" href="/wcsstore/CostcoGLOBALSAS/images/favicon.ico" type="image/x-icon"> 
 <link rel="shortcut icon"  type="image/vnd.microsoft.icon" href="/wcsstore/CostcoGLOBALSAS/images/favicon.ico" type="image/x-icon">
 
+<!-- END SeoMetaData.jsp --><!-- START SeoMetaData.jsp -->
+<meta http-equiv="content-language" content="en-us"/>
+<meta name="currentBuildNumber" content="3.0.41936.0" />
+<meta name="currentSolrBuildNumber" content="3.0.33624.0" />
+<meta name="ServerName" content="www.costco.com " />
+<meta name="LocalAddress" content="xxx.xxx.xxx.90" />
+<meta name="LocalName" content="TP39" />
 
-		<meta name="description" content="Shop Costco.com for electronics, computers, furniture, outdoor living, appliances, jewelry and more. Enjoy low warehouse prices on name-brands products delivered to your door. "/>
+<meta name="google-site-verification" content="" />
+
+
+<link rel="icon"  type="image/vnd.microsoft.icon" href="/wcsstore/CostcoGLOBALSAS/images/favicon.ico" type="image/x-icon"> 
+<link rel="shortcut icon"  type="image/vnd.microsoft.icon" href="/wcsstore/CostcoGLOBALSAS/images/favicon.ico" type="image/x-icon">
+
+<!-- END SeoMetaData.jsp -->
+
+<meta name="description" content="LG 27&#034; Class FHD IPS FreeSync Monitor 1920 x 1080 Resolution 
+75Hz Refresh Rate 
+5ms Response Time 
+Radeon FreeSync™ Technology
+HDMI Cable Included"/>
+
+
+		<link rel="canonical" href="https://www.costco.com/lg-27%22-class-fhd-ips-freesync-monitor.product.100662272.html" />
 	
-	<meta name="keyword" content="USBC, , Holiday &amp; Seasonal, Appliances , Baby, Beauty, Clothing, Luggage &amp; Handbags, Computers, Electronics, Floral &amp; Gift Baskets, Furniture, Gift Cards &amp; Tickets, Gourmet Foods, Grocery, Household Essentials &amp; Pet, Health &amp; Personal Care, Home Improvement, Home &amp; Installation Services, Home &amp; Kitchen, Jewelry, Watches &amp; Sunglasses, Mattresses, Office Products, Patio, Lawn &amp; Garden, Sports &amp; Fitness, Tires &amp; Auto, Toys &amp; Books, View More Categories, Landing Pages, Shop Costco.com for electronics, computers, furniture, outdoor living, appliances, jewelry and more. Enjoy low warehouse prices on name-brands products delivered to your door. "/> 
-	     
+<meta property="og:url" content="https://www.costco.com/lg-27%22-class-fhd-ips-freesync-monitor.product.100662272.html"/>
+<meta property="og:type" content="product"/>
+<meta property="og:title" content="LG 27&#034; Class FHD IPS FreeSync Monitor"/>
+<meta property="og:site_name" content="Costco Wholesale" />
+<meta property="og:description" content="LG 27&#034; Class FHD IPS FreeSync Monitor"/>
+<meta property="og:image" content="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&amp;imageId=1453175-847__1&amp;recipeName=350"/>
+
+
+	<meta property="product:price:amount" content="149.99" />
+	<meta property="product:price:currency" content="USD" />
 	
-		<script type="application/ld+json">
-		{
-   			"@context": "http://schema.org",
-   			"@type": "WebSite",
-   			"url": "http://www.costco.com",
-   			"potentialAction": {
-     			"@type": "SearchAction",
-     			"target": "http://www.costco.com/CatalogSearch?dept=All&keyword={search_term_string}",
-     			"query-input": "required name=search_term_string"
-   			}
-		}
-		</script>
-	  <!-- END HomeSeoMetaData.jsp --><!--[if lt IE 9]>
+	<meta property="og:availability" content="instock" />
+
+<meta name="twitter:card" content="summary_large_image">
+
+		<meta name="twitter:site" content="@Costco">
+	
+<meta name="twitter:title" content="LG 27&#034; Class FHD IPS FreeSync Monitor">
+<meta name="twitter:description" content="Buy now">					
+<meta name="twitter:image" content="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&amp;imageId=1453175-847__1&amp;recipeName=350">
+
+
+<title>LG 27" Class FHD IPS FreeSync Monitor</title><!--[if lt IE 9]>
       <script src="/wcsstore/RWDStaticAssets/js/polyfill/html5shiv.min.js"></script>
       <script src="/wcsstore/RWDStaticAssets/js/polyfill/respond.min.js"></script>
       <script src="/wcsstore/RWDStaticAssets/js/polyfill/ie8polyfills.js"></script>
@@ -91,7 +114,7 @@
 	
   
   <script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false"}]);</script>
-  <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="3C8QM-XUE3B-96T5C-HYEN8-AAN34",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"3C8QM-XUE3B-96T5C-HYEN8-AAN34",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="rlsyowlacczpcx2asyoq-f-401369970-clientnsv4-s.akamaihd.net",i={"ak.v":"28","ak.cp":"155150","ak.ai":parseInt("192072",10),"ak.ol":"0","ak.cr":27,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"16a8ef77","ak.r":27421,"ak.a2":e,"ak.m":"a","ak.n":"essl","ak.bpcip":"138.229.135.0","ak.cport":43478,"ak.gh":"204.237.175.180","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1598068253","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==GfaZUGmtclm6Tt3FgReg7N0cywZ5eLnCIwIKqR75Pg/rVvWqtprRGGNtL0w13JHaAmRnsZ6OrNfuInqSRJKj5vcP8kk2KqtauAMyJyBbPFAfjj/VyyjlGiwUgLeFnISZQMARvLX85/PreSJ4HLrParVG2uImTGfb++CnkuJTJFRntdVDIlyurWawSfIX5tCDf7WT8XRud0lhhH5DNDZoQgPa4e4MhTK8jeZiB47AQ2VfD0+sVaCAOzNmLNaIhdHA021iJU5mQAEqgFT8uLdj0yU3+EU3Qad6UHlZcXZPqsNqZburu92V3QVvt6DaAMSODl/h+kbXd/PLrFFbNncGOJL2qLQv8+bDk4lJeWSmwPhBjjDjqZVk/hhryF71Nnmrd8Arc7HYQSFGvpTKnSvKnsH/1+By5oIHFoG0T86QO6Q=","ak.pv":"237","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var _={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!_.i){var a=BOOMR.subscribe;a("before_beacon",_.av,null,null),a("onbeacon",_.rv,null,null),_.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><script>bazadebezolkohpepadr="1753467014"</script><script type="text/javascript" src="https://www.costco.com/akam/11/6883cba1" defer></script></head>
+  <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="3C8QM-XUE3B-96T5C-HYEN8-AAN34",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"3C8QM-XUE3B-96T5C-HYEN8-AAN34",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="rlsyowixic5tsx2jnsbq-f-625dd5c23-clientnsv4-s.akamaihd.net",i={"ak.v":"28","ak.cp":"543943","ak.ai":parseInt("192072",10),"ak.ol":"0","ak.cr":19,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"1ff75bf","ak.r":34194,"ak.a2":e,"ak.m":"a","ak.n":"essl","ak.bpcip":"138.229.135.0","ak.cport":36236,"ak.gh":"23.36.15.134","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1598647427","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==lyf6cNNQ//BOmb/fCMmafWTpi4IyHQMs59QJPvo9hpTXUCtYXUpAX8p9PDC4++/A/eA359JkXccTdBqnABcyBZz4tIO3gt9bnwK6ULXMN2JRQ13kqgZ0Z9B4eqsHR9zeie+QDXVTCwhGZx7bngNIy8ckFM245BmZXPe4Ik10T1Df87La+g+xQZ5XloVawW+Zae1SvsUiVHeZu+dSLHWUkoFBK9Iwh5VT4q/lj7WSGik6JgMRdBRGpNeKGwz42ZSMj7FMYs5v/hawO2Ydux780IfqQBhZ4+en6huTChx1Vah+xsSFMa0g2yR7+bl8Ke4FxFaHmbSDwtES66jR6PpEz6ONfKo8nDs0q/M3IJLDYD/QgTV1O+avTluM4kMYB4UtRT/uoVDXEh/Do8ruKpbf3nDxr2rE5BxZcEMRqw/s/xg=","ak.pv":"237","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var _={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!_.i){var a=BOOMR.subscribe;a("before_beacon",_.av,null,null),a("onbeacon",_.rv,null,null),_.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><script>bazadebezolkohpepadr="1753467014"</script><script type="text/javascript" src="https://www.costco.com/akam/11/6883cab5" defer></script></head>
   <body class="en">
   	<!-- Header --><!-- START Header.jsp --><!-- START Cache Header.jsp -->
 
@@ -1345,9 +1368,12 @@ var countries = [
     var plc432992 = window.plc432992 || 0;
     AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432992, [0,0], 'placement_432992_'+opt.place, opt); }, opt: { place: plc432992++, keywords: abkw, domain: 'adbutler.costco.com', click:'CLICK_MACRO_PLACEHOLDER' }});
     AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432992, [0,0], 'placement_432992_'+opt.place, opt); }, opt: { place: plc432992++, keywords: abkw, domain: 'adbutler.costco.com', click:'CLICK_MACRO_PLACEHOLDER' }});
+    AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432992, [0,0], 'placement_432992_'+opt.place, opt); }, opt: { place: plc432992++, keywords: abkw, domain: 'adbutler.costco.com', click:'CLICK_MACRO_PLACEHOLDER' }});
 
     /* Homepage Large Half Banners [async] - 432993 */
 var plc432993 = window.plc432993 || 0;
+AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432993, [0,0], 'placement_432993_'+opt.place, opt); }, opt: { place: plc432993++, keywords: abkw, domain: 'adbutler.costco.com', click:'CLICK_MACRO_PLACEHOLDER' }});
+AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432993, [0,0], 'placement_432993_'+opt.place, opt); }, opt: { place: plc432993++, keywords: abkw, domain: 'adbutler.costco.com', click:'CLICK_MACRO_PLACEHOLDER' }});
 AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432993, [0,0], 'placement_432993_'+opt.place, opt); }, opt: { place: plc432993++, keywords: abkw, domain: 'adbutler.costco.com', click:'CLICK_MACRO_PLACEHOLDER' }});
 AdButler.ads.push({handler: function(opt){ AdButler.register(178157, 432993, [0,0], 'placement_432993_'+opt.place, opt); }, opt: { place: plc432993++, keywords: abkw, domain: 'adbutler.costco.com', click:'CLICK_MACRO_PLACEHOLDER' }});
 
@@ -2412,7 +2438,7 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 </script><!-- END Cache Header.jsp --><!-- END Header.jsp -->
     	<script src="/wcsstore/RWDStaticAssets/js/built/global.module.min.js?v=30419360" type="text/javascript" async defer></script>
     
-    	<script src="/wcsstore/RWDStaticAssets/js/built/browse.module.min.js?v=30419360" type="text/javascript" async defer></script>
+    	<script src="/wcsstore/RWDStaticAssets/js/built/product.module.min.js?v=30419360" type="text/javascript" async defer></script>
     
     	<script src="/wcsstore/RWDStaticAssets/js/built/rrvndr.module.min.js?v=30419360" type="text/javascript" async defer></script>
     
@@ -2420,7 +2446,7 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
     
     	<script src="/wcsstore/RWDStaticAssets/js/built/cot.module.min.js?v=30419360" type="text/javascript" async defer></script>
     
-    	<script src="/wcsstore/RWDStaticAssets/js/built/smartbanner.module.min.js?v=30419360" type="text/javascript" async defer></script>
+    	<script src="/wcsstore/RWDStaticAssets/js/built/backinstockhelper.module.min.js?v=30419360" type="text/javascript" async defer></script>
     <!-- Preload Minibanner? --><script id='tmpl_change_delivery_zipcode' type="html/template">
 	<div>
 		<p id="msg"><&=messageTxt&></p>
@@ -3980,7 +4006,7 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 </div>
 </script>
 <!-- Navigation --><!-- START Navigation_v2.jsp --><!--  To debug the @top - Rest API URL
-      search url :  search/resources/store/10301/categoryview/@top?profileName=X_findSubCategories&depthAndLimit=-1%2C-1%2C-1&catalogId=10701&contractId=4000000000000001002&contractId=60515&contractIds=4000000000000001002%3B60515&currency=&responseFormat=json&langId=-1
+      search url :  search/resources/store/10301/categoryview/@top?profileName=X_findSubCategories&depthAndLimit=-1%2C-1%2C-1&catalogId=10701&contractId=4000000000000001002&contractIds=4000000000000001002&currency=&responseFormat=json&langId=-1
 -->
 
 <div id="navigation_v2_data">
@@ -3989,6 +4015,8 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 					<li data-parent="318609" data-id="30378"><a href="https://www.costco.com/costume-dress-up.html" aria-expanded="false">Halloween Costumes & Accessories</a></li>
 				
 					<li data-parent="318609" data-id="403107"><a href="https://www.costco.com/halloween.html" aria-expanded="false">Halloween Decorations</a></li>
+				
+					<li data-parent="318609" data-id="30725"><a href="https://www.costco.com/outdoor-decorations.html" aria-expanded="false">Outdoor Decorations</a></li>
 				
 					<li data-parent="0" data-id="318609"><a href="https://www.costco.com/seasonal.html" aria-expanded="false">Holiday & Seasonal</a></li>
 					
@@ -4448,8 +4476,6 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 				
 					<li data-parent="30164" data-id="79504"><a href="https://www.costco.com/60-inch-tvs-through-69-inch-tvs.html" aria-expanded="false">65 in TVs</a></li>
 				
-					<li data-parent="30164" data-id="593102"><a href="https://www.costco.com/58-inch-tvs-through-60-inch-tvs.html" aria-expanded="false">58 in - 60 in TVs</a></li>
-				
 					<li data-parent="30164" data-id="30771"><a href="https://www.costco.com/55-inch-tvs-through-59-inch-tvs.html" aria-expanded="false">55 in TVs</a></li>
 				
 					<li data-parent="30164" data-id="30636"><a href="https://www.costco.com/44-inch-tvs-through-50-inch-tvs.html" aria-expanded="false">48 in - 50 in TVs</a></li>
@@ -4654,6 +4680,8 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 				
 					<li data-parent="30034" data-id="117525"><a href="https://www.costco.com/king-bedroom-sets.html" aria-expanded="false">King Bedroom Sets</a></li>
 				
+					<li data-parent="30034" data-id="117526"><a href="https://www.costco.com/cal-king-bedroom-sets.html" aria-expanded="false">California King Bedroom Sets</a></li>
+				
 					<li data-parent="30034" data-id="117527"><a href="https://www.costco.com/queen-bedroom-sets.html" aria-expanded="false">Queen Bedroom Sets</a></li>
 				
 					<li data-parent="30034" data-id="169001"><a href="https://www.costco.com/bedroom-furniture-beds.html" aria-expanded="false">Beds</a></li>
@@ -4835,53 +4863,29 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 				
 					<li data-parent="517601" data-id="547112"><a href="https://www.costco.com/grocery-health-beauty.html" aria-expanded="false">Health & Beauty</a></li>
 				
-					<li data-parent="517601" data-id="547113"><a href="https://www.costco.com/household.html" aria-expanded="false">Household</a></li>
-				
 					<li data-parent="379108" data-id="517601"><a href="https://www.costco.com/all-costco-grocery.html" aria-expanded="false">2-Day Delivery</a></li>
 				
 					<li data-parent="379108" data-id="512102"><a href="https://www.costco.com/kirkland-signature-groceries.html" aria-expanded="false">Kirkland Signature Grocery</a></li>
-				
-					<li data-parent="512125" data-id="512126"><a href="https://www.costco.com/food-storage.html" aria-expanded="false">Food Bags</a></li>
-				
-					<li data-parent="512125" data-id="512127"><a href="https://www.costco.com/food-wrap.html" aria-expanded="false">Parchment Paper & Aluminum Foil</a></li>
 				
 					<li data-parent="512125" data-id="512128"><a href="https://www.costco.com/toilet-paper.html" aria-expanded="false">Toilet Paper</a></li>
 				
 					<li data-parent="512125" data-id="1216112"><a href="https://www.costco.com/facial-tissue.html" aria-expanded="false">Facial Tissue</a></li>
 				
-					<li data-parent="512125" data-id="1216113"><a href="https://www.costco.com/paper-towels-napkins.html" aria-expanded="false">Paper Towels & Napkins</a></li>
-				
-					<li data-parent="512125" data-id="1216114"><a href="https://www.costco.com/plastic-disposable-utensils.html" aria-expanded="false">Plastic & Disposable Utensils</a></li>
-				
-					<li data-parent="512125" data-id="1216115"><a href="https://www.costco.com/plastic-disposable-bowls.html" aria-expanded="false">Paper & Disposable Bowls</a></li>
-				
-					<li data-parent="512125" data-id="31097"><a href="https://www.costco.com/cups-lids.html" aria-expanded="false">Plastic, Paper & Disposable Cups</a></li>
-				
-					<li data-parent="512125" data-id="337104"><a href="https://www.costco.com/disposable-dinnerware.html" aria-expanded="false">Paper, Plastic & Disposable Plates</a></li>
-				
 					<li data-parent="379108" data-id="512125"><a href="https://www.costco.com/paper-products-food-storage.html" aria-expanded="false">Paper & Plastic Products</a></li>
 				
 					<li data-parent="30157" data-id="512109"><a href="https://www.costco.com/chips-pretzels.html" aria-expanded="false">Chips & Pretzels</a></li>
-				
-					<li data-parent="30157" data-id="512110"><a href="https://www.costco.com/crackers.html" aria-expanded="false">Crackers</a></li>
 				
 					<li data-parent="30157" data-id="512112"><a href="https://www.costco.com/trail-snack-mix.html" aria-expanded="false">Snack & Trail Mix</a></li>
 				
 					<li data-parent="30157" data-id="1216106"><a href="https://www.costco.com/dried-fruit.html" aria-expanded="false">Dried Fruit</a></li>
 				
-					<li data-parent="30157" data-id="1216107"><a href="https://www.costco.com/fruit-snacks-applesauce.html" aria-expanded="false">Fruit Snacks & Applesauce</a></li>
-				
 					<li data-parent="30157" data-id="30858"><a href="https://www.costco.com/snacks-bars.html" aria-expanded="false">Protein, Breakfast & Snack Bars</a></li>
 				
 					<li data-parent="30157" data-id="30707"><a href="https://www.costco.com/nuts.html" aria-expanded="false">Nuts & Seeds</a></li>
 				
-					<li data-parent="30157" data-id="30594"><a href="https://www.costco.com/jerky.html" aria-expanded="false">Jerky, Dried Meats & Meat Snacks</a></li>
-				
 					<li data-parent="30157" data-id="30783"><a href="https://www.costco.com/popcorn.html" aria-expanded="false">Popcorn</a></li>
 				
 					<li data-parent="379108" data-id="30157"><a href="https://www.costco.com/snacks.html" aria-expanded="false">Snacks & Nuts</a></li>
-				
-					<li data-parent="512114" data-id="443601"><a href="https://www.costco.com/beans-grains-rice.html" aria-expanded="false">Grains & Rice</a></li>
 				
 					<li data-parent="512114" data-id="30792"><a href="https://www.costco.com/prepared-food.html" aria-expanded="false">Packaged & Prepared Food</a></li>
 				
@@ -4891,13 +4895,7 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 				
 					<li data-parent="512114" data-id="235501"><a href="https://www.costco.com/baking.html" aria-expanded="false">Flour & Baking Essentials</a></li>
 				
-					<li data-parent="512114" data-id="182501"><a href="https://www.costco.com/canned-goods.html" aria-expanded="false">Canned Goods</a></li>
-				
 					<li data-parent="512114" data-id="512115"><a href="https://www.costco.com/condiments-sauces.html" aria-expanded="false">Sauces, Condiments & Marinades</a></li>
-				
-					<li data-parent="512114" data-id="532101"><a href="https://www.costco.com/soup.html" aria-expanded="false">Soup, Bouillon & Broth</a></li>
-				
-					<li data-parent="512114" data-id="512118"><a href="https://www.costco.com/sugar-sweeteners.html" aria-expanded="false">Sugar, Syrup & Sweeteners</a></li>
 				
 					<li data-parent="512114" data-id="30716"><a href="https://www.costco.com/oils-balsamic.html" aria-expanded="false">Vinegar & Cooking Oil</a></li>
 				
@@ -4911,11 +4909,7 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 				
 					<li data-parent="512120" data-id="101004"><a href="https://www.costco.com/single-serve-coffee.html" aria-expanded="false">K-Cups, Coffee Pods & Capsules</a></li>
 				
-					<li data-parent="512120" data-id="1216111"><a href="https://www.costco.com/instant-coffee.html" aria-expanded="false">Instant Coffee</a></li>
-				
 					<li data-parent="512120" data-id="101005"><a href="https://www.costco.com/ground-coffee.html" aria-expanded="false">Ground Coffee</a></li>
-				
-					<li data-parent="512120" data-id="61501"><a href="https://www.costco.com/creamer-sweeteners.html" aria-expanded="false">Coffee Creamers</a></li>
 				
 					<li data-parent="379108" data-id="512120"><a href="https://www.costco.com/coffee-sweeteners.html" aria-expanded="false">Coffee</a></li>
 				
@@ -4924,12 +4918,6 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 					<li data-parent="162021" data-id="471608"><a href="https://www.costco.com/juice.html" aria-expanded="false">Juice</a></li>
 				
 					<li data-parent="162021" data-id="512104"><a href="https://www.costco.com/drink-mix.html" aria-expanded="false">Powdered Drink Mix</a></li>
-				
-					<li data-parent="162021" data-id="512105"><a href="https://www.costco.com/energy-drinks.html" aria-expanded="false">Energy Drinks</a></li>
-				
-					<li data-parent="162021" data-id="512106"><a href="https://www.costco.com/milk.html" aria-expanded="false">Milk & Milk Substitutes</a></li>
-				
-					<li data-parent="162021" data-id="471609"><a href="https://www.costco.com/soft-drinks.html" aria-expanded="false">Soda, Pop & Soft Drinks</a></li>
 				
 					<li data-parent="162021" data-id="30282"><a href="https://www.costco.com/bottled-water.html" aria-expanded="false">Bottled Water</a></li>
 				
@@ -4943,33 +4931,13 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 				
 					<li data-parent="337105" data-id="512130"><a href="https://www.costco.com/cleaning-supplies.html" aria-expanded="false">Cleaning Tools</a></li>
 				
-					<li data-parent="337105" data-id="464101"><a href="https://www.costco.com/trash-bags.html" aria-expanded="false">Trash Bags</a></li>
-				
 					<li data-parent="337105" data-id="337106"><a href="https://www.costco.com/laundry-supplies.html" aria-expanded="false">Laundry Detergent & Supplies</a></li>
 				
 					<li data-parent="379108" data-id="337105"><a href="https://www.costco.com/household-cleaning.html" aria-expanded="false">Cleaning Supplies</a></li>
 				
-					<li data-parent="512107" data-id="1216105"><a href="https://www.costco.com/pancake-waffle-mix.html" aria-expanded="false">Pancake & Waffle Mix</a></li>
-				
-					<li data-parent="512107" data-id="393101"><a href="https://www.costco.com/breakfast-cereal.html" aria-expanded="false">Cereal, Oatmeal & Oats</a></li>
-				
-					<li data-parent="512107" data-id="1216104"><a href="https://www.costco.com/granola.html" aria-expanded="false">Granola</a></li>
-				
-					<li data-parent="512107" data-id="30747"><a href="https://www.costco.com/pastries.html" aria-expanded="false">Pastries & Muffins</a></li>
-				
 					<li data-parent="379108" data-id="512107"><a href="https://www.costco.com/breakfast.html" aria-expanded="false">Breakfast</a></li>
 				
-					<li data-parent="30303" data-id="512122"><a href="https://www.costco.com/cookies.html" aria-expanded="false">Cookies</a></li>
-				
-					<li data-parent="30303" data-id="512123"><a href="https://www.costco.com/cakes.html" aria-expanded="false">Cakes & Brownies</a></li>
-				
-					<li data-parent="379108" data-id="30303"><a href="https://www.costco.com/cakes-cookies.html" aria-expanded="false">Bakery & Desserts</a></li>
-				
-					<li data-parent="512108" data-id="1216108"><a href="https://www.costco.com/hard-gummy-candy.html" aria-expanded="false">Hard & Gummy Candy</a></li>
-				
 					<li data-parent="512108" data-id="30344"><a href="https://www.costco.com/chocolates.html" aria-expanded="false">Chocolates</a></li>
-				
-					<li data-parent="512108" data-id="512111"><a href="https://www.costco.com/gum-mints.html" aria-expanded="false">Gum & Mint Candy</a></li>
 				
 					<li data-parent="379108" data-id="512108"><a href="https://www.costco.com/candy.html" aria-expanded="false">Candy</a></li>
 				
@@ -4997,15 +4965,22 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 				
 					<li data-parent="0" data-id="379108"><a href="https://www.costco.com/grocery-household.html" aria-expanded="false">Grocery, Household Essentials & Pet</a></li>
 					
-									<li data-espot-parent="379108"><!-- start flyout-food,-household-200802 -->
-   <a href="/.product.100381510.html">
-      <img src="https://mobilecontent.costco.com/staging/resource/img/flyout-200727/flyout-200727-seeds-of-change.jpg" class="img-responsive" alt="Seeds of Change">
-    </a>
-<div style="margin-bottom: 15px;"></div>
-<!-- end flyout-food,-household-200802 --></li>
-								
-					<li data-parent="292616" data-id="30452"><a href="https://www.costco.com/feminine-hygiene.html" aria-expanded="false">Feminine Hygiene</a></li>
+									<li data-espot-parent="379108"><!-- start flyout-grocery,-household,-pet-200826 -->
+
 				
+				<!--start image flyout -->
+				<a href="https://www.costco.com/mangos.html" style="text-decoration:none!important">
+					<div style="max-width: 320px; max-height: 620px;" >
+						<!-- image -->
+						<img src="https://mobilecontent.costco.com/live/resource/img/categories/food-flyout-200831-mangoes.jpg" class="img-responsive" alt="">
+					</div>
+				</a>
+				<!--end image flyout-->
+
+
+<div style="margin-bottom: 15px;"></div>
+<!-- end flyout-grocery,-household,-pet-200826 --></li>
+								
 					<li data-parent="292616" data-id="30721"><a href="https://www.costco.com/oral-care.html" aria-expanded="false">Oral Care</a></li>
 				
 					<li data-parent="292616" data-id="30840"><a href="https://www.costco.com/shavers.html" aria-expanded="false">Shaving & Grooming</a></li>
@@ -5226,8 +5201,6 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 				
 					<li data-parent="30085" data-id="30241"><a href="https://www.costco.com/bathroom-accessories.html" aria-expanded="false">Bathroom Accessories</a></li>
 				
-					<li data-parent="30085" data-id="30243"><a href="https://www.costco.com/bathroom-vanity-lighting.html" aria-expanded="false">Vanity Lighting</a></li>
-				
 					<li data-parent="30085" data-id="30844"><a href="https://www.costco.com/showers.html" aria-expanded="false">Showers</a></li>
 				
 					<li data-parent="30085" data-id="30246"><a href="https://www.costco.com/bathtubs.html" aria-expanded="false">Tubs</a></li>
@@ -5267,6 +5240,8 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 					<li data-parent="30010" data-id="346603"><a href="https://www.costco.com/building-materials.html" aria-expanded="false">Building Materials</a></li>
 				
 					<li data-parent="30167" data-id="30537"><a href="https://www.costco.com/hand-tools.html" aria-expanded="false">Hand Tools</a></li>
+				
+					<li data-parent="30167" data-id="30670"><a href="https://www.costco.com/measuring-tapes-laser-levels.html" aria-expanded="false">Measuring Tapes & Laser Levels</a></li>
 				
 					<li data-parent="30167" data-id="30790"><a href="https://www.costco.com/power-tools.html" aria-expanded="false">Power Tools</a></li>
 				
@@ -5419,33 +5394,21 @@ geoLocateToken = "Ao5ZqVFnjiL2fCfkgFfGZ8JpRX-ksJ0wbIckQ6HnVV0i9cG95H3Wh3lfKRaJE1
 				
 					<li data-parent="0" data-id="30012"><a href="https://www.costco.com/home-and-decor.html" aria-expanded="false">Home & Kitchen</a></li>
 					
-									<li data-espot-parent="30012"><!-- start flyout-home-&-kitchen-default -->
-				<!--start coded flyout -->
-				<a href="https://www.costco.com/CatalogSearch?dept=All&keyword=homessentials19" style="text-decoration:none!important">
-					<div style="background-color:#efefef; max-width: 320px; max-height: 300px; overflow: hidden;" >
-						<!-- SL 1 -->
-						<div style="text-align: center; color:#333333; padding: 10% 1% 2% 1%; font-size: calc(12px + 0.6vw); font-weight: normal; line-height: 1.2em; height: 45%;">Home Essentials</div>
-						<!-- image -->
-						<img style="background-color:#efefef; margin: auto;" src="https://mobilecontent.costco.com/live/resource/img/categories/flyout-home-200217-1.jpg" class="img-responsive" alt="">
-					</div>
-				</a>
-				<!--end coded flyout-->
-<div style="margin-bottom: 15px;"></div>
-<!-- end flyout-home-&-kitchen-default --></li>
-								
-									<li data-espot-parent="30012"><!-- start flyout-home-&-kitchen--n/a, new Default Flyout -->
+									<li data-espot-parent="30012"><!-- start flyout-home-&-kitchen-200824 -->
+
+				
 				<!--start image flyout -->
-				<a href="https://www.costco.com/bedding-ensembles.html" style="text-decoration:none!important">
-					<div style="background-color:#f0eeec; max-width: 320px; max-height: 300px; overflow: hidden;" >
-						<!-- SL 1 -->
-						<div style="text-align: center; color:#333333; padding: 10% 1% 2% 1%; font-size: calc(12px + 0.6vw); font-weight: normal; line-height: 1.2em; height: 45%;">Bedding Ensembles & Duvets</div>
+				<a href="https://www.costco.com/CatalogSearch?dept=All&keyword=organic0824ch" style="text-decoration:none!important">
+					<div style="max-width: 320px; max-height: 620px;" >
 						<!-- image -->
-						<img style="background-color:#f0eeec; margin: auto;" src="https://mobilecontent.costco.com/live/resource/img/categories/home-kitchen-200622-default.jpg" class="img-responsive" alt="">
+						<img src="https://mobilecontent.costco.com/live/resource/img/categories/home-flyout-200820-towel.jpg" class="img-responsive" alt="">
 					</div>
 				</a>
 				<!--end image flyout-->
+
+
 <div style="margin-bottom: 15px;"></div>
-<!-- end flyout-home-&-kitchen--n/a, new Default Flyout --></li>
+<!-- end flyout-home-&-kitchen-200824 --></li>
 								
 					<li data-parent="30108" data-id="490601"><a href="https://www.costco.com/diamond-rings.html" aria-expanded="false">Diamond & Engagement Rings</a></li>
 				
@@ -5600,6 +5563,10 @@ While Supplies Last">
 				
 					<li data-parent="30666" data-id="499611"><a href="https://www.costco.com/juniper-mattress-collection.html" aria-expanded="false">Juniper Kids Mattress</a></li>
 				
+					<li data-parent="30666" data-id="699106"><a href="https://www.costco.com/ks-sf-lakeridge-mattress-collection.html" aria-expanded="false">Kirkland Signature by Stearns & Foster Lakeridge Mattress Collection</a></li>
+				
+					<li data-parent="30666" data-id="510104"><a href="https://www.costco.com/sp-gray-cove-mattress-collection.html" aria-expanded="false">Sealy Response Performance Gray Cove Plush or Firm Mattress</a></li>
+				
 					<li data-parent="30666" data-id="292615"><a href="https://www.costco.com/sleep-science-11-carina-gel-mattress-collection.html" aria-expanded="false">Sleep Science 11" Carina Gel Memory Foam Mattress</a></li>
 				
 					<li data-parent="30666" data-id="38015"><a href="https://www.costco.com/sleep-science-10-mattress-collection.html" aria-expanded="false">Sleep Science 10" Memory Foam Mattress</a></li>
@@ -5661,8 +5628,6 @@ While Supplies Last">
 					<li data-parent="30130" data-id="30714"><a href="https://www.costco.com/office-supplies-art-supplies.html" aria-expanded="false">Art & Crafting</a></li>
 				
 					<li data-parent="30130" data-id="31326"><a href="https://www.costco.com/tapes-adhesives.html" aria-expanded="false">Tapes & Adhesives</a></li>
-				
-					<li data-parent="30130" data-id="31291"><a href="https://www.costco.com/scissors-trimmers.html" aria-expanded="false">Cutting & Measuring Tools</a></li>
 				
 					<li data-parent="30130" data-id="30618"><a href="https://www.costco.com/label-maker-supplies.html" aria-expanded="false">Label Makers & Laminating</a></li>
 				
@@ -5834,9 +5799,9 @@ While Supplies Last">
 				
 					<li data-parent="30138" data-id="30334"><a href="https://www.costco.com/chain-saws.html" aria-expanded="false">Chain Saws</a></li>
 				
-					<li data-parent="30138" data-id="30651"><a href="https://www.costco.com/log-splitters.html" aria-expanded="false">Log & Wood Splitters</a></li>
-				
 					<li data-parent="30138" data-id="30248"><a href="https://www.costco.com/battery-packs-accessories.html" aria-expanded="false">Battery Packs & Accessories</a></li>
+				
+					<li data-parent="30138" data-id="30341"><a href="https://www.costco.com/chippers-shredders-vacs.html" aria-expanded="false">Chippers, Mulchers & Vacs</a></li>
 				
 					<li data-parent="30138" data-id="30914"><a href="https://www.costco.com/tillers-cultivators.html" aria-expanded="false">Tillers & Cultivators</a></li>
 				
@@ -5892,13 +5857,13 @@ While Supplies Last">
 				</a>
 				<!--end image flyout--></li>
 								
+					<li data-parent="30065" data-id="30934"><a href="https://www.costco.com/treadmills.html" aria-expanded="false">Treadmills</a></li>
+				
 					<li data-parent="30065" data-id="30587"><a href="https://www.costco.com/inversion-tables.html" aria-expanded="false">Inversion Tables</a></li>
 				
 					<li data-parent="30065" data-id="30436"><a href="https://www.costco.com/ellipticals.html" aria-expanded="false">Ellipticals</a></li>
 				
 					<li data-parent="30065" data-id="30890"><a href="https://www.costco.com/strength-core-training.html" aria-expanded="false">Strength & Core Training</a></li>
-				
-					<li data-parent="30065" data-id="30813"><a href="https://www.costco.com/rowers.html" aria-expanded="false">Rowing Machines</a></li>
 				
 					<li data-parent="30065" data-id="30769"><a href="https://www.costco.com/pilates.html" aria-expanded="false">Pilates</a></li>
 				
@@ -5949,8 +5914,6 @@ While Supplies Last">
 					<li data-parent="47004" data-id="30036"><a href="https://www.costco.com/bicycles.html" aria-expanded="false">Bicycles</a></li>
 				
 					<li data-parent="47004" data-id="577124"><a href="https://www.costco.com/scooters.html" aria-expanded="false">Scooters</a></li>
-				
-					<li data-parent="47004" data-id="47005"><a href="https://www.costco.com/skateboards.html" aria-expanded="false">Skateboards</a></li>
 				
 					<li data-parent="30017" data-id="47004"><a href="https://www.costco.com/bikes-boards.html" aria-expanded="false">Bikes, Scooters & Boards</a></li>
 				
@@ -6055,8 +6018,6 @@ While Supplies Last">
 					<li data-parent="213503" data-id="30316"><a href="https://www.costco.com/car-electronics.html" aria-expanded="false">Car Electronics</a></li>
 				
 					<li data-parent="30024" data-id="431601"><a href="https://www.costco.com/auto-lifts-jacks.html" aria-expanded="false">Lifts & Jacks</a></li>
-				
-					<li data-parent="30024" data-id="238004"><a href="https://www.costco.com/utility-carts.html" aria-expanded="false">Utility Carts</a></li>
 				
 					<li data-parent="30024" data-id="30917"><a href="https://www.costco.com/tools-equipment.html" aria-expanded="false">Tools & Equipment</a></li>
 				
@@ -7225,8 +7186,93 @@ While Supplies Last">
         <div id="screen-reader-announcement" aria-live="assertive" class="sr-only"></div>
     	<div id="navigation-overlay-div-element" class="navigation-v2-shading" style="display:none;"></div>
         
-<input type="hidden" id="isBDAppVar"  value="BC" />
- 	
+<input type="hidden" id="productPage" value="true" />
+
+<link rel="preload" as="image" href="/wcsstore/CostcoGLOBALSAS/images/Widgets/membership/membership-number.svg">
+
+
+
+<script id="tmpl_membership_validation_pdp" type="html/template">
+<div id="link-membership-loader">
+	<img src="/wcsstore/CostcoGLOBALSAS/images/ajax-loader-Transparent.gif" />
+</div>
+<div id="link-membership-modal-content">
+	<form id="membership-primary-validation-form" name="membershipPrimaryValidationForm">
+		<div class="row">
+			<div class="col-xs-12">
+				<div id="error-placeholder">
+				</div>
+			</div>
+
+			
+					<div class="col-xs-12 body-copy margin-bottom-20">
+						If you have a Costco membership, add your membership number to buy member-only items and avoid a 5% non-member order surcharge (does not apply to pharmacy prescription orders).
+					</div>
+
+					<div class="col-xs-12 margin-bottom-20">
+						
+								<img class="fixed-width-245" src="/wcsstore/CostcoGLOBALSAS/images/Widgets/membership/membership-number.svg" />
+							
+					</div>
+				
+
+			<div class="form-group col-xs-12">
+				<label for="membership-id">Membership Number</label>
+				
+				<span class="co-help" data-trigger="focus" data-toggle="popover" tabindex="0" data-placement="top" data-html="true" data-content="<div style=&quot;margin-bottom:10px;&quot;>Member numbers start with either the number 1, 3 or 8. If you have the Costco Citi Visa card the membership number is located on the back of the card right next to your picture.</div><img src=&quot;/wcsstore/CostcoGLOBALSAS/images/Widgets/membership/membership-number.svg&quot; alt=&quot;&quot;>"></span>
+				<input id="membership-id" name="membershipId" class="form-control" type="tel" maxlength="12" title="Costco Membership Number" value="<&=membershipNumber&>" />
+			</div>
+
+			
+		</div>
+	</form>
+</div>
+</script>
+
+<script id="tmpl_membership_validation_empty" type="html/template">
+	<div id="link-membership-loader">
+		<img src="/CostcoGLOBALSAS/images/ajax-loader-Transparent.gif" />
+	</div>
+	<div id="link-membership-modal-content">
+	</div>
+</script>
+
+
+<script id="tmpl_upgrade_membership" type="html/template">
+<div id="upgrade-your-membership_modal">
+	<span class="h1-style-guide">
+		Upgrade to Executive Today!
+	</span>
+	<div class="col-xs-12 col-md-4 image-container">
+        <img class="img-responsive" src="/wcsstore/CostcoGLOBALSAS/images/membership-card-executive.png"/>
+    </div>
+	<div class="col-xs-12 col-md-8">
+     	<div class="features-container">
+	 		<p class="body-copy-medium col-xs-12">
+	   	   		Executive Members enjoy:
+	 		</p>
+		</div>
+   	</div>
+	<div class="col-xs-12 col-md-8">
+		<ul>
+			<div id="checkmark-verbiage" class="checkmark margin-bottom-30">
+				<span class="co-checkmark"></span>
+			</div>
+			<div class="membership-information">
+				<span class="body-copy-cozy">Annual 2% reward on most Costco purchases and travel purchases <a class="h8-style-guide-link" href="https://www.costco.com/executive-rewards.html" target="_blank">Terms & Conditions Apply</a></span>
+			</div>
+   		</ul>
+		<ul>
+			<div id="checkmark-extra" class="checkmark margin-bottom-30">
+				<span class="co-checkmark"></span>
+			</div>
+			<div class="membership-information">
+				<span class="body-copy-cozy">Extra benefits on selected Costco services</span>
+			</div>
+   		</ul>
+	</div>
+</div> 				
+</script>
 
 <script type="text/javascript">
 
@@ -7240,8 +7286,8 @@ While Supplies Last">
 		apiKey : '88ac00e4f3e16e44',
 		baseUrl : '//recs.richrelevance.com/rrserver/',
 		scriptUrl : '//media.richrelevance.com/rrserver/js/1.1/p13n.js',
-		pageType : 'Home',
-		productId : '',
+		pageType : 'Product',
+		productId : '1453175',
 		productName : '',
 		categoryId : '',
 		
@@ -7253,3280 +7299,1806 @@ While Supplies Last">
 	}
 	
 </script>
-	<div id="home-notification">
-		<!-- BEGIN ContentAreaRwdESpot.jsp Home_Notification --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><h1 class="offscreen">Costco.com Homepage</h1><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- END ContentAreaRwdESpot.jsp Home_Notification --><!-- START HeroCarousel.jsp --><!-- BEGIN ScrollingHeroRwdESpot.jsp -->
-<div data-bi-placement="Home_Hero_Carousel" class=" genericEspot container-fluid fixed-container WC_ContentAreaESpot_div_1_Home_Hero_Carousel">
-	<div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_Home_Hero_Carousel">[Home_Hero_Carousel]</div>
-	<div id="hero-carousel" class="">
-    <!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!--  START homepage-heroes-200821 -->
 
+<script>
+	function inlineRichFXInit(){
+		if(document.readyState != 'loading'){
+			RICHFX.init();
+		}	
+	}
+</script>
 
 
-
-<!-- start Slot 1 20w13100-homepage-fq-mailer-ends-monday -->
-<a href="/mailers.html">
-<!-- Desktop -->
-<img class="img-responsive visible-xl visible-lg" src="//mobilecontent.costco.com/live/resource/img/homepage/d-20w13100-homepage-fq-mailer-ends-monday.jpg" alt="Ends Monday, 8/24/20! Online-Only Member Savings. Valid 7/30/20 - 8/24/20." data-tabname="Online-Only Savings">
-<!-- Mobile -->
-<img class="img-responsive hidden-lg hidden-xl" src="//mobilecontent.costco.com/live/resource/img/homepage/m-20w13100-homepage-fq-mailer-ends-monday.jpg" alt="Ends Monday, 8/24/20! Online-Only Member Savings. Valid 7/30/20 - 8/24/20." data-tabname="Online-Only Savings">
-</a>
-<!-- end Slot 1 20w13100-homepage-fq-mailer-ends-monday -->
-
-
-
-<!-- start Slot 2 homepage-hero-august-mvm -->
-<a href="/online-offers.html">
-<!-- Desktop -->
-<img class="img-responsive visible-xl visible-lg" style="display:none !important;" data-lazy="//mobilecontent.costco.com/live/resource/img/homepage/d-homepage-hero-august-mvm.jpg" alt="Member-Only Savings Book. Valid 8/5/20 - 8/30/20. Available In-Warehouse & Online. Shop All Savings." data-tabname="Member-Only Savings">
-<!-- Mobile -->
-<img class="img-responsive hidden-lg hidden-xl" style="display:none !important;" data-lazy="//mobilecontent.costco.com/live/resource/img/homepage/m-homepage-hero-august-mvm.jpg" alt="Member-Only Savings Book. Valid 8/5/20 - 8/30/20. Available In-Warehouse & Online. Shop All Savings." data-tabname="Member-Only Savings">
-</a>
-<!-- end Slot 2 homepage-hero-august-mvm -->
-
-
-
-<!-- start Slot 3 20w1352-fq-200817-samsung -->
-<a href="https://membershipwireless.com/verizon-samsung?utm_source=costco&utm_medium=banner&utm_campaign=0820-vzw-mvm&utm_content=mvm-hphero">
-<!-- Desktop -->
-<img class="img-responsive visible-xl visible-lg" style="display:none !important;" data-lazy="//mobilecontent.costco.com/live/resource/img/homepage/d-20w1352-fq-200817-samsung.jpg" alt="Get Samsung Galaxy S20 5G UW for $699.99. Plus get an additional $150 after 24 monthly bill credits. Valid 8/5/20 - 8/30/20. Warehouse only." data-tabname="">
-<!-- Mobile -->
-<img class="img-responsive hidden-lg hidden-xl" style="display:none !important;" data-lazy="//mobilecontent.costco.com/live/resource/img/homepage/m-20w1352-fq-200817-samsung.jpg" alt="Get Samsung Galaxy S20 5G UW for $699.99. Plus get an additional $150 after 24 monthly bill credits. Valid 8/5/20 - 8/30/20. Warehouse only." data-tabname="">
-</a>
-<!-- end Slot 3 20w1352-fq-200817-samsung -->
-
-
-
-<!-- start Slot 4 homepage-hero-20w10116-iphone -->
-<a href="/cellular-phones.html?brand=apple&refine=ads_fbrand_ntk_cs%253A%2522Apple%2522|">
-<!-- Desktop -->
-<img class="img-responsive visible-xl visible-lg" style="display:none !important;" data-lazy="//mobilecontent.costco.com/live/resource/img/homepage/d-homepage-hero-20w10116-iphone.jpg" alt="Apple Unlocked iPhone Se, 64GB and 128GB. Starting at $389.99 Delivered. AppleCare+ Sold Separately." data-tabname="Unlocked iPhone SE">
-<!-- Mobile -->
-<img class="img-responsive hidden-lg hidden-xl" style="display:none !important;" data-lazy="//mobilecontent.costco.com/live/resource/img/homepage/m-homepage-hero-20w10116-iphone.jpg" alt="Apple Unlocked iPhone Se, 64GB and 128GB. Starting at $389.99 Delivered. AppleCare+ Sold Separately." data-tabname="Unlocked iPhone SE">
-</a>
-<!-- end Slot 4 homepage-hero-20w10116-iphone -->
-
-
-
-<!-- start Slot 5 homepage-hero-20w1356-eco-water -->
-<a href="/ecowater-water-treatment-systems.html">
-<!-- Desktop -->
-<img class="img-responsive visible-xl visible-lg" style="display:none !important;" data-lazy="//mobilecontent.costco.com/live/resource/img/homepage/d-homepage-hero-20w1356-eco-water.jpg" alt="Receive a 15% Costco Shop Card on Qualifying EcoWater Water Treatment Purchases. Valid through 8/24/20." data-tabname="">
-<!-- Mobile -->
-<img class="img-responsive hidden-lg hidden-xl" style="display:none !important;" data-lazy="//mobilecontent.costco.com/live/resource/img/homepage/m-homepage-hero-20w1356-eco-water.jpg" alt="Receive a 15% Costco Shop Card on Qualifying EcoWater Water Treatment Purchases. Valid through 8/24/20." data-tabname="">
-</a>
-<!-- end Slot 5 homepage-hero-20w1356-eco-water -->
-
-
-
-<!-- start Slot 6 homepage-hero-20w1386_PremierProtein -->
-<a href="/CatalogSearch?dept=All&keyword=shakesaugmvm20">
-<!-- Desktop -->
-<img class="img-responsive visible-xl visible-lg" style="display:none !important;" data-lazy="//mobilecontent.costco.com/live/resource/img/homepage/d-homepage-hero-20w1386_PremierProtein.jpg" alt="$7 OFF Premier Protein. Limit 2 Each. Valid 8/5/20 - 8/30/20. Selection varies by location. May be available online for a delivered price." data-tabname="">
-<!-- Mobile -->
-<img class="img-responsive hidden-lg hidden-xl" style="display:none !important;" data-lazy="//mobilecontent.costco.com/live/resource/img/homepage/m-homepage-hero-20w1386_PremierProtein.jpg" alt="$7 OFF Premier Protein. Limit 2 Each. Valid 8/5/20 - 8/30/20. Selection varies by location. May be available online for a delivered price." data-tabname="">
-</a>
-<!-- end Slot 6 homepage-hero-20w1386_PremierProtein -->
-
-
-
-<!-- start Slot 7 20w1244-fq-20073020-bms-apparel -->
-<a href="/clothing.html">
-<!-- Desktop -->
-<img class="img-responsive visible-xl visible-lg" style="display:none !important;" data-lazy="//mobilecontent.costco.com/live/resource/img/homepage/d-20w1244-fq-20073020-bms-apparel.jpg" alt="Buy More & Save on Apparel! Buy any clothing or shoe items for additional savings of $20-$50 (excluding socks, underwear, special events and Costco Next apparel). Online-Only. Valid 6/15/20 - 8/24/20." data-tabname="">
-<!-- Mobile -->
-<img class="img-responsive hidden-lg hidden-xl" style="display:none !important;" data-lazy="//mobilecontent.costco.com/live/resource/img/homepage/m-20w1244-fq-20073020-bms-apparel.jpg" alt="Buy More & Save on Apparel! Buy any clothing or shoe items for additional savings of $20-$50 (excluding socks, underwear, special events and Costco Next apparel). Online-Only. Valid 6/15/20 - 8/24/20." data-tabname="">
-</a>
-<!-- end Slot 7 20w1244-fq-20073020-bms-apparel -->
-
-
-
-<!-- start Slot 8 homepage-hero-20w1359-networking -->
-<a href="/CatalogSearch?dept=All&keyword=NetSave20">
-<!-- Desktop -->
-<img class="img-responsive visible-xl visible-lg" style="display:none !important;" data-lazy="//mobilecontent.costco.com/live/resource/img/homepage/d-homepage-hero-20w1359-networking.jpg" alt="Networking Savings Event. While Supplies Last. Valid 8/17/20 - 8/30/20." data-tabname="Networking Savings">
-<!-- Mobile -->
-<img class="img-responsive hidden-lg hidden-xl" style="display:none !important;" data-lazy="//mobilecontent.costco.com/live/resource/img/homepage/m-homepage-hero-20w1359-networking.jpg" alt="Networking Savings Event. While Supplies Last. Valid 8/17/20 - 8/30/20." data-tabname="Networking Savings">
-</a>
-<!-- end Slot 8 homepage-hero-20w1359-networking -->
-
-
-
-<!-- start Slot 9 homepage-hero-bridgestone-150-200727 -->
-<a href="https://tires.costco.com/">
-<!-- Desktop -->
-<img class="img-responsive visible-xl visible-lg" style="display:none !important;" data-lazy="//mobilecontent.costco.com/live/resource/img/homepage/d-homepage-hero-bridgestone-150-200727.jpg" alt="Save up to $150 instantly* on a set of 4 Bridgestone tires. Valid 7/27/20 - 8/30/20. Terms and conditions apply. See item page or tire shop for details." data-tabname="Bridgestone Tires">
-<!-- Mobile -->
-<img class="img-responsive hidden-lg hidden-xl" style="display:none !important;" data-lazy="//mobilecontent.costco.com/live/resource/img/homepage/m-homepage-hero-bridgestone-150-200727.jpg" alt="Save up to $150 instantly* on a set of 4 Bridgestone tires. Valid 7/27/20 - 8/30/20. Terms and conditions apply. See item page or tire shop for details." data-tabname="Bridgestone Tires">
-</a>
-<!-- end Slot 9 homepage-hero-bridgestone-150-200727 -->
-
-
-
-<!-- start Slot 10 20w1347-homepage-fq-travel -->
-<a href="https://www.costcotravel.com/Rental-Cars?utm_source=costco.com&utm_medium=costco.com&utm_campaign=rc&utm_term=Rental-Cars&utm_content=20200817">
-<!-- Desktop -->
-<img class="img-responsive visible-xl visible-lg" style="display:none !important;" data-lazy="//mobilecontent.costco.com/live/resource/img/homepage/d-20w1347-homepage-fq-travel.jpg" alt="Rental Cars. Book Now. Pay Later. No Cancellation Fees. One Additional Driver Fee Waived*. View Details." data-tabname="Travel">
-<!-- Mobile -->
-<img class="img-responsive hidden-lg hidden-xl" style="display:none !important;" data-lazy="//mobilecontent.costco.com/live/resource/img/homepage/m-20w1347-homepage-fq-travel.jpg" alt="Rental Cars. Book Now. Pay Later. No Cancellation Fees. One Additional Driver Fee Waived*. View Details." data-tabname="Travel">
-</a>
-<!-- end Slot 10 20w1347-homepage-fq-travel -->
-
-
-
-<!-- END homepage-heroes-200821-->
-
-
-<!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf -->
-	</div>
-</div>
-<!-- END ScrollingHeroRwdESpot.jsp --><!-- END HeroCarousel.jsp --> 
-
-  	<div class="container-fluid fixed-container">
-		<div class="row no-gutter">
-		<!-- BEGIN ContentAreaRwdESpot.jsp Home_Row_1 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!-- Homepage Large Banner [async] -->
-<div data-bi-placement="Home_Row_1"  class="row">
-<div id="placement_432992_0" class="adbutler-div-large-banner col-xs-12"></div>
-</div><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!-- Start code for top row -->
-
-<style type="text/css">
-
-			      .years-type {min-height: 140px; font-family: montserrat, sans-serif; font-weight: 600; text-align: center; color: #ffffff; padding-top: 6%; font-size: 0.9em; line-height: 1.2em;}
-			      .selection-year1 {background: linear-gradient(to bottom right, #21b9a9, #108276); min-height: 150px;}
-			      .selection-year6 {background: linear-gradient(to bottom right, #13aee2, #0e5282); min-height: 150px;}
-			      .selection-year7 {background: linear-gradient(to bottom right, #804ada, #300b6c); min-height: 150px;}
-			      .trio-icon {margin: 0 auto; width: 80%; padding-top: 1%;}
-			      .trio-text {margin-top: -1%; padding-bottom: 5%; color: #ffffff; font-size: 0.9em;}
-			      @media(min-width: 668px) {
-			      	.years-type {font-size: calc(0.5em + 0.5vw);}
-					.trio-icon {width: 100%; padding-top: 4%; padding-bottom: 25%;}	
-					.trio-text {margin-top: -24px;}		      	
-			      }
-
-				  @media(min-width:768px) {
-					.years-type {font-size: calc(0.4em + 0.4vw);}
-
-				  } 	
-				  @media(min-width:1025px) {
-					.years-type {font-size: calc(0.45em + 0.5vw);}
-				  }  		      
-			    </style>
-
-
-<div data-bi-placement="Home_Row_1"  class="row gutter" style="padding-top: 30px;">
-
-<!--start top row 1 -->
-<div class="col-xs-12 col-md-4 eco-top-row">
-<a href="/warranty-calculator.html" style="text-decoration:none!important">
-<div class="eco-top-row-bg" style="background-color: #333333; overflow: hidden;">
-<div style="padding-top: 1%;" class="hidden-md hidden-lg"></div>
-<div style="font-family: montserrat, sans-serif; text-align: center; padding: 0% 1% 1% 1%; font-size: calc(16px + 0.3vw); line-height: 1.2em; font-weight: 700; color: #ffffff;">Get UP TO 7-YEAR WARRANTY<sup>†</sup> <br>+ 4% IN CASH BACK REWARDS<sup>**</sup></div>
-<div style="font-family: montserrat, sans-serif; text-align: center; padding: 0.5% 1% 2% 1%; font-size: calc(9px + 0.1vw); line-height: 1em; font-weight: 500; color: #ffffff;">Terms, conditions and exclusions apply. </div>
-
-<div class="row" style="margin: 0px auto 0px auto; ">
-<div class="col-xs-4 selection-year1"><img class="img-responsive trio-icon" src="https://mobilecontent.costco.com/live/resource/img/20w1285-jump-page/20w1285-jump-appliances.png" alt=""><div class="trio-text" style="line-height: 1em; font-size: 0.8em;">Major<br>Appliances</div></div>
-<div class="col-xs-4 selection-year6">
-<img class="img-responsive trio-icon" src="https://mobilecontent.costco.com/live/resource/img/20w1285-jump-page/20w1285-jump-pc.png" alt=""><div class="trio-text">Computers</div>
-</div>
-<div class="col-xs-4 selection-year7"><img class="img-responsive trio-icon" src="https://mobilecontent.costco.com/live/resource/img/20w1285-jump-page/20w1285-jump-tv.png" alt=""><div class="trio-text">Televisions</div></div>
-</div>
-</div>
-</a>
-</div>
-<!--end top row 1 -->
-
-<!--start top row 2 -->
-<div class="col-xs-12 col-md-4 eco-top-row">
-<a href="/online-offers.html">
-<div class="eco-top-row-bg">
-<div class="eco-top-row-mvm" style="color:  # 0046a1;">Member-only<br/><span style="font-size: 1.8em; font-weight: bolder; line-height: 1em;">SAVINGS</span><br/>
-<span style="font-size: 0.7em;font-weight: bolder; color: #333333; padding: 0.5% 5%;">Valid 8/5/20 - 8/30/20</span>
-<img class="img-responsive" style="margin: 5px auto;" src="https://mobilecontent.costco.com/live/resource/img/homepage/mvm-cover-aug-2020.png" alt="MVM Cover" />
-</div>
-</div>
-</a>
-</div>
-<!--end top row 2 -->
-
-<!--start top row 3 -->
-<div class="col-xs-12 col-md-4 eco-top-row">
-<a href="https://tires.costco.com/">
-<div class="eco-top-row-bg">
-<div class="eco-top-row-tire">
-<img class="img-responsive center-block" src="https://mobilecontent.costco.com/live/resource/img/20w1088/20w1088-flyout-bridgestone-logo.png" style="height:25px;" alt="Bridgestone" />
-<img src="https://mobilecontent.costco.com/live/resource/img/20w11148/20w11148-trio-bridgestone-150.png" alt="Save up to $150 Instantly*" class="img-responsive center-block" style="height: 110px;" />
-<div class="body-copy" style="color:#E2211C; text-align: center; line-height: 110%; padding-left:18px; padding-right:18px;">[<strong>$110</strong> WHEN YOU SPEND* UP TO $699 OR <strong>$150</strong> WHEN YOU SPEND* $700] ON A SET OF 4 BRIDGESTONE TIRES</div>
-<div class="legal-copy" style="margin-top: 5px;">Valid 7/27/20 - 8/30/20</div>
-</div>
-</div>
-</a>
-</div>
-<!--end top row 3 -->
-
-</div>
-<!-- end code for top row --><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!-- Homepage Large Banner [async] -->
-<div data-bi-placement="Home_Row_1"  class="row">
-<div id="placement_432992_1" class="adbutler-div-large-banner col-xs-12"></div>
-</div><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!-- Homepage Large Half Banners [async] -->
-<div data-bi-placement="Home_Row_1"  class="row">
-    <div id="placement_432993_0" class="col-xs-12 col-lg-6 adbutler-div-large-banner-half"></div>
-    <div id="placement_432993_1" class="col-xs-12 col-lg-6 adbutler-div-large-banner-half"></div>
-</div><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!-- Homepage Large Ad [async] -->
-<div data-bi-placement="Home_Row_1"  class="row">
-    <div id="placement_432997_0" class="adbutler-div-large-ads col-xs-12 col-md-4 eco-ftr"></div>
-    <div id="placement_432997_1" class="adbutler-div-large-ads col-xs-12 col-md-4 eco-ftr"></div>
-    <div id="placement_432997_2" class="adbutler-div-large-ads col-xs-12 col-md-4 eco-ftr"></div>
-</div><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- END ContentAreaRwdESpot.jsp Home_Row_1 -->
-		</div>
-	</div>
-  	
-  	<div class="container-fluid fixed-container">
-		<div class="row no-gutter">
-		<!-- BEGIN ContentAreaRwdESpot.jsp Home_Row_2 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!--start treasure-4across -->
-<div data-bi-placement="Home_Row_2"  class="row gutter" style="padding-top: 30px;">
-<!--start shop cat espot 1 -->
-  
-  <div class="col-xs-6 col-md-3 eco-ftr">
-    <a href="/.product.100656786.html" style="text-decoration-color: #333333;">
-      <img class="img-responsive" src="https://mobilecontent.costco.com/live/resource/img/homepage/20w1380-item-drivers-1.jpg" alt="">
-      <div class="h5-style-guide eco-ftr-title">Boardwalk Fabric Sectional
-      <br>
-      <strong>$849.99 Delivered</strong>
-      </div>
-    </a>
-  </div>
-  
-  <!--end shop cat espot 1 -->
-
-  <!--start shop cat espot 2 -->
-  <div class="col-xs-6 col-md-3 eco-ftr">
-    <a href="/.product.100351084.html" style="text-decoration-color: #333333;">
-      <img class="img-responsive" src="https://mobilecontent.costco.com/live/resource/img/homepage/20w1380-item-drivers-2.jpg" alt="">
-      <div class="h5-style-guide eco-ftr-title">12' x 14' Cedar Gazebo with Aluminum Roof 
-      <br>
-      <strong>$1,899.99 Delivered</strong>
-      </div>
-    </a>
-  </div>
-  <!--end shop cat espot 2 -->
-
-  <div class="clearfix visible-xs visible-sm"></div>
-
-
- <!--start shop cat espot 3 -->
-  <div class="col-xs-6 col-md-3 eco-ftr">
-    <a href="/.product.100660722.html" style="text-decoration-color: #333333;">
-      <img class="img-responsive" src="https://mobilecontent.costco.com/live/resource/img/homepage/20w1380-item-drivers-3.jpg" alt="">
-      <div class="h5-style-guide eco-ftr-title">LG 65" Class 4K UHD LED LCD TV, $65 SquareTrade Protection Plan Bundle Included
-      <br>
-      <strong>$699.99 Free Shipping</strong>
-      </div>
-    </a>
-  </div>
-  <!--end shop cat espot 3 -->
-   
-<!--start shop cat espot 4 -->
-  <div class="col-xs-6 col-md-3 eco-ftr">
-    <a href="/.product.100087771.html" style="text-decoration-color: #333333;">
-      <img class="img-responsive" src="https://mobilecontent.costco.com/live/resource/img/homepage/20w1380-item-drivers-4.jpg" alt="">
-      <div class="h5-style-guide eco-ftr-title">Nutrisystem $100 Gift Card
-      <br>
-      <strong>$25 OFF</strong>
-      </div>
-    </a>
-  </div>
-  <!--end shop cat espot 4 -->
- 
-</div>
-<!--end treasure-4across -->
-   <!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><div data-bi-placement="Home_Row_2"  class="row">
-  <!-- start md-half-banner-20w1380-furniture -->
-    <a href="/CatalogSearch?dept=All&keyword=newfurnj20">
-      <div class="col-xs-12 col-lg-6">
-        <img style="padding-top: 15px; padding-bottom: 15px;" class="img-responsive"  src="https://mobilecontent.costco.com/live/resource/img/homepage/md-half-banner-20w1380-furniture.jpg" alt="Shop New Arrivals in Furniture. While supplies last.">
-      </div>
-    </a>
-  <!-- end md-half-banner-20w1380-furniture -->
-
-  <!-- start md-half-banner-20w1380-backyard -->
-    <a href="/CatalogSearch?dept=All&keyword=yard0819">
-      <div class="col-xs-12 col-lg-6">
-        <img style="padding-top: 15px; padding-bottom: 15px;" class="img-responsive"  src="https://mobilecontent.costco.com/live/resource/img/homepage/md-half-banner-20w1380-backyard-v.jpg" alt="Backyard Upgrades. While Supplies Last.">
-      </div>
-    </a>
-  <!-- end md-half-banner-20w1380-backyard -->
-</div>
-<!-- End Double Banner Code -->
-
-<!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- END ContentAreaRwdESpot.jsp Home_Row_2 -->
-		</div>
-	</div>
-
-	<!-- START FeatureTiles.jsp --><div class="container-fluid fixed-container product-list feature-tiles-container">
-	<div class="feature-tiles row gutter">
-		<!-- BEGIN ContentAreaRwdESpot.jsp Home_Featured_ESpot_1 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_Featured_ESpot_1 --><!-- BEGIN ContentAreaRwdESpot.jsp Home_Featured_ESpot_2 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_Featured_ESpot_2 --><!-- BEGIN ContentAreaRwdESpot.jsp Home_Featured_ESpot_3 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_Featured_ESpot_3 --><!-- BEGIN ContentAreaRwdESpot.jsp Home_Featured_ESpot_4 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_Featured_ESpot_4 -->
-	</div>
-	
-</div><!-- END FeatureTiles.jsp --><!-- START FeatureTiles.jsp --><div class="container-fluid fixed-container product-list feature-tiles-container">
-	<div class="feature-tiles row gutter">
-		<!-- BEGIN ContentAreaRwdESpot.jsp Home_Featured_ESpot_5 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_Featured_ESpot_5 --><!-- BEGIN ContentAreaRwdESpot.jsp Home_Featured_ESpot_6 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_Featured_ESpot_6 --><!-- BEGIN ContentAreaRwdESpot.jsp Home_Featured_ESpot_7 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_Featured_ESpot_7 --><!-- BEGIN ContentAreaRwdESpot.jsp Home_Featured_ESpot_8 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_Featured_ESpot_8 -->
-	</div>
-	
-</div><!-- END FeatureTiles.jsp -->
-  	<div class="container-fluid fixed-container">
-		<div class="row no-gutter">
-		<!-- BEGIN ContentAreaRwdESpot.jsp Home_Row_3 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_Row_3 -->
-		</div>
-	</div>
-	<!-- START FeaturedProductsCarousel.jsp --><!-- BEGIN ContentAreaESpot.jsp -->
-	<div class="container-fluid fixed-container ">
-		<div class="feature-carousel-container" id="Home_Product_Carousel_1_content">
-			<h2><!-- BEGIN ContentAreaRwdESpot.jsp Home_Product_Carousel_1_Title --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><h2 style="text-align: center !important; display: flow-root">Buy More & Save on Apparel</h2><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- END ContentAreaRwdESpot.jsp Home_Product_Carousel_1_Title --></h2>
-			<!-- BEGIN ContentAreaRwdESpot.jsp Home_Product_Carousel_1_ViewMore --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_Product_Carousel_1_ViewMore -->
-			<div class="feature-carousel" style="display:none;">
-				<!-- Debugging Purpose ... Call to CostcoEspotDataBean from FeaturedProductTile.jspf :  2100716 --><!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --> 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/lee-men%e2%80%99s-short-sleeve-woven-pattern-shirt-.product.100671949.html">
-
-<div class="omniture">
-	<div class="scProdId" sc.prodId="100671949"></div>
-   	<div class="scMemberProductType" sc.memberProductType="na"></div>
-</div>
-
-
-<div class="pills-section">
-	
-</div>
-
-
-<div class="thumbnail" >
-
-	
-
-	<div class="product-img-holder link-behavior">
-		<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-			
-					<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'" src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=100671949-847__1&recipeName=350" alt="Lee Men’s Short Sleeve Woven Pattern Shirt " title="Lee Men’s Short Sleeve Woven Pattern Shirt "/>
-				
-		</div>
-
-	</div>
-
-	<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">
-	
-    	<div class="hidden-md hidden-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-    				<div class="table-container">
-    					<div class="table-row">
-    						
-			                  <div class="table-cell">
-			                    <div class="menuicon-holder text-right">
-			                       
-			                    </div>
-			                  </div>
-			               
-                			
-    					</div>
-    				</div>
-    			</div>
-    		</div>
-    	</div>
-    	<div class="visible-md visible-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-	    			
-					
-	    			<div class="row">
-	   					<div class="col-xs-12 menuicon-holder">
-	   						
-	   					</div>
-	    			</div>
-    			</div>
-    		</div>
-    	</div>
-    
-			<p class="map-item hide">Sign In For Price</p>
-			
-			<div class="price-parent " >
-				
-								 	
-								 	<div class="price" data-regionNav="DEFAULT">$16.99</div>
-								 	
-									
-			</div>
-						
-	
-		<p id="100671949_tile_desc" class="description" >
-			<a href="https://www.costco.com/lee-men%e2%80%99s-short-sleeve-woven-pattern-shirt-.product.100671949.html">
-				Lee Men’s Short Sleeve Woven Pattern Shirt 
-			</a>
-		</p>
-		
-		
-			<ul class="product-features hidden-xs hidden-sm">
-				
-                	<li>Stretch Fabric for Extra Comfort</li> 
-                
-                	<li>
-Great Length to Wear Tucked In or Out</li> 
-                
-                	<li>
-Chambray Detail at Inner Cuff</li> 
-                
-			</ul>
-		
-	</div>
-</div>
-	
-	<input type="hidden" id="tobaccoProd" value="Standard" />
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="1" />
-	
-			<input type="hidden" class="partNumb" name="partNumb" value="1464254" />
-		<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="-1" />
-<input type="hidden" id="endIndex" name="resultCnt" value="-1" />
-
-		<div class="addbutton" id="quickAdd-0" style="display:none">
-	
-		<input type="hidden" class="itemNumber" name="itemNumber" value="1464254" />
-		<input type="hidden" class="partNumb" name="partNumb" value="1464254" />
-		
-		<input type="hidden" name="buyable" value="1" /> 
-	
-		
-	
-			<form id="AddToCartForm-0" name="OrderItemAddForm" autocomplete="off">
-			<input type="hidden" name="backURL" value="" />
-			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
-			<input type="hidden" id="langId" name="langId" value="-1" />
-			<input type="hidden" id="storeId" name="storeId" value="10301" />
-			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
-			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
-			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
-			<input type="hidden" id="refinementValue" name="refinementValue" value="" />
-			<input type="hidden" id="keyword" name="keyword" value="" />
-			
-			
-			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
-			
-				
-				<div class="row">
-					<div class="col-xs-12">
-							<div class="product-quick-buy">
-							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-0">
-									<button id="sub-0" type="button" class="btn disabled"
-											data-type="minus" data-field="" value="" tabindex="0"
-											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '0', '100671949','1464254', false)">
-										<i class="co-collapse"></i>
-									</button>
-									<input id="value-0" data-txt-qty type="text" 
-										    class="form-control" name="quantity-0" value="1"
-											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
-											aria-label = "Quantity to Add" 
-											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
-											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-0" type="button" 
-											class="btn" data-type="plus" data-field="" 
-											value="" tabindex="0"
-											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'0', '100671949','1464254', true)">
-										<i class="co-expand"></i>
-									</button>
-								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-0">
-									<input type="hidden" id="minquantity-0"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-0"class="maxQuantity" name="maxQuantity" value="9,999" />
-									<input type="hidden" name="orderItemId-0" value="" id="orderItemId-0" />
-									<input type="hidden" name="quantity-0" value="" id="quantity-0" />
-									
-									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-0" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'0', '100671949','1464254')">Add</button>
-								</div>
-							</div>
-							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-0" style="display:none"></div>
-								<span class="span-error" id="errordiv-0" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-0" style="display:none"></span>
-							</div>		
-						</div>
-					</div>
-				</div>			
-			</form>
-		<!-- dataSource: DATABASE    --><!-- inStock:     --><!-- productTileBean.inStock true    --><!-- productTileBean.costcoEntitledItems [Lcom.costco.commerce.catalog.beans.CostcoItemDataBean;@b57f9e00    -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>  
-	<!--  End of Button Section -->	
-
-</div>
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --><!-- Debugging Purpose ... Call to CostcoEspotDataBean from FeaturedProductTile.jspf :  2092743 --><!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --> 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/tommy-hilfiger-ladies'-tee-shirt.product.100668586.html">
-
-<div class="omniture">
-	<div class="scProdId" sc.prodId="100668586"></div>
-   	<div class="scMemberProductType" sc.memberProductType="member-only"></div>
-</div>
-
-
-<div class="pills-section">
-	
-</div>
-
-
-<div class="thumbnail" >
-
-	
-
-	<div class="product-img-holder link-behavior">
-		<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-			
-					<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'" src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=100668586-847__1&recipeName=350" alt="Tommy Hilfiger Ladies&#039; Tee Shirt" title="Tommy Hilfiger Ladies&#039; Tee Shirt"/>
-				
-		</div>
-
-	</div>
-
-	<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">
-	
-    	<div class="hidden-md hidden-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-    				<div class="table-container">
-    					<div class="table-row">
-    						
-			                  <div class="table-cell">
-			                    <div class="menuicon-holder text-right">
-			                       
-			                    </div>
-			                  </div>
-			               
-                			
-    					</div>
-    				</div>
-    			</div>
-    		</div>
-    	</div>
-    	<div class="visible-md visible-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-	    			
-					
-	    			<div class="row">
-	   					<div class="col-xs-12 menuicon-holder">
-	   						
-	   					</div>
-	    			</div>
-    			</div>
-    		</div>
-    	</div>
-    
-			<p class="map-item hide">Sign In For Price</p>
-		
-			<p class="member-only"><span class="co-c"></span>Member Only Item </p> 
-			
-			<div class="price-parent moi" style="display:none;">
-				
-								 	
-								 	<div class="price" data-regionNav="DEFAULT">$14.99</div>
-								 	
-									
-			</div>
-						
-	
-		<p id="100668586_tile_desc" class="description" >
-			<a href="https://www.costco.com/tommy-hilfiger-ladies&#039;-tee-shirt.product.100668586.html">
-				Tommy Hilfiger Ladies' Tee Shirt
-			</a>
-		</p>
-		
-		
-			<ul class="product-features hidden-xs hidden-sm">
-				
-                	<li>Knit Fabric</li> 
-                
-                	<li>
-Logo Detail</li> 
-                
-                	<li>
-Short Sleeves</li> 
-                
-			</ul>
-		
-	</div>
-</div>
-	
-	<input type="hidden" id="tobaccoProd" value="Standard" />
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="1" />
-	
-			<input type="hidden" class="partNumb" name="partNumb" value="1461219" />
-		<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="-1" />
-<input type="hidden" id="endIndex" name="resultCnt" value="-1" />
-
-		<div class="addbutton" id="quickAdd-1" style="display:none">
-	
-		<input type="hidden" class="itemNumber" name="itemNumber" value="1461219" />
-		<input type="hidden" class="partNumb" name="partNumb" value="1461219" />
-		
-		<input type="hidden" name="buyable" value="1" /> 
-	
-	<!-- dataSource: DATABASE    --><!-- inStock:     --><!-- productTileBean.inStock true    --><!-- productTileBean.costcoEntitledItems [Lcom.costco.commerce.catalog.beans.CostcoItemDataBean;@1a292056    -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>  
-	<!--  End of Button Section -->	
-
-</div>
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --><!-- Debugging Purpose ... Call to CostcoEspotDataBean from FeaturedProductTile.jspf :  1839041 --><!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --> 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/ben-sherman-men%e2%80%99s-short-sleeve-polo-.product.100567764.html">
-
-<div class="omniture">
-	<div class="scProdId" sc.prodId="100567764"></div>
-   	<div class="scMemberProductType" sc.memberProductType="na"></div>
-</div>
-
-
-<div class="pills-section">
-	
-</div>
-
-
-<div class="thumbnail" >
-
-	
-
-	<div class="product-img-holder link-behavior">
-		<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-			
-					<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'" src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=100567764-847__1&recipeName=350" alt="Ben Sherman Men’s Short Sleeve Polo " title="Ben Sherman Men’s Short Sleeve Polo "/>
-				
-		</div>
-
-	</div>
-
-	<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">
-	
-    	<div class="hidden-md hidden-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-    				<div class="table-container">
-    					<div class="table-row">
-    						
-			                  <div class="table-cell">
-			                    <div class="menuicon-holder text-right">
-			                       
-			                    </div>
-			                  </div>
-			               
-                			
-    					</div>
-    				</div>
-    			</div>
-    		</div>
-    	</div>
-    	<div class="visible-md visible-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-	    			
-					
-	    			<div class="row">
-	   					<div class="col-xs-12 menuicon-holder">
-	   						
-	   					</div>
-	    			</div>
-    			</div>
-    		</div>
-    	</div>
-    
-			<p class="map-item hide">Sign In For Price</p>
-			
-			<div class="price-parent " >
-				
-								 	
-								 	<div class="price" data-regionNav="DEFAULT">$14.99</div>
-								 	
-									
-			</div>
-						
-	
-		<p id="100567764_tile_desc" class="description" >
-			<a href="https://www.costco.com/ben-sherman-men%e2%80%99s-short-sleeve-polo-.product.100567764.html">
-				Ben Sherman Men’s Short Sleeve Polo 
-			</a>
-		</p>
-		
-		
-			<ul class="product-features hidden-xs hidden-sm">
-				
-                	<li>Button Snap Chest Pocket</li> 
-                
-                	<li> Soft Hand Feel</li> 
-                
-			</ul>
-		
-	</div>
-</div>
-	
-	<input type="hidden" id="tobaccoProd" value="Standard" />
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="1" />
-	
-			<input type="hidden" class="partNumb" name="partNumb" value="1419226" />
-		<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="-1" />
-<input type="hidden" id="endIndex" name="resultCnt" value="-1" />
-
-		<div class="addbutton" id="quickAdd-2" style="display:none">
-	
-		<input type="hidden" class="itemNumber" name="itemNumber" value="1419226" />
-		<input type="hidden" class="partNumb" name="partNumb" value="1419226" />
-		
-		<input type="hidden" name="buyable" value="1" /> 
-	
-		
-	
-			<form id="AddToCartForm-2" name="OrderItemAddForm" autocomplete="off">
-			<input type="hidden" name="backURL" value="" />
-			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
-			<input type="hidden" id="langId" name="langId" value="-1" />
-			<input type="hidden" id="storeId" name="storeId" value="10301" />
-			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
-			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
-			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
-			<input type="hidden" id="refinementValue" name="refinementValue" value="" />
-			<input type="hidden" id="keyword" name="keyword" value="" />
-			
-			
-			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
-			
-				
-				<div class="row">
-					<div class="col-xs-12">
-							<div class="product-quick-buy">
-							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-2">
-									<button id="sub-2" type="button" class="btn disabled"
-											data-type="minus" data-field="" value="" tabindex="0"
-											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '2', '100567764','1419226', false)">
-										<i class="co-collapse"></i>
-									</button>
-									<input id="value-2" data-txt-qty type="text" 
-										    class="form-control" name="quantity-2" value="1"
-											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
-											aria-label = "Quantity to Add" 
-											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
-											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-2" type="button" 
-											class="btn" data-type="plus" data-field="" 
-											value="" tabindex="0"
-											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'2', '100567764','1419226', true)">
-										<i class="co-expand"></i>
-									</button>
-								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-2">
-									<input type="hidden" id="minquantity-2"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-2"class="maxQuantity" name="maxQuantity" value="9,999" />
-									<input type="hidden" name="orderItemId-2" value="" id="orderItemId-2" />
-									<input type="hidden" name="quantity-2" value="1" id="quantity-2" />
-									
-									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-2" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'2', '100567764','1419226')">Add</button>
-								</div>
-							</div>
-							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-2" style="display:none"></div>
-								<span class="span-error" id="errordiv-2" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-2" style="display:none"></span>
-							</div>		
-						</div>
-					</div>
-				</div>			
-			</form>
-		<!-- dataSource: DATABASE    --><!-- inStock:     --><!-- productTileBean.inStock true    --><!-- productTileBean.costcoEntitledItems [Lcom.costco.commerce.catalog.beans.CostcoItemDataBean;@e8595c40    -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>  
-	<!--  End of Button Section -->	
-
-</div>
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --><!-- Debugging Purpose ... Call to CostcoEspotDataBean from FeaturedProductTile.jspf :  2080646 --><!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --> 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/leota-ladies'-printed-dress.product.100665014.html">
-
-<div class="omniture">
-	<div class="scProdId" sc.prodId="100665014"></div>
-   	<div class="scMemberProductType" sc.memberProductType="na"></div>
-</div>
-
-
-<div class="pills-section">
-	
-</div>
-
-
-<div class="thumbnail" >
-
-	
-
-	<div class="product-img-holder link-behavior">
-		<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-			
-					<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'" src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=100665014-847__1&recipeName=350" alt="Leota Ladies&#039; Printed Dress" title="Leota Ladies&#039; Printed Dress"/>
-				
-		</div>
-
-	</div>
-
-	<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">
-	
-    	<div class="hidden-md hidden-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-    				<div class="table-container">
-    					<div class="table-row">
-    						
-			                  <div class="table-cell">
-			                    <div class="menuicon-holder text-right">
-			                       
-			                    </div>
-			                  </div>
-			               
-                			
-    					</div>
-    				</div>
-    			</div>
-    		</div>
-    	</div>
-    	<div class="visible-md visible-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-	    			
-					
-	    			<div class="row">
-	   					<div class="col-xs-12 menuicon-holder">
-	   						
-	   					</div>
-	    			</div>
-    			</div>
-    		</div>
-    	</div>
-    
-			<p class="map-item hide">Sign In For Price</p>
-			
-			<div class="price-parent " >
-				
-								 	
-								 	<div class="price" data-regionNav="DEFAULT">$24.99</div>
-								 	
-									
-			</div>
-						
-	
-		<p id="100665014_tile_desc" class="description" >
-			<a href="https://www.costco.com/leota-ladies&#039;-printed-dress.product.100665014.html">
-				Leota Ladies' Printed Dress
-			</a>
-		</p>
-		
-		
-			<ul class="product-features hidden-xs hidden-sm">
-				
-                	<li>Wrinkle-Free Breathable Jersey Fabric</li> 
-                
-                	<li> Machine Washable</li> 
-                
-			</ul>
-		
-	</div>
-</div>
-	
-	<input type="hidden" id="tobaccoProd" value="Standard" />
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="1" />
-	
-			<input type="hidden" class="partNumb" name="partNumb" value="1456926" />
-		<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="-1" />
-<input type="hidden" id="endIndex" name="resultCnt" value="-1" />
-
-		<div class="addbutton" id="quickAdd-3" style="display:none">
-	
-		<input type="hidden" class="itemNumber" name="itemNumber" value="1456926" />
-		<input type="hidden" class="partNumb" name="partNumb" value="1456926" />
-		
-		<input type="hidden" name="buyable" value="1" /> 
-	
-		
-	
-			<form id="AddToCartForm-3" name="OrderItemAddForm" autocomplete="off">
-			<input type="hidden" name="backURL" value="" />
-			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
-			<input type="hidden" id="langId" name="langId" value="-1" />
-			<input type="hidden" id="storeId" name="storeId" value="10301" />
-			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
-			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
-			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
-			<input type="hidden" id="refinementValue" name="refinementValue" value="" />
-			<input type="hidden" id="keyword" name="keyword" value="" />
-			
-			
-			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
-			
-				
-				<div class="row">
-					<div class="col-xs-12">
-							<div class="product-quick-buy">
-							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-3">
-									<button id="sub-3" type="button" class="btn disabled"
-											data-type="minus" data-field="" value="" tabindex="0"
-											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '3', '100665014','1456926', false)">
-										<i class="co-collapse"></i>
-									</button>
-									<input id="value-3" data-txt-qty type="text" 
-										    class="form-control" name="quantity-3" value="1"
-											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
-											aria-label = "Quantity to Add" 
-											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
-											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-3" type="button" 
-											class="btn" data-type="plus" data-field="" 
-											value="" tabindex="0"
-											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'3', '100665014','1456926', true)">
-										<i class="co-expand"></i>
-									</button>
-								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-3">
-									<input type="hidden" id="minquantity-3"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-3"class="maxQuantity" name="maxQuantity" value="9,999" />
-									<input type="hidden" name="orderItemId-3" value="" id="orderItemId-3" />
-									<input type="hidden" name="quantity-3" value="1" id="quantity-3" />
-									
-									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-3" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'3', '100665014','1456926')">Add</button>
-								</div>
-							</div>
-							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-3" style="display:none"></div>
-								<span class="span-error" id="errordiv-3" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-3" style="display:none"></span>
-							</div>		
-						</div>
-					</div>
-				</div>			
-			</form>
-		<!-- dataSource: DATABASE    --><!-- inStock:     --><!-- productTileBean.inStock true    --><!-- productTileBean.costcoEntitledItems [Lcom.costco.commerce.catalog.beans.CostcoItemDataBean;@e800c110    -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>  
-	<!--  End of Button Section -->	
-
-</div>
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --><!-- Debugging Purpose ... Call to CostcoEspotDataBean from FeaturedProductTile.jspf :  2030925 --><!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --> 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/lucky-brand-men%e2%80%99s-long-sleeve-shirt-.product.100650464.html">
-
-<div class="omniture">
-	<div class="scProdId" sc.prodId="100650464"></div>
-   	<div class="scMemberProductType" sc.memberProductType="na"></div>
-</div>
-
-
-<div class="pills-section">
-	
-</div>
-
-
-<div class="thumbnail" >
-
-	
-
-	<div class="product-img-holder link-behavior">
-		<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-			
-					<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'" src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=100650464-847__1&recipeName=350" alt="Lucky Brand Men’s Long Sleeve Shirt " title="Lucky Brand Men’s Long Sleeve Shirt "/>
-				
-		</div>
-
-	</div>
-
-	<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">
-	
-    	<div class="hidden-md hidden-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-    				<div class="table-container">
-    					<div class="table-row">
-    						
-			                  <div class="table-cell">
-			                    <div class="menuicon-holder text-right">
-			                       
-			                    </div>
-			                  </div>
-			               
-                			
-    					</div>
-    				</div>
-    			</div>
-    		</div>
-    	</div>
-    	<div class="visible-md visible-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-	    			
-					
-	    			<div class="row">
-	   					<div class="col-xs-12 menuicon-holder">
-	   						
-	   					</div>
-	    			</div>
-    			</div>
-    		</div>
-    	</div>
-    
-			<p class="map-item hide">Sign In For Price</p>
-			
-			<div class="price-parent " >
-				
-								 	
-								 	<div class="price" data-regionNav="DEFAULT">$16.99</div>
-								 	
-									
-			</div>
-						
-	
-		<p id="100650464_tile_desc" class="description" >
-			<a href="https://www.costco.com/lucky-brand-men%e2%80%99s-long-sleeve-shirt-.product.100650464.html">
-				Lucky Brand Men’s Long Sleeve Shirt 
-			</a>
-		</p>
-		
-		
-			<ul class="product-features hidden-xs hidden-sm">
-				
-                	<li>Soft Jaspe Fabric</li> 
-                
-			</ul>
-		
-	</div>
-</div>
-	
-	<input type="hidden" id="tobaccoProd" value="Standard" />
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="1" />
-	
-			<input type="hidden" class="partNumb" name="partNumb" value="1439776" />
-		<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="-1" />
-<input type="hidden" id="endIndex" name="resultCnt" value="-1" />
-
-		<div class="addbutton" id="quickAdd-4" style="display:none">
-	
-		<input type="hidden" class="itemNumber" name="itemNumber" value="1439776" />
-		<input type="hidden" class="partNumb" name="partNumb" value="1439776" />
-		
-		<input type="hidden" name="buyable" value="1" /> 
-	
-		
-	
-			<form id="AddToCartForm-4" name="OrderItemAddForm" autocomplete="off">
-			<input type="hidden" name="backURL" value="" />
-			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
-			<input type="hidden" id="langId" name="langId" value="-1" />
-			<input type="hidden" id="storeId" name="storeId" value="10301" />
-			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
-			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
-			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
-			<input type="hidden" id="refinementValue" name="refinementValue" value="" />
-			<input type="hidden" id="keyword" name="keyword" value="" />
-			
-			
-			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
-			
-				
-				<div class="row">
-					<div class="col-xs-12">
-							<div class="product-quick-buy">
-							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-4">
-									<button id="sub-4" type="button" class="btn disabled"
-											data-type="minus" data-field="" value="" tabindex="0"
-											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '4', '100650464','1439776', false)">
-										<i class="co-collapse"></i>
-									</button>
-									<input id="value-4" data-txt-qty type="text" 
-										    class="form-control" name="quantity-4" value="1"
-											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
-											aria-label = "Quantity to Add" 
-											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
-											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-4" type="button" 
-											class="btn" data-type="plus" data-field="" 
-											value="" tabindex="0"
-											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'4', '100650464','1439776', true)">
-										<i class="co-expand"></i>
-									</button>
-								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-4">
-									<input type="hidden" id="minquantity-4"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-4"class="maxQuantity" name="maxQuantity" value="9,999" />
-									<input type="hidden" name="orderItemId-4" value="" id="orderItemId-4" />
-									<input type="hidden" name="quantity-4" value="1" id="quantity-4" />
-									
-									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-4" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'4', '100650464','1439776')">Add</button>
-								</div>
-							</div>
-							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-4" style="display:none"></div>
-								<span class="span-error" id="errordiv-4" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-4" style="display:none"></span>
-							</div>		
-						</div>
-					</div>
-				</div>			
-			</form>
-		<!-- dataSource: DATABASE    --><!-- inStock:     --><!-- productTileBean.inStock true    --><!-- productTileBean.costcoEntitledItems [Lcom.costco.commerce.catalog.beans.CostcoItemDataBean;@ba076694    -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>  
-	<!--  End of Button Section -->	
-
-</div>
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --><!-- Debugging Purpose ... Call to CostcoEspotDataBean from FeaturedProductTile.jspf :  2091589 --><!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --> 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/carhartt-men's-signature-logo-sweatshirt.product.100667576.html">
-
-<div class="omniture">
-	<div class="scProdId" sc.prodId="100667576"></div>
-   	<div class="scMemberProductType" sc.memberProductType="member-only"></div>
-</div>
-
-
-<div class="pills-section">
-	
-</div>
-
-
-<div class="thumbnail" >
-
-	
-
-	<div class="product-img-holder link-behavior">
-		<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-			
-					<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'" src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=100667576-847__1&recipeName=350" alt="Carhartt Men&#039;s Signature Logo Sweatshirt" title="Carhartt Men&#039;s Signature Logo Sweatshirt"/>
-				
-		</div>
-
-	</div>
-
-	<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">
-	
-    	<div class="hidden-md hidden-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-    				<div class="table-container">
-    					<div class="table-row">
-    						
-			                  <div class="table-cell">
-			                    <div class="menuicon-holder text-right">
-			                       
-			                    </div>
-			                  </div>
-			               
-                			
-    					</div>
-    				</div>
-    			</div>
-    		</div>
-    	</div>
-    	<div class="visible-md visible-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-	    			
-					
-	    			<div class="row">
-	   					<div class="col-xs-12 menuicon-holder">
-	   						
-	   					</div>
-	    			</div>
-    			</div>
-    		</div>
-    	</div>
-    
-			<p class="map-item hide">Sign In For Price</p>
-		
-			<p class="member-only"><span class="co-c"></span>Member Only Item </p> 
-			
-			<div class="price-parent moi" style="display:none;">
-				
-								 	
-								 	<div class="price" data-regionNav="DEFAULT">$36.99</div>
-								 	
-									
-			</div>
-						
-	
-		<p id="100667576_tile_desc" class="description" >
-			<a href="https://www.costco.com/carhartt-men&#039;s-signature-logo-sweatshirt.product.100667576.html">
-				Carhartt Men's Signature Logo Sweatshirt
-			</a>
-		</p>
-		
-		
-			<ul class="product-features hidden-xs hidden-sm">
-				
-                	<li>Stretchable, Reinforced Rib Knit Cuffs and Waistband</li> 
-                
-                	<li> 
-Front Hand Warmer Pocket</li> 
-                
-                	<li>
-Hood with Draw-Cord Closure</li> 
-                
-			</ul>
-		
-	</div>
-</div>
-	
-	<input type="hidden" id="tobaccoProd" value="Standard" />
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="1" />
-	
-			<input type="hidden" class="partNumb" name="partNumb" value="1459875" />
-		<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="-1" />
-<input type="hidden" id="endIndex" name="resultCnt" value="-1" />
-
-		<div class="addbutton" id="quickAdd-5" style="display:none">
-	
-		<input type="hidden" class="itemNumber" name="itemNumber" value="1459875" />
-		<input type="hidden" class="partNumb" name="partNumb" value="1459875" />
-		
-		<input type="hidden" name="buyable" value="1" /> 
-	
-	<!-- dataSource: DATABASE    --><!-- inStock:     --><!-- productTileBean.inStock true    --><!-- productTileBean.costcoEntitledItems [Lcom.costco.commerce.catalog.beans.CostcoItemDataBean;@c15d7df6    -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>  
-	<!--  End of Button Section -->	
-
-</div>
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --><!-- Debugging Purpose ... Call to CostcoEspotDataBean from FeaturedProductTile.jspf :  1838103 --><!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --> 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/william-rast-ladies'-wide-leg-jean.product.100567892.html">
-
-<div class="omniture">
-	<div class="scProdId" sc.prodId="100567892"></div>
-   	<div class="scMemberProductType" sc.memberProductType="na"></div>
-</div>
-
-
-<div class="pills-section">
-	
-</div>
-
-
-<div class="thumbnail" >
-
-	
-
-	<div class="product-img-holder link-behavior">
-		<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-			
-					<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'" src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=100567892-847__1&recipeName=350" alt="William Rast Ladies&#039; Wide Leg Jean" title="William Rast Ladies&#039; Wide Leg Jean"/>
-				
-		</div>
-
-	</div>
-
-	<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">
-	
-    	<div class="hidden-md hidden-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-    				<div class="table-container">
-    					<div class="table-row">
-    						
-			                  <div class="table-cell">
-			                    <div class="menuicon-holder text-right">
-			                       
-			                    </div>
-			                  </div>
-			               
-                			
-    					</div>
-    				</div>
-    			</div>
-    		</div>
-    	</div>
-    	<div class="visible-md visible-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-	    			
-					
-	    			<div class="row">
-	   					<div class="col-xs-12 menuicon-holder">
-	   						
-	   					</div>
-	    			</div>
-    			</div>
-    		</div>
-    	</div>
-    
-			<p class="map-item hide">Sign In For Price</p>
-			
-			<div class="price-parent " >
-				
-								 	
-								 	<div class="price" data-regionNav="DEFAULT">$19.99</div>
-								 	
-									
-			</div>
-						
-	
-		<p id="100567892_tile_desc" class="description" >
-			<a href="https://www.costco.com/william-rast-ladies&#039;-wide-leg-jean.product.100567892.html">
-				William Rast Ladies' Wide Leg Jean
-			</a>
-		</p>
-		
-		
-			<ul class="product-features hidden-xs hidden-sm">
-				
-                	<li>Wide Crop Leg</li> 
-                
-                	<li> Classic Five Pocket Style</li> 
-                
-                	<li> Button Front Closure</li> 
-                
-			</ul>
-		
-	</div>
-</div>
-	
-	<input type="hidden" id="tobaccoProd" value="Standard" />
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="1" />
-	
-			<input type="hidden" class="partNumb" name="partNumb" value="1418890" />
-		<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="-1" />
-<input type="hidden" id="endIndex" name="resultCnt" value="-1" />
-
-		<div class="addbutton" id="quickAdd-6" style="display:none">
-	
-		<input type="hidden" class="itemNumber" name="itemNumber" value="1418890" />
-		<input type="hidden" class="partNumb" name="partNumb" value="1418890" />
-		
-		<input type="hidden" name="buyable" value="1" /> 
-	
-		
-	
-			<form id="AddToCartForm-6" name="OrderItemAddForm" autocomplete="off">
-			<input type="hidden" name="backURL" value="" />
-			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
-			<input type="hidden" id="langId" name="langId" value="-1" />
-			<input type="hidden" id="storeId" name="storeId" value="10301" />
-			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
-			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
-			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
-			<input type="hidden" id="refinementValue" name="refinementValue" value="" />
-			<input type="hidden" id="keyword" name="keyword" value="" />
-			
-			
-			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
-			
-				
-				<div class="row">
-					<div class="col-xs-12">
-							<div class="product-quick-buy">
-							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-6">
-									<button id="sub-6" type="button" class="btn disabled"
-											data-type="minus" data-field="" value="" tabindex="0"
-											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '6', '100567892','1418890', false)">
-										<i class="co-collapse"></i>
-									</button>
-									<input id="value-6" data-txt-qty type="text" 
-										    class="form-control" name="quantity-6" value="1"
-											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
-											aria-label = "Quantity to Add" 
-											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
-											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-6" type="button" 
-											class="btn" data-type="plus" data-field="" 
-											value="" tabindex="0"
-											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'6', '100567892','1418890', true)">
-										<i class="co-expand"></i>
-									</button>
-								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-6">
-									<input type="hidden" id="minquantity-6"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-6"class="maxQuantity" name="maxQuantity" value="9,999" />
-									<input type="hidden" name="orderItemId-6" value="" id="orderItemId-6" />
-									<input type="hidden" name="quantity-6" value="1" id="quantity-6" />
-									
-									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-6" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'6', '100567892','1418890')">Add</button>
-								</div>
-							</div>
-							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-6" style="display:none"></div>
-								<span class="span-error" id="errordiv-6" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-6" style="display:none"></span>
-							</div>		
-						</div>
-					</div>
-				</div>			
-			</form>
-		<!-- dataSource: DATABASE    --><!-- inStock:     --><!-- productTileBean.inStock true    --><!-- productTileBean.costcoEntitledItems [Lcom.costco.commerce.catalog.beans.CostcoItemDataBean;@f86790a0    -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>  
-	<!--  End of Button Section -->	
-
-</div>
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --><!-- Debugging Purpose ... Call to CostcoEspotDataBean from FeaturedProductTile.jspf :  2096355 --><!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --> 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/weatherproof-vintage-short-sleeve-linen-cotton-slub.product.100670832.html">
-
-<div class="omniture">
-	<div class="scProdId" sc.prodId="100670832"></div>
-   	<div class="scMemberProductType" sc.memberProductType="na"></div>
-</div>
-
-
-<div class="pills-section">
-	
-</div>
-
-
-<div class="thumbnail" >
-
-	
-
-	<div class="product-img-holder link-behavior">
-		<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-			
-					<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'" src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=100670832-847__1&recipeName=350" alt="Weatherproof Vintage Short Sleeve Linen Cotton SLUB" title="Weatherproof Vintage Short Sleeve Linen Cotton SLUB"/>
-				
-		</div>
-
-	</div>
-
-	<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">
-	
-    	<div class="hidden-md hidden-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-    				<div class="table-container">
-    					<div class="table-row">
-    						
-			                  <div class="table-cell">
-			                    <div class="menuicon-holder text-right">
-			                       
-			                    </div>
-			                  </div>
-			               
-                			
-    					</div>
-    				</div>
-    			</div>
-    		</div>
-    	</div>
-    	<div class="visible-md visible-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-	    			
-					
-	    			<div class="row">
-	   					<div class="col-xs-12 menuicon-holder">
-	   						
-	   					</div>
-	    			</div>
-    			</div>
-    		</div>
-    	</div>
-    
-			<p class="map-item hide">Sign In For Price</p>
-			
-			<div class="price-parent " >
-				
-								 	
-								 	<div class="price" data-regionNav="DEFAULT">$19.99</div>
-								 	
-									
-			</div>
-						
-	
-		<p id="100670832_tile_desc" class="description" >
-			<a href="https://www.costco.com/weatherproof-vintage-short-sleeve-linen-cotton-slub.product.100670832.html">
-				Weatherproof Vintage Short Sleeve Linen Cotton SLUB
-			</a>
-		</p>
-		
-		
-			<ul class="product-features hidden-xs hidden-sm">
-				
-                	<li>Button Down Collar</li> 
-                
-                	<li> 
-Soft Fabric Hand Feel</li> 
-                
-			</ul>
-		
-	</div>
-</div>
-	
-	<input type="hidden" id="tobaccoProd" value="Standard" />
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="1" />
-	
-			<input type="hidden" class="partNumb" name="partNumb" value="1463033" />
-		<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="-1" />
-<input type="hidden" id="endIndex" name="resultCnt" value="-1" />
-
-		<div class="addbutton" id="quickAdd-7" style="display:none">
-	
-		<input type="hidden" class="itemNumber" name="itemNumber" value="1463033" />
-		<input type="hidden" class="partNumb" name="partNumb" value="1463033" />
-		
-		<input type="hidden" name="buyable" value="1" /> 
-	
-		
-	
-			<form id="AddToCartForm-7" name="OrderItemAddForm" autocomplete="off">
-			<input type="hidden" name="backURL" value="" />
-			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
-			<input type="hidden" id="langId" name="langId" value="-1" />
-			<input type="hidden" id="storeId" name="storeId" value="10301" />
-			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
-			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
-			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
-			<input type="hidden" id="refinementValue" name="refinementValue" value="" />
-			<input type="hidden" id="keyword" name="keyword" value="" />
-			
-			
-			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
-			
-				
-				<div class="row">
-					<div class="col-xs-12">
-							<div class="product-quick-buy">
-							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-7">
-									<button id="sub-7" type="button" class="btn disabled"
-											data-type="minus" data-field="" value="" tabindex="0"
-											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '7', '100670832','1463033', false)">
-										<i class="co-collapse"></i>
-									</button>
-									<input id="value-7" data-txt-qty type="text" 
-										    class="form-control" name="quantity-7" value="1"
-											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
-											aria-label = "Quantity to Add" 
-											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
-											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-7" type="button" 
-											class="btn" data-type="plus" data-field="" 
-											value="" tabindex="0"
-											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'7', '100670832','1463033', true)">
-										<i class="co-expand"></i>
-									</button>
-								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-7">
-									<input type="hidden" id="minquantity-7"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-7"class="maxQuantity" name="maxQuantity" value="9,999" />
-									<input type="hidden" name="orderItemId-7" value="" id="orderItemId-7" />
-									<input type="hidden" name="quantity-7" value="1" id="quantity-7" />
-									
-									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-7" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'7', '100670832','1463033')">Add</button>
-								</div>
-							</div>
-							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-7" style="display:none"></div>
-								<span class="span-error" id="errordiv-7" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-7" style="display:none"></span>
-							</div>		
-						</div>
-					</div>
-				</div>			
-			</form>
-		<!-- dataSource: DATABASE    --><!-- inStock:     --><!-- productTileBean.inStock true    --><!-- productTileBean.costcoEntitledItems [Lcom.costco.commerce.catalog.beans.CostcoItemDataBean;@6a860920    -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>  
-	<!--  End of Button Section -->	
-
-</div>
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --><!-- Debugging Purpose ... Call to CostcoEspotDataBean from FeaturedProductTile.jspf :  1865015 --><!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --> 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/two-by-vince-camuto-ladies'-button-cardigan.product.100574248.html">
-
-<div class="omniture">
-	<div class="scProdId" sc.prodId="100574248"></div>
-   	<div class="scMemberProductType" sc.memberProductType="na"></div>
-</div>
-
-
-<div class="pills-section">
-	
-</div>
-
-
-<div class="thumbnail" >
-
-	
-
-	<div class="product-img-holder link-behavior">
-		<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-			
-					<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'" src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=100574248-847__1&recipeName=350" alt="Two by Vince Camuto Ladies&#039; Button Cardigan" title="Two by Vince Camuto Ladies&#039; Button Cardigan"/>
-				
-		</div>
-
-	</div>
-
-	<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">
-	
-    	<div class="hidden-md hidden-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-    				<div class="table-container">
-    					<div class="table-row">
-    						
-			                  <div class="table-cell">
-			                    <div class="menuicon-holder text-right">
-			                       
-			                    </div>
-			                  </div>
-			               
-                			
-    					</div>
-    				</div>
-    			</div>
-    		</div>
-    	</div>
-    	<div class="visible-md visible-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-	    			
-					
-	    			<div class="row">
-	   					<div class="col-xs-12 menuicon-holder">
-	   						
-	   					</div>
-	    			</div>
-    			</div>
-    		</div>
-    	</div>
-    
-			<p class="map-item hide">Sign In For Price</p>
-			
-			<div class="price-parent " >
-				
-								 	
-								 	<div class="price" data-regionNav="DEFAULT">$16.99</div>
-								 	
-									
-			</div>
-						
-	
-		<p id="100574248_tile_desc" class="description" >
-			<a href="https://www.costco.com/two-by-vince-camuto-ladies&#039;-button-cardigan.product.100574248.html">
-				Two by Vince Camuto Ladies' Button Cardigan
-			</a>
-		</p>
-		
-		
-			<ul class="product-features hidden-xs hidden-sm">
-				
-                	<li>Soft Texture</li> 
-                
-                	<li> Slub Knit</li> 
-                
-                	<li> Functional Button Front Style</li> 
-                
-			</ul>
-		
-	</div>
-</div>
-	
-	<input type="hidden" id="tobaccoProd" value="Standard" />
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="1" />
-	
-			<input type="hidden" class="partNumb" name="partNumb" value="1428111" />
-		<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="-1" />
-<input type="hidden" id="endIndex" name="resultCnt" value="-1" />
-
-		<div class="addbutton" id="quickAdd-8" style="display:none">
-	
-		<input type="hidden" class="itemNumber" name="itemNumber" value="1428111" />
-		<input type="hidden" class="partNumb" name="partNumb" value="1428111" />
-		
-		<input type="hidden" name="buyable" value="1" /> 
-	
-		
-	
-			<form id="AddToCartForm-8" name="OrderItemAddForm" autocomplete="off">
-			<input type="hidden" name="backURL" value="" />
-			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
-			<input type="hidden" id="langId" name="langId" value="-1" />
-			<input type="hidden" id="storeId" name="storeId" value="10301" />
-			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
-			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
-			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
-			<input type="hidden" id="refinementValue" name="refinementValue" value="" />
-			<input type="hidden" id="keyword" name="keyword" value="" />
-			
-			
-			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
-			
-				
-				<div class="row">
-					<div class="col-xs-12">
-							<div class="product-quick-buy">
-							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-8">
-									<button id="sub-8" type="button" class="btn disabled"
-											data-type="minus" data-field="" value="" tabindex="0"
-											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '8', '100574248','1428111', false)">
-										<i class="co-collapse"></i>
-									</button>
-									<input id="value-8" data-txt-qty type="text" 
-										    class="form-control" name="quantity-8" value="1"
-											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
-											aria-label = "Quantity to Add" 
-											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
-											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-8" type="button" 
-											class="btn" data-type="plus" data-field="" 
-											value="" tabindex="0"
-											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'8', '100574248','1428111', true)">
-										<i class="co-expand"></i>
-									</button>
-								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-8">
-									<input type="hidden" id="minquantity-8"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-8"class="maxQuantity" name="maxQuantity" value="9,999" />
-									<input type="hidden" name="orderItemId-8" value="" id="orderItemId-8" />
-									<input type="hidden" name="quantity-8" value="1" id="quantity-8" />
-									
-									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-8" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'8', '100574248','1428111')">Add</button>
-								</div>
-							</div>
-							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-8" style="display:none"></div>
-								<span class="span-error" id="errordiv-8" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-8" style="display:none"></span>
-							</div>		
-						</div>
-					</div>
-				</div>			
-			</form>
-		<!-- dataSource: DATABASE    --><!-- inStock:     --><!-- productTileBean.inStock true    --><!-- productTileBean.costcoEntitledItems [Lcom.costco.commerce.catalog.beans.CostcoItemDataBean;@fb24bb    -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>  
-	<!--  End of Button Section -->	
-
-</div>
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --><!-- Debugging Purpose ... Call to CostcoEspotDataBean from FeaturedProductTile.jspf :  2097678 --><!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --> 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/weatherproof-vintage-men's-short-sleeve-microstripe-polo.product.100670903.html">
-
-<div class="omniture">
-	<div class="scProdId" sc.prodId="100670903"></div>
-   	<div class="scMemberProductType" sc.memberProductType="na"></div>
-</div>
-
-
-<div class="pills-section">
-	
-</div>
-
-
-<div class="thumbnail" >
-
-	
-
-	<div class="product-img-holder link-behavior">
-		<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-			
-					<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'" src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=100670903-847__1&recipeName=350" alt="Weatherproof Vintage Men&#039;s Short Sleeve Microstripe Polo" title="Weatherproof Vintage Men&#039;s Short Sleeve Microstripe Polo"/>
-				
-		</div>
-
-	</div>
-
-	<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">
-	
-    	<div class="hidden-md hidden-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-    				<div class="table-container">
-    					<div class="table-row">
-    						
-			                  <div class="table-cell">
-			                    <div class="menuicon-holder text-right">
-			                       
-			                    </div>
-			                  </div>
-			               
-                			
-    					</div>
-    				</div>
-    			</div>
-    		</div>
-    	</div>
-    	<div class="visible-md visible-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-	    			
-					
-	    			<div class="row">
-	   					<div class="col-xs-12 menuicon-holder">
-	   						
-	   					</div>
-	    			</div>
-    			</div>
-    		</div>
-    	</div>
-    
-			<p class="map-item hide">Sign In For Price</p>
-			
-			<div class="price-parent " >
-				
-								 	
-								 	<div class="price" data-regionNav="DEFAULT">$17.99</div>
-								 	
-									
-			</div>
-						
-	
-		<p id="100670903_tile_desc" class="description" >
-			<a href="https://www.costco.com/weatherproof-vintage-men&#039;s-short-sleeve-microstripe-polo.product.100670903.html">
-				Weatherproof Vintage Men's Short Sleeve Microstripe Polo
-			</a>
-		</p>
-		
-		
-			<ul class="product-features hidden-xs hidden-sm">
-				
-                	<li>Three Button Collar</li> 
-                
-			</ul>
-		
-	</div>
-</div>
-	
-	<input type="hidden" id="tobaccoProd" value="Standard" />
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="1" />
-	
-			<input type="hidden" class="partNumb" name="partNumb" value="1463012" />
-		<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="-1" />
-<input type="hidden" id="endIndex" name="resultCnt" value="-1" />
-
-		<div class="addbutton" id="quickAdd-9" style="display:none">
-	
-		<input type="hidden" class="itemNumber" name="itemNumber" value="1463012" />
-		<input type="hidden" class="partNumb" name="partNumb" value="1463012" />
-		
-		<input type="hidden" name="buyable" value="1" /> 
-	
-		
-	
-			<form id="AddToCartForm-9" name="OrderItemAddForm" autocomplete="off">
-			<input type="hidden" name="backURL" value="" />
-			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
-			<input type="hidden" id="langId" name="langId" value="-1" />
-			<input type="hidden" id="storeId" name="storeId" value="10301" />
-			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
-			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
-			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
-			<input type="hidden" id="refinementValue" name="refinementValue" value="" />
-			<input type="hidden" id="keyword" name="keyword" value="" />
-			
-			
-			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
-			
-				
-				<div class="row">
-					<div class="col-xs-12">
-							<div class="product-quick-buy">
-							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-9">
-									<button id="sub-9" type="button" class="btn disabled"
-											data-type="minus" data-field="" value="" tabindex="0"
-											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '9', '100670903','1463012', false)">
-										<i class="co-collapse"></i>
-									</button>
-									<input id="value-9" data-txt-qty type="text" 
-										    class="form-control" name="quantity-9" value="1"
-											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
-											aria-label = "Quantity to Add" 
-											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
-											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-9" type="button" 
-											class="btn" data-type="plus" data-field="" 
-											value="" tabindex="0"
-											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'9', '100670903','1463012', true)">
-										<i class="co-expand"></i>
-									</button>
-								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-9">
-									<input type="hidden" id="minquantity-9"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-9"class="maxQuantity" name="maxQuantity" value="9,999" />
-									<input type="hidden" name="orderItemId-9" value="" id="orderItemId-9" />
-									<input type="hidden" name="quantity-9" value="1" id="quantity-9" />
-									
-									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-9" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'9', '100670903','1463012')">Add</button>
-								</div>
-							</div>
-							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-9" style="display:none"></div>
-								<span class="span-error" id="errordiv-9" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-9" style="display:none"></span>
-							</div>		
-						</div>
-					</div>
-				</div>			
-			</form>
-		<!-- dataSource: DATABASE    --><!-- inStock:     --><!-- productTileBean.inStock true    --><!-- productTileBean.costcoEntitledItems [Lcom.costco.commerce.catalog.beans.CostcoItemDataBean;@d830803    -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>  
-	<!--  End of Button Section -->	
-
-</div>
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --><!-- Debugging Purpose ... Call to CostcoEspotDataBean from FeaturedProductTile.jspf :  2096825 --><!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --> 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/weatherproof-vintage-men%e2%80%99s-canvas-short-.product.100670887.html">
-
-<div class="omniture">
-	<div class="scProdId" sc.prodId="100670887"></div>
-   	<div class="scMemberProductType" sc.memberProductType="na"></div>
-</div>
-
-
-<div class="pills-section">
-	
-</div>
-
-
-<div class="thumbnail" >
-
-	
-
-	<div class="product-img-holder link-behavior">
-		<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-			
-					<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'" src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=100670887-847__1&recipeName=350" alt="Weatherproof Vintage Men’s Canvas Short " title="Weatherproof Vintage Men’s Canvas Short "/>
-				
-		</div>
-
-	</div>
-
-	<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">
-	
-    	<div class="hidden-md hidden-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-    				<div class="table-container">
-    					<div class="table-row">
-    						
-			                  <div class="table-cell">
-			                    <div class="menuicon-holder text-right">
-			                       
-			                    </div>
-			                  </div>
-			               
-                			
-    					</div>
-    				</div>
-    			</div>
-    		</div>
-    	</div>
-    	<div class="visible-md visible-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-	    			
-					
-	    			<div class="row">
-	   					<div class="col-xs-12 menuicon-holder">
-	   						
-	   					</div>
-	    			</div>
-    			</div>
-    		</div>
-    	</div>
-    
-			<p class="map-item hide">Sign In For Price</p>
-			
-			<div class="price-parent " >
-				
-								 	
-								 	<div class="price" data-regionNav="DEFAULT">$19.99</div>
-								 	
-									
-			</div>
-						
-	
-		<p id="100670887_tile_desc" class="description" >
-			<a href="https://www.costco.com/weatherproof-vintage-men%e2%80%99s-canvas-short-.product.100670887.html">
-				Weatherproof Vintage Men’s Canvas Short 
-			</a>
-		</p>
-		
-		
-			<ul class="product-features hidden-xs hidden-sm">
-				
-                	<li>Comfort Stretch</li> 
-                
-                	<li> Garment Washed For Soft Hand Feel</li> 
-                
-			</ul>
-		
-	</div>
-</div>
-	
-	<input type="hidden" id="tobaccoProd" value="Standard" />
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="1" />
-	
-			<input type="hidden" class="partNumb" name="partNumb" value="1462982" />
-		<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="-1" />
-<input type="hidden" id="endIndex" name="resultCnt" value="-1" />
-
-		<div class="addbutton" id="quickAdd-10" style="display:none">
-	
-		<input type="hidden" class="itemNumber" name="itemNumber" value="1462982" />
-		<input type="hidden" class="partNumb" name="partNumb" value="1462982" />
-		
-		<input type="hidden" name="buyable" value="1" /> 
-	
-		
-	
-			<form id="AddToCartForm-10" name="OrderItemAddForm" autocomplete="off">
-			<input type="hidden" name="backURL" value="" />
-			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
-			<input type="hidden" id="langId" name="langId" value="-1" />
-			<input type="hidden" id="storeId" name="storeId" value="10301" />
-			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
-			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
-			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
-			<input type="hidden" id="refinementValue" name="refinementValue" value="" />
-			<input type="hidden" id="keyword" name="keyword" value="" />
-			
-			
-			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
-			
-				
-				<div class="row">
-					<div class="col-xs-12">
-							<div class="product-quick-buy">
-							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-10">
-									<button id="sub-10" type="button" class="btn disabled"
-											data-type="minus" data-field="" value="" tabindex="0"
-											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '10', '100670887','1462982', false)">
-										<i class="co-collapse"></i>
-									</button>
-									<input id="value-10" data-txt-qty type="text" 
-										    class="form-control" name="quantity-10" value="1"
-											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
-											aria-label = "Quantity to Add" 
-											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
-											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-10" type="button" 
-											class="btn" data-type="plus" data-field="" 
-											value="" tabindex="0"
-											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'10', '100670887','1462982', true)">
-										<i class="co-expand"></i>
-									</button>
-								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-10">
-									<input type="hidden" id="minquantity-10"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-10"class="maxQuantity" name="maxQuantity" value="9,999" />
-									<input type="hidden" name="orderItemId-10" value="" id="orderItemId-10" />
-									<input type="hidden" name="quantity-10" value="1" id="quantity-10" />
-									
-									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-10" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'10', '100670887','1462982')">Add</button>
-								</div>
-							</div>
-							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-10" style="display:none"></div>
-								<span class="span-error" id="errordiv-10" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-10" style="display:none"></span>
-							</div>		
-						</div>
-					</div>
-				</div>			
-			</form>
-		<!-- dataSource: DATABASE    --><!-- inStock:     --><!-- productTileBean.inStock true    --><!-- productTileBean.costcoEntitledItems [Lcom.costco.commerce.catalog.beans.CostcoItemDataBean;@c6817c5c    -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>  
-	<!--  End of Button Section -->	
-
-</div>
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --><!-- Debugging Purpose ... Call to CostcoEspotDataBean from FeaturedProductTile.jspf :  2114003 --><!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --> 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/gloria-vanderbilt-ladies'-amanda-stretch-denim-jean%2c-white.product.100677083.html">
-
-<div class="omniture">
-	<div class="scProdId" sc.prodId="100677083"></div>
-   	<div class="scMemberProductType" sc.memberProductType="na"></div>
-</div>
-
-
-<div class="pills-section">
-	
-</div>
-
-
-<div class="thumbnail" >
-
-	
-
-	<div class="product-img-holder link-behavior">
-		<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-			
-					<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'" src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=100677083-847__1&recipeName=350" alt="Gloria Vanderbilt Ladies&#039; Amanda Stretch Denim Jean, White" title="Gloria Vanderbilt Ladies&#039; Amanda Stretch Denim Jean, White"/>
-				
-		</div>
-
-	</div>
-
-	<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">
-	
-    	<div class="hidden-md hidden-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-    				<div class="table-container">
-    					<div class="table-row">
-    						
-			                  <div class="table-cell">
-			                    <div class="menuicon-holder text-right">
-			                       
-			                    </div>
-			                  </div>
-			               
-                			
-    					</div>
-    				</div>
-    			</div>
-    		</div>
-    	</div>
-    	<div class="visible-md visible-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-	    			
-					
-	    			<div class="row">
-	   					<div class="col-xs-12 menuicon-holder">
-	   						
-	   					</div>
-	    			</div>
-    			</div>
-    		</div>
-    	</div>
-    
-			<p class="map-item hide">Sign In For Price</p>
-			
-			<div class="price-parent " >
-				
-								 	
-								 	<div class="price" data-regionNav="DEFAULT">$12.99</div>
-								 	
-									
-			</div>
-		
-			<p class="promo">$4 OFF</p>	
-						
-	
-		<p id="100677083_tile_desc" class="description" >
-			<a href="https://www.costco.com/gloria-vanderbilt-ladies&#039;-amanda-stretch-denim-jean%2c-white.product.100677083.html">
-				Gloria Vanderbilt Ladies' Amanda Stretch Denim Jean, White
-			</a>
-		</p>
-		
-		
-			<ul class="product-features hidden-xs hidden-sm">
-				
-                	<li>Classic 5 Pocket Design</li> 
-                
-                	<li>Stretch Fabric</li> 
-                
-                	<li>Classic Rise</li> 
-                
-			</ul>
-		
-	</div>
-</div>
-	
-	<input type="hidden" id="tobaccoProd" value="Standard" />
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="1" />
-	
-			<input type="hidden" class="partNumb" name="partNumb" value="1439858" />
-		<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="-1" />
-<input type="hidden" id="endIndex" name="resultCnt" value="-1" />
-
-		<div class="addbutton" id="quickAdd-11" style="display:none">
-	
-		<input type="hidden" class="itemNumber" name="itemNumber" value="1439858" />
-		<input type="hidden" class="partNumb" name="partNumb" value="1439858" />
-		
-		<input type="hidden" name="buyable" value="1" /> 
-	
-		
-	
-			<form id="AddToCartForm-11" name="OrderItemAddForm" autocomplete="off">
-			<input type="hidden" name="backURL" value="" />
-			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
-			<input type="hidden" id="langId" name="langId" value="-1" />
-			<input type="hidden" id="storeId" name="storeId" value="10301" />
-			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
-			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
-			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
-			<input type="hidden" id="refinementValue" name="refinementValue" value="" />
-			<input type="hidden" id="keyword" name="keyword" value="" />
-			
-			
-			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
-			
-				
-				<div class="row">
-					<div class="col-xs-12">
-							<div class="product-quick-buy">
-							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-11">
-									<button id="sub-11" type="button" class="btn disabled"
-											data-type="minus" data-field="" value="" tabindex="0"
-											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '11', '100677083','1439858', false)">
-										<i class="co-collapse"></i>
-									</button>
-									<input id="value-11" data-txt-qty type="text" 
-										    class="form-control" name="quantity-11" value="1"
-											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
-											aria-label = "Quantity to Add" 
-											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
-											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-11" type="button" 
-											class="btn" data-type="plus" data-field="" 
-											value="" tabindex="0"
-											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'11', '100677083','1439858', true)">
-										<i class="co-expand"></i>
-									</button>
-								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-11">
-									<input type="hidden" id="minquantity-11"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-11"class="maxQuantity" name="maxQuantity" value="9,999" />
-									<input type="hidden" name="orderItemId-11" value="" id="orderItemId-11" />
-									<input type="hidden" name="quantity-11" value="1" id="quantity-11" />
-									
-									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-11" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'11', '100677083','1439858')">Add</button>
-								</div>
-							</div>
-							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-11" style="display:none"></div>
-								<span class="span-error" id="errordiv-11" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-11" style="display:none"></span>
-							</div>		
-						</div>
-					</div>
-				</div>			
-			</form>
-		<!-- dataSource: DATABASE    --><!-- inStock:     --><!-- productTileBean.inStock true    --><!-- productTileBean.costcoEntitledItems [Lcom.costco.commerce.catalog.beans.CostcoItemDataBean;@e66645f    -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>  
-	<!--  End of Button Section -->	
-
-</div>
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --><!-- Debugging Purpose ... Call to CostcoEspotDataBean from FeaturedProductTile.jspf :  2096357 --><!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --> 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/weatherproof-vintage-men's-short-sleeve-color-block-tee-.product.100670833.html">
-
-<div class="omniture">
-	<div class="scProdId" sc.prodId="100670833"></div>
-   	<div class="scMemberProductType" sc.memberProductType="na"></div>
-</div>
-
-
-<div class="pills-section">
-	
-</div>
-
-
-<div class="thumbnail" >
-
-	
-
-	<div class="product-img-holder link-behavior">
-		<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-			
-					<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'" src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=100670833-847__1&recipeName=350" alt="Weatherproof Vintage Men&#039;s Short Sleeve Color Block Tee " title="Weatherproof Vintage Men&#039;s Short Sleeve Color Block Tee "/>
-				
-		</div>
-
-	</div>
-
-	<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">
-	
-    	<div class="hidden-md hidden-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-    				<div class="table-container">
-    					<div class="table-row">
-    						
-			                  <div class="table-cell">
-			                    <div class="menuicon-holder text-right">
-			                       
-			                    </div>
-			                  </div>
-			               
-                			
-    					</div>
-    				</div>
-    			</div>
-    		</div>
-    	</div>
-    	<div class="visible-md visible-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-	    			
-					
-	    			<div class="row">
-	   					<div class="col-xs-12 menuicon-holder">
-	   						
-	   					</div>
-	    			</div>
-    			</div>
-    		</div>
-    	</div>
-    
-			<p class="map-item hide">Sign In For Price</p>
-			
-			<div class="price-parent " >
-				
-								 	
-								 	<div class="price" data-regionNav="DEFAULT">$14.99</div>
-								 	
-									
-			</div>
-						
-	
-		<p id="100670833_tile_desc" class="description" >
-			<a href="https://www.costco.com/weatherproof-vintage-men&#039;s-short-sleeve-color-block-tee-.product.100670833.html">
-				Weatherproof Vintage Men's Short Sleeve Color Block Tee 
-			</a>
-		</p>
-		
-		
-			<ul class="product-features hidden-xs hidden-sm">
-				
-                	<li>Color Blocks at Chest</li> 
-                
-			</ul>
-		
-	</div>
-</div>
-	
-	<input type="hidden" id="tobaccoProd" value="Standard" />
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="1" />
-	
-			<input type="hidden" class="partNumb" name="partNumb" value="1463024" />
-		<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="-1" />
-<input type="hidden" id="endIndex" name="resultCnt" value="-1" />
-
-		<div class="addbutton" id="quickAdd-12" style="display:none">
-	
-		<input type="hidden" class="itemNumber" name="itemNumber" value="1463024" />
-		<input type="hidden" class="partNumb" name="partNumb" value="1463024" />
-		
-		<input type="hidden" name="buyable" value="1" /> 
-	
-		
-	
-			<form id="AddToCartForm-12" name="OrderItemAddForm" autocomplete="off">
-			<input type="hidden" name="backURL" value="" />
-			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
-			<input type="hidden" id="langId" name="langId" value="-1" />
-			<input type="hidden" id="storeId" name="storeId" value="10301" />
-			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
-			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
-			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
-			<input type="hidden" id="refinementValue" name="refinementValue" value="" />
-			<input type="hidden" id="keyword" name="keyword" value="" />
-			
-			
-			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
-			
-				
-				<div class="row">
-					<div class="col-xs-12">
-							<div class="product-quick-buy">
-							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-12">
-									<button id="sub-12" type="button" class="btn disabled"
-											data-type="minus" data-field="" value="" tabindex="0"
-											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '12', '100670833','1463024', false)">
-										<i class="co-collapse"></i>
-									</button>
-									<input id="value-12" data-txt-qty type="text" 
-										    class="form-control" name="quantity-12" value="1"
-											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
-											aria-label = "Quantity to Add" 
-											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
-											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-12" type="button" 
-											class="btn" data-type="plus" data-field="" 
-											value="" tabindex="0"
-											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'12', '100670833','1463024', true)">
-										<i class="co-expand"></i>
-									</button>
-								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-12">
-									<input type="hidden" id="minquantity-12"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-12"class="maxQuantity" name="maxQuantity" value="9,999" />
-									<input type="hidden" name="orderItemId-12" value="" id="orderItemId-12" />
-									<input type="hidden" name="quantity-12" value="1" id="quantity-12" />
-									
-									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-12" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'12', '100670833','1463024')">Add</button>
-								</div>
-							</div>
-							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-12" style="display:none"></div>
-								<span class="span-error" id="errordiv-12" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-12" style="display:none"></span>
-							</div>		
-						</div>
-					</div>
-				</div>			
-			</form>
-		<!-- dataSource: DATABASE    --><!-- inStock:     --><!-- productTileBean.inStock true    --><!-- productTileBean.costcoEntitledItems [Lcom.costco.commerce.catalog.beans.CostcoItemDataBean;@d52bb311    -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>  
-	<!--  End of Button Section -->	
-
-</div>
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --><!-- Debugging Purpose ... Call to CostcoEspotDataBean from FeaturedProductTile.jspf :  1839523 --><!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --> 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/buffalo-ladies'-ribbed-sleeve-cozy-top.product.100567752.html">
-
-<div class="omniture">
-	<div class="scProdId" sc.prodId="100567752"></div>
-   	<div class="scMemberProductType" sc.memberProductType="na"></div>
-</div>
-
-
-<div class="pills-section">
-	
-</div>
-
-
-<div class="thumbnail" >
-
-	
-
-	<div class="product-img-holder link-behavior">
-		<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-			
-					<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'" src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=100567752-847__1&recipeName=350" alt="Buffalo Ladies&#039; Ribbed Sleeve Cozy Top" title="Buffalo Ladies&#039; Ribbed Sleeve Cozy Top"/>
-				
-		</div>
-
-	</div>
-
-	<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">
-	
-    	<div class="hidden-md hidden-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-    				<div class="table-container">
-    					<div class="table-row">
-    						
-			                  <div class="table-cell">
-			                    <div class="menuicon-holder text-right">
-			                       
-			                    </div>
-			                  </div>
-			               
-                			
-    					</div>
-    				</div>
-    			</div>
-    		</div>
-    	</div>
-    	<div class="visible-md visible-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-	    			
-					
-	    			<div class="row">
-	   					<div class="col-xs-12 menuicon-holder">
-	   						
-	   					</div>
-	    			</div>
-    			</div>
-    		</div>
-    	</div>
-    
-			<p class="map-item hide">Sign In For Price</p>
-			
-			<div class="price-parent " >
-				
-								 	
-								 	<div class="price" data-regionNav="DEFAULT">$14.99</div>
-								 	
-									
-			</div>
-						
-	
-		<p id="100567752_tile_desc" class="description" >
-			<a href="https://www.costco.com/buffalo-ladies&#039;-ribbed-sleeve-cozy-top.product.100567752.html">
-				Buffalo Ladies' Ribbed Sleeve Cozy Top
-			</a>
-		</p>
-		
-		
-			<ul class="product-features hidden-xs hidden-sm">
-				
-                	<li>Casual Style Crewneck</li> 
-                
-                	<li> Relaxed Fit</li> 
-                
-                	<li> Super Soft Fabric</li> 
-                
-			</ul>
-		
-	</div>
-</div>
-	
-	<input type="hidden" id="tobaccoProd" value="Standard" />
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="1" />
-	
-			<input type="hidden" class="partNumb" name="partNumb" value="1419265" />
-		<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="-1" />
-<input type="hidden" id="endIndex" name="resultCnt" value="-1" />
-
-		<div class="addbutton" id="quickAdd-13" style="display:none">
-	
-		<input type="hidden" class="itemNumber" name="itemNumber" value="1419265" />
-		<input type="hidden" class="partNumb" name="partNumb" value="1419265" />
-		
-		<input type="hidden" name="buyable" value="1" /> 
-	
-		
-	
-			<form id="AddToCartForm-13" name="OrderItemAddForm" autocomplete="off">
-			<input type="hidden" name="backURL" value="" />
-			<input type="hidden" id="catalogId" name="catalogId" value="10701" />
-			<input type="hidden" id="langId" name="langId" value="-1" />
-			<input type="hidden" id="storeId" name="storeId" value="10301" />
-			<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
-			<input type="hidden" id="configuredInfo" name="configuredInfo" value="" />
-			<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
-			<input type="hidden" id="refinementValue" name="refinementValue" value="" />
-			<input type="hidden" id="keyword" name="keyword" value="" />
-			
-			
-			<input type="hidden" class="orderId" name="orderId" value="" id="orderId" />
-			
-				
-				<div class="row">
-					<div class="col-xs-12">
-							<div class="product-quick-buy">
-							<div class="product-quick-buy-inner">
-								<div class="product-quick-buy-txt" id="add-div-13">
-									<button id="sub-13" type="button" class="btn disabled"
-											data-type="minus" data-field="" value="" tabindex="0"
-											aria-label = "Decrease Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event, '13', '100567752','1419265', false)">
-										<i class="co-collapse"></i>
-									</button>
-									<input id="value-13" data-txt-qty type="text" 
-										    class="form-control" name="quantity-13" value="1"
-											maxlength="3" tabindex="0"  autocomplete="off" onclick="return false;"
-											aria-label = "Quantity to Add" 
-											onkeypress="COSTCO.ExtendedAddToCart.catchEnterKey(event)" 
-											onkeyup="COSTCO.ExtendedAddToCart.callValidator(event)">
-									<button id="add-13" type="button" 
-											class="btn" data-type="plus" data-field="" 
-											value="" tabindex="0"
-											aria-label = "Increase Quantity to Add"
-											onclick="COSTCO.ExtendedAddToCart.handleAddCartQty(event,'13', '100567752','1419265', true)">
-										<i class="co-expand"></i>
-									</button>
-								</div>		
-								<div class="product-quick-buy-btn" id="addButtonContainer-13">
-									<input type="hidden" id="minquantity-13"class="minQuantity" name="minQuantity" value="1" />
-									<input type="hidden" id="maxQuantity-13"class="maxQuantity" name="maxQuantity" value="9,999" />
-									<input type="hidden" name="orderItemId-13" value="" id="orderItemId-13" />
-									<input type="hidden" name="quantity-13" value="1" id="quantity-13" />
-									
-									<input type="hidden"  id="In-Cart" name="In-Cart" value="in Cart">
-									<button id="addbutton-13" class="btn btn-primary btn-block primary-slim" tabindex="0"
-										name="add-to-cart" onclick="COSTCO.ExtendedAddToCart.addItemToCart(event,'13', '100567752','1419265')">Add</button>
-								</div>
-							</div>
-							<div>
-								<div class="item-in-cart text-center" id="item-in-cart-13" style="display:none"></div>
-								<span class="span-error" id="errordiv-13" style="display:none"></span>
-								<span class="span-error" id="qtyerrordiv-13" style="display:none"></span>
-							</div>		
-						</div>
-					</div>
-				</div>			
-			</form>
-		<!-- dataSource: DATABASE    --><!-- inStock:     --><!-- productTileBean.inStock true    --><!-- productTileBean.costcoEntitledItems [Lcom.costco.commerce.catalog.beans.CostcoItemDataBean;@f848e325    -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>  
-	<!--  End of Button Section -->	
-
-</div>
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --><!-- Debugging Purpose ... Call to CostcoEspotDataBean from FeaturedProductTile.jspf :  1738453 --><!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf --> 
-<div class="product-tile-set" data-set-same-height data-pdp-url="https://www.costco.com/tommy-hilfiger-ladies'-sweater.product.100532430.html">
-
-<div class="omniture">
-	<div class="scProdId" sc.prodId="100532430"></div>
-   	<div class="scMemberProductType" sc.memberProductType="member-only"></div>
-</div>
-
-
-<div class="pills-section">
-	
-</div>
-
-
-<div class="thumbnail" >
-
-	
-
-	<div class="product-img-holder link-behavior">
-		<div onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)" onkeypress="javascript:if (event.keyCode === 13) COSTCO.ExtendedAddToCart.redirectToPage(event);" tabindex="0">
-			
-					<img class="img-responsive" onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png'" src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=100532430-847__1&recipeName=350" alt="Tommy Hilfiger Ladies&#039; Sweater" title="Tommy Hilfiger Ladies&#039; Sweater"/>
-				
-		</div>
-
-	</div>
-
-	<div class="caption link-behavior" onclick="COSTCO.ExtendedAddToCart.redirectToPage(event)">
-	
-    	<div class="hidden-md hidden-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-    				<div class="table-container">
-    					<div class="table-row">
-    						
-			                  <div class="table-cell">
-			                    <div class="menuicon-holder text-right">
-			                       
-			                    </div>
-			                  </div>
-			               
-                			
-    					</div>
-    				</div>
-    			</div>
-    		</div>
-    	</div>
-    	<div class="visible-md visible-sm custom_row_hom">
-    		<div class="row">
-    			<div class="col-xs-12">
-	    			
-					
-	    			<div class="row">
-	   					<div class="col-xs-12 menuicon-holder">
-	   						
-	   					</div>
-	    			</div>
-    			</div>
-    		</div>
-    	</div>
-    
-			<p class="map-item hide">Sign In For Price</p>
-		
-			<p class="member-only"><span class="co-c"></span>Member Only Item </p> 
-			
-			<div class="price-parent moi" style="display:none;">
-				
-								 	
-								 	<div class="price" data-regionNav="DEFAULT">$19.99</div>
-								 	
-									
-			</div>
-						
-	
-		<p id="100532430_tile_desc" class="description" >
-			<a href="https://www.costco.com/tommy-hilfiger-ladies&#039;-sweater.product.100532430.html">
-				Tommy Hilfiger Ladies' Sweater
-			</a>
-		</p>
-		
-		
-			<ul class="product-features hidden-xs hidden-sm">
-				
-                	<li>Sweater Knit Sleeves</li> 
-                
-                	<li> Banded Neckline</li> 
-                
-                	<li> Tommy Logo Patch</li> 
-                
-			</ul>
-		
-	</div>
-</div>
-	
-	<input type="hidden" id="tobaccoProd" value="Standard" />
-	<input type="hidden" id="add_Button" name="add_Button" value="true" />
-	<input type="hidden" id="in_Stock" name="in_Stock" value="1" />
-	
-			<input type="hidden" class="partNumb" name="partNumb" value="1402627" />
-		<!--  Button Section -->
-	<div class="buttonSection hide" id="btnas">
-		<div id="plp-add-to-cart" >
-			<!-- BEGIN - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf --><input type="hidden" id="begIndex" name="resultCnt" value="-1" />
-<input type="hidden" id="endIndex" name="resultCnt" value="-1" />
-
-		<div class="addbutton" id="quickAdd-14" style="display:none">
-	
-		<input type="hidden" class="itemNumber" name="itemNumber" value="1402627" />
-		<input type="hidden" class="partNumb" name="partNumb" value="1402627" />
-		
-		<input type="hidden" name="buyable" value="1" /> 
-	
-	<!-- dataSource: DATABASE    --><!-- inStock:     --><!-- productTileBean.inStock true    --><!-- productTileBean.costcoEntitledItems [Lcom.costco.commerce.catalog.beans.CostcoItemDataBean;@7132046b    -->
-</div><!-- END - CostcoGLOBALSAS/Widgets/ProductTile/AdvancedAddtoCartDisplay.jspf -->
-		</div>
-		
-	</div>  
-	<!--  End of Button Section -->	
-
-</div>
-<!-- END - CostcoGLOBALSAS/Widgets/ProductTile/ProductTile.jspf -->
-			</div>
-			
-		</div>
-	</div>
-	<script type="text/javascript">
-	var ListsFormDynamicObject = { authToken : "-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D"};
-	</script>
-<!-- END FeaturedProductsCarousel.jsp --><!-- START FeaturedProductsCarousel.jsp --><!-- BEGIN ContentAreaESpot.jsp --><!-- END FeaturedProductsCarousel.jsp -->
-	  	<div class="container-fluid fixed-container">
-			<div class="row no-gutter">
-			<!-- BEGIN ContentAreaRwdESpot.jsp Home_Row_4 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!-- Homepage Medium Full Banners [async] -->
-<div data-bi-placement="Home_Row_4"  class="row">
-    <div id="placement_432994_0" class="col-xs-12 adbutler-div-medium-full-banner"></div>
-</div><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!-- Homepage Medium Half Banners [async] -->
-<div data-bi-placement="Home_Row_4"  class="row">
-    <div id="placement_432995_0" class="col-xs-12 col-lg-6 adbutler-div-medium-half-banner"></div>
-    <div id="placement_432995_1" class="col-xs-12 col-lg-6 adbutler-div-medium-half-banner"></div>
-</div><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!-- START Feature Page -->
-
-
-<style type="text/css">
-
-@import url("https://use.typekit.net/ikb1uig.css");
-.row.eco-no-gutters {
-  margin-right: 0;
-  margin-left: 0;
-}
-.row.eco-no-gutters > [class^="col-"],
-.row.eco-no-gutters > [class*=" col-"] {
-  padding-right: 0;
-  padding-left: 0;
-}
-
-.eco-top-row { text-align: center; margin-bottom: 15px;}
-.eco-top-row a { text-decoration: none !important;}
-.eco-top-row-bg { background: #eff7fb; height: 205px;}
-.eco-top-row-mvm { min-height: 195px; height: calc(60% + 6.5vw); font-size: 1.3em; color: #dc0f15; line-height: 0.8em; padding-top: 5%;}
-.eco-top-row-grocery { font-size: 1.5em; color: #333333; line-height: 0.8em; padding-top: 8%;}
-.eco-top-row-tire {min-height: 195px; height: calc(20% + 6.5vw); font-size: 1.5em; color: #333333; line-height: 0.6em; padding-top: 1%; }
-.eco-top-row-mailer {min-height: 195px; height: calc(20% + 6.5vw); font-size: 1.6em; color: #333333; line-height: 0.6em; padding-top: 4%; font-family: montserrat, sans-serif;}
-.eco-ftr {margin-bottom: 20px;}
-.eco-ftr-title {text-align: center; margin: 12px 10px 10px 10px; line-height: 1.2em; font-size: calc(14px + 0.3vw);}
-.eco-side-kick-spacing {margin: 0px 0 0px 0;}
-.eco-ftr-3cross {font-family: helvetica, sans-serif; font-style: normal; text-align: left; color: #333333; font-size: calc(1.1em + 0.2vw); margin-top: -40px; padding-left: 9%;}
-.eco-showcase-calendar {margin-top: 2%;}
-.eco-btm-row-citi {min-height: 195px; height: calc(20% + 6.5vw); font-size: 1.4em; color: #333333; line-height: 0.6em; padding: 1.5% 4%;}
-.eco-btm-row-connection {min-height: 195px; height: calc(20% + 6.5vw); font-size: 1.4em; color: #333333; line-height: 0.6em; padding: 2% 4%;}
-.eco-large-ad {min-height: 195px; height: calc(20% + 6.5vw); font-size: 1.3em; color: #333333; line-height: 0.6em; padding: 4% 4%;}
-
-.eco-mobile-break { display: block !important;}
-.eco-price-headline-homepage {font-weight: bold; font-size: 37px; text-align:center; line-height:.75em; }  
-.eco-price-sup-homepage {font-size: 21px; position: relative; bottom: 0.55em; }
-
-@media(min-width:320px) {
-.eco-top-row-mvm { font-size: 1.4em; padding-top: 5%;} 
-
-}
-
-@media(min-width:668px) {
-.eco-top-row-mvm { font-size: 1.3em; padding-top: 12%;} 
-.eco-top-row-grocery { font-size: 1.4em; padding-top: 11%;}
-.eco-top-row-tire { padding-top: 13%;}
-.eco-top-row-mailer { padding-top: 8%;}
-.eco-ftr-3cross { font-size: calc(0.8em + 0.2vw); line-height: 1.1em; }
-.eco-showcase-calendar { margin-left: -90%;}
-.eco-btm-row-citi { font-size: 1.4em; padding-top: 2%;}
-.eco-btm-row-connection {font-size: 1.3em; padding-top: 12%;}
-.eco-large-ad {font-size: 1.3em; padding-top: 12%;}
-}
-
-@media(min-width:769px) {
-.eco-top-row-mvm { font-size: 1.4em; padding-top: 10%;} 
-.eco-top-row-grocery { font-size: 1.5em; padding-top: 11%;}
-.eco-top-row-tire { padding-top: 10%;}
-.eco-top-row-mailer { padding-top: 6%;}
-.eco-btm-row-citi { font-size: 1.4em;  padding-top: 6%;}
-.eco-btm-row-connection {font-size: 1.6em; padding-top: 5%;}
-.eco-mobile-break { display: none !important;}
-.eco-large-ad {font-size: 1.3em; padding-top: 8%;}
-.eco-top-row-bg { height: 220px;}
-}
-
-@media(min-width:1025px) {
-.eco-top-row-mvm { font-size: 1.6em; padding-top: 6%;} 
-.eco-top-row-grocery { font-size: 1.6em; padding-top: 9%;}
-.eco-top-row-tire { font-size: 1.6em; padding-top: 1%;}
-.eco-top-row-mailer { padding-top: 6%;}
-.eco-ftr-3cross { font-size: 1.4em; }
-.eco-btm-row-citi { font-size: 1.6em; padding-top: 4%;}
-.eco-side-kick-spacing {margin: 0px 0 30px 0;}
-.eco-large-ad {font-size: 1.6em; padding-top: 5%;}
-}
-  
-@media(min-width:1400px) {
-
-}
-
-</style>
-
-
-
-
-
-<!-- code generated by CMC -->
-<div data-bi-placement="Home_Row_4"  class="row no-gutter">
-<!-- end code generated by CMC -->
-
-
-
-
-<!--start treasure-4across -->
-<div class="row gutter" style="padding-top: 30px;">
-  <!--start shop cat espot 1 -->
-  <div class="col-xs-6 col-md-3 eco-ftr">
-    <a href="/CatalogSearch?dept=All&keyword=btselect20" style="text-decoration-color: #333333;">
-      <img class="img-responsive" src="https://mobilecontent.costco.com/live/resource/img/homepage/homepage-20w1326-4-across-1a-school.jpg" alt="">
-      <div class="h5-style-guide eco-ftr-title">
-     
-      <strong>Computers &amp; Electronics</strong>
-      </div>
-    </a>
-  </div>
-  <!--end shop cat espot 1 -->
-
-  <!--start shop cat espot 2 -->
-  <div class="col-xs-6 col-md-3 eco-ftr">
-    <a href="/CatalogSearch?dept=All&keyword=btsoffice20" style="text-decoration-color: #333333;">
-      <img class="img-responsive" src="https://mobilecontent.costco.com/live/resource/img/homepage/homepage-20w1326-4-across-2a-school.jpg" alt="">
-      <div class="h5-style-guide eco-ftr-title">
-      <strong>Home Office Furniture <br> &amp; Accessories</strong>
-      </div>
-    </a>
-  </div>
-  <!--end shop cat espot 2 -->
-
-  <div class="clearfix visible-xs visible-sm"></div>
-
-
-  <!--start shop cat espot 4 -->
-  <div class="col-xs-6 col-md-3 eco-ftr">
-    <a href="/CatalogSearch?dept=All&keyword=btsapp20" style="text-decoration-color: #333333;">
-      <img class="img-responsive" src="https://mobilecontent.costco.com/live/resource/img/homepage/homepage-20w1326-4-across-3a-school.jpg" alt="">
-      <div class="h5-style-guide eco-ftr-title">
-      <strong>Backpacks &amp; Apparel</strong>
-    </div>
-    </a>
-  </div>
-  <!--end shop cat espot 4 -->
-    
-  <!--start shop cat espot 3 -->
-  <div class="col-xs-6 col-md-3 eco-ftr">
-    <a href="/CatalogSearch?dept=All&keyword=btsdorm20" style="text-decoration-color: #333333;">
-      <img class="img-responsive" src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=100647628-847_blue_1&recipeName=350" alt="">
-      <div class="h5-style-guide eco-ftr-title">
-      <strong>Dorm Room Essentials</strong>
-      </div>
-
-    </a>
-  </div>
-  <!--end shop cat espot 3 -->
-</div>
-<!--end treasure-4across -->
-    
-
-
-
-
-
-<!-- end code generated by CMC -->
-</div>
-<!-- end code generated by CMC -->
-
-
-
-
-
-
-
-
-<!-- END Feature Page --><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!-- Homepage Medium Full Banners [async] -->
-<div data-bi-placement="Home_Row_4"  class="row">
-    <div id="placement_432994_1" class="col-xs-12 adbutler-div-medium-full-banner"></div>
-</div><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- END ContentAreaRwdESpot.jsp Home_Row_4 -->
-			</div>
-		</div>
-	
-  	<div class="container-fluid fixed-container">
-		<div class="row no-gutter">
-		<!-- BEGIN ContentAreaRwdESpot.jsp Home_Row_5 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_Row_5 -->
-		</div>
-	</div>
-	<!-- START FeatureTiles.jsp --><div class="container-fluid fixed-container product-list feature-tiles-container">
-	<div class="feature-tiles row gutter">
-		<!-- BEGIN ContentAreaRwdESpot.jsp Home_SmallFenceRow1_ESpot_1 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_SmallFenceRow1_ESpot_1 --><!-- BEGIN ContentAreaRwdESpot.jsp Home_SmallFenceRow1_ESpot_2 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_SmallFenceRow1_ESpot_2 --><!-- BEGIN ContentAreaRwdESpot.jsp Home_SmallFenceRow1_ESpot_3 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_SmallFenceRow1_ESpot_3 --><!-- BEGIN ContentAreaRwdESpot.jsp Home_SmallFenceRow1_ESpot_4 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_SmallFenceRow1_ESpot_4 -->
-	</div>
-	
-</div><!-- END FeatureTiles.jsp --><!-- START FeatureTiles.jsp --><div class="container-fluid fixed-container product-list feature-tiles-container">
-	<div class="feature-tiles row gutter">
-		<!-- BEGIN ContentAreaRwdESpot.jsp Home_SmallFenceRow2_ESpot_1 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_SmallFenceRow2_ESpot_1 --><!-- BEGIN ContentAreaRwdESpot.jsp Home_SmallFenceRow2_ESpot_2 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_SmallFenceRow2_ESpot_2 --><!-- BEGIN ContentAreaRwdESpot.jsp Home_SmallFenceRow2_ESpot_3 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_SmallFenceRow2_ESpot_3 --><!-- BEGIN ContentAreaRwdESpot.jsp Home_SmallFenceRow2_ESpot_4 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_SmallFenceRow2_ESpot_4 -->
-	</div>
-	
-</div><!-- END FeatureTiles.jsp -->
-  	<div class="container-fluid fixed-container">
-		<div class="row no-gutter">
-		<!-- BEGIN ContentAreaRwdESpot.jsp Home_Row_6 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><div data-bi-placement="Home_Row_6"  id="merkle-espot-cos989"></div><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><div data-bi-placement="Home_Row_6"  class="row gutter">
-
-<!--start shop cat espot 1 -->
-  <div class="col-md-4 col-xs-12" style="margin: 15px 0px 15px 0px; padding-bottom: 15px;">
-    <a href="/CatalogSearch?sortBy=PriceMin%7C0&keyword=whilesupplieslast&dept=All&COSTID=WSL_Homepage" style="text-decoration: none;">
-      <img class="img-responsive" loading="lazy" src="https://mobilecontent.costco.com/live/resource/img/homepage/3-across-bottom-row-wsl.jpg" alt="While Supplies Last Price reductions">
-      <!-- <p class="eco-ftr-3cross">Price Reduction</p> -->
-    </a>
-  </div>
-
-<!--end shop cat espot 1 -->
-
-<!--start shop cat espot 2 -->
-  <div class="col-md-4 col-xs-12" style="margin: 15px 0px 15px 0px; padding-bottom: 15px;">
-    <a href="/CatalogSearch?sortBy=PriceMax%7C1&keyword=treasurehunt&dept=All&COSTID=TH_Homepage" style="text-decoration: none;">
-      <img class="img-responsive" loading="lazy" src="https://mobilecontent.costco.com/live/resource/img/homepage/3-across-bottom-row-treasure.jpg" alt="Treasure Hunt While supplies Last">
-      <!-- <p class="eco-ftr-3cross">While Supplies Last</p> -->
-    </a>
-  </div>
-<!--end shop cat espot 2 -->
-
-<!--start shop cat espot 3 -->
-  <div class="col-md-4 col-xs-12" style="margin: 15px 0px 15px 0px; padding-bottom: 15px;">
-   <a href="/whats-new.html?COSTID=WN_Homepage&sortBy=DatePublish" style="text-decoration: none;">
-      <img class="img-responsive" loading="lazy" src="https://mobilecontent.costco.com/live/resource/img/homepage/3-across-bottom-row-new.jpg" alt="What's New latest items">
-      <!-- <p class="eco-ftr-3cross">Latest Items</p> -->
-    </a>
-  </div>
-<!--end shop cat espot 3 -->
-
-</div><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- END ContentAreaRwdESpot.jsp Home_Row_6 -->
-		</div>
-	</div>
-	<!-- START FeaturedProductsCarousel.jsp --><!-- BEGIN ContentAreaESpot.jsp --><!-- END FeaturedProductsCarousel.jsp --><!-- START FeaturedProductsCarousel.jsp --><!-- BEGIN ContentAreaESpot.jsp --><!-- END FeaturedProductsCarousel.jsp --><!-- START SmallOfferTiles.jsp --><div class="container-fluid fixed-container small-offer-tiles">
-	<div class="row gutter">
-		<!-- BEGIN ContentAreaRwdESpot.jsp Home_BottomRow_ESpot_1 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_BottomRow_ESpot_1 --><!-- BEGIN ContentAreaRwdESpot.jsp Home_BottomRow_ESpot_2 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_BottomRow_ESpot_2 --><!-- BEGIN ContentAreaRwdESpot.jsp Home_BottomRow_ESpot_3 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_BottomRow_ESpot_3 --><!-- BEGIN ContentAreaRwdESpot.jsp Home_BottomRow_ESpot_4 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_BottomRow_ESpot_4 -->
-	</div>	
-	
-</div><!-- END SmallOfferTiles.jsp -->
-		
-  	<div class="container-fluid fixed-container">
-		<div class="row no-gutter">
-		<!-- BEGIN ContentAreaRwdESpot.jsp Home_Row_7 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!-- start EN homepage-lg-half-banner-20w1118-grocery-same-day -->
-<div data-bi-placement="Home_Row_7"  class="row gutter" style="padding-top: 30px;">
-
-<a href="https://sameday.costco.com/store/costco/storefront">
-<!-- Desktop & Mobile -->
-<div class="col-lg-6 col-md-12">
-   <img style="padding-top: 5px; padding-bottom: 10px;" class="img-responsive"  src="//mobilecontent.costco.com/live/resource/img/homepage/homepage-half-banner-20w1118-sameday.jpg" alt="All Groceries Including Fresh and Household Supplies">
-</div>
-</a>
-<!-- end homepage-lg-half-banner-20w118-grocery-same-day-->
-
-<!-- start EN homepage-lg-half-banner-20w1118-grocery-same-day-->
-<a href="/all-costco-grocery.html">
-<!-- Desktop & Mobile -->
-<div class="col-lg-6 col-md-12">
-   <img style="padding-top: 5px; padding-bottom: 10px;" class="img-responsive"  src="//mobilecontent.costco.com/live/resource/img/homepage/homepage-half-banner-20w1118-2day.jpg" alt="Non-Perishable Food and Household Supplies">
-</div>
-</a>
-
-</div>
-
-<!-- end EN homepage-lg-half-banner-20w1118-grocery-same-day --><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- END ContentAreaRwdESpot.jsp Home_Row_7 -->
-		</div>
-	</div>
-	
-  	<div class="container-fluid fixed-container">
-		<div class="row no-gutter">
-		<!-- BEGIN ContentAreaRwdESpot.jsp Home_Row_8 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_Row_8 -->
-		</div>
-	</div>
-	
-  	<div class="container-fluid fixed-container">
-		<div class="row no-gutter">
-		<!-- BEGIN ContentAreaRwdESpot.jsp Home_Row_9 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!-- start home_special-events-200817 -->
-<div data-bi-placement="Home_Row_9" >
-    <a href="/special-events.html">
-      <!-- Desktop -->
-      <img style="padding-top: 15px; padding-bottom: 15px;" class="img-responsive hidden-xs hidden-sm lazyload" data-src="https://mobilecontent.costco.com/live/resource/img/homepage/d-20w1348-special-events.jpg" alt="Special Events. Exciting products for a limited-time. While supplies last.">
-      <!-- Mobile -->
-      <img style="padding-top: 10px; padding-bottom: 10px;" class="img-responsive hidden-md hidden-lg hidden-xl lazyload" data-src="https://mobilecontent.costco.com/live/resource/img/homepage/m-20w1348-special-events.jpg" alt="Special Events. Exciting products for a limited-time. While supplies last.">
-    </a>
-</div>
-<!-- end home_special-events-200817 --><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- END ContentAreaRwdESpot.jsp Home_Row_9 -->
-		</div>
-	</div>
-	<!-- START FeaturedProductsCarousel.jsp --><!-- BEGIN ContentAreaESpot.jsp --><!-- END FeaturedProductsCarousel.jsp --><!-- START FeaturedProductsCarousel.jsp --><!-- BEGIN ContentAreaESpot.jsp --><!-- END FeaturedProductsCarousel.jsp -->
-  	<div class="container-fluid fixed-container">
-		<div class="row no-gutter">
-		<!-- BEGIN ContentAreaRwdESpot.jsp Home_Row_10 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!-- Criteo code-->
-<div data-bi-placement="Home_Row_10"  id="viewHome-Upper-Carousel"></div>
+<script id="productImageLibrary" onload="inlineRichFXInit();"></script>
 
 <script type="text/javascript">
-$(document).ready(function(){
- var targetWidth = 768;
- if ( $(window).width() > targetWidth) {
-    window.criteo_q = window.criteo_q || [];
-    window.criteo_q.push(
-    { event: "setAccount", account: "48266" },
-    { event: "setRetailerVisitorId", id: "53e20ea700424f7bbdd793b02abcb5d7" },
-    { event: "setEmail", email: "b58c6f14d292556214bd64909bcdb118" },
-    { event: "viewCategory",
-    category: "specialtyhomepage",
-    page_id: "viewSpecialtyHome",
-    item: ["filler"]
+// <![CDATA[
+
+
+var membershipPriceNote = 'See Statement';
+var variantBackorderMessageDefault = "Some models/styles for this product are backordered.";
+
+
+function process(value) {
+	if (typeof btoa === "undefined") { 
+        _keyStr = Base64._keyStr;
+        btoa = Base64.encode;
+        atob = Base64.decode;
     }
-    );
- } else {
-    window.criteo_q = window.criteo_q || [];
-    window.criteo_q.push(
-    { event: "setAccount", account: "48266" },
-    { event: "setRetailerVisitorId", id: "53e20ea700424f7bbdd793b02abcb5d7" },
-    { event: "setEmail", email: "b58c6f14d292556214bd64909bcdb118" },
-    { event: "viewCategory",
-    category: "specialtyhomepage",
-    page_id: "viewSpecialtyHome_M",
-    item: ["filler"]
-    }
-    );
-  } 
-});
-</script><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- END ContentAreaRwdESpot.jsp Home_Row_10 -->
-		</div>
-	</div>
-  	 
-  	<div class="container-fluid fixed-container">
-		<div class="row no-gutter">
-		<!-- BEGIN ContentAreaRwdESpot.jsp Home_Row_11 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Home_Row_11 -->
-		</div>
-	</div>  
-	
-	<div class="container-fluid fixed-container">
-		<div class="row no-gutter">
-		<!-- BEGIN ContentAreaRwdESpot.jsp Home_Row_12 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!-- test to check for Home_row_12 call --><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- END ContentAreaRwdESpot.jsp Home_Row_12 -->
-		</div>
-	</div>  
+	return window.atob(value);
+}
 
-     
+var partNumber = '100662272';
 
-	<div class="container-fluid fixed-container">
-		<div class="row no-gutter">
-		<!-- BEGIN ContentAreaRwdESpot.jsp Home_Row_13 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!-- Start code for top row -->
-<div data-bi-placement="Home_Row_13"  class="row gutter" style="padding-top: 30px;">
-  <!--start top row 1 -->
-  <div class="col-xs-12 col-md-4 eco-top-row" style="padding-bottom: 15px;">
-    <a href="/credit-card.html">
-      <div class="eco-top-row-bg">
-      <div class="row no-gutter">
-        <div class="col-xs-3" style="background-color: #ff351e; max-height: 11px; border: 1px solid #eff7fb;">&nbsp;</div>
-        <div class="col-xs-3" style="background-color: #008caf; max-height: 11px; border: 1px solid #eff7fb;">&nbsp;</div>
-        <div class="col-xs-3" style="background-color: #d7172c; max-height: 11px; border: 1px solid #eff7fb;">&nbsp;</div>
-        <div class="col-xs-3" style="background-color: #2f9227; max-height: 11px; border: 1px solid #eff7fb;">&nbsp;</div>
-    </div>
-        <div class="eco-btm-row-citi">
-          <div style="font-size: 0.85em; font-weight: 500; line-height: 1.1em;">Earn cash back rewards<br>on every purchase.</div>
-         <img class="img-responsive lazyload" style="margin: 3% auto 2% auto;" data-src="https://mobilecontent.costco.com/live/resource/img/homepage-mockup/bottom-row-citi-visa.jpg" alt="visa citi card">
-        <div style="font-size: 0.6em; font-weight: bolder;">Get Details</div>  
-      </div>
-    </div>
-    </a>
-  </div>
-  <!--end top row 1 --> 
+var product = [
 
-  <!--start top row 2 -->
-  <div class="col-xs-12 col-md-4 eco-top-row" style="padding-bottom: 15px;">
-    <a href="/costco-connection-online-edition.html">
-      <div class="eco-top-row-bg">
-      <div class="eco-btm-row-connection">
-          <div style="font-size: 0.85em; font-weight: 500; line-height: 1.1em;">The Costco Connection</div>
-          <img class="img-responsive lazyload" style="margin: 1.5% auto 1% auto;" data-src="https://mobilecontent.costco.com/live/resource/img/august-connection/august-connection-homepage.png" alt="connection">
-          <div style="font-size: 0.6em; font-weight: bolder;">Learn More</div>  
-        </div>
-      </div>
-    </a>
-  </div>
-  <!--end top row 2 --> 
+	{
+		"pricePerUnit" : "",
+		"unitOfMeasure" : "Price Per :",
+		"catentry": "2073047",
+		"isScheduledDeliverable": "false",
+		"limitOneQuantity": false,
+		"priceInCartOnly": false,
+		"isSinglePriced": true,
+		"membershipRequired": false,
+		"isGroceryItem": false,
+		"isDependentProductConfigured": false
+	}
+];
 
-  <!--start top row 3 -->
-  <div class="col-xs-12 col-md-4 eco-top-row" style="padding-bottom: 15px;">
-    <a href="/join-costco.html">
-      <div class="eco-top-row-bg">
-      <div class="eco-btm-row-connection">
-          <div style="font-size: 0.85em; font-weight: 500; line-height: 1.1em;">Join the Club</div>
-          <img class="img-responsive lazyload" style="margin: 3% auto 0.5% auto;" data-src="https://mobilecontent.costco.com/live/resource/img/homepage-mockup/bottom-row-join-the-club.jpg" alt="Join the Club">
-          <div style="font-size: 0.6em; font-weight: bolder;">Join Today</div>  
-        </div>
-    </div>
-  </a>
-  </div>
-  <!--end top row 3 -->
-</div>
-<!-- end code for top row --><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><div data-bi-placement="Home_Row_13" >
-<style>
-.feature-tiles.row.gutter.slick-initialized.slick-slider.slick-dotted {
-    display: none;}
-.feature-tiles-container {
-    display: none;}
 
-</style>
-</div><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- END ContentAreaRwdESpot.jsp Home_Row_13 -->
-           </div>
-	</div>
+var products = [
 
-	<!--
-	isSponsoredProductRecommendationChecked: true 
+	[
 
-	
-		Criteo ENABLED for store id 10301
-	
-	-->
-
-	<!-- This comment is necessary to avoid caching bug --><!-- BEGIN ContentAreaRwdESpot.jsp Criteo_Home_Espot --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!-- Criteo code-->
-<div data-bi-placement="Criteo_Home_Espot"  id="viewHome-Carousel"></div><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- END ContentAreaRwdESpot.jsp Criteo_Home_Espot -->
-	
-	<script>
-		function loadCriteo() {
-	
-			var criteoData = {
-				scriptSrc : '//dynamic.criteo.com/js/ld/ld.js?a=48266',
-				uat : 'false',
-				account : '48266',
-				retailerVisitorId : COSTCO.COT.getRetailerVisitorId(),
-				email : COSTCO.COT.getEmail(),
-				pageId : COSTCO.util.isMobile() ? 'viewHome_M' : 'viewHome',
-				event : 'viewHome'
-			}
-			COSTCO.COT.fireEvent(criteoData);
+		{
+			"pricePerUnit" : "",
+			"unitOfMeasure" : "Price Per :",
+			"unpriced" : false,
+			"single":true,
+			"catentry" : "2073048",
+			"partNumber" : "1453175",
+			"manufacturerPartNumber" : " ",
+			"defaultShipModeId" : "11152",
+			"vendorModelNumber" : "",
+			"price" : "MTQ5Ljk5",
+			"productName" : "LG 27&#034; Class FHD IPS FreeSync Monitor",
+			"productUrl" : "https://www.costco.com/lg-27%22-class-fhd-ips-freesync-monitor.product.1453175.html",
+			"listPrice" : "LTEuMA==",
+			"date" : "",
+			"date2" : "",
+			"type" : "0",
+			"message" : "0",
+			"zipcodeAvailabilityMessage" : "0",
+			"zipcodeAvailabilityResponseCode" : "success",
+			"inventory" : "IN_STOCK",
+			"minQty" : "1",
+			"maxQty" : "4",
+			"ordinal" : "1826.0",
+			"itemSequence" : "",
+			"img_url" : "https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&amp;imageId=1453175-847__1&amp;recipeName=300",
+			"plainPackaging" : "2",
+			"options" : [],
+			"itemLimitOneQty" : "false",
+			"isDependentProductConfigured": "false",
+			"feeRegions" : [
+				
+  			],
+  			"feeOptions" : [
+  				
+  			],
+  			"regionPrices" : [
+  				
+  			]  			
 		}
 	
+	]
+];
+
+
+var options = [
+	
+		[
+			
+		]
+		
+];
+// ]]>
+
+
+var zoomViewer = {
+	xl : "PZ680",
+	lg : "PZ470",
+	md : "PZ352",
+	sm : "PZ637",
+	xs : "PZ344",
+	libraryUrl : "https://images.costco-static.com/ViewerDelivery/staticService?profileId=12026540&file=rfxjloader.js&rfx_embed=",
+	viewerUrl : "https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&itemId=1453175-847&recipeName=",
+	videoJqueryUrl : "//d2vxgxvhgubbj8.cloudfront.net" + "/scripts/jquery.liveclicker-latest_c.js",
+	videoJsUrl : "//d2vxgxvhgubbj8.cloudfront.net" + "/scripts/client/69/LC_Costco_PDP_1.0.18.js",
+	videoCssUrl : "//d2vxgxvhgubbj8.cloudfront.net" + "/scripts/client/69/Costco_PDP_1.0.16.css"
+};
+var _LCdim5 = partNumber;
+
+</script>
+
+<!-- Begin LiveClicker Integration -->
+<link id="liveClickerCss" type="text/css" rel="stylesheet" />
+<!-- End LiveClicker Integration --><!-- Start Sellpoint Integration --><!-- End Sellpoint Integration --><!-- Being WebCollage Integration --><!-- End WebCollage Integration --><!-- Begin CNet Integration --><!-- End CNet Integration --><!-- 11615930 --><!-- Begin BazaarVoice Configuration -->
+<script>
+	var bazaar_voice_src = "//display.ugc.bazaarvoice.com/static/Costco/native_review_form/en_US/bvapi.js";
+	var bvProductId = "100662272";
+	var redirect_url = "https:\/\/www.costco.com\/LogonForm?URL=https:\/\/www.costco.com\/lg-27-class-fhd-ips-freesync-monitor.product.100662272.html";
+</script>
+<!-- End BazaarVoice Configuration --><!-- Retrieve the Model Number -->
+<script>
+  var partsandservices = {};
+</script>
+
+
+		<script src="https://js.narvar.com/costco/ship.js"></script>
+  <!-- BEGIN ProductBody.jsp -->
+
+<link rel="stylesheet" href="/wcsstore/CostcoGLOBALSAS/css/print.css" type="text/css" media="print" />
+<!-- BEGIN ProductDigitalData.jspf -->
+
+<script>
+digitalData = {
+    page: {
+        pageName: 'Product Detail|100662272',
+        pageType: 'Product Detail'
+    },
+    product: [
+        {
+            id: '100662272',
+            name: 'LG 27\" Class FHD IPS FreeSync Monitor',
+            membershipReq: 'na'
+        }
+    ]
+};
+</script>
+
+<div id="product-page" class="container-fluid fixed-container page product-page-v2" data-onloadTracker="false">
+	<div class="omniture" style="display:none;">
+		<div class="scProdId" sc.prodId="100662272"></div>
+    	<div class="scMemberProductType" sc.memberProductType="na"></div>
+	</div>
+	<div class="row">
+   		<div class="col-xs-12">
+			
+
+<ul class="crumbs" itemprop="breadcrumb" id="crumbs_ul" style="display:none" data-isCat ="">
+	<div class="row">
+	<div class="col-md-12 hidden-xs hidden-sm">
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+			
+				<a itemprop="item" href="https://www.costco.com/"><span class="sr-only">Go to&nbsp;</span><span itemprop="name">Home</span></a>
+			<meta itemprop="position" content="1"/>
+		</li>
+		
+		
+					<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+						<a itemprop="item" href="https://www.costco.com/computers.html"><span itemprop="name"><span class="sr-only">Go to&nbsp;</span>Computers</span></a>
+						<meta itemprop="position" content="2"/>
+					</li>
+				
+					<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+						<a itemprop="item" href="https://www.costco.com/monitors.html"><span itemprop="name"><span class="sr-only">Go to&nbsp;</span>Monitors & Computer Screens</span></a>
+						<meta itemprop="position" content="3"/>
+					</li>
+				
+	</div>
+	<div class="col-xs-12 visible-xs visible-sm">
+	<span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		
+		<a itemprop="item" href=""><span itemprop="name"></span></a>
+		<meta itemprop="position" content="1"/>
+	</span>
+	
+	
+				<span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+					
+					<meta itemprop="position" content="2"/>
+				</span>
+			
+				<span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+					
+						<a itemprop="item" href="https://www.costco.com/monitors.html">
+							<span itemprop="name">
+								<i class="co-arrow-left chevron-blue"></i>
+									&nbsp;Monitors & Computer Screens
+							</span>
+						</a>
+					
+					<meta itemprop="position" content="3"/>
+				</span>
+			
+	</div>
+</div>
+</ul>
+		</div>
+		<div class="col-xs-12">
+			<div id="error-notification-placeholder" class="critical-notification hide"  tabindex="0" role="alert"></div>
+		</div>
+		<div class="col-xs-12 product-top-banners">
+			<!-- BEGIN ContentAreaRwdESpot.jsp Product_Top --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Product_Top -->
+		</div>
+	</div>
+	<div itemscope itemtype="https://schema.org/Product">
+		<div class="row top-content">
+			<div class="col-xs-12 hidden-lg hidden-xl">
+				
+				<div class="product-h1-container visible-xs-block visible-sm-block visible-md-block">
+					
+
+<div class="pills-section">
+	
+</div>
+
+							<span class="product-title" itemprop="name">LG 27" Class FHD IPS FreeSync Monitor</span>
+									
+				</div>
+				<div itemprop="description" class="hide">
+                    LG 27&#034; Class FHD IPS FreeSync Monitor 1920 x 1080 Resolution 
+75Hz Refresh Rate 
+5ms Response Time 
+Radeon FreeSync™ Technology
+HDMI Cable Included        
+                </div>
+                
+					<div class="shop-all-brand visible-xs-block visible-sm-block visible-md-block">
+						<span>
+							<!-- BEGIN ContentAreaRwdESpot.jsp Shop_All_Brand --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Shop_All_Brand -->
+						</span>
+					</div>
+				
+				<div class="row">
+					<div class="col-xs-12 item-model-number">
+						<span id='item-no' class='item-number'>
+							Item &nbsp;
+						<span data-sku="1453175" itemprop="sku">1453175</span></span>
+						
+							<span id='model-no' class='model-number'>Model &nbsp;<span data-model-number="27MK430H-B.AUS">27MK430H-B.AUS</span></span>
+						
+					</div>
+				</div>
+				
+						<div id="header-bazaar-voice" class="bazaar-voice">
+							<!--  Begin BVDisplaySummary.jsp -->
+
+<div id="BVRRSummaryContainer"></div>
+
+<!--  End BVDisplaySummary.jsp -->
+						</div>
+					
+			</div>
+			<div id="zoomViewer" class="col-xs-12 col-lg-5" style="visibility:hidden;">
+				<div id="productImageContainer" class="col-xs-12 col-lg-10 col-lg-push-2" aria-label="View Larger Image">
+					<div id="productImageOverlay">
+					    
+								<img class="oos-overlay hide" src="/wcsstore/CostcoGLOBALSAS/images/OOS-overlay-en.png" alt="Out of Stock" title="Out of Stock"/>
+							
+					    		<img id="initialProductImage" class="img-responsive" src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1453175-847__1&recipeName=350" 
+					    			onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png';this.alt='No image available';updateViewerIfError();" 
+					    			itemprop="image" alt="LG 27" Class FHD IPS FreeSync Monitor"/>
+					    	
+					</div>
+					<img id="productImage" class="img-responsive"/>
+				</div>
+				<div id="thumbnails" class="col-xs-12 col-lg-2 col-lg-pull-10" style="display:none;">
+					<div id="theViews"></div>
+				</div>
+			</div>
+	
+			<script type="text/javascript">
+	var _LCdiv_ID = "productImageContainer";
+</script>
+<script>
+	var zoomViewerJSONObject = {
+		xl: 'PZ680',
+		lg: 'PZ470',
+		md: 'PZ352',
+		sm: 'PZ637',
+		xs: 'PZ344',
+		libraryUrl: 'https://images.costco-static.com/ViewerDelivery/staticService?profileId=12026540&file=rfxjloader.js&rfx_embed=',
+		viewerUrl: 'https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&itemId=1453175-847&recipeName=',
+		videoJqueryUrl: '//d2vxgxvhgubbj8.cloudfront.net' + '/scripts/jquery.liveclicker-latest_c.js',
+		videoJsUrl: '//d2vxgxvhgubbj8.cloudfront.net' + '/scripts/client/69/LC_Costco_PDP_1.0.18.js',
+		videoCssUrl: '//d2vxgxvhgubbj8.cloudfront.net' + '/scripts/client/69/Costco_PDP_1.0.16.css',
+	};
+	var _LCdim5 = '';
+	var langId = '-1';
+</script>
+<script>
+		
+	var initZoomViewer = function(modalClosed) {
+		//returns zoom viewer size for the current window width
+		function getViewerSize() {
+			var width = $(window).width();
+			if (width > 1000 || (width <= 769 && width > 382)) return zoomViewer.xl;
+			if (width > 764) return zoomViewer.lg;
+			return zoomViewer.xs;
+		}
+		
+		//adds src attribute to script tag for the Rich Media zoom viewer library
+		//and to img tag for the zoom viewer object to initiate injection by Rich Media
+		function createViewer(viewerSize) {
+			currentViewer = viewerSize;
+			$viewerLib.attr('src', zoomViewer.libraryUrl + viewerSize);
+			$viewerImg.attr('src', zoomViewer.viewerUrl + viewerSize.substr(2));
+		}
+		
+		//changes size of viewer if current window size requires a different size
+		function updateViewer() {
+			var newViewerSize = getViewerSize();		
+		
+			if (newViewerSize != currentViewer) {
+				COSTCO.Global.logger('Window resized to new view. Updating zoomViewer');
+				$viewerDiv.css('visibility', 'hidden');
+				var element =  document.getElementById('initialProductImage');
+				if (typeof(element) != 'undefined' && element != null) {
+					element.style.display = '';
+				}
+				destroyThumbnailCarousel();
+				RICHFX.load.fullReset();
+				$viewerImg = $('#productImage');
+				createViewer(newViewerSize);
+				RICHFX.settings.init();
+				$('#theViews').removeClass();
+			}
+			else if ($theViews.children().length) {
+				adjustThumbnails();
+			}				
+			$theViews.find('button').remove();
+			adjustSlidesForDesktopView();
+			setupTextOverlay();
+			bindOpenImageLightboxModal();
+		}
+		
+		//adjusts thumbnail image width and position for desktop view
+		function adjustSlidesForDesktopView() {
+			
+			if (window.innerWidth >= 769) {
+				
+				$thumbnails.find('img').removeClass('img-fixed-dimensions');
+				$thumbnails.find('img').addClass('img-responsive');
+				$thumbnails.find('a').not('.slick-active').hide();
+			
+			} else {
+			
+				$thumbnails.find('img').removeClass('img-responsive');
+				$thumbnails.find('img').addClass('img-fixed-dimensions');
+				$thumbnails.find('a').not('.slick-active').show();
+			}
+		}
+		
+		//adjusts thumbnail width and position of video overlay images
+		function adjustThumbnails() {
+			//var thumbWidth = Math.floor($theViews.width() / 6);
+			//$theViews.find('a.slick-active:not(:last-child)').css('width', '50px');
+			//$theViews.find('a').css('height', '40px');
+			var $vidOverlay = $('img[id*=videoOverlay]');
+			$vidOverlay.each(function() {
+				$(this).parent().css('width', '');
+				$(this).parent().css('height', 'auto');
+				$(this).css('left', $(this).siblings().position().left);
+				$(this).parent().css('display', 'block');
+			});
+		}
+		
+		//adds responsive properties to the zoom viewer
+		function makeViewerResponsive() {
+			var $container = $('.RICHFXViewerContainer');
+			$container.css('width', '');
+			$container.css('height', '');
+			$('#productImageContainer').find('img').addClass('img-responsive');
+			$thumbnails.find('img').addClass('img-fixed-dimensions');
+		}
+		
+		//creates thumbnail carousel
+		function setupThumbnailCarousel(){
+			if (currentSlide == 'undefined') {
+				currentSlide = 0;
+			}
+			if (firstActiveSlide == 'undefined') {
+				firstActiveSlide = 0;
+			}
+			var slides = $theViews.find('a').length;
+	
+			var responsiveBreakpoints = [];
+			for (var i = 0; i < 7; i++) {
+				var breakPoint = {
+						breakpoint: 370 + (i*50),
+						settings: {
+							slidesToShow: i + 7,
+							slidesToScroll: i + 7
+						}
+				};
+				responsiveBreakpoints.push(breakPoint);
+				
+			}
+			
+			var breakPoint = {
+				breakpoint: 768,
+				settings: {
+					slidesToShow: 5,
+					slidesToScroll: 5,
+					vertical: true
+				}
+			};
+			responsiveBreakpoints.push(breakPoint);
+			var carouselOptions = {
+			        dots: false,
+			        slidesToShow: 5,
+			        respondTo: 'slider',
+			        infinite: false,
+			        slidesToScroll: 6,
+			        autoplay: false,
+			        draggable: false,
+			        accessibility: true,
+			        adaptiveHeight: false,
+			        mobileFirst: true,
+			        responsive: responsiveBreakpoints				
+			}
+			if($(window).width()<370){
+				carouselOptions.slidesToShow = 5;
+				carouselOptions.respondTo = 'slider';
+			} else if($(window).width()<769) {
+				carouselOptions.slidesToShow = 6;
+				carouselOptions.respondTo = 'slider';
+			} else {
+				carouselOptions.slidesToShow = 6;
+				carouselOptions.respondTo = 'window';
+			}
+			COSTCO.util.carousel($theViews,carouselOptions);
+
+		    $theViews.find('a').on('keyup', function(e){
+		    	if(e.which==13) //If user use keyboard enter key to select image simulate the click
+		    	{
+		    		$(this).find('img').click();
+		    		//Move the focus to the selected slide, need to do this as the click simulation reset the focus
+		    		$('.selectedSlide').first().focus();
+		    	}
+		    });
+			adjustThumbnails();
+		}
+		//destroys thumbnail carousel
+		function destroyThumbnailCarousel() {
+			if(!$('#theViews').is(':empty')) {
+				$theViews.slick('destroy');
+				if($theViews.find('a[tabindex]').length != $theViews.find('a').length ) {
+					$theViews.find('a[tabindex]').remove();
+				}
+			}
+		}
+		
+		//opens image lightbox modal
+		function bindOpenImageLightboxModal() {
+	
+			if($theViews) {
+				$('#RICHFXViewerContainer___richfx_id_0_initialImage')
+				.attr('aria-label',messages.PDETAIL_VIEW_LARGER_IMAGE);
+				$('#theViews').find('a').each(function(index) {
+					$(this).find('span').attr('tabindex','-1');
+					$(this).attr('tabindex','-1')
+					.find('img')
+					.attr('tabindex','0')
+					.attr('aria-label',messages.PREVIEW + ' ' + (++index));
+				});
+			}
+			$('#productImageContainer').find('img:visible').each(function(){
+                //Cloning the element to clear all events
+				$clone = $(this).clone();
+				$(this).get(0).parentNode.replaceChild($clone.get(0),$(this).get(0));
+				$clone.on('click', function(event){
+					event.stopImmediatePropagation();
+					cleanUpEvents();
+					COSTCO.ModalImageLightboxView.openImageLightBoxModal(event);
+				});
+			});
+			$('#RICHFXViewerContainer___richfx_id_0').on('keydown', function(event){
+				if(event.which==13) {
+					event.stopImmediatePropagation();
+					cleanUpEvents();
+					COSTCO.ModalImageLightboxView.openImageLightBoxModal(event);
+				}
+			});
+		
+		}
+		
+		function cleanUpEvents() {
+			
+		    document.removeEventListener('richmedia.state.loaded', handleStateLoaded);
+		    document.removeEventListener('richmedia.swatch.changed', handleSwatchChanged);
+		    document.removeEventListener('richmedia.view.changed', handleViewChanged);
+		    $(window).off("resize");
+	    	$('#lcVideo').remove();
+		}
+		
+		//uses liveclicker's scripts to setup videos
+		function loadVideoData() {
+			COSTCO.Global.logger('External Video Detected. Loading Liveclicker.');
+			$('#liveClickerCss').attr('href', zoomViewer.videoCssUrl);
+			$.cachedScript(zoomViewer.videoJqueryUrl).done(function() {
+				$.cachedScript(zoomViewer.videoJsUrl);
+			});
+			document.addEventListener('RichMedia.ExternalVideo.Show', function() {
+				$('#zoomInstruction').hide();					
+			});
+			document.addEventListener('RichMedia.ExternalVideo.Hide', function() {
+				$('#zoomInstruction').show();
+			});
+			
+		}
+		
+		//selects the first available swatch color from our side so
+		//that the customer will not see a color that's unavailable.
+		function selectInitialSwatch() {
+			try {
+				COSTCO.CMath.swatchInitialTileSelected = true;
+				var swatch = $('.swatchDropdown').find('option[data-swatch]:not([disabled])').first().data('swatch');
+				//trigger a select of the first swatch color from the color select dropdown
+				COSTCO.CMath.triggerSwatchDropDownSelection(swatch);
+			}
+			catch(e){
+			}
+			$('#theSwatches').find('img[alt="'+swatch+'"]').first().click();
+			$('#product-body-item-number').removeClass('hide');
+			$('#product-body-model-number').removeClass('hide');
+		}
+		
+		//out of stock items do not reflect properly in the swatch tiles from rich media
+		//so we have to sync their tiles with our product options.
+		function syncSwatchTiles(swatchMode) {
+			var colorsInStock = $.map($('[data-swatch]', '.swatchDropdown'), function(option) { 
+				if($(option).attr("disabled") != "disabled"){
+		    		return $(option).data('swatch').trim().toLowerCase(); 
+		    	}
+			});
+			var colorsOutStock = $.map($('[data-swatch]', '.swatchDropdown'), function(option) { 
+				if($(option).attr("disabled") == "disabled"){
+		    		return $(option).data('swatch').trim().toLowerCase(); 
+		    	}
+			});
+			var colorsNames = $.map($('[data-swatch]', '.swatchDropdown'), function(option) { 
+				if($(option).text().includes(messages.BACKORDER_TEXT)) {
+					var sliceStr = ' - '+ messages.BACKORDER_TEXT;
+					return $(option).text().slice(0, $(option).text().indexOf(sliceStr))+ " -"+$(option).data('swatch').trim().toLowerCase()+"-";
+				} else if($(option).text().includes(messages.OUT_OF_STOCK_TEXT)) {
+					var sliceStr = ' - '+ messages.OUT_OF_STOCK_TEXT;
+					return $(option).text().slice(0, $(option).text().indexOf(sliceStr))+ " -"+$(option).data('swatch').trim().toLowerCase()+"-";
+				} else if($(option).text().includes(' -')) {
+					return $(option).text().slice(0, $(option).text().indexOf(' -'))+ " -"+$(option).data('swatch').trim().toLowerCase()+"-";
+				} else {
+					return $(option).text() + " -"+$(option).data('swatch').trim().toLowerCase()+"-";
+				}
+			});
+			
+			$('img', '#theSwatches').each(function() {
+				var itemDescriptionArray = $(this).siblings('span.RICHFXColorChangeSwatchName')[0].innerHTML.split(" ");
+				if(itemDescriptionArray.length == 2) {
+					var color = itemDescriptionArray[1].toLowerCase();
+					var colorNameTitle = $.map(colorsNames, function (value){
+						if(value.includes(' -'+color+'-')){
+							return value.slice(0, value.indexOf(' -'+color+'-')); 
+						}
+					});
+					if (colorsInStock.indexOf(color) < 0 && colorsOutStock.indexOf(color) < 0) {
+						$(this).parent().remove();
+					} else if(colorsInStock.indexOf(color) < 0 ) {
+						$(this).parent().addClass('disabledSwatch');
+						if(color == 'white'){
+							$(this).parent().append('<img src="/wcsstore/RWDStaticAssets/fonts/fallback-icons/icons/swatch-disabled-grey.png" class="disableOverlaySwatch" />');
+						}else {
+							$(this).parent().append('<img src="/wcsstore/RWDStaticAssets/fonts/fallback-icons/icons/swatch-disabled-white.png" class="disableOverlaySwatch" />');
+						}
+						$(this).parent().get(0).setAttribute("tabindex", "-1");
+						$(this).parent().wrap('<span class="swatch-help" data-placement="bottom" data-trigger="focus hover" data-toggle="popover" data-html="true" data-content="'+colorNameTitle + ' ' + messages.OUT_OF_STOCK_TOOLTIP + '" />');
+						$(this).parent().prepend('<span class="offscreen">' +colorNameTitle + ' '+ messages.OUT_OF_STOCK_TOOLTIP +'</span>');
+					}else {
+						$(this).parent().get(0).setAttribute("data-sort", colorsInStock.indexOf(color));
+						
+						$(this).parent().get(0).setAttribute("data-content", colorNameTitle);
+						$(this).parent().get(0).setAttribute("data-placement", "bottom");
+						$(this).parent().get(0).setAttribute("data-trigger", "focus hover");
+						$(this).parent().get(0).setAttribute("data-toggle", "popover");
+						$(this).parent().get(0).setAttribute("data-html", "true");
+						$(this).parent().get(0).classList.add("swatch-help");
+						$(this).parent().get(0).setAttribute("onkeydown", "COSTCO.CMath.runRMAActiveColor(event, '" + color + "')");
+						
+						if (costcoStoreFeatures.WEBSITE_REDESIGN_V2_PDP_FEATURE_ENABLE) {
+							$(this).css('border-radius', '5px');
+						}
+					}		
+				}
+			});
+			
+			
+			var sortedSwatches = $('#theSwatches').children().sort(function(a,b){
+		    	return a.getAttribute('data-sort') - b.getAttribute('data-sort');
+			});
+			
+			
+			$('#theSwatches').empty();
+			$('#theSwatches').append(sortedSwatches);
+			if(swatchMode == 2) {
+				$('#theSwatches').removeClass('hide');
+			}
+		}
+		
+		//Sets up swatches based on swatchMode
+		//A loop is introducted to handle if business set the swatch in the second sequence
+		//If the swatch is not the first option we do not auto select it 
+		//as the first swatch option may not be a valid option given the previous variant selection
+		//swatchMode = 1 is the regular dropdown
+		//swatchMode = 2 is RichFx's swatch color tiles and we hide our dropdown
+		function setupSwatches() {
+			let swatchDropdowns = $('.swatchDropdown');
+			for(i = 0; i< swatchDropdowns.length; i++) {
+				let swatchMode = $(swatchDropdowns[i]).data('swatch-mode');
+				if (swatchMode == 1 || swatchMode == 2) {
+					syncSwatchTiles(swatchMode);
+					if(i == 0)
+						selectInitialSwatch();
+					//fallback to our select if RichFx's swatch tiles didn't load
+					if (swatchMode == 2 && $('#theSwatches').children().length == 0) {
+						$('.swatchDropdown').removeClass('hide');
+					}
+					COSTCO.util.swatch_accesible_popover('.swatch-help');
+				} else {
+					$('#product-body-item-number').removeClass('hide');
+					$('#product-body-model-number').removeClass('hide');
+				}
+			}
+		}
+		//setus up the viewer to have responsive properties and
+		//shows thumbnails if they are available
+		function setupViewer() {
+			makeViewerResponsive();
+			if ($theViews.find('img').length > 0) {
+				$thumbnails.show();
+				setupThumbnailCarousel();
+			}	
+		}
+		
+		//creates text overlay that displays number of slides not shown
+		function setupTextOverlay() {
+			
+			if ($thumbnails.find('a').length > 0) {
+				
+				$thumbnails.find('img').removeClass('overlap-img');
+				$thumbnails.find('.overlay').remove();
+			
+				var numberOfHiddenSlides = $thumbnails.find('a').not('.slick-active').length>0 ? $thumbnails.find('a').not('.slick-active').length+1 : $thumbnails.find('a').not('.slick-active').length;
+			
+				var srAdditionalText = '<span class="sr-only">&nbsp;'+(numberOfHiddenSlides > 1 ? messages.PDP_REDESIGN_V2_MORE_ITEMS_SR_TEXT +'</span>' : messages.PDP_REDESIGN_V2_ONE_ITEM_SR_TEXT +'</span>');
+				
+				if (numberOfHiddenSlides > 0) {
+					var $lastDisplayedSlide = $thumbnails.find('.slick-active').last();
+					
+					$lastDisplayedSlide.find('img').addClass('overlap-img');
+					$lastDisplayedSlide.append('<div class="overlay" tabindex="0">+' + numberOfHiddenSlides + srAdditionalText + '</div>');
+					if ($lastDisplayedSlide.width() > 0) {
+						$('.overlay').toggleClass('fixed').width($lastDisplayedSlide.width());
+					}							
+					if ($lastDisplayedSlide.height() > 0) {
+						$('.overlay').toggleClass('fixed').height($lastDisplayedSlide.height());
+					}
+	
+					$('.overlay').on('click', function(event){
+						event.stopImmediatePropagation();
+						cleanUpEvents();
+						COSTCO.ModalImageLightboxView.openImageLightBoxModal(event);
+					});
+					$('.overlay').parent().on('keydown', function(event){
+						if(event.which==13) {
+							$('.overlay').click();
+						}
+					});
+				}
+			}
+		}
+		
+		//these elements are already available in the DOM so set them
+		var $viewerDiv = $('#zoomViewer');
+		var $viewerLib = $('#productImageLibrary');
+		var $viewerImg = $('#productImage');
+		var $thumbnails = $('#thumbnails');
+		var $theViews = $('#theViews');
+		var $initialImage = $('#initialProductImage');
+		var viewerSize = getViewerSize();
+		var currentViewer = viewerSize;
+		var currentSlide = 0;
+		var firstActiveSlide = 0;
+		
+	
+		function handleStateLoaded() {
+			//debugger;
+			setupViewer();
+			setupSwatches();
+			//hide the overlayed image after zoom viewer finishes loading
+			var element =  document.getElementById('initialProductImage');
+			if (typeof(element) != 'undefined' && element != null) {
+				element.style.display = 'none';
+			}
+			$viewerDiv.css('visibility', 'visible');
+			var $externalVideo = $theViews.find('img[id*=External]');
+			if (typeof lc == 'undefined' && $externalVideo.length > 0) { //only load liveclicker files once
+				loadVideoData();
+			}
+			makeHeroImageADACompliant();
+			bindOpenImageLightboxModal();
+			$theViews.find('button').remove();
+			adjustSlidesForDesktopView();		
+			setMainImage();	
+			refocusElement();
+			setupTextOverlay();
+		}
+		
+		function setMainImage() {
+    		let currentSlide = $('#theViews').find('a')[0];
+    		if(currentSlide){
+				var $theViews = $('#theViews');
+				if($theViews) {
+					$theViews.find('img').each(function(){
+						$(this).off("click");
+					});
+				}
+        		$(currentSlide).find('span').next().click(); 			
+    		}
+		}
+		
+		function handleViewChanged() {
+			if(!$('body').hasClass('image-lightbox-modal-open')){
+				var $selected = $('.RICHFXColorChangeViewSelected');
+				currentSlide = $selected.parent().index();
+				destroyThumbnailCarousel();
+				setupThumbnailCarousel();
+				bindOpenImageLightboxModal();
+				$theViews.find('button').remove();
+				adjustSlidesForDesktopView();
+				setupTextOverlay();
+				focusHeroImage();
+				$($selected).on('keyup', function(e) {
+				    if(e.which == 13) {
+				      focusHeroImage();
+				    }
+				});
+			}	
+		}
+		
+		function handleSwatchChanged() {
+			if ($theViews.hasClass('slick-initialized')) {			
+				destroyThumbnailCarousel();
+				currentSlide = 0;
+				firstActiveSlide = 0;
+				setupThumbnailCarousel();
+				bindOpenImageLightboxModal();
+				$theViews.find('button').remove();
+				adjustSlidesForDesktopView();
+				setupTextOverlay();
+			}
+		}
+		
+		// Focus element that had focus before image Lightbox opened.
+		function refocusElement() {
+			var $elementToFocus = $("#"+$('#lastFocusedElement').val()).parent();
+			if ($elementToFocus.length) {
+				$elementToFocus.focus();
+				$('#lastFocusedElement').remove();		
+			}
+		}
+				
+		
+	  	//when richmedia is done loading their stuff, we have to make some adjustments
+		if(modalClosed) {
+			cleanUpEvents();
+			document.addEventListener('richmedia.view.changed', handleViewChanged);		
+			document.addEventListener('richmedia.swatch.changed', handleSwatchChanged);
+			var $externalVideo = $theViews.find('img[id*=External]');
+			if ($externalVideo.length > 0) {
+				loadVideoData();
+			}			
+		} else {
+			document.addEventListener('richmedia.state.loaded', handleStateLoaded);
+			document.addEventListener('richmedia.view.changed', handleViewChanged);		
+			document.addEventListener('richmedia.swatch.changed', handleSwatchChanged);
+			createViewer(viewerSize);
+		}
+		
+		//modify viewer size on window resize
+		$(window).resize(COSTCO.util.debounce(updateViewer, 250));
+	}
+	
+	// Set initial swatch values on page load and image lightbox close
+	function setInitialSwatchValues() {
+    	let hasOptions = $("select[type=select-variants]");
+    	if (hasOptions.length > 0) {
+    		$("select[type=select-variants]").each(function(){
+				$(this).find('.opt').first().prop("selected", "selected");
+	    		COSTCO.CMath.update_selected_option_label($(this).find('option:selected').val());
+			});
+    		$('.swatches-v2').each(function(){
+				$(this).find('input').prop('checked', false);
+				$(this).find('input').first().prop('checked', true);
+			});
+			// Change the quantity of all bundle variances to 0 at load
+			$('input[id^="quantity-"]').each(function(){
+    			$(this).val('0');
+    			$(this).trigger('change');
+			});
+    	}
+	}
+
+	//Makes hero image focusable
+	function makeHeroImageADACompliant() {
+		$("#RICHFXViewerContainer___richfx_id_0").attr("tabindex", "0");
+	}
+
+	// Sets focus on image that is hero at the moment
+	function focusHeroImage() {
+		$("#RICHFXViewerContainer___richfx_id_0").focus();
+	}
+
+	$(window).load(function() {
+	    initZoomViewer();
+	    setInitialSwatchValues();
+	});
+		
+</script>
+			
+			<div id="product-details" class="col-xs-12 col-lg-4 product-details-v2">
+				<div class="row visible-lg visible-xl">
+					<div class="col-xs-12">
+						
+						<div class="product-h1-container-v2 visible-lg-block visible-xl-block">
+							<!-- Start Pills Section -->
+
+<div class="pills-section">
+	
+</div>
+
+									<h1 itemprop="name">LG 27" Class FHD IPS FreeSync Monitor</h1>
+								
+						</div>
+						
+						<div class="shop-all-brand visible-lg-block visible-xl-block">
+						</div>
+						
+						<p id='product-body-item-number' class='item-number '>Item &nbsp;<span data-sku="1453175">1453175</span></p>
+						
+							<p id='product-body-model-number' class='model-number '>Model &nbsp;<span data-model-number="27MK430H-B.AUS">27MK430H-B.AUS</span></p>
+						
+							  <div id="bazaar-container">
+							    <div id="details-bazaar-voice" class="bazaar-voice visible-lg-block visible-xl-block">
+							    </div>
+							  </div>
+							
+					</div>
+				</div>
+				<!-- Math table  -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-xl-10">
+					
+<div class="math-table">
+	<div id="breakdown" class="hide row no-gutter breakdown-v2">
+		
+					
+					<div class="online-price hide" data-opvalue="MTQ5Ljk5" data-catentry="2073048" data-inv="IN_STOCK">
+						<span class="op-label">Online Price</span>
+						<span class="op-value">MTQ5Ljk5</span>
+						<span class="currency">$</span>
+					</div>
+					
+					<div class="fee-parent">
+					  
+					</div> 
+
+					
+	</div>
+	<div aria-live="assertive" aria-atomic="true" class="your-price row no-gutter">
+	    
+				<span class="text">Your Price</span>
+			
+		<div id="pull-right-price" class="pull-right ">
+			<span class="value">--</span><span class="currency">$</span>
+			
+		</div>
+	</div>
+</div>
+				</div>
+			</div>
+    	<!-- Bundle starting price --><!-- Grocery Delivery Fee -->
+				<div class="shipping-statement">Shipping & Handling Included*</div>
+		
+		<div class="marketing-container form-group"> 
+			
+		</div>
+
+		<!-- Grocery Delivery Info --><!-- Grocery Available in Warehouse -->
+			<div class="features-container form-group">
+				<!-- Start - ProductDetailFeatures.jsp -->
+<span>Features:</span>
+<ul class="pdp-features">
+
+	<li>1920 x 1080 Resolution</li> 
+
+	<li> 
+75Hz Refresh Rate</li> 
+
+	<li> 
+5ms Response Time</li> 
+
+	<li> 
+Radeon FreeSync™ Technology</li> 
+
+	<li>
+HDMI Cable Included</li> 
+ 
+</ul>
+<!-- End - ProductDetailFeatures.jsp -->
+			</div>
+			
+
+<div class="product-right-banners visible-lg-block">
+</div>
+
+				<label class="hide" for="theSwatches"></label>
+			</div>
+			
+			<div class="col-xs-12 col-lg-3">
+				<div class="product-interaction">
+			      
+					    	<div id="product-estimated-date">
+								
+										<div id="live-edd-container-block">
+											<!-- BEGIN EstimatedDeliveryDate.jsp -->
+<script type="text/javascript">
+	var sellpointMessages = {
+	
+	       "innovel-hasDeliveryAll" : "Delivery of all appliances",
+	       "innovel-hasDeliveryAllDelayed" : "Delivery of all appliances (your zip code takes 1-2 weeks longer)",
+	       "innovel-hasElectricalHookup" : "Hookup of electric appliances.",
+	       "innovel-hasDishHookup" : "Hookup of dishwasher. Electrical hardwiring, if required, at an additional fee (member pays installer).",
+	       "innovel-hasNoDishHookup" : "No hookup of dishwasher based on local regulations or coverage area (haul-away only when uninstalled by member).",
+	       "innovel-hasOtrHookup" : "Hookup of over-the-range microwaves. Electrical hardwiring, if required, at an additional fee (member pays installer).",
+	       "innovel-hasNoOtrHookup" : "No hookup of over-the-range microwaves based on local regulations or coverage area (haul-away only when uninstalled by member)",
+	       "innovel-hasGasHookup" : "Hookup of gas appliances.",
+	       "innovel-haNoGasHookup" : "No hookup of gas appliances based on local regulations or coverage area (haul-away only when uninstalled by member).",
+	       "innovel-hasBuiltIn" : "Hookup of built in appliances (excluding refrigerators).",
+	       "innovel-hasNoBuiltIn" : "No hookup of built in appliance based on local regulations or coverage area.",
+	       "innovel-hasSecondApptReqd" : "2nd appointment required to install dishwasher or microwave and in some areas gas appliances.",
+	       "innovel-hasPermitReqd" : "Permits required by local regulation (member pays installer).",
+	       "innovel-hasHaulAway" : "Haul-away of old appliances (built-ins when uninstalled by member).",
+	       "innovel-notLower48" : "Due to limited service to your zip code, please contact us at www.costco.com/contact us or call 1-800-955-2292 to request a delivery quote and place order.",
+	       "innovel-isCa" : "In California, gas dryer installations in a garage may require a mechanical code permit and must be at least 18 inches off the ground.",
+	       "jbhunt-zip_may_take_1_wk_longer" : "Delivery of all appliances (your zip code may take 1 week longer)",
+	       "jbhunt-has_delivery_all" : "Delivery of all appliances",
+	       "jbhunt-refer" : "Hookup of electric appliances (built-ins excluded)",
+	       "jbhunt-gas" : "Hookup of gas appliances",
+	       "jbhunt-has_no_gas_hookup" : "No hookup of gas appliances based on local regulations or coverage area (haul-away only when uninstalled by member)",
+	       "jbhunt-dishwasher" : "Hookup of dishwasher (Only when plug in)",
+	       "jbhunt-has_no_dish_hookup" : "No hookup of dishwasher based on local regulations or coverage area (haul-away only when uninstalled by member)",
+	       "jbhunt-isCa" : "In California, gas dryer installations in a garage may require a mechanical code permit and must be at least 18 inches off the ground.",
+	       "jbhunt-has_haul_away" : "Haul-away of old appliances (built-ins when uninstalled by member)",
+	       "xpo-hasDeliveryAll" : "Delivery of all appliances",
+	       "xpo-hasDeliveryAllDelayed" : "Delivery of all appliances (your zip code takes 1-2 weeks longer)",
+	       "xpo-hasElectricHookup" : "Hookup of electric appliances",
+	       "xpo-hasDishHookup" : "Hookup of dishwasher. Electrical hardwiring, if required, at an additional fee (member pays installer).",
+	       "xpo-hasNoDishHookup" : "No hookup of dishwasher based on local regulations or coverage area (haul-away only when uninstalled by member).",
+	       "xpo-hasOtrHookup" : "Hookup of over-the-range microwaves. Electrical hardwiring, if required at an additional fee (member pays installer).",
+	       "xpo-hasNoOtrHookup" : "No hookup of over-the-range microwaves based on local regulations or coverage area (haul-away only when uninstalled by member).",
+	       "xpo-hasGasHookup" : "Hookup of gas appliances.",
+	       "xpo-hasNoGasHookup" : "No hookup of gas appliances based on local regulations or coverage area (haul-away only when uninstalled by member).",
+	       "xpo-hasBuiltIn" : "Hookup of built in appliances (excluding refrigerators).",
+	       "xpo-hasNoBuiltIn" : "No hookup of built in appliance based on local regulations or coverage area.",
+	       "xpo-hasSecondApptReqd" : "2nd appointment required to install dishwasher or microwave and in some areas gas appliances.",
+	       "xpo-hasPermitReqd" : "Permits required by local regulation (member pays installer).",
+	       "xpo-hasHaulAway" : "Haul-away of old appliances (built-ins when uninstalled by member)",
+	       "xpo-notLower48" : "Due to limited service to your zip code, please contact us at www.costco.com/contact us or call 1-800-955-2292 to request a delivery quote and place order.",
+	       "xpo-isCa" : "In California, gas dryer installations in a garage may require a mechanical code permit and must be at least 18 inches off the ground.",
+	       "xpo-isOut" : "No delivery service is available for your zip code.",
+	       "" : ""
+	};
+</script>
+
+
+<!-- BEGIN EstimatedDeliveryDate_Data_Narvar.jspf --><!--  -->
+
+<!--  narvar inclusion -->
+<span
+	class="eddData hidden"
+	data-narvar-feature="getEdd"
+	data-narvar-request-page="productDetails"
+	data-narvar-fallback-message=""
+	data-narvar-order-date="2020-08-28T13:40:57.366"   
+	data-narvar-dest-zip=""
+	data-narvar-origin-zip=""
+	data-narvar-carrier-code="ups"
+	data-narvar-service-code=""
+	data-narvar-dc-id=""
+	data-narvar-origin-country="US"
+	data-narvar-dest-country="US"
+	data-costco-ship-mode-value="1"
+	data-costco-product-number=""
+	data-costco-order-item="1">
+</span>
+<!-- end of narvar inclusion -->
+
+<template id="edd-postal-code-popover" >
+	<div id="edd-postal-code-popover-container" class="costco-popover">
+		<form id="edd-zip-code-form" role="form" data-confirm="true" action="javascript:void(0);" onSubmit="event.preventDefault(); COSTCO.Header.validateEddZipCode(this);">
+			<label for="edd-zip-code-field">
+					ZIP Code
+			</label>
+			<div class="input-group">
+				
+	    				<input id="edd-zip-code-field" name="deliveryPostalCode" class="form-control" type="text" maxlength="10" onkeyup="COSTCO.Header.maskInput();"/>
+	    			
+		    	<span class="input-group-btn"> 	
+		    	 	<button class="btn btn-secondary" type="submit" onclick="this.form.submit();" aria-label="Zip Code Update">
+						Update
+					</button>
+				</span>
+			</div>
+			<div class="error" aria-live="polite"> </div>
+		</form>			
+	</div>
+</template>
+
+
+<!-- END EstimatedDeliveryDate_Data_Narvar.jspf --><!-- BEGIN EstimatedDeliveryDate_UI_Narvar.jspf -->
+
+<div class="edd-container"></div>
+
+<!-- END EstimatedDeliveryDate_UI_Narvar.jspf --><!-- END EstimatedDeliveryDate.jsp -->
+										</div>
+									
+							</div>
+							
+							
+							<div id="product-form-and-action">
+								
+<input type="hidden" id="outOfStock" value="true"/>
+<input type="hidden" id="memberItem" value="false"/>
+<input type="hidden" id="scheduledDeliverable" value="false"/>
+<input type="hidden" id="backOrdered" value="false"/>
+	
+<input type="hidden" id="mapItem" value="false" />
+
+
+
+
+
+<div class="row">
+	<div class="col-xs-12 ">
+	<form id="ProductForm" name="OrderItemAddForm" action="AjaxManageShoppingCartCmd" method="post">
+		<input type="hidden" name="actionType" value="add" />
+		<input type="hidden" name="backURL" value="https://www.costco.com/CheckoutCartView?orderId=." />
+		<input type="hidden" id="catalogId" name="catalogId" value="10701" />
+		<input type="hidden" id="langId" name="langId" value="-1" />
+		<input type="hidden" id="storeId" name="storeId" value="10301" />
+		<input type="hidden" name="authToken" value="-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D" />
+		<input type="hidden" name="productBeanId" value="2073047" />
+		<input type="hidden" name="productPartnumber" id="productPartnumberVal" value="100662272" />
+		<input type="hidden" id="configuredInfo"  name="configuredInfo" value="" />
+		<input type="hidden" id="configuredInfoType" name="configuredInfoType" value="" />
+		<input type="hidden" id="resultingItemNumbers" value="[1453175]" />
+		<input type="hidden" id="deliveryAvailabilityZip" name="deliveryAvailabilityZip" value="" />
+		<input type="hidden" id="shipRestrictionStore" value="true" />
+		<input type="hidden" id="categoryCode" value="XAA" />
+		
+			<input type="hidden" id="targetedCartBehaviour" name="targetedCartBehaviour" value="" />
+		
+			<input type="hidden" id="liveEDD" value="true" />
+			<input type="hidden" id="showLiveEDD" value="EDD:Narvar-Terse" />
+			<input type="hidden" id="vendorName" value="EDD:Narvar" />
+		
+			<input type="hidden" name="categoryId" value="30122"  />
+		
+			<div id="item-number" class="hide">
+	        	Item &nbsp;
+	        	<span></span>
+			</div>
+        <!-- before product options -->
+<div id="variants">
+	
+</div>		
+			<div class="row hide" id="ctas">
+				<ul class="col-xs-12">
+					
+				 		<div id="qty-input" class="col-xs-12 qty-input-v2 interaction-element">
+			        	<label for="minQtyText" id="qty-description" class="offscreen">Quantity</label>
+						
+								<div class="quantity-selector-v2">
+									<button id="minusQty" type="button" name="minusQty" title="Decrease Quantity"
+										onclick="COSTCO.Product.changeQuantityValue(this)">
+										<i class="co-collapse"></i>
+									</button>
+									
+											<input type="tel" id="minQtyText" class="form-control"
+												name="quantity" maxlength="3" value="1" aria-required="true" aria-labelledby="qty-description"
+												data-error-message="Quantity must be in increments of"/>
+										
+									
+									<button id="plusQty" type="button" name="plusQty" title="Increase Quantity"
+										onclick="COSTCO.Product.changeQuantityValue(this)">
+										<i class="co-expand"></i>
+									</button>
+									</div>
+									<div class="product-error error col-xs-12" role="alert"></div>
+				          
+			        </div>
+				 	
+						<div id="add-to-cart" class="col-xs-12 add-to-cart-v2  interaction-element">
+							<!-- For membership items Buy Membership button will be displayed insted of Add to Cart.
+							 Buy Membership button will be disabled if descriptive attribute is not defined -->
+										<input type="button" id="add-to-cart-btn"
+													name="add-to-cart"
+										
+											value="Add to Cart"
+														class="primary-button-v2" 
+										 >
+									
+						</div>
+						<div id="add-to-cart-map" class="col-xs-12 add-to-cart-v2 " style="display:none;">
+								<input type="button" name="add-to-cart" 
+							
+								value="Add for Details"
+										class="primary-button-v2" 
+							>
+						</div>
+						<div id="select-options" class="col-xs-12 add-to-cart-v2 interaction-element" style="display:none;">
+						  <input type="button"
+							
+							 	value="Select Options"
+								 	class="primary-button-v2"
+							
+						     name="select-options" disabled >
+						</div>
+					
+			</ul>
+		   	
+			<div class="add-success success"></div>
+		</div>
+		
+					<input type="hidden" class="catentryInput" id="catEntryId" name="catEntryId" value="2073048" />
+					<input type="hidden" class="addedItemInput" name="addedItem" value="100662272" /> 
+				<!-- end of form -->
+	</form>
+	</div>
+	
+</div>
+<input type="hidden" id="isBDAppVar"  value="BC" />
+
+
+
+<div class="row product-actions-v2">
+		<!-- Add to List section -->
+				<div id="add-to-list" class="add-to-list col-xs-12 col-lg-12">
+					<div class="product-external-lists-v2 interaction-element">
+						
+						
+						<button id="add-to-list-button" class="tertiary-alternative-button-v2 pdp-lists-link " aria-haspopup="true"
+							aria-label="Add to List" data-no-login="https://www.costco.com/LogonForm?URL=https://www.costco.com/lg-27-class-fhd-ips-freesync-monitor.product.100662272.html">
+							<i class="co-lists"></i>
+							<span>Add to List</span>
+						</button>
+						
+						
+								<script>
+									$('#add-to-list-button').removeClass("add-to-list-button");
+								</script>
+							
+					</div>
+				</div>
+			
+			<div id="product-social-print-mobile" class="product-social-print visible-xs visible-sm visible-md">
+				
+	<div class="social-share">
+		<div class="col-xs-12">
+			<button class="tertiary-alternative-button-v2 visible-xs visible-sm visible-md social-share-link" aria-haspopup="true"
+				data-trigger="click" data-toggle="popover" data-placement="bottom" data-html="true">
+				<i class="co-share"></i>
+				<span>Share</span>
+			</button>
+			
+			<span class="social-share-link hidden-xs hidden-sm hidden-md" aria-haspopup="true"
+				aria-label="Share"
+				data-trigger="click" data-toggle="popover" data-placement="bottom" data-html="true">
+				<a tabindex="-1" href="javascript:void(0);"><i class="co-share"></i>Share</a></span>
+			
+			<span>
+				<a href="javascript:void(0);" class="print-link hidden-xs hidden-sm hidden-md">
+					<i class="co-print"></i>Print
+				</a>
+			</span>
+			
+			<div class="social-popover-container" hidden="true">
+				<div class="social-popover">
+					<img tabindex="0" src="/wcsstore/RWDStaticAssets/fonts/fallback-icons/icons/social-facebook.svg" 
+						onclick="COSTCO.Social.shareWindow(&apos;facebook&apos;)" alt="facebook">
+					<img tabindex="0" src="/wcsstore/RWDStaticAssets/fonts/fallback-icons/icons/social-pinterest.svg" 
+						onclick="COSTCO.Social.shareWindow(&apos;pinterest&apos;)" alt="pinterest">
+					<img class="twitter last-icon" tabindex="0" src="/wcsstore/RWDStaticAssets/fonts/fallback-icons/icons/social-twitter.svg" 
+						onclick="COSTCO.Social.shareWindow(&apos;twitter&apos;)" alt="twitter">
+				</div>
+			</div>
+			
+		</div>
+	</div>
+
+			</div>	
+			<div class="col-xs-12 visible-lg visible-xl visible-xs visible-sm visible-md">
+				
+					<div class="messages visible-lg visible-xl visible-xs visible-sm visible-md">
+						<p class="primary-clause">Arrives approximately 3 - 5 business days from time of order.</p>
+						<div id="plain-packaging-info">
+							<p id="plain-packaging-available" style="display: none;">
+								Plain packaging available.
+							</p>
+							<p id="plain-packaging-not-available" style="display: none;">
+								Plain packaging not available.
+							</p>
+							<p id="plain-packaging-mandatory" style="display: none;">
+								Item ships in plain package.
+							</p>
+						</div>
+							
+					</div>
+								
+				<div class="compare visible-lg visible-xl">
+					
+
+<div class="style-check compare-container">
+    <input id="compare_100662272" type="checkbox" name="compare-product" value="true" data-description="LG 27" Class FHD IPS FreeSync Monitor"  
+    	onclick="COSTCO.compareProducts.toggleItem('100662272','https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1453175-847__1&recipeName=350', this)" />
+    <label for="compare_100662272" class="mar_top">
+    	<span>Compare Product</span>
+    </label>
+</div>
+				</div>
+			</div>
+			
+	
+	
+	
+	
+	<script type="text/javascript">
+		var ListsFormDynamicObject = { authToken : "-1002%2C5M9R2fZEDWOZ1d8MBwy40LOFIV0%3D"};
+	</script>
+</div>
+							</div>
+						
+				    
+				</div>
+			
+				<div class = "row">
+					<div class="product-social-print visible-lg visible-xl">
+						
+	<div class="social-share">
+		<div class="col-xs-12">
+			<button class="tertiary-alternative-button-v2 visible-xs visible-sm visible-md social-share-link" aria-haspopup="true"
+				data-trigger="click" data-toggle="popover" data-placement="bottom" data-html="true">
+				<i class="co-share"></i>
+				<span>Share</span>
+			</button>
+			
+			<span class="social-share-link hidden-xs hidden-sm hidden-md" aria-haspopup="true"
+				aria-label="Share"
+				data-trigger="click" data-toggle="popover" data-placement="bottom" data-html="true">
+				<a tabindex="-1" href="javascript:void(0);"><i class="co-share"></i>Share</a></span>
+			
+			<span>
+				<a href="javascript:void(0);" class="print-link hidden-xs hidden-sm hidden-md">
+					<i class="co-print"></i>Print
+				</a>
+			</span>
+			
+			<div class="social-popover-container" hidden="true">
+				<div class="social-popover">
+					<img tabindex="0" src="/wcsstore/RWDStaticAssets/fonts/fallback-icons/icons/social-facebook.svg" 
+						onclick="COSTCO.Social.shareWindow(&apos;facebook&apos;)" alt="facebook">
+					<img tabindex="0" src="/wcsstore/RWDStaticAssets/fonts/fallback-icons/icons/social-pinterest.svg" 
+						onclick="COSTCO.Social.shareWindow(&apos;pinterest&apos;)" alt="pinterest">
+					<img class="twitter last-icon" tabindex="0" src="/wcsstore/RWDStaticAssets/fonts/fallback-icons/icons/social-twitter.svg" 
+						onclick="COSTCO.Social.shareWindow(&apos;twitter&apos;)" alt="twitter">
+				</div>
+			</div>
+			
+		</div>
+	</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="row bottom-content">
+			
+			<div id="product-info" class="col-xs-12" data-product="standard">
+					<!-- Start Product Info Tab Navigation-->
+<div id="tab-instruction" class="sr-only">Navigate tabs with left and right arrow keys</div>
+<div id="product_tabs" class="row">
+	<div class="col-xs-12">
+		<div class="row">
+		    <ul id="tablist" class="boot-nav-justified col-xs-12 hidden-xs hidden-sm hidden-md tablist" role="tablist">
+			  
+		      <li class="active in" role="presentation">
+		          <a href="#nav-pdp-tab-header-3" class="scrollLink" role="tab" aria-describedby="tab-instruction">
+		            <h8>Product Details</h8>
+		          </a>
+		      </li>
+		      
+			      <li class="" role="presentation">
+			      	  <a href="#nav-pdp-tab-header-4" class="scrollLink" role="tab" aria-describedby="tab-instruction">
+			          	<h8>Specifications</h8>
+			          </a>
+			      </li>
+		      
+				      <li role="presentation">
+				          <a href="#nav-pdp-tab-header-6" class="scrollLink" role="tab" aria-describedby="tab-instruction">
+				            <h8>Manuals &amp; Guides</h8>
+				          </a>
+				      </li>
+			      
+			      <li role="presentation">
+			          <a href="#nav-pdp-tab-header-7" class="scrollLink" role="tab" aria-describedby="tab-instruction">
+		              	<h8>Warranty & Services</h8>
+			          </a>
+			      </li>
+			  
+				  <li role="presentation">
+					  <a href="#nav-pdp-tab-header-8" class="scrollLink" role="tab" aria-describedby="tab-instruction">
+					  	<h8>Shipping & Returns</h8>
+			          </a>
+			      </li>
+			  
+			      <li role="presentation">
+			          <a href="#nav-pdp-tab-header-9" class="scrollLink" role="tab" aria-describedby="tab-instruction">
+			              <h8>Reviews</h8>
+			          </a>
+			      </li>
+			     
+		    </ul>
+			<div id="ada-aria-hidden" tabindex="-1"></div>
+		    <div class="tab-content col-xs-12 col-lg-8">
+		      
+	      	  <div class="row active in" id="nav-pdp-tab-header-3">
+		          <div class="panel-body col-xs-12">
+		          <hr class="separate-content visible-xs visible-sm visible-md">
+	              <h3 class="section-title">Product Details</h3>	
+				  
+				  <span class="view-more-height-default" data-height="600"></span>
+				  <div id="tobmsg" class="tobacco-message hide">
+		   				Costco Business Delivery can only accept orders for this item from retailers holding a Costco Business membership with a valid tobacco resale license on file. Tobacco products cannot be returned to Costco Business Delivery or any Costco warehouse. This is an exception to Costco's return policy.
+		   			</div>
+					  <div id="product-tab1-espotdetails">
+						  <!-- BEGIN ContentAreaESpot.jsp -->
+
+
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_ProductDetailsESpot_Tab1">
+	<div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_ProductDetailsESpot_Tab1">[ProductDetailsESpot_Tab1]</div>
+	 
+		<div>
+				
+		</div>	
+	
+</div>
+
+<!-- END ContentAreaESpot.jsp -->
+		 		      </div>
+		 		      
+					  <div class="product-info-description">
+						  
+								  	<span style='font-weight:bold;'>Limit 4 Per Member</span><br/>
+
+<span style='font-weight:bold;'>Item may be available in your local warehouse, prices may vary</span><br/><br/>
+
+<script type="text/javascript" src="//media.flixfacts.com/js/loader.js"
+                data-flix-distributor="370"
+                data-flix-language="us"
+                data-flix-mpn="27MK430H-B"
+                data-flix-button="flix-minisite"
+                data-flix-inpage="flix-inpage"
+                data-flix-fallback-language="en">
+</script>					
+							  
+				  	</div>
+				  </div>
+			</div>
+		      
+			      <div class="row " id="nav-pdp-tab-header-4">
+			          <div class="panel-body col-xs-12">
+				          <hr class="separate-content">
+				          <h3 class="section-title">Specifications</h3>
+				          
+						  <span class="view-more-height-default" data-height="600"></span>
+						  <div class="product-info-description">
+							  <div class="product-info-specs body-copy"> 
+					 			  
+										  <div class="row">
+										  	<div class="spec-name col-xs-6 col-md-5 col-lg-4" >Aspect Ratio</div>
+										  	
+													<div class="col-xs-6 col-md-7 col-lg-8">16:9</div>
+												
+										  </div>
+								      
+										  <div class="row">
+										  	<div class="spec-name col-xs-6 col-md-5 col-lg-4" >Brand</div>
+										  	
+													<div class="col-xs-6 col-md-7 col-lg-8" itemprop="brand">LG</div>
+												
+										  </div>
+								      
+										  <div class="row">
+										  	<div class="spec-name col-xs-6 col-md-5 col-lg-4" >Features</div>
+										  	
+													<div class="col-xs-6 col-md-7 col-lg-8">AMD FreeSync</div>
+												
+										  </div>
+								      
+										  <div class="row">
+										  	<div class="spec-name col-xs-6 col-md-5 col-lg-4" >Features</div>
+										  	
+													<div class="col-xs-6 col-md-7 col-lg-8">Tilting</div>
+												
+										  </div>
+								      
+										  <div class="row">
+										  	<div class="spec-name col-xs-6 col-md-5 col-lg-4" >Model</div>
+										  	
+													<div class="col-xs-6 col-md-7 col-lg-8">27MK430H-B.AUS</div>
+												
+										  </div>
+								      
+										  <div class="row">
+										  	<div class="spec-name col-xs-6 col-md-5 col-lg-4" >Number of D-Sub Inputs</div>
+										  	
+													<div class="col-xs-6 col-md-7 col-lg-8">1</div>
+												
+										  </div>
+								      
+										  <div class="row">
+										  	<div class="spec-name col-xs-6 col-md-5 col-lg-4" >Number of HDMI Inputs</div>
+										  	
+													<div class="col-xs-6 col-md-7 col-lg-8">1</div>
+												
+										  </div>
+								      
+										  <div class="row">
+										  	<div class="spec-name col-xs-6 col-md-5 col-lg-4" >Panel Type</div>
+										  	
+													<div class="col-xs-6 col-md-7 col-lg-8">IPS</div>
+												
+										  </div>
+								      
+										  <div class="row">
+										  	<div class="spec-name col-xs-6 col-md-5 col-lg-4" >Refresh Rate</div>
+										  	
+													<div class="col-xs-6 col-md-7 col-lg-8">75 Hz</div>
+												
+										  </div>
+								      
+										  <div class="row">
+										  	<div class="spec-name col-xs-6 col-md-5 col-lg-4" >Resolution</div>
+										  	
+													<div class="col-xs-6 col-md-7 col-lg-8">1920 x 1080 (Full HD)</div>
+												
+										  </div>
+								      
+										  <div class="row">
+										  	<div class="spec-name col-xs-6 col-md-5 col-lg-4" >Response Time</div>
+										  	
+													<div class="col-xs-6 col-md-7 col-lg-8">5 Milliseconds</div>
+												
+										  </div>
+								      
+										  <div class="row">
+										  	<div class="spec-name col-xs-6 col-md-5 col-lg-4" >Screen Size</div>
+										  	
+													<div class="col-xs-6 col-md-7 col-lg-8">27 in.</div>
+												
+										  </div>
+								      
+										  <div class="row">
+										  	<div class="spec-name col-xs-6 col-md-5 col-lg-4" >Screen Type</div>
+										  	
+													<div class="col-xs-6 col-md-7 col-lg-8">Flat</div>
+												
+										  </div>
+								      
+										  <div class="row">
+										  	<div class="spec-name col-xs-6 col-md-5 col-lg-4" >Weight - with Stand</div>
+										  	
+													<div class="col-xs-6 col-md-7 col-lg-8">10.1 lb.</div>
+												
+										  </div>
+								      
+										  <div class="row">
+										  	<div class="spec-name col-xs-6 col-md-5 col-lg-4" >Weight - without Stand</div>
+										  	
+													<div class="col-xs-6 col-md-7 col-lg-8">9.3 lb.</div>
+												
+										  </div>
+								      
+										  <div class="row">
+										  	<div class="spec-name col-xs-6 col-md-5 col-lg-4" >with Stand Dimensions: W x D x H</div>
+										  	
+													<div class="col-xs-6 col-md-7 col-lg-8">24.6 in. x 8 in. x 18.5 in.</div>
+												
+										  </div>
+								      
+										  <div class="row">
+										  	<div class="spec-name col-xs-6 col-md-5 col-lg-4" >without Stand Dimensions: W x D x H</div>
+										  	
+													<div class="col-xs-6 col-md-7 col-lg-8">24.6 in. x 1.7 in. x 14.8 in.</div>
+												
+										  </div>
+								      
+							  </div>
+						  </div>
+					  </div>
+			      </div>
+		      
+			      <div class="row" id="nav-pdp-tab-header-6" role="tabpanel">
+			      	<div class="panel-body col-xs-12">
+			      	  <hr class="separate-content">
+			          
+<figure class="product-manuals">
+	
+	<h3 class="section-title">Manuals &amp; Guides</h3>
+	<ul class="list-group product-attachments">
+	
+						<li class="list-group-item">
+						
+								<a href="https://mobilecontent.costco.com/live/resource/img/static-us-pdf/1453175-SpecSheet.pdf" class="pdf-link" target="_blank">
+									
+										<img class="pdf" src="/wcsstore/CostcoGLOBALSAS/images/pdf.svg" alt="PDF format">
+									
+								Specifications</a>
+							
+						</li>
+					
+	</ul>
+	
+</figure>
+
+					  </div>
+			      </div>
+		      	
+			      <div class="row" id="nav-pdp-tab-header-7" role="tabpanel">
+			        <div class="panel-body col-xs-12">
+			          <hr class="separate-content">
+			          <h3 class="section-title">Warranty & Services</h3>
+						
+<figure class="product-concierge">
+	
+	<ul class="product-info-concierge">
+		<li>
+		
+				<p style="font-size: 16px"><i class="fi-check"></i>Free Technical Support</p>
+<div><a href="/concierge.html" target="_blank"><span style="font-size: 18px">Learn About Costco Concierge Services</span></a></div>
+
+<script>
+$(document).ready(function() {
+  function recWarrantyDisplayDynamic(g) {
+    try {
+      var prices = [];
+      var catentry = $("#catEntryId").val();
+      for (var p = 0; p < products[0].length; p++) {
+        if (products[0][p].catentry == catentry || g === true) {
+          prices.push(Number(COSTCO.util.decode(products[0][p].price).replace(",", "")));
+        }
+      }
+       var warranties = [{"low":0,"high":299.99,"item":"818172","descript":"Camera/Tablet"},
+            {"low":300,"high":750,"item":"818176","descript":"Camera/Tablet"},
+            {"low":750,"high":99999,"item":"818180","descript":"Camera/Tablet"},
+            {"low":0,"high":499.99,"item":"1575678","descript":"TV"},
+            {"low":500,"high":1000,"item":"1575685","descript":"TV"},
+            {"low":1000.01,"high":99999,"item":"1575686","descript":"TV"},
+            {"low":0,"high":499.99,"item":"653170","descript":"Computer"},
+            {"low":500,"high":99999,"item":"653171","descript":"Computer"},
+            {"low":0,"high":999.99,"item":"1051899","descript":"Appliance"},
+            {"low":1000,"high":2000,"item":"1051901","descript":"Appliance"},
+            {"low":2000,"high":99999,"item":"1051909","descript":"Appliance"},
+            {"low":0,"high":1999.99,"item":"1059340","descript":"Laundry"},
+            {"low":2000,"high":99999,"item":"1059345","descript":"Laundry"},
+            {"low":0,"high":1999.99,"item":"1059350","descript":"Kitchen"},
+            {"low":2000,"high":3999.99,"item":"1059351","descript":"Kitchen"},
+            {"low":4000,"high":99999,"item":"1059354","descript":"Kitchen"}];
+      for (var i = 0; i < warranties.length; i++) {
+        var display = false;
+        for (var x = 0; x < prices.length; x++) {
+          if (prices[x] >= warranties[i].low && prices[x] <= warranties[i].high) {
+            display = true;
+          }
+        }
+        if (!display) {
+          var ele = $('input[name="itemNumber"][value="' + warranties[i].item + '"]');
+          if (ele !== null && ele.length > 0) {
+            ele.closest("form").parent().hide();
+          }
+        }
+      }
+      if ($('.related-products form:not([style*="display: none"])').length === 0) {
+        $("#related-products-container").hide();
+      }
+    } catch (e) {
+      console.log(e);
+    }
+  }
+  if ($('#submit-delivery-area').length !== 0) {
+    recWarrantyDisplayDynamic(true);
+  } else {
+    $('#add-to-cart-btn').on("click", recWarrantyDisplayDynamic);
+  }
+});
+</script> 
+				
+		</li>
+	</ul>
+	
+</figure>
+
+					</div>
+			      </div>
+			  
+			      <div class="row" id="nav-pdp-tab-header-8" role="tabpanel">
+					<div class="panel-body col-xs-12">
+					  <hr class="separate-content">
+					  <h3 class="section-title">
+					  	Shipping & Returns
+					  </h3>
+					  
+						<span class="view-more-height-default" data-height="600"></span>
+					  <div class="product-info-description">
+							<div class="product-info-shipping">
+								
+										Standard shipping is via UPS Ground. 
+										<br/><br/>
+										Express shipping is via UPS. 
+										<br/><br/>
+										Please choose your shipping method at checkout. 
+										<br/><br/>
+										An additional Shipping and Handling fee will apply to express shipments. This fee will be quoted at checkout. 
+										<br/><br/>
+										*Delivery is available to Alaska, Hawaii and Puerto Rico. An additional Shipping and Handling fee will apply to shipments going to Alaska, Hawaii or Puerto Rico. This fee will be quoted at checkout. Additional transit time may be required. 
+										<br/><br/>
+										If you are shipping this item to the State of California, a California Electronic Waste Recycling fee will apply to your order at checkout. 
+										<br/><br/>
+										Costco.com products can be returned to any of our more than 700 Costco warehouses worldwide. 
+										
+							</div>
+							<div class="product-info-returns">
+								
+										<h4><strong>SHOP CONFIDENTLY</strong></h4>
+<p>We are committed to offering the best value to our members, with a risk-free 100% satisfaction guarantee on both your membership and merchandise. If you have questions about your membership or products you've purchased at Costco, please visit the membership counter at your local Costco or <a href="https://customerservice.costco.com/">Contact Customer Service</a>.</p>
+<p>View <a href="https://customerservice.costco.com/app/answers/detail/a_id/1191/kw/return%20policy">Costco's Return Policy</a></p>
+<p>For manufacturer warranty information, please <a href="https://customerservice.costco.com/app/answers/detail/a_id/9"> contact us</a> </p>.
+<p><a href="/concierge.html?ddkey=http:CatalogSearch">Costco Concierge Services | Technical Support</a><br />Free technical support exclusive to Costco members for select electronics and consumer goods.</p>
+<p><a href="https://customerservice.costco.com/app/answers/detail/a_id/6874">How To Return Costco.com Orders</a></p>
+<p>&nbsp;</p>
+										
+							</div>
+						</div>
+					</div>
+			      </div>
+			  
+		    </div>
+			<div class="hidden-xs hidden-sm hidden-md col-lg-4 pdp-espots">
+				<div class="row">
+					<div class="col-lg-8 col-lg-offset-4 col-xl-6 col-xl-offset-6">
+						<div class="row">
+							<!-- BEGIN ContentAreaRwdESpot.jsp Product_Right4 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Product_Right4 -->
+						</div>
+					</div>
+					
+						<div class="col-lg-12">
+							
+<div class="product-right-banners">
+	<div class="row no-gutter">
+		<!-- BEGIN ContentAreaRwdESpot.jsp Product_Right1 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- END ContentAreaRwdESpot.jsp Product_Right1 -->
+	</div>
+	<div class="row no-gutter">
+		<!-- BEGIN ContentAreaRwdESpot.jsp Product_Right2 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><script>
+  try {
+    $(".shipping-statement > a").attr("data-content", $(".shipping-statement > a").attr("data-content").replace("<a href='#pdp-accordion-header-4' data-target='#pdp-accordion-collapse-4' data-toggle='collapse'>Shipping & Returns</a>","Shipping & Returns"));
+  } catch (e) {
+       console.log(e);
+    }
+</script><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- END ContentAreaRwdESpot.jsp Product_Right2 -->
+	</div>
+					
+</div>
+
+						</div>
+					
+				</div>
+			</div>
+			
+		          <div class="panel-body col-xs-12" id="nav-pdp-tab-header-9" role="tabpanel">
+	          	  	<hr class="separate-content">
+	          	  	<h3 class="section-title">Reviews</h3>
+		          	
+				  	<span class="view-more-height-default" data-height="600"></span>
+				  	<div class="product-info-description">
+						<!--  Begin BVDisplayListing.jspf -->
+
+<div id="BVRRContainer"></div>
+
+<!--  End BVDisplayListing.jspf -->
+				  	</div>
+				  </div>
+			   
+		</div>
+	</div>
+</div>
+
+			</div>
+			<div id="product-vendor-content">
+				
+					<div class="col-xs-12">
+						
+						<div id="rr-placement"></div>
+						<!-- BEGIN ContentAreaRwdESpot.jsp Product_Right3 --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!--RR--><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- END ContentAreaRwdESpot.jsp Product_Right3 -->
+					</div>
+				<!-- 
+				isSponsoredProductRecommendationChecked: true 
+			
+				
+					Criteo ENABLED for store id 10301
+				
+				-->
+			 	
+				
+					<div class="col-xs-12">
+						
+							<hr>
+							<!-- This comment is necessary to avoid caching bug --><!-- BEGIN ContentAreaRwdESpot.jsp Criteo_Product_Display_Page_Espot --><!-- Debugging Purpose ... USE_SEARCH_BASED_CATENTRY_ESPOTS Flag Value :  1 --><!-- Debugging Purpose ... Call to RenderRwdESpotContent.jspf from ContentAreaRwdESpot.jsp --><!-- BEGIN - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- Display the actual text STARTS here --><!-- Criteo code-->
+<div data-bi-placement="Criteo_Product_Display_Page_Espot"  id="viewItem-Carousel"></div><!-- Display the actual text ENDS here --><!-- End - CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderRwdESpotContent.jspf --><!-- END ContentAreaRwdESpot.jsp Criteo_Product_Display_Page_Espot -->
+
+	<script>
+		function getCriteoUniversalParams() {
+            var uParams ={
+                scriptSrc : '//dynamic.criteo.com/js/ld/ld.js?a=48266',
+                uat : 'false',
+                account : '48266',
+                retailerVisitorId : COSTCO.COT.getRetailerVisitorId(),
+    			email : COSTCO.COT.getEmail(),
+            }
+            return uParams;
+	    }
+
+		function loadCriteo() {
+			var eventSpecificParams = {
+				event : 'viewItem',
+				pageId : COSTCO.util.isMobile() ? 'viewItem_M' : 'viewItem',
+				item: '100662272',
+				price: 'MTQ5Ljk5',
+				availability: '1',
+			};
+			COSTCO.COT.fireEvent($.extend(eventSpecificParams, getCriteoUniversalParams()));
+		};
+
+		function loadCriteoAddToCartParams(partNumber, price, quantity){
+			var eventSpecificParams = {
+				event : 'addToCart',
+				itemId: partNumber,
+				price: price,
+				quantity: quantity,
+				zipCode : '',
+				storeId : '10301',
+			}
+			COSTCO.COT.fireEvent($.extend(eventSpecificParams, getCriteoUniversalParams()));
+		};
+
+		$('body').bind('costco.cart.item.added', function (event, data) {
+			loadCriteoAddToCartParams(data.partNumber, data.price, data.quantity);
+	    })
+
 		try{
 			if(typeof COSTCO != "undefined" && COSTCO && typeof COSTCO.COT != "undefined" && COSTCO.COT && typeof COSTCO.util != "undefined" && COSTCO.util){
 				loadCriteo();
@@ -10543,16 +9115,195 @@ $(document).ready(function(){
 			}
 		}
 	</script>
-<!-- BEGIN PageInformation.jspf -->
+
+					</div>
+				
+				<div class="col-xs-12">
+					<!-- BEGIN ContentAreaESpot.jsp --><!-- BEGIN ContentAreaESpot.jsp Product_Bottom -->
 
 
-<script>
-	PageAnalyticsInfo = {pageType: 'Home Page',pageName: 'Home Page' }; 
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_Product_Bottom">
+	<div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_Product_Bottom">[Product_Bottom]</div>
+	 
+		<div class="featureAllItems">
+			<ul class="featureItemsTable" >
+				
+			</ul>
+		</div>	
+	
+</div>
+
+<!-- END ContentAreaESpot.jsp -->
+				</div>
+			</div>
+		</div>
+	
+	<!-- START RelatedProducts_UI.jsp --><!-- END RelatedProducts_UI.jsp --><!-- Added to read grocery home page dynamically -->
+		<input type="hidden" id="groceryDefaultHomepage" value="/grocery-household.html" />
+		<input type="hidden" id="parentIdentifier" value="" />
+		<input type="hidden" id="groceryIdentifier" value="false" />
+		<input type="hidden" id="groceryDefaultCategory" value="grocery-household" />
+		
+		<input type="hidden" id="depotCatalogEnableFlag" value="true" />
+		<input type="hidden" id="currentContractIds" value="" />
+		<input type="hidden" id="currentFFMCenterIds" value="" />
+	
+	</div>
+</div>
+<!-- BEGIN AddMembershipNumber.jsp --><script type="text/javascript">
+var AddMembershipNumberStatic ={
+	ADDMEMBERSHIPNUMBER_Title : 'Add Membership Number',
+	CANCEL : 'Cancel',
+	CONTINUE : 'Add Membership Number'
+}
 </script>
 
-<!-- END PageInformation.jspf -->
+<script id='tmpl_addmembernumber_modal' type="html/template">
+		<div>
+			Providing your membership number allows you to purchase exclusive items for members only.
+		</div>
+		<div>
+			
+				<img src="/wcsstore/CostcoGLOBALSAS/images/Widgets/membership/membership-number.svg" style="max-width: 245px;margin: 20px 0px;"/>
+			
+		</div>
+		
+		<label for="membershipNumberToAdd">
+			Membership Number
+		</label>
+		<input class="form-control" type="text" id="membershipNumberToAdd" name="membershipNumberToAdd" maxlength="16"/>
+		
+		<div id="membershipNumberToAddError"  style="display:none" class="error membership_info_text">
+			Please enter a valid membership number.
+		</div>
+</script>
+<!-- END AddMembershipNumber.jsp -->
+
+<script>
+	cpStatic = {
+		imageDomain : 'https://images.costco-static.com/ImageDelivery/imageService',
+		errorDomain : '/wcsstore/CostcoGLOBALSAS/',
+		hideText : 'Hide',
+		showText : 'Show',
+		itemAddErrorText : 'You can only compare up to 4 products at once.  Remove one or more products before adding another to compare.' 
+	}
+</script>
+
+<script id="tmpl_comparable_product" type="html/template">
+<div class="compare-image-container col-xs-3">
+	<img class="img-responsive" src="<&=compareImage&>" alt="<&=alt&>" tabindex="0">
+	<input onclick="COSTCO.compareProducts.toggleItem('<&=partNumber&>');" type="button" value="Remove" class="tertiary remove" tabindex="0">
+</div>
+</script>
+
+<script id="tmpl_empty_product" type="html/template">
+<div class="compare-image-container col-xs-3">
+	<div class="empty-border">
+	</div>
+</div>
+</script>
+
+<div id="compare-box-container" class="footer navbar-fixed-bottom fixed-container closed hide">
+	<div id="compare-box-products" class="">
+		<h3>Compare up to 4 Products <div id="compare-minimize" onclick="COSTCO.compareProducts.toggleMinimize()"><i class="co-chevron-right"></i><span id="minimize-text"></span></div></h3>
+		<div id="compare-error-row" class="col-xs-12 error">
+		</div>
+		<div id="compare-box-row" class="col-xs-9">
+			<div class="row">			
+			</div>
+		</div>
+		<div class="col-xs-3">
+			<div class="compare-buttons-container">
+				<input onclick="COSTCO.compareProducts.compare();" type="button" value="Compare" class="primary" tabindex=-1>
+				<input onclick="COSTCO.compareProducts.clearAll()" type="button" value="Remove All" class="tertiary" tabindex=-1>
+			</div>
+		</div>
+	</div>
+</div><!-- END ProductBody.jsp --><!-- Show Chat Link-->
+	<button type="button" class="btn btn-primary chat-button-v2 hidden">
+		<img class="img-responsive image-box-chat" src="/wcsstore/CostcoGLOBALSAS/images/chat.png" alt="Live Chat Link">Live Chat
+	</button>
+
     </div>
-    <!-- Sticky section --><!-- Footer -->
+    <!-- Sticky section --><!-- BEGIN ProductSticky.jsp --><!-- Start Product Info Tab Navigation-->
+<div id="pdp-sticky-container">
+	<nav id="pdp-sticky-desktop" class="hidden-xs hidden-sm hidden-md">
+		<div id="sticky" class="row">
+			<div id="hidden-sticky">
+				<div id="sticky-image-container" class="col-xs-1">
+					
+				    		<img id="initialProductImageSticky" class="img-responsive" src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1453175-847__1&recipeName=350" 
+				    			onerror="this.onerror='';this.src='/wcsstore/CostcoGLOBALSAS/images/unavailable_350.png';this.alt='No image available';updateViewerIfError();" 
+				    			alt="LG 27" Class FHD IPS FreeSync Monitor"/>
+				    	
+				</div>
+				<div id="sticky-product-container" class="col-xs-7">
+					<div class="product-h1-container">
+						
+								<span class="product-title-sticky">LG 27" Class FHD IPS FreeSync Monitor</span>
+							
+					</div>
+					<div class="bazaar-voice" id="sticky-bazaar"></div>
+					<div class="product-numbers">
+						Item &nbsp;<span data-sku="1453175">1453175</span>
+						
+							| Model &nbsp;<span data-model-number="27MK430H-B.AUS">27MK430H-B.AUS</span>
+						
+					</div>
+				</div>
+				<div class="col-xs-4 sticky-interaction">
+					<div class="math-table">
+						<div id="sticky-price" class="row no-gutter "></div>
+					</div>
+					<div id="sticky-content">
+						<ul>
+							<div id="sticky-qty" class=""></div>
+							<div id="sticky-add-btn" class=""></div>
+						</ul>
+						
+					</div>
+				</div>
+			</div>
+			<ul class="boot-nav-justified col-xs-12 hidden-xs hidden-sm hidden-md tablist" role="tablist">
+				
+				<li class="active in">
+					<a href="#nav-pdp-tab-header-3" class="scrollLink" role="tab" >
+						<h8>Product Details</h8>
+					</a>
+				</li>
+				
+						<li>
+						    <a href="#nav-pdp-tab-header-6" class="scrollLink" role="tab" >
+						    	<h8>Manuals &amp; Guides</h8>
+						    </a>
+						</li>
+					
+					<li>
+				    	<a href="#nav-pdp-tab-header-7" class="scrollLink" role="tab" >
+				       		<h8>Warranty & Services</h8>
+				        </a>
+				    </li>
+				
+					<li>
+						<a href="#nav-pdp-tab-header-8" class="scrollLink" role="tab" >
+							<h8>Shipping & Returns</h8>
+				        </a>
+				    </li>
+				
+						<li>
+						    <a href="#nav-pdp-tab-header-9" class="scrollLink" role="tab" >
+						        <h8>Reviews</h8>
+				       		</a>
+				   		</li>
+				  	
+			</ul>
+		</div>
+	</nav>
+	<div id="pdp-sticky-mobile"></div>
+</div>
+<!-- END ProductSticky.jsp --><!-- Footer -->
 	<div id="footer-section">
 		<!-- START Footer.jsp --><!--BEGIN CitiMembershipMetaData.jsp-->
 <script type="text/javascript">
@@ -11794,5 +10545,5 @@ $('#Home_Ancillary_3').parent().hide()
     </div>
   </div>
 </div>
-  <noscript><img src="https://www.costco.com/akam/11/pixel_6883cba1?a=dD00Nzc2ZWZjZDdhNjg0MThiZTA2NDc4ODAzNGRkNzFjNDZmNzlkYTJjJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript></body>
+  <noscript><img src="https://www.costco.com/akam/11/pixel_6883cab5?a=dD00Nzc2ZWZjZDdhNjg0MThiZTA2NDc4ODAzNGRkNzFjNDZmNzlkYTJjJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript></body>
 </html>
