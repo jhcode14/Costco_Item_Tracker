@@ -16,5 +16,5 @@ else:
 file_object = open("new_LaptopList2.md","w+")
 file_object.write(http.text)
 file_object.close
-print('done')
 
+  
