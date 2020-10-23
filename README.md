@@ -34,3 +34,6 @@ Day 20:
                the code could automatically handle next page without user posting the link of page 2
 - Great idea 2: add spec for products (Q: does all products have specs?) (this is applicable for computers/PC)
 - New Goal: GUI
+
+
+Citation: https://www.daniweb.com/programming/software-development/threads/350266/creating-table-in-python

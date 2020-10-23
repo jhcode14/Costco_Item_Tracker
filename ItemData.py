@@ -1,8 +1,8 @@
 class ItemData:
-    def __init__(self, type1, title, spec, price, link):
+    def __init__(self, type1, title, price, link):
         self.type1 = type1
         self.title = title
-        self.spec = spec
+        #self.spec = spec
         self.price = price
         self.link = link
 
