@@ -6,26 +6,28 @@ Costco_Recorder, inspired by camelcamelcamel.com, is designed to help shoppers t
 
 ## Demo
 ###### Put in a Costco catagory link, i.e. [https://www.costco.com/monitors.html](https://www.costco.com/monitors.html)
-- Note if you would like to get a catagory item list that have more than a page, please repeat this multiple times by saving the recording, then run Costco_Recorder again with the link of next page and load the saved recording.
+- gif1: Analyze new costco link!
 <tabel border = "1" width="100%">
 	<tr>
 		<td><img src="imges/tutorial1-1.gif" width="100%"></td>
 	</tr>
+</tabel>
+- gif2: Save new costco recording!
+<tabel border = "1" width="100%">
 	<tr>
 		<td><img src="imges/tutorial1-2.gif" width="100%"></td>
 	</tr>
+</tabel>
+- gif3: Open old costco recording file and check past items!
+<tabel border = "1" width="100%">
 	<tr>
 		<td><img src="imges/tutorial1-3.gif" width="100%"></td>
 	</tr>
 </tabel>
-###### Save your recording and compare prices few weeks after!
-To Compare, open a old Costco_Recorder documenting file that is previously saved, it will automatically compare old recording with new ones.
+- gif4: Analyze new costco link and open old costco recording file to compare! (Don't forget to save the compared data!)
 <tabel border = "1" width="100%">
 	<tr>
 		<td><img src="imges/tutorial1-4.gif" width="100%"></td>
-	</tr>
-	<tr>
-		<td><img src="imges/tutorial1-5.gif" width="100%"></td>
 	</tr>
 </tabel>
 
