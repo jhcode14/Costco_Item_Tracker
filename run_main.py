@@ -6,13 +6,13 @@ from tkinter.filedialog import askopenfilename
 from tkinter.filedialog import asksaveasfile
 
 from ItemData import ItemData
-from gui1 import *
+from GUI1 import *
 from Data_Analysis import *
 from datetime import date
 
+#For future update
 #import hyperlink
 #https://hyperlink.readthedocs.io/en/latest/
-#Constants----------------------------------------------------
 
 item_header = ['     Name     ', 'Lowest Price ($)', 'Current Price ($)', '                                          Link                                          ']
 item_list = []
@@ -82,6 +82,9 @@ def sortby(tree, col, descending):
         int(not descending)))
 
 def compare(old, new):
+    #Things to improve: if code is handling an costco catagory more than 1 page, "compare" should recognize
+    # that it is not compareing old with new but adding new with new items, this could be achieved by adding
+    # variable that confirms there are nothing duplicated and the date of the recording for two lists equals
     dataC = []
     #day = date.today.shiftime("%m/%d/%y")
     for o in old:
@@ -92,12 +95,12 @@ def compare(old, new):
                 lowest_price = ""
                 if o[2] == "Unavailable":
                     lowest_price = n[2]
-                elif float(o[2].replace(',','')) > float(n[2].replace(',','')):
+                elif float(o[2].replace(',','').replace('$','')) > float(n[2].replace(',','').replace('$','')):
                     lowest_price = n[2]
                 else:
                     lowest_price = o[2]
                 if o[1].strip() != "N/A":
-                    if float(o[1].replace(',','')) < float(lowest_price.replace(',','')):
+                    if float(o[1].replace(',','').replace('$','')) < float(lowest_price.replace(',','').replace('$','')):
                         lowest_price = o[1]
                 dataC.append((n[0], lowest_price, n[2], n[3]))
         if check1 == False:

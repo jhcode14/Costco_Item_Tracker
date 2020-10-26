@@ -1,39 +1,55 @@
-This is a test for attempting to creat a project.
+# Costco_Recorder - Item Tracker for Costco.com
 
-by Jason Hsu
+## Introduction
+
+Costco_Recorder, inspired by camelcamelcamel.com, is designed to help shoppers to kept track of items they are interested on Costco.com.
+
+## Demo
+###### Put in a Costco catagory link, i.e. [https://www.costco.com/monitors.html](https://www.costco.com/monitors.html)
+- Note if you would like to get a catagory item list that have more than a page, please repeat this multiple times by saving the recording, then run Costco_Recorder again with the link of next page and load the saved recording.
+<tabel border = "1" width="100%">
+	<tr>
+		<td><img src="imges/tutorial1-1.gif" width="100%"></td>
+	</tr>
+	<tr>
+		<td><img src="imges/tutorial1-2.gif" width="100%"></td>
+	</tr>
+	<tr>
+		<td><img src="imges/tutorial1-3.gif" width="100%"></td>
+	</tr>
+</tabel>
+###### Save your recording and compare prices few weeks after!
+To Compare, open a old Costco_Recorder documenting file that is previously saved, it will automatically compare old recording with new ones.
+<tabel border = "1" width="100%">
+	<tr>
+		<td><img src="imges/tutorial1-4.gif" width="100%"></td>
+	</tr>
+	<tr>
+		<td><img src="imges/tutorial1-5.gif" width="100%"></td>
+	</tr>
+</tabel>
+
+###### Version Support:
+- [Desktop Computers & PCs](https://www.costco.com/desktops-servers.html)
+- [Monitors & Computer Screens](https://www.costco.com/monitors.html)
+- [Laptops & Notebook Computers](https://www.costco.com/laptops.html)
 
 
-developer log:
-Day 1:
-- Learned how to run Visual Studio Code
-- Review/Learn Python3
-- Learned how to use Request
-- Learned how to debug Request
-- Goal Achieve: Download Costco's website code into my program's textfile!!
 
-Day 2:
-- Must log in to see Member Only Item Price
-- Redirect to focus on one section first
-- Redirect to focus on non-member only items
+## Technologies
+It uses Tkinter as user-interface, and it is written in Python 3.8 along with the help of software such as re, Requests, and Daytime.
 
-Day 3:
-- Started analyzing specific page with lists of proeucts
-- found https://thispointer.com/python-search-strings-in-a-file-and-get-line-numbers-of-lines-containing-the-string/
-- This link demosntrates how to put multiple things in an array of recording text
-- oepned_file.read() gives you single words per speace, not the entire line!
+To use Costco_Recorder, please install these softwares above and download the code with pip!
+if python 3.8 is installed, re, Daytime, and Tkinter should already been installed!
+To install Requests:
+Linux/Mac:
+'''
+pip install requests
 
-Day 4:
-- solidify excell recording list pattern
-    want name(x), link(x), price + date(y) 
-- need a initial program that checks if excel page exists?
+'''
+Windows:
+'''
+python -m pip install requests
+'''
 
 
-Day 20:
-- Major swap by introducing ItemData class to have a specific type of object for the data storage
-- Great idea 1: able to handle product catagories with more than one page of product, which instead of loading page 1, then page 2, then page 3
-               the code could automatically handle next page without user posting the link of page 2
-- Great idea 2: add spec for products (Q: does all products have specs?) (this is applicable for computers/PC)
-- New Goal: GUI
-
-
-Citation: https://www.daniweb.com/programming/software-development/threads/350266/creating-table-in-python

@@ -25,8 +25,7 @@ class Application1(tk.Frame):
         3. To Combine new link with old analyzed files:
             Enter link, press "Analyze" and in the next
             page please go to menu on top left and select
-            old file by pressing "Open"
-            *this function is currently disabled*""")
+            old file by pressing "Open" """)
         self.label.pack()
         """
         self.load = tk.Button(self)

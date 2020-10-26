@@ -1,13 +1,12 @@
 import re
 from ItemData import ItemData
-#import requests
+import requests
 
 #setup values
 Data = [ItemData]
 
 
 def loadAndAnalysis(link):
-    """
     HEADERS = {'user-agent': ('Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0')}
     #  Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0
     http = requests.get(link,timeout=5, headers=HEADERS)
@@ -17,11 +16,10 @@ def loadAndAnalysis(link):
         print('fail')
     else:
         print("didnt work at all")
-    """
-    filename = "wc5.md"
-    #file_object = open(filename,"w+")
-    #file_object.write(http.text)
-    #file_object.close
+    filename = "html_temp.md"
+    file_object = open(filename,"w+")
+    file_object.write(http.text)
+    file_object.close
 
     php1_lines = []
     with open (filename, "rt") as myfile:
@@ -74,27 +72,3 @@ def getTitle():
     return Data[1].getType
 def getData():
     return Data
-"""
-def main():
-    weblink = runtk1.callGUI()
-    if weblink == "readfile":
-        #this should be opening a stored recording...
-        #if file is not found return blank page stating no historical value obtained
-        pass
-    else:
-        print (weblink)
-        #weblinkfile = run(weblink)
-    Analysis("new_LaptopList1.md")
-    #Analysis(weblinkfile)
-    #runtk2.callGUI()
-    loadData(Data[1].getType, Data)
-    
-
-if __name__ == "__main__":
-    main()
-    for a in Data:
-        print(a.getType)
-        print(a.getTitle)
-        print(a.getPrice)
-        print(a.getLink)
-"""
