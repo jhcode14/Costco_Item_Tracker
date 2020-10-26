@@ -1,33 +1,33 @@
-# Costco_Recorder - Item Tracker for Costco.com
+# Costco_Item_Tracker
 
 ## Introduction
 
-Costco_Recorder, inspired by camelcamelcamel.com, is designed to help shoppers to kept track of items they are interested on Costco.com.
+Costco_Item_Tracker, inspired by camelcamelcamel.com, is designed to help shoppers to kept track of items they are interested on Costco.com.
 
 ## Demo
 ###### Put in a Costco catagory link, i.e. [https://www.costco.com/monitors.html](https://www.costco.com/monitors.html)
 - gif1: Analyze new costco link!
 <tabel border = "1" width="100%">
 	<tr>
-		<td><img src="https://github.com/jhcode14/Costco_Recorder/blob/add-jhcode14/tutorial1-1.gif"></td>
+		<td><img src="https://github.com/jhcode14/Costco_Item_Tracker/blob/add-jhcode14/tutorial1-1.gif"></td>
 	</tr>
 </tabel>
 - gif2: Save new costco recording!
 <tabel border = "1" width="100%">
 	<tr>
-		<td><img src="https://github.com/jhcode14/Costco_Recorder/blob/add-jhcode14/tutorial1-2.gif"></td>
+		<td><img src="https://github.com/jhcode14/Costco_Item_Tracker/blob/add-jhcode14/tutorial1-2.gif"></td>
 	</tr>
 </tabel>
 - gif3: Open old costco recording file and check past items!
 <tabel border = "1" width="100%">
 	<tr>
-		<td><img src="https://github.com/jhcode14/Costco_Recorder/blob/add-jhcode14/tutorial1-3.gif"></td>
+		<td><img src="https://github.com/jhcode14/Costco_Item_Tracker/blob/add-jhcode14/tutorial1-3.gif"></td>
 	</tr>
 </tabel>
 - gif4: Analyze new costco link and open old costco recording file to compare! (Don't forget to save the compared data!)
 <tabel border = "1" width="100%">
 	<tr>
-		<td><img src="https://github.com/jhcode14/Costco_Recorder/blob/add-jhcode14/tutorial1-4.gif"></td>
+		<td><img src="https://github.com/jhcode14/Costco_Item_Tracker/blob/add-jhcode14/tutorial1-4.gif"></td>
 	</tr>
 </tabel>
 
@@ -41,7 +41,7 @@ Costco_Recorder, inspired by camelcamelcamel.com, is designed to help shoppers t
 ## Technologies
 It uses Tkinter as user-interface, and it is written in Python 3.8 along with the help of software such as re, Requests, and Daytime.
 
-To use Costco_Recorder, please install these softwares above and download the code with pip!
+To use Costco_Item_Tracker, please install these softwares above and download the code with pip!
 if python 3.8 is installed, re, Daytime, and Tkinter should already been installed!
 To install Requests:
 Linux/Mac:
@@ -53,7 +53,7 @@ Windows:
 ```Bash
 python -m pip install requests
 ```
-After that, simply download Costco_Recorder from Github and run "run_main.py" file!
+After that, simply download Costco_Item_Tracker from Github and run "run_main.py" file!
 
 ### Author
 
