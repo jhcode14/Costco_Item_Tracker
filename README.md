@@ -9,25 +9,25 @@ Costco_Recorder, inspired by camelcamelcamel.com, is designed to help shoppers t
 - gif1: Analyze new costco link!
 <tabel border = "1" width="100%">
 	<tr>
-		<td><img src="imges/tutorial1-1.gif" width="100%"></td>
+		<td><img src="https://github.com/jhcode14/Costco_Recorder/blob/add-jhcode14/tutorial1-1.gif"></td>
 	</tr>
 </tabel>
 - gif2: Save new costco recording!
 <tabel border = "1" width="100%">
 	<tr>
-		<td><img src="imges/tutorial1-2.gif" width="100%"></td>
+		<td><img src="https://github.com/jhcode14/Costco_Recorder/blob/add-jhcode14/tutorial1-2.gif"></td>
 	</tr>
 </tabel>
 - gif3: Open old costco recording file and check past items!
 <tabel border = "1" width="100%">
 	<tr>
-		<td><img src="imges/tutorial1-3.gif" width="100%"></td>
+		<td><img src="https://github.com/jhcode14/Costco_Recorder/blob/add-jhcode14/tutorial1-3.gif"></td>
 	</tr>
 </tabel>
 - gif4: Analyze new costco link and open old costco recording file to compare! (Don't forget to save the compared data!)
 <tabel border = "1" width="100%">
 	<tr>
-		<td><img src="imges/tutorial1-4.gif" width="100%"></td>
+		<td><img src="https://github.com/jhcode14/Costco_Recorder/blob/add-jhcode14/tutorial1-4.gif"></td>
 	</tr>
 </tabel>
 
@@ -45,13 +45,19 @@ To use Costco_Recorder, please install these softwares above and download the co
 if python 3.8 is installed, re, Daytime, and Tkinter should already been installed!
 To install Requests:
 Linux/Mac:
-'''
+```Bash
 pip install requests
 
-'''
+```
 Windows:
-'''
+```Bash
 python -m pip install requests
-'''
+```
 
+### Author
 
+Jason Hsu <jhsucode@gmail.com>
+
+### License
+
+MIT License - https://opensource.org/licenses/MIT
