@@ -54,4 +54,10 @@ Windows:
 python -m pip install requests
 ```
 
+### Author
 
+Jason Hsu <jhsucode@gmail.com>
+
+### License
+
+MIT License - https://opensource.org/licenses/MIT
