@@ -53,6 +53,7 @@ Windows:
 ```Bash
 python -m pip install requests
 ```
+After that, simply download Costco_Recorder from Github and run "run_main.py" file!
 
 ### Author
 
