@@ -6,7 +6,7 @@ Costco_Item_Tracker, inspired by camelcamelcamel.com, is designed to help shoppe
 
 ## Demo
 ###### Put in a Costco catagory link, i.e. [https://www.costco.com/monitors.html](https://www.costco.com/monitors.html)
-- gif1: Analyze new costco link!
+- gif1: Analyze new costco link by copying and pasting the costco catagory link.
 <tabel border = "1" width="100%">
 	<tr>
 		<td><img src="https://github.com/jhcode14/Costco_Item_Tracker/blob/add-jhcode14/tutorial1-1.gif"></td>
