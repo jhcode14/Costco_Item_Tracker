@@ -1,6 +1,7 @@
 import tkinter as tk
 import tkinter.font as tkFont
 import tkinter.ttk as ttk
+
 from tkinter import *
 from tkinter.filedialog import askopenfilename
 from tkinter.filedialog import asksaveasfile
@@ -10,17 +11,20 @@ from GUI1 import *
 from Data_Analysis import *
 from datetime import date
 
-#For future update
+#Future Possibilities
 #import hyperlink
 #https://hyperlink.readthedocs.io/en/latest/
 
+#Variables-----------------
 item_header = ['     Name     ', 'Lowest Price ($)', 'Current Price ($)', '                                          Link                                          ']
 item_list = []
+#Is an older data opened:
 old = False
+#Is a new data loaded:
 op = False
 fileUsing = ""
 cvTitle = ""
-
+#GUI Frame for GUI2 and GUI3-----------------
 class MultiColumnListbox(object):
     def __init__(self):
         self.tree = None
@@ -28,7 +32,7 @@ class MultiColumnListbox(object):
         self._build_tree()
 
     def setup(self):
-        global cvTitle
+        cvTitle = get_cvTitle()
         s = """Currently Viewing: """ + cvTitle + """ || Note: click on header to sort by column
 If you would like to merge past list with new link entered, please do not "save" until you have opened past document"""
         msg = ttk.Label(wraplength="4i", justify="left", anchor="n",
@@ -65,7 +69,7 @@ If you would like to merge past list with new link entered, please do not "save"
                 col_w = int(tkFont.Font().measure(val)*2/3)
                 if self.tree.column(item_header[ix],width=None)<col_w:
                     self.tree.column(item_header[ix], width=col_w)
-
+#Sorting data in GUI-----------------
 def sortby(tree, col, descending):
     """sort tree contents when a column header is clicked on"""
     # grab values to sort
@@ -81,6 +85,7 @@ def sortby(tree, col, descending):
     tree.heading(col, command=lambda col=col: sortby(tree, col, \
         int(not descending)))
 
+#Comparing old data with new data when opening old file with a new data opened-----------------
 def compare(old, new):
     #Things to improve: if code is handling an costco catagory more than 1 page, "compare" should recognize
     # that it is not compareing old with new but adding new with new items, this could be achieved by adding
@@ -113,7 +118,7 @@ def compare(old, new):
         if check2 == False:
             dataC.append((nn[0],nn[1],nn[2],nn[3]))
     return dataC
-
+#Menu Functions-----------------
 def writeFile(arr, FN, t):
     file = open(FN,"w+")
     file.write(t+ " -----LAST: " + date.today().strftime("%m/%d/%y") +"\n")
@@ -125,10 +130,7 @@ def writeFile(arr, FN, t):
             a+=1
         file.write("=====\n")
     file.close
-    
-
 def loadFile(FN):
-    global cvTitle
     arr2 = []
     count = 0
     L1 = ""
@@ -141,7 +143,7 @@ def loadFile(FN):
                 if count ==0:
                     temp_title = line[:line.find(" -----LAST:")]
                     if temp_title != cvTitle:
-                        cvTitle = cvTitle + temp_title
+                        set_cvTitle(get_cvTitle() + temp_title)
                 else:
                     return "BAD FILE"
             elif line.find("=====") != -1:
@@ -164,49 +166,51 @@ def loadFile(FN):
                 pass
             count += 1
     return arr2
-
 def SaveFile():
-    global fileUsing
-    global op
-    global cvTitle
+    fileUsing = get_fileUsing()
+    op = get_op()
+    cvTitle = get_cvTitle()
+    item_list = get_item_list()
     if op != True:
         print("No changes made that needs to be saved")
     elif oldFileOpened("C"):
         writeFile(item_list, fileUsing, cvTitle)
     else:
-        fileUsing = asksaveasfile()
-        if fileUsing == None:
+        set_fileUsing(asksaveasfile())
+        if get_fileUsing() == None:
             return
-        fileUsing = str(fileUsing)
-        fileUsing = fileUsing[fileUsing.find("name='")+6:]
-        fileUsing = fileUsing[0:fileUsing.find("' mode='w'")]
-        writeFile(item_list, fileUsing, cvTitle)
+        naming = str(get_fileUsing())
+        naming = naming[naming.find("name='")+6:]
+        naming = naming[0:naming.find("' mode='w'")]
+        set_fileUsing(naming)
+        print(naming)
+        writeFile(item_list, get_fileUsing(), cvTitle)
 def OpenFile():
-    global fileUsing
-    global op
-    global item_list
+    op = get_op()
+    item_list = get_item_list()
     if oldFileOpened("C"):
         print("Seems like a file is already opened")
     else:
-        fileUsing = askopenfilename()
-        if fileUsing == "":
+        set_fileUsing(askopenfilename())
+        if get_fileUsing() == "":
             return
-        print("Opening file from: " + fileUsing)
+        print("Opening file from: " + get_fileUsing())
         oldFileOpened("T")
-        arr2 = loadFile(fileUsing)
+        arr2 = loadFile(get_fileUsing())
         if op:
-            item_list = compare(arr2, item_list)
+            set_item_list(compare(arr2, item_list))
         else:
-            item_list = arr2
+            set_item_list(arr2)
 def About():
     print("This is Costco Recorder made by Jason Hsu")
-
+#GUI Command Editor-----------------
 def combine_funcs(*funcs):
     def combined_func(*args, **kwargs):
         for f in funcs:
             f(*args, **kwargs)
     return combined_func
 
+#Accessing GUI 2,3-----------------
 def runtk2(opp):
     root = tk.Tk()
     root.title("Costco Recorder List")
@@ -233,7 +237,6 @@ def runtk2(opp):
     #----------------------------------------------------
     root.geometry("1000x500")
     root.mainloop()
-
 def runtk3():
     root2 = tk.Tk()
     root2.title("Costco Recorder List With Old Recording")
@@ -254,6 +257,14 @@ def runtk3():
     root2.geometry("1000x500")
     root2.mainloop()
 
+#Accessing variables---------------
+def get_item_list():
+    return item_list
+def set_item_list(items):
+    global item_list
+    item_list = items
+def get_old():
+    return old
 def oldFileOpened(x):
     global old
     if x == "T":
@@ -266,6 +277,23 @@ def oldFileOpened(x):
         return old
     else:
         return
+def get_op():
+    return op
+def set_op(boo):
+    global op
+    op = boo
+def get_fileUsing():
+    return fileUsing
+def set_fileUsing(text):
+    global fileUsing
+    fileUsing = text
+def get_cvTitle():
+    return cvTitle
+def set_cvTitle(title):
+    global cvTitle
+    cvTitle = title
+
+#Main---------------
 if __name__ == "__main__":
     weblink = runtk1.callGUI()
     if weblink == "readfile":
@@ -284,4 +312,3 @@ if __name__ == "__main__":
     runtk2(op)
     if oldFileOpened("C"):
         runtk3()
-

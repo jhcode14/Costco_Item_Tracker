@@ -1,9 +1,10 @@
 import tkinter as tk
+"""
 from tkinter import *
 from tkinter.filedialog import askopenfilename
 from tkinter import ttk
 from tkinter.ttk import *
-
+"""
 #gui 1 when requesting for new link or view old recordings
 class Application1(tk.Frame):
     def __init__(self, master=None):
